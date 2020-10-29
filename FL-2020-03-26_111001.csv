@@ -1,0 +1,2001 @@
+EventDate,Case_,Died,County,Jurisdiction,Travel_related,Age,ObjectId,Contact,EDvisit,Gender,Hospitalized,Origin
+1584057600000,1585008000000,NA,Dade,FL resident,Unknown,33,1,Yes,Unknown,Male,Unknown,NA
+1584144000000,1585008000000,NA,Clay,FL resident,Yes,30,2,Yes,No,Male,No,BAHAMAS; FL
+1584057600000,1584576000000,NA,Broward,FL resident,Yes,44,3,No,Yes,Male,No,NY
+1583971200000,1584835200000,NA,Seminole,FL resident,Yes,56,4,No,No,Male,No,AL
+1583539200000,1584403200000,NA,Palm Beach,FL resident,Yes,69,5,No,Yes,Male,No,CO
+1584576000000,1584921600000,NA,Lake,FL resident,Yes,68,6,No,Yes,Male,Yes,FL; OH
+1584576000000,1585094400000,NA,Broward,FL resident,No,28,7,Yes,Yes,Female,Yes,NA
+1584748800000,1584748800000,NA,Dade,FL resident,Yes,54,8,NA,Unknown,Female,Unknown,NY
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,22,9,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Santa Rosa,FL resident,Unknown,73,10,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,33,11,NA,Unknown,Male,Unknown,NA
+1584403200000,1584835200000,NA,Broward,FL resident,No,32,12,Unknown,Yes,Male,No,NA
+1584489600000,1584921600000,NA,Broward,FL resident,Yes,73,13,Yes,Yes,Female,Yes,NY
+1584403200000,1584576000000,NA,Dade,Non-FL resident,Unknown,64,14,Unknown,Yes,Male,No,NA
+1583884800000,1584576000000,NA,Dade,Non-FL resident,Unknown,60,15,Unknown,NA,Female,Unknown,NA
+1584144000000,1584576000000,NA,Pinellas,FL resident,Yes,24,16,No,Yes,Male,No,NY
+1584748800000,1585008000000,NA,Broward,FL resident,Unknown,46,17,Yes,NA,Male,No,NA
+1583971200000,1585008000000,NA,Orange,FL resident,No,42,18,No,NA,Female,Yes,NA
+1583193600000,1584057600000,NA,Clay,FL resident,No,57,19,Yes,Yes,Male,Yes,NA
+1584057600000,1584144000000,NA,Clay,FL resident,No,55,20,Yes,No,Female,No,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,33,21,NA,Unknown,Male,Unknown,NA
+1583366400000,1584403200000,NA,Lee,FL resident,No,79,22,Yes,Yes,Male,Yes,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,56,23,Unknown,Unknown,Male,Unknown,NA
+1583884800000,1584662400000,NA,Dade,Non-FL resident,No,46,24,Yes,Yes,Male,Yes,NA
+1583971200000,1584489600000,NA,Duval,FL resident,No,83,25,No,NA,Male,Yes,NA
+1582761600000,1584230400000,NA,Broward,FL resident,Yes,20,26,Yes,No,Female,No,Ireland
+1584576000000,1584835200000,NA,Broward,FL resident,No,50,27,Yes,No,Female,No,NA
+1584230400000,1585008000000,NA,Dade,FL resident,Unknown,21,28,No,Unknown,Male,No,NA
+1584057600000,1585008000000,NA,Collier,FL resident,No,48,29,Yes,No,Female,No,NA
+1584230400000,1584748800000,NA,Dade,FL resident,Yes,27,30,Yes,Yes,Female,No,FL; NY
+1584748800000,1584835200000,NA,Dade,FL resident,Yes,76,31,Yes,Unknown,Female,Yes,SPAIN
+1584748800000,1584748800000,NA,Dade,FL resident,Unknown,81,32,Yes,Unknown,Male,Unknown,NA
+1584921600000,1585008000000,NA,Dade,FL resident,Unknown,78,33,NA,Unknown,Male,Unknown,NA
+1583971200000,1585094400000,NA,Broward,FL resident,No,78,34,Yes,Yes,Female,Yes,NA
+1584230400000,1584835200000,NA,Lee,FL resident,No,90,35,Yes,NA,Female,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,50,36,NA,Unknown,Female,Unknown,NA
+1584316800000,1585008000000,NA,Dade,FL resident,No,94,37,NA,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Collier,FL resident,Unknown,89,38,NA,Unknown,Female,Unknown,NA
+1584403200000,1584748800000,NA,Broward,FL resident,Yes,59,39,Yes,No,Male,No,Spain
+1583798400000,1584489600000,NA,Broward,FL resident,Yes,21,40,Yes,No,Male,No,Spain
+1583884800000,1585008000000,NA,Palm Beach,FL resident,Yes,32,41,Yes,No,Male,No,CO; FL; TX
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,64,42,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Sumter,FL resident,Yes,78,43,No,Yes,Male,Yes,OR
+1585008000000,1585008000000,NA,Palm Beach,FL resident,Unknown,69,44,NA,Unknown,Female,Unknown,NA
+1584144000000,1584835200000,NA,Broward,FL resident,No,43,45,Yes,Yes,Female,Yes,NA
+1584403200000,1584576000000,NA,Broward,FL resident,Unknown,29,46,No,Yes,Male,No,NA
+1584316800000,1584662400000,NA,Pinellas,Non-FL resident,Yes,59,47,Yes,Yes,Female,Yes,Bahamas; Ecuador; FL
+1584576000000,1584921600000,NA,Pinellas,Non-FL resident,Yes,62,48,Yes,Yes,Male,Yes,BAHAMAS; ECUADOR; FL
+1584316800000,1584662400000,NA,Polk,FL resident,No,49,49,No,Yes,Female,Yes,NA
+1583884800000,1584576000000,NA,Sarasota,FL resident,No,53,50,Yes,No,Male,No,NA
+1584230400000,1584489600000,NA,Broward,FL resident,Yes,29,51,No,Yes,Male,No,NJ; NY
+1584748800000,1584835200000,NA,Dade,FL resident,No,57,52,Yes,NA,Male,NA,NA
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,78,53,NA,Unknown,Female,Unknown,NA
+1584144000000,1584921600000,NA,Highlands,FL resident,Yes,56,54,Unknown,NA,Female,No,CARIBBEAN; FL
+1585180800000,1585180800000,NA,Alachua,FL resident,Unknown,53,55,NA,Unknown,Male,Unknown,NA
+1584144000000,1584662400000,NA,Orange,FL resident,Yes,82,56,Unknown,Yes,Female,Yes,NY
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,67,57,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,26,58,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,63,59,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,22,60,NA,Unknown,Male,Unknown,NA
+1584662400000,1584748800000,NA,Broward,FL resident,Yes,19,61,Yes,Unknown,Female,Unknown,Ireland
+1584489600000,1585094400000,NA,Dade,FL resident,No,28,62,No,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,37,63,NA,Unknown,Male,Unknown,NA
+1583971200000,1584489600000,NA,Dade,FL resident,Yes,48,64,No,Yes,Female,No,France
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,37,65,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Palm Beach,FL resident,Unknown,53,66,NA,Unknown,Female,Unknown,NA
+1583712000000,1584489600000,NA,Dade,FL resident,No,38,67,No,Yes,Male,Yes,NA
+1584230400000,1584489600000,NA,Orange,FL resident,No,56,68,No,Yes,Male,Yes,NA
+1584489600000,1585094400000,NA,Pinellas,FL resident,No,61,69,Yes,Yes,Male,No,NA
+1584921600000,1585008000000,NA,Dade,FL resident,Unknown,56,70,NA,Unknown,Male,Unknown,NA
+1584144000000,1584662400000,NA,Broward,FL resident,Yes,69,71,Yes,No,Male,No,IL
+1583452800000,1584144000000,NA,Seminole,FL resident,No,47,72,No,Yes,Male,Yes,NA
+1583884800000,1584662400000,NA,Hillsborough,FL resident,No,33,73,Yes,NA,Male,No,NA
+1584835200000,1584835200000,NA,Duval,FL resident,Unknown,54,74,NA,Unknown,Female,Unknown,NA
+1583884800000,1584662400000,NA,Hillsborough,FL resident,Yes,28,75,Yes,No,Male,No,KY
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,36,76,NA,Unknown,Male,Unknown,NA
+1584662400000,1584748800000,NA,Dade,FL resident,Unknown,25,77,NA,Unknown,Female,Unknown,NA
+1584489600000,1584662400000,NA,Dade,FL resident,Unknown,25,78,NA,Unknown,Female,No,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,40,79,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,24,80,NA,Unknown,Female,Unknown,NA
+1583712000000,1584576000000,NA,Orange,FL resident,No,55,81,No,Yes,Female,Yes,NA
+1584748800000,1584748800000,NA,Alachua,FL resident,Unknown,23,82,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,31,83,NA,Unknown,Unknown,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,40,84,NA,Unknown,Female,Unknown,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,55,85,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Orange,Non-FL resident,Unknown,35,86,NA,Unknown,Male,Unknown,NA
+1584403200000,1584835200000,NA,Broward,FL resident,Yes,29,87,Yes,Yes,Male,No,CA; FL
+1585180800000,1585180800000,NA,Orange,FL resident,Unknown,36,88,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,73,89,NA,Unknown,Male,Unknown,NA
+1552953600000,1585094400000,NA,Broward,FL resident,Yes,44,90,Yes,Yes,Male,No,TX
+1584748800000,1585008000000,NA,Dade,FL resident,No,70,91,Unknown,Yes,Male,Yes,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,33,92,NA,Unknown,Female,Unknown,NA
+1583884800000,1584835200000,NA,Dade,FL resident,Yes,26,93,Unknown,No,Male,No,FL; NY
+1583539200000,1584489600000,NA,Dade,FL resident,No,67,94,No,Yes,Male,Yes,NA
+1584576000000,1584835200000,NA,Osceola,FL resident,Yes,28,95,No,No,Female,No,NY
+1584316800000,1584316800000,NA,Palm Beach,FL resident,No,66,96,Unknown,No,Male,No,NA
+1584144000000,1584144000000,NA,Dade,FL resident,Yes,20,97,Yes,Yes,Male,No,Spain
+1584144000000,1584144000000,NA,Dade,FL resident,Yes,18,98,Yes,Unknown,Male,No,Spain
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,51,99,NA,Unknown,Male,Unknown,NA
+1584144000000,1584403200000,NA,Dade,FL resident,No,60,100,No,Yes,Male,Yes,NA
+1584403200000,1584835200000,NA,Broward,FL resident,No,24,101,Yes,No,Male,No,NA
+1584230400000,1584748800000,NA,Dade,FL resident,Yes,61,102,Yes,Yes,Female,No,SPAIN
+1584835200000,1585094400000,NA,Santa Rosa,FL resident,No,74,103,No,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,St. Johns,FL resident,No,72,104,No,Yes,Female,Yes,NA
+1583712000000,1584489600000,NA,Palm Beach,FL resident,Yes,26,105,No,Yes,Male,No,Bahamas; FL
+1584057600000,1584835200000,NA,Dade,FL resident,Unknown,28,106,No,Yes,Female,No,NA
+1584489600000,1585094400000,NA,Broward,FL resident,No,53,107,Unknown,No,Male,No,NA
+1585094400000,1585094400000,NA,Lake,FL resident,Unknown,48,108,Unknown,Unknown,Female,Unknown,NA
+1583971200000,1584057600000,NA,Osceola,FL resident,No,54,109,No,Yes,Male,No,NA
+1583625600000,1584489600000,NA,Manatee,FL resident,No,61,110,Yes,NA,Male,No,NA
+1582848000000,1584144000000,NA,Manatee,FL resident,No,67,111,Yes,Yes,Female,Yes,NA
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,90,112,NA,NA,Female,NA,NA
+1583193600000,1584748800000,NA,Pinellas,FL resident,No,72,113,No,Yes,Male,Yes,NA
+1584662400000,1585180800000,NA,Sumter,FL resident,Unknown,92,114,NA,NA,Male,No,NA
+1583020800000,1583971200000,NA,Lee,Non-FL resident,Yes,57,115,Unknown,No,Male,No,FL; FRANCE; UNITED KINGDOM
+1584230400000,1584748800000,NA,Citrus,FL resident,No,63,116,No,Yes,Male,Yes,NA
+1584316800000,1584316800000,NA,Palm Beach,FL resident,Yes,76,117,Unknown,Unknown,Female,Yes,France
+1583971200000,1584921600000,NA,Flagler,FL resident,Yes,68,118,Unknown,No,Male,No,EUROPE
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,72,119,NA,Unknown,Male,Unknown,NA
+1584748800000,1584748800000,NA,Palm Beach,FL resident,Unknown,19,120,Unknown,Unknown,Female,Unknown,NA
+1584576000000,1585094400000,NA,Broward,FL resident,No,59,121,Unknown,No,Male,Yes,NA
+1584835200000,1584921600000,NA,Duval,Non-FL resident,Yes,65,122,Unknown,NA,Unknown,Unknown,GA
+1584230400000,1585008000000,NA,Collier,FL resident,No,44,123,No,No,Male,No,NA
+1584057600000,1584230400000,NA,Broward,FL resident,Unknown,63,124,Unknown,Yes,Female,Yes,NA
+1584662400000,1585094400000,NA,Broward,FL resident,Unknown,53,125,Yes,Unknown,Female,Unknown,NA
+1585094400000,1585180800000,NA,Hillsborough,FL resident,Unknown,53,126,NA,NA,Male,NA,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,39,127,NA,Unknown,Male,Unknown,NA
+1584316800000,1585094400000,NA,Broward,FL resident,Yes,23,128,Unknown,No,Male,No,IRELAND
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,40,129,NA,Unknown,Unknown,Unknown,NA
+1584489600000,1585094400000,NA,Broward,FL resident,Unknown,47,130,Unknown,Yes,Female,No,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,20,131,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Lee,FL resident,Unknown,39,132,Unknown,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,39,133,NA,Unknown,Female,Unknown,NA
+1584144000000,1584748800000,NA,Broward,FL resident,Unknown,37,134,Unknown,Unknown,Male,Unknown,NA
+1584835200000,1584921600000,NA,Duval,FL resident,Unknown,87,135,NA,Unknown,Female,Unknown,NA
+1584316800000,1584835200000,NA,Manatee,FL resident,No,64,136,No,NA,Female,Yes,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,59,137,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,78,138,NA,Unknown,Male,Unknown,NA
+1584057600000,1584403200000,NA,Broward,FL resident,Yes,19,139,Yes,No,Female,No,Spain
+1583971200000,1584748800000,NA,Broward,FL resident,No,44,140,Yes,No,Male,No,NA
+1583712000000,1584921600000,NA,Walton,Non-FL resident,Yes,79,141,Yes,Yes,Male,No,FL; MI
+1585094400000,1585094400000,NA,Duval,FL resident,Unknown,52,142,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,23,143,NA,Unknown,Male,Unknown,NA
+1583712000000,1584835200000,NA,Lee,FL resident,No,75,144,Yes,No,Male,No,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,37,145,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Orange,Non-FL resident,Unknown,31,146,NA,Unknown,Male,Unknown,NA
+1584921600000,1584921600000,NA,Escambia,FL resident,No,76,147,No,No,Male,No,NA
+1584230400000,1584662400000,NA,Dade,FL resident,Yes,48,148,Unknown,Unknown,Male,Unknown,FL; TN
+1583971200000,1585008000000,NA,Broward,FL resident,Unknown,38,149,Unknown,Yes,Male,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,29,150,NA,Unknown,Female,Unknown,NA
+1584316800000,1584921600000,NA,Hillsborough,FL resident,Unknown,56,151,No,Unknown,Female,No,NA
+1584489600000,1584748800000,NA,Sumter,FL resident,Yes,67,152,Yes,No,Female,Yes,BELIZE; FL; HONDURAS; MEXICO
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,25,153,NA,Unknown,Male,Unknown,NA
+1584230400000,1584489600000,NA,Broward,FL resident,Yes,21,154,Yes,Yes,Female,No,Spain
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,39,155,NA,Unknown,Male,Unknown,NA
+1584316800000,1584576000000,NA,Okaloosa,FL resident,No,44,156,Unknown,No,Female,No,NA
+1584230400000,1584748800000,NA,Lee,FL resident,No,59,157,No,No,Female,No,NA
+1584057600000,1584921600000,NA,Orange,FL resident,No,52,158,No,Yes,Female,No,NA
+1583798400000,1584057600000,NA,Sarasota,Non-FL resident,No,70,159,No,Yes,Male,Yes,NA
+1584057600000,1584403200000,NA,Palm Beach,FL resident,Yes,19,160,Yes,Unknown,Female,No,TN
+1584316800000,1584921600000,NA,Orange,FL resident,No,30,161,No,No,Male,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,23,162,NA,Unknown,Female,Unknown,NA
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,50,163,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,29,164,NA,Unknown,Male,Unknown,NA
+1583280000000,1583884800000,NA,Collier,FL resident,Yes,68,165,Yes,No,Female,No,Egypt
+1584230400000,1584921600000,NA,Broward,FL resident,No,68,166,No,Yes,Male,No,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,56,167,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,30,168,NA,Unknown,Female,Unknown,NA
+1584403200000,1584576000000,NA,Broward,FL resident,No,93,169,Yes,Yes,Female,Unknown,NA
+1584489600000,1584921600000,NA,Hillsborough,FL resident,No,30,170,No,Yes,Female,No,NA
+1584230400000,1584835200000,NA,Pinellas,FL resident,No,37,171,No,Yes,Male,Yes,NA
+1584144000000,1584748800000,NA,Hillsborough,FL resident,Yes,57,172,No,Yes,Male,No,LA
+1583712000000,1584921600000,NA,Hillsborough,FL resident,Unknown,41,173,No,Yes,Male,No,NA
+1584748800000,1584921600000,NA,Broward,FL resident,No,51,174,Yes,Yes,Male,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,47,175,NA,Unknown,Female,Unknown,NA
+1583452800000,1584144000000,NA,Broward,Non-FL resident,Yes,41,176,Unknown,Yes,Male,Yes,Spain
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,34,177,NA,Unknown,Male,Unknown,NA
+1584835200000,1585008000000,NA,Dade,FL resident,Unknown,32,178,NA,NA,Female,NA,NA
+1585008000000,1585094400000,NA,Dade,FL resident,Unknown,51,179,NA,Unknown,Female,Unknown,NA
+1584403200000,1584748800000,Yes,Pinellas,FL resident,No,67,180,No,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,65,181,NA,Unknown,Male,Unknown,NA
+1582675200000,1585094400000,NA,Broward,FL resident,Yes,24,182,No,No,Female,No,FL; MOROCCO; PORTUGAL; SPAIN
+1584921600000,1584921600000,NA,Sumter,FL resident,Yes,75,183,Yes,Yes,Male,Yes,FL; PANAMA
+1584576000000,1584921600000,NA,Sumter,FL resident,Yes,75,184,Yes,Yes,Female,No,FL; PANAMA
+1584230400000,1584576000000,NA,Osceola,FL resident,Yes,50,185,Yes,No,Male,No,Europe
+1584489600000,1585008000000,NA,Seminole,FL resident,No,27,186,Unknown,Yes,Female,No,NA
+1583193600000,1583280000000,NA,Palm Beach,Not diagnosed/isolated in FL,Yes,71,187,Yes,NA,Female,No,Japan
+1583971200000,1584835200000,NA,St. Johns,FL resident,No,76,188,No,Yes,Male,Yes,NA
+1585008000000,1585008000000,NA,Lake,FL resident,Unknown,84,189,Unknown,Unknown,Female,Unknown,NA
+1584403200000,1585094400000,NA,Osceola,FL resident,Unknown,46,190,Yes,NA,Male,NA,NA
+1585094400000,1585094400000,NA,Lake,FL resident,Unknown,85,191,Unknown,Unknown,Male,Unknown,NA
+1584230400000,1584835200000,NA,Sumter,FL resident,Unknown,75,192,No,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,74,193,NA,Unknown,Male,Unknown,NA
+1583884800000,1584316800000,NA,Collier,FL resident,No,49,194,No,No,Female,No,NA
+1584489600000,1584748800000,NA,Hillsborough,FL resident,Yes,38,195,No,Yes,Female,Yes,FL; NJ; NY
+1583971200000,1585008000000,NA,Osceola,FL resident,No,40,196,Yes,No,Female,No,NA
+1583884800000,1584748800000,NA,Broward,FL resident,Yes,67,197,No,Yes,Female,No,DOMINICAN REPUBLIC
+1585180800000,1585180800000,NA,Duval,FL resident,Unknown,70,198,NA,Unknown,Female,Unknown,NA
+1584144000000,1584403200000,NA,Broward,FL resident,No,19,199,Yes,Yes,Female,No,NA
+1583884800000,1584316800000,NA,Broward,FL resident,Yes,51,200,Yes,Yes,Female,No,COLOMBIA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,83,201,NA,Unknown,Male,Unknown,NA
+1584057600000,1584576000000,NA,Pinellas,FL resident,Yes,63,202,Yes,No,Female,No,FL; NY
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,48,203,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Escambia,FL resident,Unknown,52,204,NA,Unknown,Female,Unknown,NA
+1584403200000,1584748800000,NA,Sumter,FL resident,Yes,71,205,Yes,No,Male,No,BELIZE; FL; HONDURAS; MEXICO
+1583884800000,1584230400000,NA,Broward,FL resident,Yes,19,206,Yes,No,Female,No,Ireland
+1583798400000,1584835200000,NA,Dade,FL resident,Yes,45,207,No,Yes,Male,No,NY
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,53,208,NA,Unknown,Male,Unknown,NA
+1584662400000,1585094400000,NA,Hillsborough,FL resident,No,53,209,No,No,Female,Yes,NA
+1585008000000,1585094400000,NA,Dade,FL resident,Unknown,11,210,NA,Unknown,Male,Unknown,NA
+1583798400000,1584835200000,NA,Hillsborough,FL resident,Unknown,38,211,No,Yes,Male,No,NA
+1583798400000,1585094400000,NA,Pinellas,FL resident,Yes,65,212,No,Yes,Male,Yes,NY
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,50,213,NA,Unknown,Male,Unknown,NA
+1584748800000,1584748800000,NA,Dade,FL resident,Unknown,35,214,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,58,215,NA,Unknown,Female,Unknown,NA
+1584403200000,1584403200000,NA,Dade,FL resident,No,50,216,Yes,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,Dade,FL resident,No,84,217,NA,NA,Male,NA,NA
+1583798400000,1584576000000,NA,Collier,FL resident,Yes,33,218,Unknown,No,Male,No,Spain
+1584316800000,1584921600000,NA,St. Lucie,FL resident,No,26,219,No,No,Female,No,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,44,220,Unknown,Yes,Male,No,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Yes,53,221,No,Unknown,Male,Unknown,UNITED KINGDOM
+1584576000000,1584835200000,NA,Dade,FL resident,No,34,222,Unknown,Unknown,Female,No,NA
+1584144000000,1584835200000,NA,Collier,FL resident,Yes,80,223,No,No,Male,No,NY
+1584921600000,1584921600000,NA,Palm Beach,FL resident,Unknown,80,224,NA,Unknown,Female,Unknown,NA
+1584144000000,1585008000000,NA,Broward,FL resident,Unknown,22,225,Unknown,Yes,Female,No,NA
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,56,226,NA,Unknown,Female,Unknown,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,61,227,NA,Unknown,Female,Unknown,NA
+1583798400000,1584489600000,NA,Palm Beach,FL resident,Yes,41,228,No,No,Male,No,NV; UT; WY
+1584316800000,1585008000000,NA,Hillsborough,FL resident,Yes,52,229,No,Unknown,Male,Unknown,ECUADOR; FL
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,47,230,NA,Unknown,Male,Unknown,NA
+1584921600000,1585008000000,NA,Walton,Non-FL resident,Yes,72,231,Yes,No,Male,No,FL; IN
+1584057600000,1584662400000,NA,Duval,FL resident,Yes,57,232,NA,No,Female,No,IRELAND
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,27,233,NA,Unknown,Female,Unknown,NA
+1584576000000,1585094400000,NA,Sarasota,FL resident,No,62,234,No,Yes,Male,No,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,45,235,NA,NA,Male,Yes,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,72,236,NA,Unknown,Male,Unknown,NA
+1584230400000,1584748800000,NA,Dade,FL resident,Unknown,22,237,No,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,69,238,NA,Unknown,Male,Unknown,NA
+1584662400000,1584835200000,NA,Dade,FL resident,No,38,239,Unknown,Yes,Male,No,NA
+1585180800000,1585180800000,NA,Seminole,FL resident,Unknown,29,240,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Broward,Non-FL resident,Unknown,42,241,NA,Unknown,Male,Unknown,NA
+1584057600000,1584835200000,NA,Dade,FL resident,Unknown,31,242,Unknown,Unknown,Male,No,NA
+1584835200000,1584921600000,NA,Hillsborough,FL resident,No,36,243,Yes,No,Female,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,28,244,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,74,245,NA,Unknown,Female,Unknown,NA
+1584489600000,1584835200000,NA,Brevard,FL resident,No,32,246,Yes,No,Female,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,48,247,NA,Unknown,Female,Unknown,NA
+1581292800000,1584921600000,NA,Marion,FL resident,Yes,40,248,No,No,Female,No,UNITED KINGDOM
+1585008000000,1585008000000,NA,Alachua,FL resident,Unknown,72,249,NA,Unknown,Female,Unknown,NA
+1584748800000,1585094400000,NA,Broward,FL resident,No,51,250,Yes,Yes,Female,No,NA
+1584662400000,1584662400000,NA,Duval,FL resident,Unknown,68,251,NA,Unknown,Female,Unknown,NA
+1584144000000,1584576000000,NA,Hillsborough,FL resident,Yes,27,252,Yes,No,Female,No,CA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,43,253,NA,Unknown,Male,Unknown,NA
+1584144000000,1584576000000,NA,Hernando,FL resident,No,68,254,No,No,Male,No,NA
+1584489600000,1584921600000,NA,Broward,FL resident,No,43,255,Yes,No,Male,No,NA
+1585008000000,1585008000000,NA,Orange,FL resident,Unknown,40,256,NA,Unknown,Male,Unknown,NA
+1584403200000,1585094400000,NA,Monroe,FL resident,No,75,257,NA,NA,Male,Yes,NA
+1584057600000,1584835200000,NA,Hillsborough,FL resident,No,35,258,Yes,No,Male,No,NA
+1584230400000,1584835200000,NA,Dade,FL resident,Unknown,83,259,Yes,Yes,Male,Yes,NA
+1584403200000,1585008000000,NA,Hillsborough,FL resident,No,32,260,Unknown,Yes,Female,No,NA
+1584921600000,1584921600000,NA,Orange,FL resident,Yes,21,261,Yes,Unknown,Female,Unknown,FL; Spain
+1584662400000,1584921600000,NA,Dade,FL resident,Unknown,63,262,Yes,Yes,Female,No,NA
+1584057600000,1584748800000,NA,Broward,FL resident,Yes,72,263,Yes,No,Female,No,FRANCE
+1584316800000,1584921600000,NA,Broward,FL resident,Yes,71,264,Yes,No,Male,No,France
+1583971200000,1584489600000,NA,Dade,Non-FL resident,Yes,80,265,No,Yes,Female,No,ISRAEL; VENEZUELA
+1584316800000,1584835200000,NA,Dade,FL resident,Unknown,26,266,Unknown,Unknown,Male,Unknown,NA
+1584489600000,1585008000000,NA,Hernando,FL resident,Yes,29,267,Yes,No,Female,No,CO
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,24,268,NA,Unknown,Female,Unknown,NA
+1584316800000,1584662400000,NA,Broward,FL resident,Yes,65,269,Yes,Yes,Male,Yes,PERU
+1583971200000,1584748800000,NA,Alachua,FL resident,Yes,23,270,No,Unknown,Female,Unknown,FL; NY
+1583539200000,1585008000000,NA,Okaloosa,FL resident,No,70,271,Yes,No,Female,No,NA
+1583366400000,1584748800000,NA,Okaloosa,FL resident,No,66,272,Yes,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,55,273,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,36,274,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,53,275,NA,Unknown,Female,Unknown,NA
+1584403200000,1584403200000,NA,Dade,FL resident,Yes,32,276,No,Yes,Male,No,Colombia; NY; Saudi Arabia
+1583280000000,1584316800000,Yes,Manatee,FL resident,No,70,277,No,Yes,Male,Yes,NA
+1584057600000,1584662400000,NA,Pasco,FL resident,Yes,69,278,Unknown,No,Male,No,FRANCE; PORTUGAL; SWITZERLAND
+1583884800000,1585008000000,NA,Pasco,FL resident,Yes,68,279,Unknown,No,Female,No,FRANCE; PORTUGAL; SWITZERLAND
+1584921600000,1585094400000,NA,Escambia,FL resident,No,63,280,No,No,Male,No,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,49,281,Unknown,Unknown,Male,Unknown,NA
+1584316800000,1585094400000,NA,Dade,FL resident,Unknown,78,282,Unknown,Yes,Male,Yes,NA
+1583539200000,1584576000000,NA,Dade,FL resident,No,68,283,Unknown,Yes,Female,Yes,NA
+1584230400000,1584921600000,NA,Broward,FL resident,No,46,284,Unknown,Yes,Male,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,37,285,NA,Unknown,Male,Unknown,NA
+1584144000000,1584576000000,NA,Dade,FL resident,Yes,20,286,Yes,Yes,Female,No,SPAIN
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,22,287,NA,Unknown,Female,Unknown,NA
+1584403200000,1584748800000,NA,Leon,Non-FL resident,Yes,36,288,Unknown,Yes,Male,No,GA
+1584144000000,1584748800000,NA,Broward,FL resident,Yes,27,289,Yes,NA,Male,No,FL; UT
+1584835200000,1584921600000,NA,Broward,Non-FL resident,Unknown,94,290,NA,Unknown,Male,Unknown,NA
+1583971200000,1585094400000,NA,Santa Rosa,FL resident,Yes,76,291,Yes,NA,Male,No,AL; GA
+1583971200000,1585008000000,NA,St. Johns,FL resident,Yes,34,292,Yes,No,Male,No,NY
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,35,293,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,32,294,NA,Unknown,Male,Unknown,NA
+1584748800000,1584748800000,NA,Dade,FL resident,No,75,295,Unknown,Unknown,Female,Unknown,NA
+1583366400000,1584576000000,NA,Palm Beach,FL resident,Yes,56,296,Yes,Yes,Female,No,Egypt; Germany
+1584921600000,1584921600000,NA,Broward,FL resident,Unknown,82,297,Yes,NA,Female,No,NA
+1584489600000,1584748800000,NA,Dade,FL resident,No,55,298,Yes,No,Female,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,57,299,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,27,300,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,41,301,NA,Unknown,Male,Unknown,NA
+1584835200000,1584921600000,NA,Escambia,FL resident,No,32,302,Unknown,NA,Male,No,NA
+1583539200000,1584748800000,NA,Volusia,FL resident,Yes,23,303,Unknown,No,Female,No,Spain
+1582588800000,1583193600000,NA,Hillsborough,Non-FL resident,Yes,22,304,Yes,No,Female,No,Italy
+1583884800000,1584144000000,NA,Broward,FL resident,No,59,305,Yes,No,Male,Yes,NA
+1584144000000,1584403200000,NA,Broward,FL resident,No,57,306,Yes,No,Female,No,NA
+1583366400000,1583798400000,NA,Alachua,Non-FL resident,Yes,68,307,No,No,Female,Yes,GA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,50,308,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,59,309,NA,Unknown,Female,Unknown,NA
+1584316800000,1584403200000,NA,Dade,FL resident,Unknown,88,310,Unknown,Unknown,Male,Yes,NA
+1584316800000,1584748800000,NA,Broward,FL resident,Yes,20,311,Yes,Yes,Female,No,Spain
+1583452800000,1584835200000,NA,St. Johns,FL resident,No,33,312,No,Yes,Male,Yes,NA
+1584662400000,1584662400000,NA,Dade,FL resident,Unknown,69,313,NA,NA,Male,NA,NA
+1584748800000,1585008000000,NA,Broward,FL resident,Yes,64,314,Unknown,Yes,Female,No,HAITI
+1584230400000,1584489600000,NA,Dade,FL resident,Unknown,36,315,Yes,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,27,316,NA,Unknown,Female,Unknown,NA
+1584230400000,1584835200000,NA,Broward,Non-FL resident,Yes,56,317,Yes,Yes,Female,Yes,NY
+1584230400000,1584835200000,NA,Palm Beach,FL resident,No,35,318,No,No,Female,No,NA
+1584144000000,1584748800000,NA,Dade,FL resident,Unknown,33,319,Unknown,Yes,Male,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,46,320,NA,Unknown,Male,Unknown,NA
+1584230400000,1584489600000,NA,Seminole,FL resident,Yes,57,321,Yes,Yes,Female,No,Egypt
+1584835200000,1584835200000,NA,Dade,Non-FL resident,Yes,32,322,Unknown,Unknown,Male,Unknown,FL; NY; UNITED KINGDOM
+1585094400000,1585094400000,NA,Broward,FL resident,Yes,44,323,Unknown,No,Male,No,EUROPE; FL; FRANCE; SWITZERLAND
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,77,324,NA,Unknown,Female,Unknown,NA
+1584057600000,1584489600000,NA,Broward,FL resident,Yes,20,325,No,No,Male,No,Brazil; Spain
+1583020800000,1584057600000,NA,Alachua,FL resident,Yes,24,326,No,No,Male,No,Portugal
+1584835200000,1585094400000,NA,Nassau,FL resident,No,50,327,Yes,NA,Male,No,NA
+1583798400000,1584144000000,NA,Broward,FL resident,Yes,20,328,Yes,Yes,Female,Yes,Ireland
+1584576000000,1585094400000,NA,Osceola,FL resident,Unknown,24,329,No,No,Male,No,NA
+1584489600000,1584662400000,NA,Citrus,FL resident,Yes,58,330,Unknown,NA,Female,Unknown,Honduras
+1584489600000,1584489600000,NA,Dade,FL resident,Unknown,20,331,NA,Unknown,Female,Unknown,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,41,332,NA,NA,Female,Yes,NA
+1585180800000,1585180800000,NA,Alachua,FL resident,Unknown,59,333,NA,Unknown,Female,Unknown,NA
+1584316800000,1584489600000,NA,Broward,FL resident,No,65,334,No,Yes,Male,Yes,NA
+1583971200000,1584403200000,NA,Hillsborough,FL resident,Yes,38,335,Yes,Unknown,Female,No,BOSNIA AND HERZEGOVINA; GERMANY
+1584316800000,1584835200000,NA,Dade,FL resident,No,58,336,Unknown,No,Male,No,NA
+1584489600000,1584662400000,NA,Hillsborough,FL resident,No,60,337,Yes,NA,Female,No,NA
+1585008000000,1585094400000,NA,Dade,FL resident,Unknown,57,338,NA,Unknown,Male,Unknown,NA
+1583712000000,1584835200000,NA,Lee,FL resident,Unknown,75,339,No,No,Female,No,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,46,340,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,35,341,NA,NA,Male,NA,NA
+1583280000000,1584403200000,NA,Seminole,Non-FL resident,Yes,70,342,Unknown,Yes,Male,Yes,NY
+1584662400000,1584921600000,NA,Broward,FL resident,Yes,76,343,Yes,Yes,Female,Yes,PUERTO RICO
+1583884800000,1584748800000,NA,Broward,FL resident,Yes,52,344,Yes,NA,Male,No,Egypt
+1584748800000,1585008000000,NA,Dade,FL resident,Yes,68,345,No,Unknown,Female,Yes,FL; ISRAEL
+1584316800000,1584921600000,NA,Hillsborough,FL resident,No,16,346,Yes,No,Male,No,NA
+1584230400000,1584921600000,NA,Seminole,FL resident,Yes,22,347,Unknown,No,Female,No,EUROPE
+1584489600000,1584662400000,NA,Broward,FL resident,No,35,348,Yes,Yes,Female,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,45,349,NA,Unknown,Unknown,Unknown,NA
+1584230400000,1585094400000,NA,Volusia,FL resident,No,68,350,No,Yes,Male,Yes,NA
+1584576000000,1584835200000,NA,Flagler,FL resident,No,45,351,Unknown,No,Male,No,NA
+1584489600000,1584835200000,NA,Broward,FL resident,Unknown,67,352,No,Yes,Male,No,NA
+1584230400000,1584662400000,NA,Collier,FL resident,No,54,353,Yes,No,Female,No,NA
+1584403200000,1584921600000,NA,Martin,FL resident,No,69,354,No,No,Female,No,NA
+1583712000000,1584835200000,NA,St. Johns,FL resident,No,50,355,Yes,No,Male,No,NA
+1584921600000,1585180800000,NA,Hernando,FL resident,Unknown,33,356,NA,NA,Female,NA,NA
+1584489600000,1584835200000,NA,Dade,FL resident,Unknown,36,357,Unknown,Unknown,Male,No,NA
+1583712000000,1585008000000,NA,Leon,FL resident,Yes,31,358,No,Yes,Female,No,UNITED KINGDOM
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,31,359,NA,Unknown,Female,Unknown,NA
+1584230400000,1584748800000,NA,Lake,FL resident,No,48,360,No,Yes,Male,Yes,NA
+1584316800000,1584748800000,NA,Manatee,FL resident,No,65,361,Yes,Unknown,Male,No,NA
+1584144000000,1584662400000,NA,Manatee,FL resident,No,63,362,Yes,NA,Female,Yes,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,57,363,NA,Unknown,Male,Unknown,NA
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,56,364,NA,Unknown,Female,Unknown,NA
+1584403200000,1584921600000,NA,Broward,FL resident,No,71,365,Yes,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,56,366,NA,Unknown,Male,Unknown,NA
+1584489600000,1585008000000,NA,Dade,FL resident,No,46,367,Unknown,Yes,Male,No,NA
+1584576000000,1584921600000,NA,St. Johns,FL resident,No,21,368,Yes,No,Male,No,NA
+1584748800000,1584835200000,NA,St. Johns,FL resident,No,22,369,Yes,No,Male,No,NA
+1584489600000,1584662400000,NA,St. Johns,FL resident,No,47,370,Yes,Yes,Female,No,NA
+1584316800000,1584662400000,NA,St. Johns,FL resident,No,47,371,Yes,Yes,Male,No,NA
+1585094400000,1585180800000,NA,Broward,FL resident,Unknown,49,372,Yes,Yes,Female,No,NA
+1584662400000,1584662400000,NA,Palm Beach,FL resident,No,69,373,No,Unknown,Male,Unknown,NA
+1585094400000,1585180800000,NA,Broward,FL resident,Unknown,45,374,NA,Unknown,Female,Unknown,NA
+1584489600000,1584835200000,NA,Alachua,FL resident,No,37,375,No,Unknown,Female,Unknown,NA
+1583539200000,1584921600000,NA,Volusia,FL resident,No,54,376,Unknown,No,Male,No,NA
+1584835200000,1584921600000,NA,Hillsborough,FL resident,Unknown,6,377,Yes,NA,Male,NA,NA
+1582243200000,1583712000000,NA,Okaloosa,FL resident,Yes,61,378,Yes,No,Female,No,CA; Mexico
+1583798400000,1584662400000,NA,Broward,FL resident,No,77,379,Unknown,Yes,Male,Yes,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,56,380,NA,Unknown,Female,Unknown,NA
+1584921600000,1584921600000,NA,Duval,FL resident,Unknown,71,381,NA,Unknown,Male,Unknown,NA
+1584057600000,1584489600000,NA,Leon,FL resident,Yes,58,382,Yes,Yes,Female,Yes,GA
+1584057600000,1584489600000,NA,Leon,FL resident,Yes,55,383,Yes,Yes,Male,No,GA
+1583798400000,1584576000000,NA,Dade,FL resident,Unknown,64,384,Unknown,Yes,Female,No,NA
+1584489600000,1585008000000,NA,Broward,Non-FL resident,Yes,46,385,Yes,Yes,Female,No,ECUADOR; NY
+1585008000000,1585008000000,NA,Hillsborough,FL resident,Yes,57,386,Unknown,Yes,Female,Yes,NY
+1584576000000,1585094400000,NA,Broward,FL resident,Unknown,65,387,Yes,Yes,Male,Yes,NA
+1584230400000,1584576000000,NA,Broward,FL resident,Yes,47,388,No,No,Female,No,Ireland; Spain; United Kingdom
+1584403200000,1585094400000,NA,Broward,FL resident,No,59,389,Yes,No,Female,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,66,390,NA,Unknown,Male,Unknown,NA
+1583712000000,1584662400000,NA,Sarasota,FL resident,No,76,391,Yes,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,62,392,NA,Unknown,Male,Unknown,NA
+1583539200000,1584230400000,NA,Dade,FL resident,Yes,43,393,Yes,Yes,Male,No,UT
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,40,394,NA,Unknown,Male,Unknown,NA
+1584230400000,1584748800000,NA,Dade,FL resident,No,49,395,No,Unknown,Male,Unknown,NA
+1583366400000,1584748800000,NA,St. Johns,FL resident,No,49,396,No,No,Male,No,NA
+1584748800000,1584748800000,NA,Hernando,FL resident,No,73,397,No,No,Female,No,NA
+1584662400000,1585094400000,NA,Clay,FL resident,Unknown,77,398,Unknown,No,Male,Yes,NA
+1584316800000,1584748800000,NA,Osceola,FL resident,Unknown,36,399,NA,No,Female,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,67,400,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Hillsborough,FL resident,Unknown,39,401,NA,Unknown,Female,Unknown,NA
+1583798400000,1584921600000,NA,Collier,Non-FL resident,Yes,50,402,Unknown,No,Male,No,NY
+1584662400000,1584921600000,NA,Manatee,FL resident,Yes,66,403,Yes,Yes,Male,No,FL; FRANCE
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,28,404,NA,Unknown,Female,Unknown,NA
+1584230400000,1585094400000,NA,Collier,FL resident,No,93,405,Yes,NA,Male,No,NA
+1583366400000,1584057600000,NA,Broward,FL resident,No,27,406,Yes,Yes,Female,No,NA
+1583539200000,1584144000000,NA,Palm Beach,FL resident,Yes,59,407,Yes,Yes,Female,Yes,NY
+1584230400000,1585094400000,NA,Collier,FL resident,No,81,408,NA,NA,Female,No,NA
+1583625600000,1584576000000,NA,Alachua,FL resident,Yes,42,409,No,No,Female,No,Dominican Republic; FL
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,22,410,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Sumter,FL resident,Yes,74,411,Unknown,Yes,Female,Yes,FL; TURKS AND CAICOS
+1583971200000,1584662400000,NA,Pinellas,FL resident,Yes,58,412,Yes,No,Male,No,ISRAEL
+1584144000000,1584403200000,NA,Dade,FL resident,Yes,37,413,Yes,Yes,Male,No,DC; FL
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,66,414,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,35,415,NA,Unknown,Male,Unknown,NA
+1583107200000,1583884800000,NA,Pasco,FL resident,No,46,416,Yes,NA,Male,No,NA
+1584835200000,1584921600000,NA,Duval,Non-FL resident,Yes,69,417,Unknown,NA,Unknown,Unknown,GA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,28,418,NA,Unknown,Female,Unknown,NA
+1584921600000,1585008000000,NA,Broward,FL resident,Unknown,61,419,NA,Yes,Male,No,NA
+1584316800000,1584835200000,NA,Collier,FL resident,No,75,420,No,Yes,Female,Yes,NA
+1583971200000,1584489600000,NA,Dade,FL resident,Yes,38,421,NA,NA,Male,NA,Brazil
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,76,422,NA,Unknown,Female,Unknown,NA
+1584662400000,1584835200000,NA,Escambia,FL resident,Yes,48,423,Unknown,NA,Male,No,FL; LA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,48,424,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,68,425,NA,Unknown,Female,Unknown,NA
+1583884800000,1584144000000,NA,Broward,FL resident,Yes,19,426,Yes,No,Male,No,Ireland
+1584230400000,1584316800000,Yes,Broward,FL resident,Unknown,77,427,Yes,Yes,Male,Yes,NA
+1584403200000,1584835200000,NA,Broward,FL resident,Yes,36,428,Unknown,Yes,Female,Unknown,FRANCE; UNITED KINGDOM
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,37,429,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,82,430,NA,Unknown,Male,Unknown,NA
+1584230400000,1584835200000,NA,Broward,FL resident,No,73,431,Yes,Yes,Male,No,NA
+1584576000000,1584748800000,NA,Broward,FL resident,No,77,432,Unknown,Yes,Female,No,NA
+1584144000000,1585094400000,NA,Lee,FL resident,Unknown,56,433,No,No,Male,No,NA
+1583712000000,1584316800000,NA,Pinellas,FL resident,No,58,434,Yes,Yes,Male,Yes,NA
+1583625600000,1584489600000,NA,Pinellas,FL resident,No,32,435,Yes,No,Male,No,NA
+1584144000000,1584835200000,NA,Dade,FL resident,No,59,436,Yes,Yes,Male,No,NA
+1584835200000,1584921600000,NA,Dade,FL resident,Unknown,33,437,NA,NA,Female,NA,NA
+1583798400000,1585008000000,NA,Palm Beach,FL resident,No,73,438,No,No,Male,No,NA
+1582675200000,1583712000000,NA,Broward,FL resident,No,67,439,Yes,No,Male,No,NA
+1584230400000,1585094400000,NA,Clay,FL resident,No,49,440,No,Yes,Male,Yes,NA
+1583884800000,1584489600000,NA,Collier,Non-FL resident,Yes,64,441,No,Yes,Male,No,FL; HI
+1583539200000,1584316800000,NA,Duval,FL resident,No,91,442,Yes,Yes,Female,Yes,NA
+1585008000000,1585094400000,NA,Duval,FL resident,Unknown,50,443,NA,NA,Unknown,NA,NA
+1584835200000,1584921600000,NA,Duval,FL resident,Yes,36,444,NA,Yes,Female,No,FL; GA
+1584316800000,1584835200000,NA,Broward,FL resident,No,43,445,Unknown,Yes,Female,No,NA
+1583020800000,1584057600000,NA,Sarasota,FL resident,Yes,50,446,No,Yes,Female,Yes,NY
+1584403200000,1585008000000,NA,Orange,FL resident,Unknown,33,447,Unknown,No,Male,No,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,58,448,NA,Unknown,Male,Unknown,NA
+1584316800000,1584835200000,NA,Dade,FL resident,Unknown,47,449,NA,Unknown,Female,Unknown,NA
+1584230400000,1585008000000,NA,Dade,FL resident,Unknown,50,450,Yes,Unknown,Female,Unknown,NA
+1584316800000,1585008000000,NA,Dade,FL resident,Yes,43,451,No,No,Female,No,BRAZIL
+1583884800000,1585008000000,NA,Broward,FL resident,Yes,51,452,Unknown,Yes,Male,No,DOMINICAN REPUBLIC
+1584921600000,1584921600000,NA,Hillsborough,FL resident,No,79,453,Yes,Unknown,Female,Yes,NA
+1583971200000,1584662400000,NA,Broward,FL resident,No,71,454,Yes,Yes,Female,No,NA
+1584144000000,1584662400000,NA,Hillsborough,FL resident,Yes,72,455,Unknown,Yes,Female,No,FL; TN
+1584921600000,1584921600000,NA,Collier,FL resident,Unknown,47,456,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,67,457,NA,Unknown,Male,Unknown,NA
+1583884800000,1584576000000,NA,Pinellas,FL resident,Yes,62,458,No,Yes,Female,No,ID
+1584748800000,1584835200000,NA,Dade,FL resident,Yes,67,459,Yes,Yes,Male,No,NY
+1583539200000,1584057600000,NA,Palm Beach,FL resident,Yes,74,460,No,Yes,Male,Yes,Belgium; FL
+1583712000000,1584576000000,NA,Hillsborough,FL resident,Yes,31,461,Yes,NA,Male,No,NY
+1584489600000,1584662400000,NA,Hillsborough,FL resident,No,32,462,Yes,NA,Female,No,NA
+1585008000000,1585008000000,NA,Orange,FL resident,Unknown,38,463,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Palm Beach,FL resident,Unknown,29,464,NA,Unknown,Unknown,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,35,465,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,31,466,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,45,467,NA,Unknown,Male,Unknown,NA
+1582416000000,1584662400000,NA,Dade,FL resident,Yes,51,468,Yes,Unknown,Female,No,Italy
+1584835200000,1584835200000,NA,Broward,FL resident,No,75,469,Unknown,Yes,Female,No,NA
+1584057600000,1585094400000,NA,Orange,FL resident,No,47,470,No,Yes,Female,Yes,NA
+1584835200000,1584835200000,NA,Broward,FL resident,No,57,471,Yes,No,Male,No,NA
+1583539200000,1584144000000,NA,Palm Beach,FL resident,Yes,65,472,Yes,Yes,Male,Yes,NY
+1584057600000,1585094400000,NA,Martin,FL resident,Unknown,47,473,Unknown,Yes,Female,No,NA
+1584489600000,1584921600000,NA,Broward,FL resident,Yes,66,474,Yes,No,Male,No,NY
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,72,475,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,75,476,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,97,477,NA,Unknown,Male,Unknown,NA
+1583020800000,1583539200000,NA,Broward,FL resident,No,75,478,Yes,Yes,Male,No,NA
+1584230400000,1584835200000,NA,Broward,FL resident,Unknown,50,479,Unknown,Yes,Male,No,NA
+1584057600000,1584662400000,NA,Palm Beach,FL resident,Yes,81,480,Yes,Yes,Male,Yes,NY
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,32,481,NA,Unknown,Male,Unknown,NA
+1584576000000,1584576000000,NA,Palm Beach,Non-FL resident,Yes,73,482,Unknown,Unknown,Male,Unknown,NJ
+1583884800000,1584403200000,NA,Duval,Non-FL resident,Yes,25,483,Unknown,Yes,Female,No,Australia; FL; TN
+1584230400000,1584576000000,NA,Osceola,FL resident,Yes,48,484,Yes,No,Female,No,Europe
+1584230400000,1584748800000,NA,Highlands,FL resident,No,78,485,No,Yes,Female,Yes,NA
+1584316800000,1584662400000,NA,Broward,FL resident,Yes,19,486,Yes,Yes,Male,No,NY
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,63,487,NA,Unknown,Male,Unknown,NA
+1584144000000,1584403200000,NA,Dade,FL resident,Unknown,73,488,Yes,Yes,Male,No,NA
+1582588800000,1585008000000,NA,Manatee,FL resident,Yes,52,489,No,NA,Female,No,NY
+1584316800000,1585008000000,NA,Orange,FL resident,No,63,490,No,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,62,491,NA,Unknown,Female,Unknown,NA
+1584921600000,1584921600000,NA,Lake,FL resident,Yes,70,492,No,NA,Female,Yes,FL; NY
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,41,493,NA,Unknown,Female,Unknown,NA
+1583884800000,1585094400000,NA,Martin,FL resident,Yes,75,494,Unknown,No,Male,No,AZ; FL; GA
+1582243200000,1584835200000,NA,Brevard,FL resident,Yes,64,495,No,Yes,Male,Yes,HAITI
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,29,496,NA,Unknown,Male,Unknown,NA
+1584662400000,1584921600000,NA,Broward,FL resident,No,34,497,Yes,Yes,Female,No,NA
+1584489600000,1584748800000,NA,Osceola,FL resident,Yes,57,498,No,No,Female,No,NY
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,61,499,NA,Unknown,Unknown,Unknown,NA
+1584403200000,1584748800000,NA,Dade,FL resident,Unknown,39,500,Yes,Unknown,Male,Unknown,NA
+1584403200000,1584489600000,NA,Orange,FL resident,No,46,501,Unknown,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Indian River,FL resident,Unknown,81,502,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,51,503,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,71,504,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,71,505,NA,Unknown,Female,Unknown,NA
+1583625600000,1585008000000,NA,Manatee,FL resident,No,60,506,No,NA,Female,Yes,NA
+1584835200000,1584835200000,NA,Broward,FL resident,Yes,71,507,Unknown,Yes,Male,Yes,MI; UNKNOWN
+1583712000000,1585008000000,NA,Walton,Non-FL resident,Yes,38,508,Unknown,No,Female,No,CA
+1583884800000,1584403200000,NA,Dade,FL resident,Yes,45,509,No,Yes,Female,No,NY
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,50,510,NA,Unknown,Female,Unknown,NA
+1584316800000,1584316800000,NA,Dade,FL resident,Unknown,30,511,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,56,512,Unknown,Unknown,Female,Unknown,NA
+1584748800000,1584748800000,NA,Dade,Non-FL resident,Yes,48,513,Yes,No,Male,No,NY
+1584230400000,1584662400000,NA,Broward,FL resident,No,59,514,Yes,Yes,Male,No,NA
+1584921600000,1584921600000,NA,Broward,FL resident,No,30,515,Yes,No,Male,No,NA
+1583625600000,1584489600000,NA,Broward,FL resident,No,57,516,No,Yes,Male,Yes,NA
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,18,517,NA,Unknown,Male,Unknown,NA
+1583971200000,1584144000000,NA,Dade,FL resident,Yes,29,518,No,Yes,Male,No,MA
+1584403200000,1584835200000,NA,Dade,FL resident,No,52,519,No,No,Male,No,NA
+1583884800000,1585094400000,NA,Broward,FL resident,No,59,520,Yes,Yes,Female,Yes,NA
+1584144000000,1584748800000,NA,Hillsborough,FL resident,No,21,521,Yes,Yes,Female,No,NA
+1584144000000,1584576000000,NA,Dade,FL resident,Yes,30,522,Unknown,Yes,Male,Unknown,FL; NY
+1584748800000,1584748800000,NA,Orange,FL resident,Unknown,37,523,No,Unknown,Male,No,NA
+1584230400000,1584921600000,NA,Palm Beach,FL resident,No,55,524,No,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,44,525,NA,Unknown,Female,Unknown,NA
+1584230400000,1584835200000,NA,Broward,Non-FL resident,No,84,526,Yes,Yes,Female,No,NA
+1583884800000,1585094400000,NA,Palm Beach,FL resident,No,20,527,Unknown,No,Male,No,NA
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,18,528,NA,Unknown,Female,Unknown,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,23,529,Unknown,Yes,Male,No,NA
+1584057600000,1584662400000,NA,Dade,FL resident,Unknown,35,530,Yes,Yes,Female,No,NA
+1584489600000,1584835200000,NA,Pasco,FL resident,No,41,531,No,No,Female,No,NA
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,35,532,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,49,533,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Palm Beach,FL resident,Unknown,26,534,NA,Unknown,Female,Unknown,NA
+1583971200000,1584835200000,NA,Citrus,FL resident,No,60,535,Yes,NA,Female,No,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,61,536,NA,Unknown,Female,Unknown,NA
+1583712000000,1584057600000,NA,Orange,FL resident,No,48,537,Yes,Yes,Female,No,NA
+1582848000000,1583884800000,NA,Collier,FL resident,Yes,64,538,Unknown,No,Female,No,Egypt
+1584748800000,1584748800000,NA,Seminole,FL resident,Unknown,44,539,Unknown,NA,Male,No,NA
+1584489600000,1584748800000,NA,Hillsborough,FL resident,Yes,26,540,No,NA,Female,No,FL; NY
+1583193600000,1583884800000,NA,Collier,FL resident,Yes,73,541,Unknown,No,Male,No,Egypt
+1584835200000,1585008000000,NA,Orange,FL resident,Unknown,121,542,NA,NA,Female,NA,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,41,543,NA,Unknown,Female,Unknown,NA
+1582588800000,1584230400000,NA,Broward,FL resident,Yes,30,544,Yes,No,Male,No,FL; GA
+1584576000000,1584662400000,NA,Alachua,FL resident,No,47,545,Yes,NA,Female,No,NA
+1578096000000,1583539200000,NA,Broward,FL resident,Yes,65,546,No,Yes,Male,Yes,Cayman Islands
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,50,547,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Hillsborough,FL resident,Unknown,21,548,Unknown,No,Male,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,60,549,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,40,550,NA,Unknown,Male,Unknown,NA
+1584662400000,1584921600000,NA,Broward,Non-FL resident,Yes,18,551,Yes,No,Male,No,CARIBBEAN
+1584230400000,1584662400000,NA,Duval,FL resident,No,84,552,No,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,31,553,NA,Unknown,Male,Unknown,NA
+1583712000000,1585094400000,NA,Dade,FL resident,Yes,64,554,Unknown,Yes,Male,Yes,NY
+1584403200000,1584748800000,NA,Osceola,FL resident,Yes,64,555,Unknown,No,Female,No,SPAIN
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,34,556,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,52,557,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Osceola,FL resident,Unknown,52,558,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Dade,FL resident,No,33,559,Unknown,Yes,Male,No,NA
+1584403200000,1584835200000,NA,Desoto,FL resident,No,32,560,Yes,No,Male,No,NA
+1584489600000,1585008000000,Yes,Orange,FL resident,No,90,561,NA,Yes,Male,Yes,NA
+1584662400000,1585094400000,NA,Sumter,FL resident,Yes,49,562,Yes,NA,Female,No,CA; FL; PANAMA; TX
+1584748800000,1585094400000,NA,Sumter,FL resident,Yes,18,563,Yes,NA,Female,No,CA; FL; PANAMA; TX
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,28,564,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,79,565,NA,Unknown,Female,Unknown,NA
+1584316800000,1585094400000,NA,Hillsborough,FL resident,Yes,38,566,No,NA,Male,No,NY
+1583452800000,1584835200000,NA,Broward,FL resident,Unknown,56,567,Unknown,Yes,Female,Yes,NA
+1584576000000,1584748800000,NA,Broward,FL resident,No,35,568,Yes,Yes,Male,No,NA
+1583971200000,1584489600000,NA,Broward,FL resident,No,43,569,No,Yes,Female,No,NA
+1584403200000,1584748800000,NA,Hillsborough,FL resident,Yes,62,570,No,NA,Male,No,FL; NY
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,67,571,NA,Unknown,Male,Unknown,NA
+1583712000000,1584835200000,NA,St. Lucie,FL resident,Yes,77,572,No,No,Male,No,Caribbean
+1584403200000,1584748800000,NA,Broward,FL resident,No,55,573,Unknown,Yes,Male,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,64,574,NA,Unknown,Male,Unknown,NA
+1584316800000,1585008000000,NA,Broward,FL resident,Yes,33,575,No,Yes,Male,No,CO
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,61,576,NA,NA,Male,NA,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,47,577,NA,Unknown,Unknown,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,30,578,NA,Unknown,Female,Unknown,NA
+1584230400000,1585008000000,NA,Dade,FL resident,Yes,19,579,NA,Yes,Male,Unknown,SPAIN
+1583539200000,1584835200000,Yes,Pasco,FL resident,Yes,71,580,Yes,Yes,Female,Yes,VA
+1584748800000,1584748800000,NA,Lake,FL resident,Yes,80,581,No,No,Male,No,BELIZE; CARIBBEAN; FL
+1584489600000,1584921600000,NA,Hillsborough,FL resident,No,36,582,No,NA,Male,No,NA
+1584316800000,1584835200000,NA,Pinellas,FL resident,Yes,26,583,No,No,Male,No,Bahamas; FL
+1584662400000,1585094400000,NA,Volusia,FL resident,No,42,584,No,Yes,Female,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,35,585,NA,Unknown,Female,Unknown,NA
+1584403200000,1585094400000,NA,Palm Beach,FL resident,No,68,586,No,No,Male,No,NA
+1584057600000,1584662400000,NA,Hillsborough,FL resident,No,30,587,Unknown,Yes,Female,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,28,588,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Nassau,FL resident,Unknown,73,589,NA,Unknown,Female,Unknown,NA
+1584835200000,1585094400000,NA,Collier,FL resident,No,32,590,No,Yes,Male,No,NA
+1585008000000,1585094400000,NA,Dade,FL resident,Unknown,49,591,NA,Unknown,Male,Unknown,NA
+1584144000000,1585008000000,NA,Sarasota,Non-FL resident,Yes,49,592,Unknown,No,Male,No,CO
+1585094400000,1585094400000,NA,Manatee,FL resident,Unknown,47,593,Unknown,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,79,594,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,56,595,NA,Unknown,Male,Unknown,NA
+1584921600000,1585094400000,NA,Collier,FL resident,No,68,596,NA,NA,Male,Unknown,NA
+1584921600000,1584921600000,NA,Dade,FL resident,No,25,597,No,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Sarasota,FL resident,Unknown,74,598,NA,Unknown,Female,Unknown,NA
+1583798400000,1584576000000,NA,Indian River,FL resident,Yes,77,599,No,Yes,Female,No,FL; MO
+1584230400000,1585094400000,NA,Polk,FL resident,Unknown,63,600,NA,NA,Female,No,NA
+1584316800000,1585008000000,NA,Broward,FL resident,Unknown,21,601,Unknown,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,34,602,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,42,603,NA,Unknown,Unknown,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,24,604,NA,Unknown,Unknown,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,68,605,NA,Unknown,Male,Unknown,NA
+1583366400000,1584576000000,NA,Dade,FL resident,No,50,606,Yes,Unknown,Male,No,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,70,607,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,75,608,NA,Unknown,Female,Unknown,NA
+1583971200000,1584748800000,NA,Dade,Non-FL resident,Yes,23,609,No,Yes,Female,No,NY
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,26,610,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,59,611,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,42,612,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,37,613,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,No,37,614,No,No,Male,No,NA
+1584403200000,1584662400000,NA,Okaloosa,FL resident,Yes,47,615,No,No,Female,No,NJ; NY
+1584403200000,1584835200000,NA,Broward,FL resident,Unknown,26,616,Yes,NA,Female,NA,NA
+1583798400000,1584662400000,NA,Dade,FL resident,No,28,617,Yes,No,Female,No,NA
+1584057600000,1584662400000,NA,Dade,FL resident,Yes,21,618,Unknown,Yes,Male,No,Spain
+1584662400000,1585008000000,NA,Lee,FL resident,No,40,619,Unknown,No,Male,No,NA
+1584921600000,1585008000000,NA,Broward,FL resident,Unknown,64,620,NA,Unknown,Male,Unknown,NA
+1584057600000,1585008000000,NA,Dade,FL resident,Yes,49,621,Unknown,Yes,Male,No,CO; FL; TX
+1583798400000,1584921600000,NA,Walton,Non-FL resident,No,78,622,Yes,No,Male,No,NA
+1584576000000,1585094400000,NA,Osceola,FL resident,Unknown,58,623,No,No,Female,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,28,624,NA,Unknown,Male,Unknown,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,62,625,NA,Unknown,Female,Unknown,NA
+1583712000000,1584489600000,NA,Walton,Non-FL resident,Yes,77,626,Yes,No,Female,Yes,FL; MI
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,66,627,NA,Unknown,Female,Unknown,NA
+1583539200000,1583971200000,NA,Broward,FL resident,Yes,61,628,Unknown,Yes,Male,No,Italy
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,68,629,Unknown,Yes,Male,Yes,NA
+1583712000000,1584835200000,NA,Pasco,FL resident,Yes,50,630,Yes,No,Male,No,Mexico
+1583884800000,1584403200000,NA,Dade,FL resident,Yes,50,631,No,Yes,Female,No,SPAIN
+1584835200000,1585008000000,NA,Escambia,FL resident,No,49,632,Yes,No,Female,No,NA
+1584748800000,1585008000000,NA,Escambia,FL resident,No,56,633,Yes,No,Male,No,NA
+1584403200000,1585008000000,NA,Lee,Non-FL resident,Yes,36,634,No,No,Male,No,CA
+1584144000000,1584835200000,NA,Lee,FL resident,Yes,21,635,No,Yes,Female,No,SPAIN
+1583798400000,1584144000000,NA,Manatee,FL resident,No,62,636,Yes,No,Female,No,NA
+1582329600000,1583107200000,NA,Manatee,FL resident,No,63,637,Yes,Yes,Male,Yes,NA
+1583020800000,1585008000000,NA,Broward,FL resident,Unknown,59,638,Yes,Yes,Female,No,NA
+1583884800000,1584662400000,NA,Hillsborough,FL resident,No,54,639,No,Yes,Male,No,NA
+1583884800000,1584835200000,NA,Dade,FL resident,Yes,57,640,Unknown,No,Female,No,NY
+1584316800000,1585008000000,NA,Monroe,FL resident,No,52,641,No,NA,Female,No,NA
+1585094400000,1585094400000,NA,Pasco,FL resident,Yes,57,642,Unknown,NA,Female,Yes,NJ
+1583884800000,1584921600000,NA,Indian River,FL resident,Yes,56,643,Yes,No,Male,No,CO
+1584057600000,1584662400000,NA,Broward,FL resident,Unknown,70,644,Yes,Yes,Male,No,NA
+1584489600000,1585094400000,NA,Broward,FL resident,No,73,645,Unknown,No,Male,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,45,646,NA,Unknown,Female,Unknown,NA
+1584489600000,1584835200000,NA,Dade,FL resident,No,34,647,Yes,Yes,Female,No,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,58,648,NA,Unknown,Female,Unknown,NA
+1583798400000,1584576000000,NA,Dade,FL resident,Yes,51,649,Unknown,No,Male,No,SPAIN; WA
+1584403200000,1584662400000,NA,Dade,FL resident,Yes,75,650,Yes,Yes,Male,No,EUROPE; FRANCE; SPAIN
+1583971200000,1584316800000,NA,Dade,Non-FL resident,Yes,66,651,No,Yes,Male,Yes,FL; NY
+1584230400000,1585008000000,NA,Santa Rosa,FL resident,Yes,73,652,No,Yes,Male,Yes,NY
+1583971200000,1584144000000,NA,Seminole,FL resident,Yes,68,653,Yes,Yes,Female,Yes,Egypt; Jordan
+1583539200000,1584576000000,NA,Broward,FL resident,No,60,654,Yes,No,Male,No,NA
+1583625600000,1583971200000,NA,Seminole,FL resident,Yes,68,655,Yes,Yes,Male,No,Egypt; Jordan
+1584403200000,1585094400000,NA,Broward,FL resident,No,69,656,Yes,No,Female,No,NA
+1584230400000,1584748800000,NA,Citrus,FL resident,Yes,17,657,Yes,No,Female,No,Canada
+1584576000000,1584835200000,NA,Dade,FL resident,Unknown,33,658,Unknown,Unknown,Female,Unknown,NA
+1583625600000,1584835200000,NA,Seminole,FL resident,Yes,60,659,Unknown,Yes,Female,Yes,NY
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,70,660,NA,Unknown,Male,Unknown,NA
+1584144000000,1584144000000,NA,St. Johns,FL resident,No,64,661,No,Yes,Female,Yes,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,25,662,NA,Unknown,Unknown,Unknown,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,63,663,NA,Unknown,Male,Unknown,NA
+1584144000000,1584835200000,NA,Lake,FL resident,No,43,664,No,NA,Female,Yes,NA
+1583884800000,1584403200000,NA,Collier,FL resident,Yes,76,665,Yes,NA,Male,Yes,ST. MARTIN
+1584835200000,1584921600000,NA,Broward,FL resident,Unknown,56,666,NA,Unknown,Male,Unknown,NA
+1584057600000,1584835200000,NA,Broward,FL resident,Yes,22,667,Unknown,No,Female,No,FL; NY
+1583625600000,1584403200000,NA,Alachua,FL resident,Yes,22,668,No,No,Male,No,Canada; NY; PA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,43,669,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Flagler,FL resident,Unknown,59,670,Unknown,No,Female,No,NA
+1584576000000,1585094400000,NA,Monroe,FL resident,Yes,48,671,Unknown,NA,Female,No,FL; UNKNOWN
+1583971200000,1584489600000,NA,Broward,FL resident,Yes,67,672,Unknown,Yes,Male,Yes,CO
+1583798400000,1584835200000,NA,Hillsborough,FL resident,No,46,673,Yes,No,Male,No,NA
+1584316800000,1584835200000,NA,Dade,FL resident,No,32,674,Yes,No,Male,No,NA
+1584144000000,1584576000000,NA,Dade,FL resident,Yes,62,675,Yes,Yes,Female,No,Israel
+1584230400000,1584662400000,NA,Dade,FL resident,No,27,676,Unknown,Yes,Male,No,NA
+1583798400000,1584748800000,NA,Dade,FL resident,No,56,677,No,Yes,Female,Yes,NA
+1584748800000,1584748800000,NA,Dade,FL resident,Unknown,33,678,Yes,Unknown,Male,Unknown,NA
+1583971200000,1584748800000,NA,Pinellas,FL resident,Yes,29,679,Yes,No,Female,No,SPAIN
+1583539200000,1584835200000,NA,Dade,FL resident,Yes,23,680,No,No,Female,No,NY
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,59,681,NA,Unknown,Male,Unknown,NA
+1584403200000,1585094400000,NA,Dade,FL resident,Unknown,49,682,Unknown,Yes,Female,Yes,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,31,683,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Orange,Non-FL resident,Unknown,54,684,NA,Unknown,Female,Unknown,NA
+1584144000000,1585008000000,NA,Dade,FL resident,Yes,20,685,Yes,No,Female,No,IRELAND
+1584403200000,1584835200000,NA,Dade,FL resident,No,50,686,No,Yes,Female,Unknown,NA
+1581897600000,1583539200000,Yes,Lee,FL resident,Yes,77,687,Yes,Yes,Female,Yes,DOMINICAN REPUBLIC
+1582416000000,1583539200000,NA,Lee,FL resident,Yes,77,688,Yes,Yes,Male,Yes,DOMINICAN REPUBLIC
+1585008000000,1585094400000,NA,Duval,FL resident,Unknown,55,689,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Orange,FL resident,Unknown,40,690,NA,Unknown,Female,Unknown,NA
+1584662400000,1585008000000,NA,Dade,FL resident,No,49,691,Unknown,Unknown,Male,No,NA
+1584576000000,1584576000000,NA,Alachua,FL resident,No,27,692,No,No,Female,No,NA
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,35,693,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,34,694,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,80,695,NA,Unknown,Male,Unknown,NA
+1583107200000,1584144000000,NA,Palm Beach,FL resident,Yes,37,696,Yes,Yes,Male,No,NY
+1584576000000,1584748800000,NA,Broward,FL resident,Unknown,88,697,NA,Unknown,Male,Yes,NA
+1584057600000,1584748800000,NA,Orange,Non-FL resident,Yes,33,698,Yes,No,Female,No,FL; PERU
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,74,699,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,74,700,NA,Unknown,Female,Unknown,NA
+1583971200000,1585094400000,NA,Broward,FL resident,Yes,29,701,Unknown,No,Male,No,FL; MEXICO
+1583971200000,1584835200000,NA,Dade,FL resident,Unknown,44,702,Yes,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,56,703,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,81,704,NA,Unknown,Male,Unknown,NA
+1584403200000,1584662400000,NA,Pasco,FL resident,No,46,705,Yes,No,Male,No,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,58,706,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,57,707,NA,Unknown,Male,Unknown,NA
+1584230400000,1585008000000,NA,Lee,FL resident,No,50,708,Yes,No,Female,No,NA
+1583366400000,1584403200000,NA,Manatee,FL resident,No,75,709,No,Unknown,Male,No,NA
+1584576000000,1584576000000,NA,Broward,Non-FL resident,Yes,33,710,Unknown,Yes,Male,Unknown,NY
+1583884800000,1584403200000,NA,Broward,FL resident,Yes,79,711,Yes,No,Female,No,CO; FL
+1584662400000,1584835200000,NA,Broward,FL resident,Unknown,82,712,Yes,Yes,Male,Yes,NA
+1584748800000,1585008000000,NA,Dade,FL resident,Unknown,62,713,NA,Unknown,Male,Unknown,NA
+1584489600000,1585008000000,NA,Orange,FL resident,Yes,58,714,NA,Yes,Male,No,BRAZIL
+1583366400000,1584230400000,NA,Volusia,FL resident,Yes,48,715,Yes,Yes,Female,Yes,DC; FL
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,21,716,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,55,717,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,52,718,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,47,719,NA,Unknown,Female,Unknown,NA
+1584489600000,1585094400000,NA,Sumter,FL resident,Yes,68,720,Yes,Yes,Female,No,VT
+1583625600000,1584576000000,NA,Orange,FL resident,No,50,721,Unknown,No,Female,No,NA
+1584748800000,1584748800000,NA,Duval,FL resident,Unknown,55,722,NA,Unknown,Male,Unknown,NA
+1584057600000,1584662400000,NA,Orange,FL resident,No,82,723,Unknown,Yes,Female,Yes,NA
+1580601600000,1583193600000,NA,Gadsden,Not diagnosed/isolated in FL,Yes,54,724,Unknown,NA,Male,Unknown,Japan
+1583798400000,1585094400000,NA,Palm Beach,FL resident,Unknown,53,725,NA,Yes,Female,Yes,NA
+1584662400000,1585008000000,NA,Escambia,FL resident,No,22,726,No,Yes,Female,No,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,60,727,NA,Unknown,Male,Unknown,NA
+1584489600000,1584921600000,NA,Dade,FL resident,Yes,46,728,NA,Yes,Male,Yes,CA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,18,729,NA,Unknown,Male,Unknown,NA
+1584489600000,1584835200000,NA,Orange,FL resident,No,52,730,No,NA,Female,No,NA
+1583884800000,1584748800000,NA,Broward,FL resident,Yes,30,731,Unknown,No,Male,Yes,FL; NV
+1584057600000,1584662400000,NA,Polk,FL resident,Yes,35,732,No,Yes,Male,Yes,France; United Kingdom
+1584835200000,1585094400000,NA,Collier,FL resident,Unknown,49,733,NA,NA,Female,NA,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,36,734,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,29,735,NA,Unknown,Male,Unknown,NA
+1584144000000,1585008000000,NA,Dade,FL resident,Yes,76,736,NA,Yes,Male,Unknown,Israel
+1584576000000,1585008000000,NA,Dade,FL resident,Unknown,64,737,Unknown,Unknown,Female,Unknown,NA
+1583884800000,1584489600000,NA,Pinellas,FL resident,Yes,66,738,Yes,No,Female,No,ISRAEL
+1584662400000,1584921600000,NA,Broward,FL resident,No,21,739,No,Yes,Female,No,NA
+1584662400000,1585094400000,NA,Broward,FL resident,Unknown,35,740,NA,NA,Female,NA,NA
+1583712000000,1585008000000,NA,Palm Beach,FL resident,Yes,24,741,No,Yes,Female,No,FL; NY
+1584403200000,1584489600000,NA,Pasco,FL resident,Yes,64,742,Yes,Yes,Female,Yes,FL; NY
+1583971200000,1584489600000,NA,Dade,FL resident,No,25,743,Yes,Yes,Male,No,NA
+1583625600000,1584144000000,NA,Pasco,FL resident,Yes,67,744,Yes,Yes,Male,Yes,FL; NY
+1580947200000,1584835200000,NA,St. Johns,FL resident,No,53,745,No,Yes,Female,No,NA
+1585094400000,1585094400000,NA,Orange,Non-FL resident,Unknown,53,746,NA,Unknown,Male,Unknown,NA
+1584921600000,1584921600000,NA,Sumter,FL resident,Yes,74,747,Yes,Yes,Male,Yes,TX
+1584057600000,1585008000000,NA,Palm Beach,FL resident,Yes,38,748,Unknown,Yes,Male,Yes,COLOMBIA
+1584403200000,1584748800000,NA,Sarasota,FL resident,Yes,76,749,No,No,Male,No,FL; NY
+1584316800000,1584835200000,NA,Broward,FL resident,No,42,750,Yes,Yes,Female,No,NA
+1583625600000,1584489600000,NA,Broward,FL resident,No,49,751,No,Yes,Female,Yes,NA
+1585180800000,1585180800000,NA,Pinellas,FL resident,Unknown,54,752,NA,Unknown,Male,Unknown,NA
+1584489600000,1584489600000,NA,Leon,Non-FL resident,Yes,48,753,Unknown,Yes,Female,Yes,GA
+1584316800000,1584835200000,NA,Broward,FL resident,No,51,754,Yes,No,Female,No,NA
+1584403200000,1584662400000,NA,Broward,FL resident,No,53,755,Yes,Yes,Female,No,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,55,756,NA,Unknown,Male,Unknown,NA
+1584144000000,1585094400000,NA,Broward,FL resident,Unknown,30,757,No,Yes,Female,No,NA
+1584316800000,1584576000000,NA,Hillsborough,FL resident,No,36,758,No,Yes,Male,No,NA
+1583884800000,1584662400000,NA,Indian River,FL resident,Yes,69,759,No,No,Male,No,EGYPT; GERMANY
+1584057600000,1584748800000,NA,Osceola,FL resident,No,20,760,Yes,Yes,Female,No,NA
+1583884800000,1584576000000,NA,Pasco,FL resident,Yes,67,761,Unknown,No,Male,No,CA
+1583712000000,1584489600000,NA,Dade,FL resident,Unknown,33,762,No,Yes,Male,Yes,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,53,763,NA,NA,Female,Yes,NA
+1584489600000,1584489600000,NA,Santa Rosa,FL resident,Yes,48,764,No,No,Male,No,United Kingdom
+1584576000000,1584748800000,NA,Duval,FL resident,Unknown,45,765,NA,NA,Female,NA,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,21,766,NA,Unknown,Male,Unknown,NA
+1583280000000,1584057600000,NA,Dade,FL resident,No,51,767,Yes,Yes,Male,Yes,NA
+1584662400000,1584835200000,NA,Broward,FL resident,No,55,768,Yes,No,Male,No,NA
+1584316800000,1584662400000,NA,Collier,FL resident,No,80,769,No,No,Male,No,NA
+1585094400000,1585180800000,NA,Hillsborough,FL resident,Unknown,65,770,NA,NA,Male,NA,NA
+1584662400000,1584921600000,NA,Lee,Non-FL resident,No,83,771,No,Yes,Male,Yes,NA
+1584748800000,1584835200000,NA,Dade,FL resident,Yes,66,772,Yes,Yes,Male,Yes,SPAIN
+1584230400000,1584835200000,NA,Sarasota,FL resident,No,75,773,No,Yes,Female,Yes,NA
+1583366400000,1584662400000,NA,Palm Beach,FL resident,No,42,774,Unknown,Yes,Female,Yes,NA
+1583712000000,1584144000000,NA,Alachua,Non-FL resident,Yes,69,775,No,Yes,Male,No,Sweden
+1583971200000,1585094400000,NA,Orange,FL resident,No,33,776,Yes,Unknown,Male,No,NA
+1585094400000,1585180800000,NA,St. Johns,FL resident,Unknown,12,777,NA,Unknown,Male,Unknown,NA
+1583798400000,1585008000000,NA,St. Lucie,FL resident,No,51,778,Yes,No,Male,No,NA
+1585094400000,1585180800000,NA,Clay,FL resident,Unknown,12,779,NA,Unknown,Male,Unknown,NA
+1583884800000,1584057600000,Yes,Orange,Not diagnosed/isolated in FL,Yes,68,780,NA,NA,Female,NA,Philippines; South Korea
+1585094400000,1585180800000,NA,St. Johns,FL resident,Unknown,48,781,NA,Unknown,Female,Unknown,NA
+1584316800000,1584921600000,NA,Walton,FL resident,No,22,782,Unknown,No,Female,No,NA
+1584489600000,1585094400000,NA,Orange,FL resident,Unknown,53,783,NA,NA,Male,NA,NA
+1584662400000,1585094400000,NA,Lee,FL resident,Unknown,36,784,Unknown,NA,Male,Unknown,NA
+1583712000000,1583971200000,NA,Broward,FL resident,Unknown,70,785,Unknown,Yes,Male,Yes,NA
+1583884800000,1585008000000,NA,Orange,FL resident,No,68,786,No,Yes,Male,Yes,NA
+1584144000000,1584576000000,NA,Hernando,FL resident,Yes,19,787,No,No,Female,No,SPAIN
+1584403200000,1584835200000,NA,Escambia,FL resident,No,33,788,No,NA,Female,No,NA
+1584835200000,1585094400000,NA,Orange,FL resident,Unknown,16,789,Yes,No,Female,Yes,NA
+1584576000000,1584921600000,NA,Hillsborough,Non-FL resident,Yes,38,790,Unknown,Yes,Female,No,IL
+1584316800000,1585008000000,NA,Orange,FL resident,No,42,791,Unknown,Yes,Male,No,NA
+1583712000000,1584403200000,NA,Dade,FL resident,No,52,792,Yes,Yes,Female,No,NA
+1584316800000,1585094400000,NA,Orange,FL resident,Unknown,9,793,NA,No,Female,No,NA
+1584403200000,1584403200000,NA,Orange,Non-FL resident,Unknown,28,794,Unknown,Unknown,Female,Unknown,NA
+1584230400000,1584576000000,NA,Pasco,FL resident,No,67,795,Yes,No,Female,No,NA
+1584835200000,1584835200000,NA,Alachua,FL resident,Unknown,25,796,NA,Unknown,Female,Unknown,NA
+1584489600000,1584835200000,NA,Baker,FL resident,No,76,797,Yes,NA,Male,No,NA
+1583539200000,1585094400000,NA,Osceola,FL resident,Unknown,54,798,No,NA,Female,No,NA
+1585008000000,1585094400000,NA,Duval,FL resident,Unknown,59,799,NA,NA,Female,NA,NA
+1584489600000,1584921600000,NA,Pinellas,FL resident,No,58,800,No,Yes,Male,Yes,NA
+1584057600000,1584748800000,NA,Orange,Non-FL resident,Yes,34,801,Yes,No,Male,No,FL; PERU
+1583971200000,1584230400000,Yes,Duval,FL resident,No,88,802,Yes,Yes,Male,Yes,NA
+1584230400000,1584403200000,NA,Duval,FL resident,No,84,803,Yes,Yes,Male,Yes,NA
+1583971200000,1584748800000,NA,Dade,FL resident,Unknown,44,804,No,Yes,Female,No,NA
+1583884800000,1584748800000,NA,Marion,FL resident,Yes,68,805,Unknown,Yes,Male,No,WI
+1584662400000,1584662400000,NA,Dade,FL resident,Unknown,34,806,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Sarasota,FL resident,No,76,807,Unknown,No,Male,No,NA
+1581984000000,1583712000000,NA,Manatee,FL resident,Yes,81,808,Yes,NA,Female,No,Egypt
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,65,809,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Collier,FL resident,Unknown,50,810,NA,Unknown,Female,Unknown,NA
+1583193600000,1583884800000,NA,Pinellas,FL resident,Yes,67,811,Yes,No,Male,No,Egypt
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,21,812,NA,Unknown,Female,Unknown,NA
+1584403200000,1584748800000,NA,Hillsborough,FL resident,No,19,813,Yes,Yes,Female,No,NA
+1585180800000,1585180800000,NA,Duval,FL resident,Unknown,50,814,NA,Unknown,Male,Unknown,NA
+1581638400000,1584489600000,NA,Collier,FL resident,No,82,815,Yes,Yes,Male,Yes,NA
+1583971200000,1584662400000,NA,Palm Beach,FL resident,Yes,72,816,No,Yes,Male,Yes,Canada; FL
+1584748800000,1584748800000,NA,Alachua,FL resident,Unknown,25,817,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Duval,FL resident,Unknown,57,818,NA,Unknown,Female,Unknown,NA
+1583625600000,1584748800000,NA,Dade,FL resident,Unknown,50,819,Yes,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,21,820,NA,Unknown,Female,Unknown,NA
+1552953600000,1585094400000,NA,Broward,FL resident,No,33,821,Yes,Yes,Male,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,66,822,NA,Unknown,Female,Unknown,NA
+1584316800000,1584921600000,NA,Orange,FL resident,No,70,823,Unknown,Unknown,Male,Yes,NA
+1583971200000,1584835200000,NA,Dade,FL resident,Unknown,20,824,Yes,Unknown,Female,Unknown,NA
+1584403200000,1584403200000,NA,Dade,Non-FL resident,Unknown,33,825,Unknown,Unknown,Male,Unknown,NA
+1584748800000,1584748800000,NA,Dade,Non-FL resident,Unknown,11,826,Yes,Unknown,Female,Unknown,NA
+1584144000000,1584921600000,NA,Palm Beach,FL resident,No,29,827,No,No,Male,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,30,828,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,24,829,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,37,830,NA,Unknown,Female,Unknown,NA
+1583193600000,1584144000000,NA,Lee,FL resident,Yes,72,831,Yes,No,Female,No,MA; NH
+1584057600000,1584662400000,NA,Broward,FL resident,Unknown,46,832,Unknown,Yes,Male,No,NA
+1584489600000,1585008000000,NA,St. Johns,FL resident,No,63,833,Unknown,No,Male,No,NA
+1583625600000,1584662400000,NA,Palm Beach,FL resident,No,68,834,Yes,Yes,Female,No,NA
+1584230400000,1584662400000,NA,Palm Beach,FL resident,No,69,835,Yes,Yes,Male,No,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,70,836,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Alachua,FL resident,Unknown,60,837,NA,Unknown,Female,Unknown,NA
+1584748800000,1584835200000,NA,Duval,FL resident,No,82,838,Yes,No,Female,No,NA
+1583884800000,1584748800000,Yes,Duval,FL resident,No,84,839,Yes,Yes,Male,Yes,NA
+1584403200000,1585094400000,NA,Dade,FL resident,No,67,840,NA,Yes,Female,Unknown,NA
+1583884800000,1584748800000,NA,Orange,Non-FL resident,No,73,841,No,Unknown,Female,Yes,NA
+1584662400000,1584748800000,NA,Alachua,FL resident,Unknown,62,842,Unknown,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,66,843,NA,Unknown,Male,Unknown,NA
+1584662400000,1584748800000,NA,Dade,FL resident,Unknown,58,844,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,70,845,NA,Unknown,Female,Unknown,NA
+1584057600000,1584835200000,NA,Palm Beach,FL resident,Yes,69,846,No,No,Male,No,BAHAMAS; FL; NY; TX
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,34,847,NA,Unknown,Female,Unknown,NA
+1584230400000,1584316800000,NA,Escambia,FL resident,Yes,53,848,No,No,Male,No,FRANCE
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,31,849,NA,Unknown,Male,Unknown,NA
+1583798400000,1584835200000,NA,Okaloosa,FL resident,Yes,47,850,No,No,Male,No,FL; GA; MS; NJ
+1584403200000,1584835200000,NA,Broward,FL resident,No,55,851,Yes,Yes,Male,No,NA
+1585008000000,1585008000000,NA,Alachua,FL resident,Unknown,75,852,NA,Unknown,Female,Unknown,NA
+1584316800000,1584748800000,NA,Polk,FL resident,No,60,853,Unknown,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,30,854,NA,Unknown,Female,Unknown,NA
+1584403200000,1584748800000,NA,Lee,FL resident,Yes,89,855,No,Yes,Female,Yes,FL; NY
+1584576000000,1584576000000,NA,Dade,FL resident,No,47,856,Yes,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,25,857,NA,Unknown,Female,Unknown,NA
+1584144000000,1585094400000,NA,Duval,FL resident,Unknown,49,858,No,Yes,Female,No,NA
+1584057600000,1585008000000,NA,Dade,FL resident,Unknown,48,859,No,No,Male,No,NA
+1584576000000,1584921600000,NA,Walton,Non-FL resident,No,45,860,Unknown,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Duval,FL resident,Unknown,26,861,NA,Unknown,Male,Unknown,NA
+1584748800000,1584835200000,NA,Hillsborough,FL resident,Unknown,51,862,Yes,Unknown,Female,Unknown,NA
+1583971200000,1585008000000,NA,Palm Beach,FL resident,Yes,60,863,Yes,NA,Female,No,CO
+1585094400000,1585094400000,NA,Duval,FL resident,Unknown,76,864,NA,Unknown,Male,Unknown,NA
+1583452800000,1584662400000,NA,Santa Rosa,FL resident,No,17,865,No,Yes,Male,Yes,NA
+1584576000000,1584835200000,NA,Broward,FL resident,No,80,866,Unknown,Yes,Female,Yes,NA
+1584835200000,1584835200000,NA,Hillsborough,FL resident,Yes,60,867,No,No,Male,No,CA
+1584748800000,1584748800000,NA,Dade,FL resident,Unknown,27,868,Unknown,Yes,Female,No,NA
+1584662400000,1585008000000,NA,Orange,FL resident,Yes,58,869,No,No,Female,No,SPAIN
+1584230400000,1585094400000,NA,Collier,Non-FL resident,No,85,870,No,No,Male,No,NA
+1584403200000,1584748800000,NA,Sarasota,FL resident,Yes,64,871,No,No,Male,No,SPAIN
+1584489600000,1585008000000,NA,Dade,FL resident,Unknown,30,872,NA,NA,Female,NA,NA
+1584403200000,1584662400000,NA,Palm Beach,Non-FL resident,Unknown,20,873,Unknown,No,Female,No,NA
+1584576000000,1585094400000,NA,Flagler,FL resident,No,65,874,Unknown,No,Male,No,NA
+1584403200000,1584748800000,NA,Hillsborough,FL resident,Yes,33,875,No,NA,Female,No,Egypt
+1585094400000,1585094400000,NA,Dade,FL resident,No,26,876,Yes,NA,Female,Yes,NA
+1584835200000,1584921600000,NA,Orange,FL resident,Unknown,42,877,NA,Unknown,Male,Unknown,NA
+1584316800000,1584921600000,NA,Escambia,FL resident,Yes,60,878,Unknown,NA,Female,No,FL; IL
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,69,879,NA,NA,Female,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,25,880,NA,Unknown,Male,Unknown,NA
+1583884800000,1584748800000,NA,Palm Beach,FL resident,No,78,881,No,Yes,Male,Yes,NA
+1584316800000,1584662400000,Yes,Clay,FL resident,No,82,882,No,Yes,Male,Yes,NA
+1584057600000,1584316800000,NA,Orange,FL resident,No,40,883,Yes,Yes,Female,No,NA
+1584835200000,1585094400000,NA,Orange,FL resident,No,33,884,NA,No,Male,No,NA
+1584403200000,1585094400000,NA,Volusia,FL resident,No,48,885,Yes,No,Female,No,NA
+1584489600000,1585094400000,NA,Broward,FL resident,No,56,886,No,Yes,Male,Yes,NA
+1583798400000,1584057600000,NA,Broward,FL resident,Yes,20,887,Yes,Yes,Female,Yes,Ireland
+1584230400000,1584662400000,NA,Putnam,FL resident,Yes,67,888,Unknown,Yes,Male,No,CA
+1584576000000,1585094400000,NA,Pinellas,Non-FL resident,Yes,29,889,No,No,Female,No,NY
+1584835200000,1584835200000,NA,Broward,FL resident,Unknown,33,890,NA,Unknown,Female,Unknown,NA
+1581724800000,1584576000000,Yes,Lee,FL resident,No,67,891,Yes,Yes,Male,Yes,NA
+1584057600000,1584921600000,NA,Polk,FL resident,Yes,73,892,Yes,Yes,Female,Yes,CO; SWITZERLAND
+1584403200000,1584403200000,NA,Dade,FL resident,Unknown,63,893,Yes,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,71,894,NA,NA,Male,NA,NA
+1584230400000,1584748800000,NA,Palm Beach,FL resident,No,43,895,No,Yes,Male,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,59,896,NA,Unknown,Male,Unknown,NA
+1584230400000,1585008000000,NA,Lee,FL resident,No,56,897,No,No,Male,No,NA
+1583884800000,1585094400000,NA,Dade,FL resident,Unknown,31,898,Yes,NA,Male,NA,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,42,899,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,34,900,NA,Unknown,Female,Unknown,NA
+1584316800000,1585180800000,NA,Broward,FL resident,Unknown,27,901,Unknown,NA,Male,NA,NA
+1584057600000,1584489600000,NA,Dade,FL resident,No,27,902,Yes,Yes,Male,No,NA
+1584576000000,1585094400000,NA,Broward,FL resident,Unknown,54,903,No,Unknown,Male,No,NA
+1584144000000,1585094400000,NA,Lee,FL resident,Unknown,52,904,No,No,Male,No,NA
+1584662400000,1584921600000,NA,Columbia,FL resident,No,46,905,Yes,NA,Male,No,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,36,906,NA,Unknown,Male,Unknown,NA
+1583625600000,1584835200000,NA,Orange,FL resident,Yes,46,907,Unknown,Yes,Male,No,MD; NY
+1585180800000,1585180800000,NA,Seminole,FL resident,Unknown,20,908,NA,Unknown,Male,Unknown,NA
+1584057600000,1584316800000,NA,Sarasota,FL resident,No,87,909,Yes,Yes,Male,Yes,NA
+1584489600000,1584835200000,NA,Sarasota,FL resident,No,86,910,Yes,No,Female,No,NA
+1584835200000,1584921600000,NA,Dade,FL resident,Unknown,47,911,NA,Unknown,Female,Unknown,NA
+1583452800000,1584316800000,NA,Pinellas,FL resident,Yes,58,912,No,Yes,Male,Yes,CO
+1583366400000,1584403200000,NA,Alachua,FL resident,Yes,21,913,No,No,Female,No,NY
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,46,914,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,58,915,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Alachua,FL resident,Unknown,67,916,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,55,917,NA,Unknown,Male,Unknown,NA
+1583798400000,1584489600000,NA,Dade,FL resident,Unknown,34,918,Unknown,No,Male,No,NA
+1584921600000,1584921600000,NA,Duval,FL resident,Unknown,58,919,NA,Unknown,Male,Unknown,NA
+1583712000000,1584662400000,NA,Hillsborough,FL resident,Yes,60,920,No,Yes,Male,No,CA
+1584316800000,1585008000000,NA,Orange,FL resident,Yes,70,921,No,Yes,Female,Unknown,IL
+1582848000000,1584748800000,NA,Duval,FL resident,No,84,922,Yes,Yes,Female,Yes,NA
+1584403200000,1585008000000,NA,Palm Beach,FL resident,Yes,20,923,Yes,No,Male,No,IRELAND; NJ; SPAIN
+1584662400000,1585094400000,NA,Baker,FL resident,No,55,924,Unknown,No,Female,No,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,24,925,NA,Unknown,Male,Unknown,NA
+1583625600000,1584662400000,NA,Broward,Non-FL resident,Unknown,20,926,Yes,Yes,Female,No,NA
+1584144000000,1585094400000,NA,Palm Beach,Non-FL resident,Yes,41,927,No,No,Female,No,NY
+1583625600000,1584576000000,NA,Broward,FL resident,No,94,928,Unknown,Yes,Male,Yes,NA
+1584057600000,1585008000000,NA,Indian River,FL resident,No,68,929,No,Yes,Female,No,NA
+1584316800000,1584835200000,NA,Broward,FL resident,Unknown,26,930,Yes,Yes,Female,Unknown,NA
+1583798400000,1584403200000,NA,Dade,Non-FL resident,Yes,51,931,Unknown,Yes,Male,Yes,Bahamas; CA; IL
+1584230400000,1584662400000,NA,Pinellas,FL resident,No,29,932,Yes,Yes,Male,No,NA
+1584403200000,1584835200000,NA,St. Johns,FL resident,No,69,933,No,Yes,Male,No,NA
+1584489600000,1585094400000,NA,Broward,FL resident,No,50,934,Yes,Yes,Male,No,NA
+1583452800000,1584662400000,NA,Walton,FL resident,No,49,935,No,No,Male,No,NA
+1583884800000,1584403200000,NA,Dade,FL resident,No,19,936,Yes,Yes,Female,No,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,45,937,NA,Unknown,Male,Unknown,NA
+1584921600000,1585008000000,NA,Broward,FL resident,Unknown,60,938,NA,NA,Unknown,NA,NA
+1584230400000,1584921600000,NA,Pinellas,FL resident,Yes,69,939,No,No,Female,No,MEXICO
+1584662400000,1584748800000,NA,Pinellas,FL resident,No,60,940,Unknown,Yes,Male,Yes,NA
+1584316800000,1585008000000,NA,Monroe,FL resident,Yes,48,941,Unknown,No,Male,No,FL; LA
+1584403200000,1584921600000,NA,Santa Rosa,FL resident,No,2,942,No,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,Putnam,FL resident,Unknown,23,943,NA,Unknown,Female,Unknown,NA
+1585094400000,1585180800000,NA,Broward,Non-FL resident,Unknown,53,944,NA,Unknown,Male,Unknown,NA
+1584403200000,1584835200000,NA,Broward,FL resident,Yes,59,945,No,No,Male,No,CHILE; GERMANY
+1584230400000,1585094400000,NA,Martin,FL resident,Yes,50,946,Unknown,No,Male,No,FL; NC; NY; OH; VA
+1584403200000,1584835200000,NA,Palm Beach,FL resident,Unknown,64,947,Yes,Unknown,Female,No,NA
+1584316800000,1584662400000,NA,Broward,FL resident,Yes,21,948,Yes,Unknown,Female,No,MEXICO
+1584403200000,1584921600000,NA,Hillsborough,FL resident,No,30,949,No,Unknown,Female,No,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,49,950,No,Yes,Female,No,NA
+1584921600000,1585008000000,NA,Broward,FL resident,Unknown,40,951,Yes,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,31,952,NA,Unknown,Male,Unknown,NA
+1584403200000,1585094400000,NA,Dade,FL resident,Unknown,33,953,Yes,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,37,954,NA,Unknown,Male,Unknown,NA
+1584316800000,1585094400000,NA,Lee,FL resident,No,67,955,No,No,Male,No,NA
+1584576000000,1584921600000,NA,Broward,FL resident,No,52,956,Yes,No,Female,No,NA
+1583884800000,1585008000000,NA,Osceola,FL resident,No,56,957,Yes,No,Male,No,NA
+1583971200000,1584403200000,NA,Osceola,FL resident,No,29,958,Yes,Yes,Male,Yes,NA
+1583971200000,1584835200000,NA,Dade,FL resident,Unknown,46,959,NA,Unknown,Female,Unknown,NA
+1584057600000,1584921600000,NA,Martin,FL resident,No,57,960,No,Yes,Male,No,NA
+1584316800000,1584748800000,NA,Sarasota,FL resident,Yes,61,961,Unknown,Unknown,Male,No,CO; FL
+1584316800000,1585094400000,NA,Nassau,FL resident,Yes,58,962,No,Yes,Female,Yes,NY
+1585180800000,1585180800000,NA,Lee,FL resident,Unknown,61,963,Unknown,Unknown,Female,Unknown,NA
+1584057600000,1585008000000,NA,Brevard,FL resident,Yes,30,964,No,No,Male,No,DC
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,47,965,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,68,966,NA,Unknown,Male,Unknown,NA
+1584316800000,1584835200000,NA,Dade,FL resident,Yes,65,967,Yes,Yes,Female,Unknown,NY
+1584057600000,1584921600000,NA,Walton,FL resident,Yes,61,968,Yes,Yes,Female,No,COSTA RICA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,39,969,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,48,970,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,54,971,NA,Unknown,Unknown,Unknown,NA
+1584144000000,1584748800000,NA,Bay,Non-FL resident,Yes,47,972,Unknown,Yes,Male,Yes,TX
+1585180800000,1585180800000,NA,Duval,FL resident,Unknown,36,973,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Duval,FL resident,Unknown,59,974,NA,Unknown,Female,Unknown,NA
+1584316800000,1584748800000,NA,Marion,FL resident,Unknown,59,975,No,No,Female,No,NA
+1584316800000,1584835200000,NA,Highlands,FL resident,No,77,976,No,No,Female,No,NA
+1584403200000,1584835200000,NA,Indian River,FL resident,Yes,58,977,No,Yes,Female,No,IRELAND
+1585094400000,1585094400000,NA,Collier,FL resident,No,80,978,No,No,Male,No,NA
+1584489600000,1584921600000,NA,Collier,Non-FL resident,Unknown,76,979,No,NA,Female,No,NA
+1584489600000,1584921600000,NA,Collier,Non-FL resident,Yes,77,980,No,Yes,Male,No,NJ
+1584057600000,1584662400000,NA,Okaloosa,FL resident,Yes,45,981,No,No,Female,No,GA
+1583971200000,1584403200000,NA,Pinellas,FL resident,Yes,30,982,No,Yes,Male,No,FL; MEXICO
+1583884800000,1584489600000,NA,Hillsborough,FL resident,Yes,33,983,Yes,No,Male,No,KY
+1584662400000,1584921600000,NA,Broward,FL resident,No,51,984,Unknown,Yes,Male,No,NA
+1584230400000,1584748800000,NA,Broward,FL resident,No,20,985,No,No,Male,No,NA
+1585008000000,1585008000000,NA,Dade,Non-FL resident,Unknown,26,986,NA,Unknown,Male,Unknown,NA
+1584576000000,1584921600000,NA,Walton,FL resident,No,58,987,Yes,Yes,Male,Yes,NA
+1583452800000,1585008000000,NA,Walton,FL resident,No,49,988,Yes,Yes,Female,Yes,NA
+1584835200000,1584921600000,NA,Palm Beach,FL resident,No,71,989,No,No,Male,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,72,990,NA,Unknown,Male,Unknown,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,30,991,NA,Unknown,Female,Unknown,NA
+1583884800000,1584921600000,NA,Dade,FL resident,Unknown,28,992,Unknown,Unknown,Male,Unknown,NA
+1583971200000,1584835200000,NA,Hillsborough,FL resident,No,36,993,Yes,Yes,Female,No,NA
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,63,994,NA,Unknown,Male,Unknown,NA
+1584316800000,1585008000000,NA,Hillsborough,FL resident,No,6,995,Yes,No,Male,No,NA
+1584316800000,1585008000000,NA,Hillsborough,FL resident,No,3,996,Yes,No,Male,No,NA
+1584316800000,1584489600000,NA,Hillsborough,FL resident,No,43,997,Yes,Yes,Male,Yes,NA
+1584316800000,1585094400000,NA,Pinellas,FL resident,Yes,45,998,No,Yes,Male,Yes,FL; MD; NY
+1584489600000,1584748800000,NA,Seminole,FL resident,Yes,25,999,No,Yes,Female,No,FL; United Kingdom
+1583539200000,1584835200000,NA,Lee,FL resident,No,70,1000,Yes,NA,Male,No,NA
+1584489600000,1584662400000,NA,Hillsborough,FL resident,No,52,1001,No,No,Male,No,NA
+1584835200000,1584921600000,NA,Hillsborough,FL resident,No,47,1002,Yes,NA,Female,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,20,1003,NA,Unknown,Female,Unknown,NA
+1584230400000,1584921600000,NA,Seminole,FL resident,Yes,76,1004,Unknown,No,Female,No,EGYPT; ISRAEL; JORDAN
+1584662400000,1585094400000,NA,Broward,FL resident,No,50,1005,Yes,No,Male,No,NA
+1584662400000,1584662400000,NA,Alachua,FL resident,No,61,1006,No,Yes,Male,Yes,NA
+1584835200000,1584835200000,NA,Orange,FL resident,Unknown,32,1007,NA,Unknown,Male,Unknown,NA
+1584748800000,1584748800000,NA,Seminole,FL resident,Unknown,41,1008,NA,Unknown,Female,Unknown,NA
+1584057600000,1585094400000,NA,Volusia,FL resident,No,69,1009,No,Yes,Male,No,NA
+1584057600000,1585008000000,NA,Dade,FL resident,Yes,49,1010,NA,Yes,Male,No,CO
+1584144000000,1584748800000,NA,Palm Beach,FL resident,Yes,60,1011,Unknown,Yes,Male,Yes,NY
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,39,1012,NA,Unknown,Male,Unknown,NA
+1584921600000,1584921600000,NA,Duval,FL resident,Unknown,19,1013,NA,Unknown,Female,Unknown,NA
+1583798400000,1584316800000,NA,Osceola,FL resident,No,47,1014,Yes,Yes,Female,Yes,NA
+1584576000000,1585094400000,NA,Polk,FL resident,No,72,1015,No,Yes,Male,Yes,NA
+1584403200000,1584403200000,NA,Hillsborough,FL resident,No,74,1016,Yes,Yes,Female,No,NA
+1584144000000,1584748800000,NA,Duval,FL resident,No,86,1017,Yes,No,Female,Yes,NA
+1583884800000,1584144000000,NA,Hillsborough,FL resident,Yes,32,1018,Yes,No,Female,No,CO
+1582934400000,1584144000000,NA,Hillsborough,FL resident,Yes,47,1019,Unknown,Yes,Male,Yes,CO
+1583798400000,1584921600000,NA,Manatee,FL resident,No,14,1020,No,NA,Male,Yes,NA
+1584489600000,1585094400000,NA,Volusia,FL resident,No,53,1021,Yes,No,Female,No,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,41,1022,NA,Unknown,Unknown,Unknown,NA
+1583798400000,1585094400000,NA,Orange,FL resident,Yes,80,1023,NA,Yes,Female,Yes,EUROPE
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,62,1024,NA,Unknown,Male,Unknown,NA
+1582848000000,1584403200000,NA,Dade,FL resident,Yes,37,1025,NA,Yes,Female,NA,AZ; Spain
+1583884800000,1584230400000,NA,Dade,FL resident,Yes,25,1026,No,Yes,Female,No,SPAIN
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,86,1027,NA,Unknown,Female,Unknown,NA
+1584576000000,1584748800000,NA,Broward,FL resident,No,95,1028,Unknown,Yes,Male,Yes,NA
+1584230400000,1585008000000,NA,Escambia,FL resident,No,58,1029,No,No,Male,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,44,1030,NA,Unknown,Male,Unknown,NA
+1584230400000,1584835200000,NA,Broward,FL resident,Yes,57,1031,No,Yes,Male,No,FRANCE
+1583712000000,1584230400000,NA,Broward,FL resident,Unknown,83,1032,Yes,No,Male,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,61,1033,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,34,1034,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Duval,FL resident,Unknown,39,1035,NA,Unknown,Male,Unknown,NA
+1584316800000,1584403200000,NA,Dade,FL resident,No,80,1036,No,Yes,Female,Yes,NA
+1584403200000,1584835200000,NA,Palm Beach,FL resident,No,61,1037,No,No,Female,No,NA
+1583884800000,1584662400000,NA,Hillsborough,FL resident,Yes,46,1038,No,Unknown,Female,Unknown,Egypt
+1583798400000,1584057600000,NA,Dade,FL resident,No,45,1039,Yes,No,Male,No,NA
+1584316800000,1584662400000,NA,Broward,FL resident,Yes,65,1040,Yes,No,Male,No,NY
+1584230400000,1584748800000,NA,Dade,FL resident,Yes,52,1041,Unknown,Yes,Male,Yes,CA; NY
+1583884800000,1584576000000,NA,Broward,FL resident,Yes,49,1042,Unknown,Yes,Male,No,COLOMBIA; FL
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,47,1043,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Collier,FL resident,Unknown,61,1044,No,No,Female,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,99,1045,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,27,1046,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Alachua,FL resident,Unknown,21,1047,NA,Unknown,Female,Unknown,NA
+1583884800000,1584489600000,NA,Palm Beach,Non-FL resident,Yes,73,1048,Yes,No,Male,No,NY
+1584316800000,1584921600000,NA,Dade,FL resident,Yes,35,1049,Unknown,Yes,Female,No,LA
+1584835200000,1584921600000,NA,Broward,FL resident,No,83,1050,Yes,Yes,Female,Yes,NA
+1584489600000,1584921600000,NA,Broward,FL resident,No,20,1051,Yes,No,Male,No,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,51,1052,NA,Unknown,Female,Unknown,NA
+1584057600000,1584057600000,Yes,Lee,FL resident,No,77,1053,Yes,Yes,Male,Yes,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,55,1054,NA,Unknown,Male,Unknown,NA
+1583884800000,1584576000000,NA,Dade,Non-FL resident,Yes,36,1055,No,Yes,Male,No,Spain
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,45,1056,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,70,1057,NA,Unknown,Male,Unknown,NA
+1584057600000,1584748800000,NA,Dade,FL resident,No,47,1058,Yes,Unknown,Female,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,65,1059,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,44,1060,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,67,1061,NA,Unknown,Male,Unknown,NA
+1584316800000,1584748800000,NA,Broward,FL resident,Yes,35,1062,Unknown,Yes,Male,No,ITALY; SPAIN
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,27,1063,NA,Unknown,Female,Unknown,NA
+1584748800000,1584748800000,NA,Duval,FL resident,Unknown,57,1064,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,31,1065,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Broward,Non-FL resident,Unknown,62,1066,NA,NA,Unknown,NA,NA
+1585180800000,1585180800000,NA,Broward,Non-FL resident,Unknown,69,1067,NA,NA,Male,NA,NA
+1585180800000,1585180800000,NA,Duval,FL resident,Unknown,51,1068,NA,Unknown,Female,Unknown,NA
+1583020800000,1584489600000,NA,Broward,FL resident,No,58,1069,Yes,No,Male,No,NA
+1584230400000,1584748800000,NA,Sarasota,FL resident,No,87,1070,Unknown,Yes,Male,Yes,NA
+1584489600000,1585094400000,NA,Okaloosa,FL resident,No,83,1071,No,Yes,Female,Yes,NA
+1583539200000,1584662400000,NA,St. Johns,FL resident,Yes,38,1072,Yes,Yes,Female,No,FL; MN
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,80,1073,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,54,1074,NA,Unknown,Male,Unknown,NA
+1584230400000,1584662400000,NA,Dade,FL resident,Yes,68,1075,Yes,Yes,Female,No,FRANCE; SPAIN
+1584403200000,1585094400000,NA,Broward,FL resident,Unknown,71,1076,NA,NA,Male,NA,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,21,1077,NA,Unknown,Male,Unknown,NA
+1584316800000,1585094400000,NA,Broward,FL resident,Yes,28,1078,No,Yes,Male,No,NY
+1583884800000,1584748800000,NA,Dade,FL resident,Yes,13,1079,Yes,Yes,Female,No,NY
+1583884800000,1584835200000,NA,Dade,FL resident,Yes,13,1080,Yes,Yes,Male,No,NY
+1583884800000,1584835200000,NA,Dade,FL resident,Yes,44,1081,Yes,Yes,Female,No,NY
+1583884800000,1584748800000,NA,Dade,FL resident,Yes,11,1082,Yes,Yes,Male,No,NY
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,38,1083,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,No,69,1084,NA,Unknown,Female,Unknown,NA
+1583452800000,1584835200000,NA,Pinellas,FL resident,Yes,70,1085,Yes,No,Male,No,Israel
+1584057600000,1584489600000,NA,Pinellas,FL resident,Yes,54,1086,No,No,Female,No,NY
+1584921600000,1585008000000,NA,Lake,FL resident,Yes,37,1087,No,NA,Male,No,FL; UNITED KINGDOM
+1583539200000,1584489600000,NA,Pinellas,FL resident,Yes,61,1088,No,No,Female,No,NY
+1584144000000,1584748800000,NA,Dade,FL resident,Unknown,68,1089,NA,Yes,Female,No,NA
+1583798400000,1584748800000,Yes,Palm Beach,FL resident,Unknown,88,1090,No,Yes,Male,Yes,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,41,1091,NA,Unknown,Male,Unknown,NA
+1584489600000,1584835200000,NA,Broward,FL resident,No,44,1092,Unknown,Yes,Male,Yes,NA
+1584748800000,1585008000000,NA,Hernando,FL resident,No,74,1093,Yes,No,Male,No,NA
+1584316800000,1584576000000,NA,Hernando,FL resident,No,70,1094,Yes,No,Female,No,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,65,1095,NA,Unknown,Male,Unknown,NA
+1583798400000,1584057600000,NA,Hillsborough,FL resident,Yes,49,1096,Yes,Yes,Female,Yes,FL; Ireland
+1584230400000,1584748800000,NA,Osceola,FL resident,Yes,80,1097,Yes,No,Male,No,SPAIN
+1583712000000,1584230400000,NA,Broward,FL resident,Yes,19,1098,Yes,Yes,Female,No,Ireland
+1584576000000,1585008000000,NA,Pinellas,Non-FL resident,Yes,24,1099,No,No,Male,No,NY
+1584230400000,1585008000000,NA,Volusia,FL resident,Yes,36,1100,Unknown,No,Female,No,HAITI; MEXICO
+1583280000000,1585008000000,NA,Lee,FL resident,No,79,1101,Yes,No,Male,No,NA
+1583539200000,1584921600000,Yes,St. Johns,FL resident,Yes,52,1102,Yes,Yes,Male,Yes,FL; MN
+1584144000000,1585008000000,NA,Indian River,FL resident,Yes,61,1103,No,No,Female,No,LA
+1583712000000,1584835200000,NA,St. Johns,FL resident,No,40,1104,No,Yes,Male,No,NA
+1584230400000,1584662400000,NA,Pasco,Non-FL resident,Yes,73,1105,No,No,Female,No,SPAIN
+1584230400000,1584748800000,NA,Citrus,FL resident,No,77,1106,Yes,No,Female,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,68,1107,NA,Unknown,Female,Unknown,NA
+1584489600000,1584748800000,NA,Pinellas,FL resident,No,62,1108,Yes,No,Male,No,NA
+1584576000000,1585094400000,NA,St. Johns,FL resident,Yes,69,1109,Unknown,NA,Female,No,GA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,67,1110,NA,Unknown,Male,Unknown,NA
+1584316800000,1585094400000,NA,Sarasota,FL resident,Yes,58,1111,Unknown,No,Male,No,CARIBBEAN
+1584144000000,1584489600000,Yes,Citrus,FL resident,Yes,80,1112,Yes,Yes,Male,Yes,DE
+1584576000000,1585094400000,NA,Walton,FL resident,Yes,21,1113,Unknown,Unknown,Female,Unknown,FL; TN
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,22,1114,NA,Unknown,Male,Unknown,NA
+1585094400000,1585180800000,NA,Pinellas,FL resident,Unknown,64,1115,NA,NA,Female,NA,NA
+1583625600000,1584835200000,NA,Pinellas,FL resident,Yes,52,1116,Yes,No,Male,No,Israel
+1583798400000,1584230400000,NA,Broward,FL resident,No,60,1117,Yes,No,Male,No,NA
+1585094400000,1585094400000,NA,Sarasota,FL resident,Unknown,21,1118,NA,Unknown,Female,Unknown,NA
+1584662400000,1584835200000,NA,Baker,FL resident,No,66,1119,Unknown,No,Male,Yes,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,48,1120,NA,Unknown,Male,Unknown,NA
+1584316800000,1585008000000,NA,Osceola,FL resident,No,61,1121,Yes,Yes,Female,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,54,1122,NA,Unknown,Male,Unknown,NA
+1584489600000,1585094400000,NA,Broward,FL resident,No,73,1123,NA,Yes,Male,No,NA
+1584489600000,1584576000000,NA,Collier,FL resident,Yes,47,1124,NA,NA,Female,No,France; Italy; Spain
+1584576000000,1585094400000,NA,Pinellas,FL resident,Yes,63,1125,No,No,Female,No,FL; JAPAN
+1583539200000,1584316800000,NA,Dade,FL resident,Yes,42,1126,No,Yes,Male,Yes,Puerto Rico; SC
+1584662400000,1584748800000,NA,Alachua,FL resident,Unknown,21,1127,NA,Unknown,Female,Unknown,NA
+1584489600000,1585094400000,NA,Osceola,FL resident,Yes,61,1128,No,Yes,Female,Yes,INDIA
+1583625600000,1584144000000,NA,Volusia,FL resident,Yes,71,1129,Yes,Yes,Male,Yes,Egypt; Jordan
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,41,1130,NA,Unknown,Female,Unknown,NA
+1584057600000,1584489600000,NA,Okaloosa,FL resident,Yes,24,1131,No,No,Female,No,CO; FL
+1583452800000,1584057600000,NA,Volusia,FL resident,Yes,70,1132,Yes,Unknown,Female,Yes,Egypt; Jordan
+1584835200000,1585008000000,NA,Duval,FL resident,No,56,1133,Yes,Yes,Female,Yes,NA
+1584835200000,1585008000000,NA,Hillsborough,FL resident,Unknown,52,1134,No,Unknown,Male,No,NA
+1583798400000,1584316800000,NA,Orange,FL resident,No,51,1135,No,Yes,Male,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,24,1136,NA,Unknown,Female,Unknown,NA
+1584921600000,1584921600000,NA,Lake,FL resident,No,63,1137,No,Yes,Female,No,NA
+1585180800000,1585180800000,NA,Orange,FL resident,Unknown,19,1138,NA,Unknown,Female,Unknown,NA
+1583884800000,1584403200000,NA,Volusia,FL resident,No,60,1139,Yes,No,Female,No,NA
+1583971200000,1585094400000,NA,Collier,FL resident,Yes,21,1140,NA,NA,Male,No,FL; Italy; MA
+1585180800000,1585180800000,NA,Clay,FL resident,Unknown,21,1141,NA,Unknown,Female,Unknown,NA
+1584489600000,1584489600000,NA,Palm Beach,Non-FL resident,Unknown,26,1142,Yes,Unknown,Female,Unknown,NA
+1584316800000,1585094400000,NA,Nassau,FL resident,Yes,67,1143,No,NA,Female,No,BAHAMAS; FL
+1584057600000,1584489600000,NA,Broward,FL resident,No,55,1144,No,No,Male,No,NA
+1584489600000,1584921600000,NA,Hillsborough,FL resident,Unknown,39,1145,No,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,82,1146,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,49,1147,NA,Unknown,Female,Unknown,NA
+1583712000000,1584662400000,NA,Alachua,FL resident,No,29,1148,No,Yes,Female,Unknown,NA
+1582329600000,1585180800000,NA,Lake,FL resident,Unknown,80,1149,Unknown,NA,Female,Yes,NA
+1584403200000,1585180800000,NA,Lee,FL resident,No,61,1150,No,No,Male,No,NA
+1584403200000,1584403200000,NA,Duval,FL resident,Unknown,27,1151,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,77,1152,NA,Unknown,Male,Unknown,NA
+1584057600000,1584403200000,NA,Broward,FL resident,No,70,1153,Yes,No,Male,No,NA
+1583798400000,1584230400000,NA,Duval,FL resident,No,66,1154,Yes,Yes,Male,No,NA
+1584403200000,1584489600000,NA,Alachua,FL resident,Yes,50,1155,Yes,Yes,Female,Yes,Bahamas; FL
+1583884800000,1584921600000,NA,Indian River,FL resident,No,49,1156,No,No,Male,No,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,38,1157,NA,Unknown,Male,Unknown,NA
+1583712000000,1584576000000,NA,Lake,FL resident,No,26,1158,Yes,No,Male,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,50,1159,NA,Unknown,Female,Unknown,NA
+1583971200000,1584921600000,NA,Dade,FL resident,No,40,1160,No,Yes,Male,Unknown,NA
+1584230400000,1584489600000,NA,Alachua,FL resident,Yes,51,1161,Yes,No,Male,No,BAHAMAS; FL
+1582848000000,1583971200000,NA,St. Johns,Non-FL resident,Yes,63,1162,No,Yes,Male,Yes,NY
+1585008000000,1585008000000,NA,Lee,Non-FL resident,Yes,51,1163,Unknown,Yes,Female,Yes,NY
+1584576000000,1584662400000,NA,Alachua,FL resident,No,22,1164,Yes,No,Male,No,NA
+1583625600000,1584576000000,NA,Dade,FL resident,Yes,69,1165,Yes,Yes,Male,No,IL; Israel; VA
+1584748800000,1584748800000,NA,Manatee,FL resident,No,56,1166,Unknown,Yes,Female,Yes,NA
+1584403200000,1584835200000,NA,Dade,FL resident,No,83,1167,Unknown,Yes,Male,Yes,NA
+1584662400000,1584662400000,NA,Palm Beach,FL resident,Unknown,48,1168,Unknown,Yes,Male,No,NA
+1583712000000,1584921600000,NA,Broward,FL resident,Yes,66,1169,Yes,No,Female,No,CO; ID
+1583971200000,1584921600000,NA,Dade,FL resident,Unknown,52,1170,Unknown,Yes,Female,Yes,NA
+1584403200000,1584921600000,NA,Dade,FL resident,Unknown,44,1171,Yes,Unknown,Female,No,NA
+1584316800000,1584489600000,NA,Broward,FL resident,No,93,1172,Unknown,Yes,Male,Yes,NA
+1583366400000,1584662400000,NA,St. Johns,FL resident,No,68,1173,No,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,Lake,FL resident,Unknown,76,1174,Unknown,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Duval,FL resident,Unknown,61,1175,NA,Unknown,Male,Unknown,NA
+1583625600000,1583884800000,NA,Pinellas,FL resident,Yes,55,1176,Yes,No,Male,No,Egypt
+1584403200000,1584489600000,NA,Osceola,FL resident,Yes,68,1177,No,Yes,Male,Yes,India
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,58,1178,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Orange,FL resident,Unknown,45,1179,NA,Unknown,Male,Unknown,NA
+1584057600000,1584576000000,NA,Dade,FL resident,No,75,1180,Yes,Yes,Male,Yes,NA
+1583884800000,1584576000000,NA,Broward,FL resident,No,26,1181,Yes,No,Female,No,NA
+1584748800000,1585180800000,NA,Brevard,FL resident,No,1,1182,No,No,Male,No,NA
+1583020800000,1584921600000,NA,Alachua,FL resident,No,2,1183,No,No,Female,No,NA
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,76,1184,NA,Unknown,Female,Unknown,NA
+1584144000000,1584748800000,NA,Dade,FL resident,Yes,60,1185,Unknown,Unknown,Male,Unknown,UNITED KINGDOM
+1582675200000,1584748800000,NA,Alachua,FL resident,No,20,1186,No,No,Female,No,NA
+1583884800000,1584662400000,NA,Broward,FL resident,No,38,1187,Yes,No,Male,No,NA
+1585008000000,1585094400000,NA,Orange,Non-FL resident,Yes,54,1188,NA,No,Male,No,CA; RUSSIA
+1584144000000,1584489600000,NA,Broward,FL resident,Yes,57,1189,Yes,Yes,Male,No,NJ
+1583539200000,1584144000000,NA,Collier,Non-FL resident,Yes,79,1190,No,Yes,Female,Yes,CT
+1583193600000,1583798400000,NA,Nassau,FL resident,Yes,68,1191,Yes,No,Male,No,Germany; MA
+1584057600000,1584144000000,NA,Hillsborough,FL resident,No,17,1192,No,Yes,Male,No,NA
+1583712000000,1585094400000,NA,Sumter,FL resident,No,79,1193,No,No,Female,No,NA
+1585008000000,1585094400000,NA,Hillsborough,FL resident,Yes,32,1194,Yes,NA,Female,No,NY
+1585008000000,1585008000000,NA,Lake,FL resident,Unknown,74,1195,Unknown,Unknown,Male,Unknown,NA
+1584489600000,1585008000000,NA,Leon,FL resident,Yes,34,1196,Unknown,No,Male,No,NC
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,58,1197,NA,Unknown,Female,Unknown,NA
+1583884800000,1585008000000,NA,Lee,FL resident,No,67,1198,No,Yes,Male,Yes,NA
+1584576000000,1585008000000,NA,Broward,FL resident,Unknown,1,1199,Yes,Yes,Female,No,NA
+1584921600000,1585008000000,NA,Broward,FL resident,Unknown,62,1200,NA,Unknown,Male,Unknown,NA
+1584316800000,1584835200000,NA,Pinellas,FL resident,Yes,53,1201,No,Yes,Female,No,MA
+1584662400000,1584748800000,NA,Dade,FL resident,Unknown,63,1202,No,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,34,1203,NA,Unknown,Male,Unknown,NA
+1584403200000,1585008000000,NA,Pinellas,FL resident,Yes,51,1204,No,Yes,Female,Yes,FL; NJ
+1584403200000,1584748800000,NA,Broward,FL resident,No,20,1205,Yes,Yes,Female,No,NA
+1583366400000,1584489600000,NA,Dade,FL resident,Yes,48,1206,Unknown,NA,Male,No,CO
+1584230400000,1585008000000,NA,Pinellas,FL resident,No,82,1207,No,Yes,Male,Yes,NA
+1584316800000,1584748800000,NA,Broward,FL resident,No,17,1208,Yes,Yes,Female,No,NA
+1583971200000,1584662400000,NA,Duval,FL resident,No,90,1209,Yes,Yes,Male,Yes,NA
+1584662400000,1585094400000,NA,Broward,FL resident,Unknown,50,1210,Yes,Yes,Male,Unknown,NA
+1584057600000,1584748800000,NA,Broward,FL resident,Yes,17,1211,Yes,Yes,Female,No,Spain
+1584489600000,1584748800000,NA,Duval,FL resident,No,89,1212,Yes,No,Female,Yes,NA
+1585008000000,1585008000000,NA,Palm Beach,FL resident,Unknown,25,1213,NA,Unknown,Female,Unknown,NA
+1584662400000,1585008000000,NA,Broward,FL resident,No,84,1214,Unknown,Yes,Female,Yes,NA
+1584921600000,1585008000000,NA,Dade,FL resident,Unknown,88,1215,NA,Unknown,Male,Unknown,NA
+1583971200000,1584921600000,NA,Broward,FL resident,Yes,28,1216,Yes,No,Male,No,Australia; CA; FL
+1584230400000,1584748800000,NA,Osceola,FL resident,Yes,79,1217,Yes,No,Male,No,SPAIN; UNITED KINGDOM
+1583798400000,1584144000000,NA,Broward,FL resident,Yes,20,1218,Yes,Yes,Female,No,Ireland
+1585094400000,1585180800000,NA,Hillsborough,FL resident,Unknown,61,1219,NA,NA,Male,NA,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,36,1220,NA,Unknown,Male,Unknown,NA
+1584576000000,1584662400000,NA,Dade,FL resident,Unknown,32,1221,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,51,1222,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,43,1223,Yes,Unknown,Female,Unknown,NA
+1584316800000,1585094400000,NA,Leon,FL resident,Yes,19,1224,Yes,Yes,Male,No,NY
+1584921600000,1585008000000,NA,Dade,FL resident,Unknown,40,1225,NA,Yes,Female,No,NA
+1583884800000,1584489600000,NA,Broward,FL resident,Yes,48,1226,Unknown,No,Male,No,PA
+1584576000000,1585094400000,NA,Collier,FL resident,No,58,1227,No,Yes,Female,No,NA
+1583971200000,1584662400000,NA,Dade,FL resident,Yes,42,1228,Yes,Yes,Female,No,FL; IL
+1584316800000,1584748800000,NA,Dade,FL resident,No,48,1229,Yes,Unknown,Male,No,NA
+1584230400000,1584748800000,NA,Dade,FL resident,Yes,52,1230,No,Yes,Male,No,Peru
+1584921600000,1585008000000,NA,Dade,FL resident,Unknown,32,1231,NA,Unknown,Male,Unknown,NA
+1584489600000,1585008000000,NA,Collier,FL resident,Yes,46,1232,No,Yes,Male,No,CO
+1584403200000,1584489600000,NA,Broward,FL resident,Yes,53,1233,No,No,Male,No,FL; Unknown
+1584576000000,1584576000000,NA,Orange,Non-FL resident,Yes,22,1234,Unknown,Yes,Female,No,FL; NC
+1584662400000,1585094400000,NA,Dade,FL resident,No,19,1235,Yes,Unknown,Male,Unknown,NA
+1584057600000,1584403200000,NA,Dade,FL resident,No,69,1236,No,Yes,Female,No,NA
+1583798400000,1584230400000,NA,Collier,FL resident,Yes,28,1237,Unknown,NA,Male,No,Italy
+1585094400000,1585180800000,NA,Hillsborough,FL resident,Unknown,25,1238,NA,NA,Female,NA,NA
+1583193600000,1585094400000,NA,Dade,FL resident,Yes,60,1239,No,Yes,Female,Yes,EUROPE
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,20,1240,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,No,67,1241,Unknown,No,Female,No,NA
+1585180800000,1585180800000,NA,Okaloosa,Non-FL resident,Unknown,26,1242,NA,NA,Female,NA,NA
+1584230400000,1585008000000,NA,Osceola,FL resident,No,39,1243,No,Yes,Female,Yes,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,33,1244,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,66,1245,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,43,1246,NA,Unknown,Male,Unknown,NA
+1584489600000,1585008000000,NA,Seminole,FL resident,Unknown,44,1247,No,No,Male,No,NA
+1583712000000,1585008000000,NA,Clay,FL resident,No,63,1248,Unknown,No,Male,No,NA
+1583798400000,1584662400000,NA,Hillsborough,FL resident,Yes,50,1249,Unknown,No,Male,No,SPAIN
+1584230400000,1584835200000,NA,Broward,FL resident,Yes,70,1250,No,NA,Male,Yes,Brazil; FL
+1585094400000,1585180800000,NA,Hillsborough,FL resident,Unknown,21,1251,NA,NA,Female,NA,NA
+1584316800000,1585094400000,NA,Lee,FL resident,Yes,10,1252,No,No,Male,No,CO; FL
+1585008000000,1585008000000,NA,Palm Beach,FL resident,Unknown,68,1253,NA,Unknown,Male,Unknown,NA
+1584489600000,1584489600000,NA,Orange,FL resident,No,33,1254,Yes,No,Female,No,NA
+1583884800000,1584057600000,NA,Orange,FL resident,No,41,1255,Yes,No,Male,No,NA
+1584748800000,1584748800000,NA,Duval,FL resident,Unknown,20,1256,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,45,1257,NA,Unknown,Female,Unknown,NA
+1584316800000,1584921600000,NA,Broward,FL resident,Yes,52,1258,Yes,No,Male,No,CO
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,67,1259,NA,No,Male,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,54,1260,NA,Unknown,Male,Unknown,NA
+1584057600000,1584576000000,NA,Palm Beach,FL resident,Yes,60,1261,No,Yes,Female,Yes,Russia; Spain
+1582502400000,1585008000000,NA,Dade,FL resident,No,63,1262,No,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,67,1263,NA,Unknown,Female,Unknown,NA
+1583884800000,1584748800000,NA,Broward,FL resident,Unknown,43,1264,Yes,Yes,Male,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,79,1265,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Duval,FL resident,Unknown,40,1266,NA,Unknown,Male,Unknown,NA
+1584230400000,1584748800000,NA,Hillsborough,FL resident,No,20,1267,Yes,Yes,Female,No,NA
+1584921600000,1584921600000,NA,Sumter,FL resident,No,73,1268,No,Yes,Male,Yes,NA
+1584921600000,1585008000000,NA,Broward,FL resident,Unknown,20,1269,Yes,Yes,Female,No,NA
+1585008000000,1585008000000,NA,Lake,Non-FL resident,Unknown,72,1270,No,NA,Male,Yes,NA
+1583366400000,1584576000000,NA,Orange,FL resident,No,32,1271,Unknown,Yes,Female,No,NA
+1584230400000,1584835200000,NA,Collier,Non-FL resident,Yes,17,1272,No,Yes,Female,No,United Kingdom
+1583884800000,1585094400000,NA,Palm Beach,FL resident,No,37,1273,No,No,Male,No,NA
+1584144000000,1584489600000,NA,Dade,FL resident,Yes,53,1274,Unknown,Yes,Female,Yes,FL; UNKNOWN
+1584748800000,1585094400000,NA,Broward,FL resident,No,49,1275,No,No,Male,No,NA
+1584748800000,1584921600000,NA,Broward,Non-FL resident,Yes,36,1276,Yes,Yes,Male,No,NY
+1584316800000,1585094400000,NA,Okaloosa,FL resident,No,40,1277,Yes,Yes,Female,No,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,26,1278,NA,Unknown,Female,Unknown,NA
+1583971200000,1584489600000,NA,Dade,FL resident,Yes,35,1279,No,No,Male,No,Spain
+1583798400000,1584576000000,NA,Collier,FL resident,Yes,30,1280,No,No,Female,No,Spain
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,55,1281,NA,Unknown,Female,Unknown,NA
+1584230400000,1584748800000,NA,Manatee,FL resident,Yes,75,1282,No,Yes,Male,Yes,NJ; NY
+1583971200000,1584835200000,NA,Broward,FL resident,No,43,1283,Yes,No,Female,No,NA
+1582502400000,1583712000000,NA,Volusia,FL resident,Yes,60,1284,Yes,No,Female,No,Egypt; Germany; Israel
+1584921600000,1584921600000,NA,Duval,FL resident,Unknown,49,1285,NA,Unknown,Female,Unknown,NA
+1584316800000,1584748800000,NA,Indian River,Non-FL resident,Yes,25,1286,No,No,Female,No,NY
+1584057600000,1584403200000,NA,Dade,FL resident,No,52,1287,Unknown,Yes,Male,Yes,NA
+1584489600000,1584489600000,NA,Duval,FL resident,Unknown,22,1288,NA,Unknown,Male,Unknown,NA
+1584748800000,1584921600000,NA,Hillsborough,FL resident,Unknown,64,1289,Unknown,NA,Male,NA,NA
+1585008000000,1585008000000,NA,Collier,FL resident,No,59,1290,No,No,Male,No,NA
+1584576000000,1584921600000,NA,Orange,FL resident,Yes,58,1291,Unknown,Yes,Male,No,NETHERLANDS
+1582329600000,1584835200000,NA,Duval,FL resident,Yes,53,1292,Yes,NA,Female,No,FL; NV
+1584057600000,1584748800000,NA,Clay,FL resident,Yes,61,1293,Unknown,Yes,Female,No,DC; FL
+1584835200000,1585094400000,NA,Monroe,FL resident,Yes,19,1294,Yes,NA,Male,No,FL; PA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,18,1295,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,33,1296,NA,Unknown,Male,Unknown,NA
+1584403200000,1585008000000,NA,Lee,FL resident,No,75,1297,No,Yes,Male,Yes,NA
+1584403200000,1584662400000,NA,Citrus,FL resident,No,33,1298,No,NA,Female,No,NA
+1585094400000,1585094400000,NA,Orange,Non-FL resident,Unknown,56,1299,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,64,1300,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Broward,FL resident,Unknown,59,1301,NA,Unknown,Male,Unknown,NA
+1584576000000,1584921600000,Yes,Sarasota,FL resident,Yes,81,1302,No,Yes,Male,Yes,NY
+1583366400000,1585008000000,NA,Santa Rosa,FL resident,Yes,60,1303,No,No,Female,No,MEXICO
+1584921600000,1585008000000,NA,Collier,Non-FL resident,No,82,1304,No,Yes,Male,Yes,NA
+1583798400000,1584835200000,NA,Pinellas,Non-FL resident,Yes,28,1305,Yes,No,Female,No,NY
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,70,1306,NA,Unknown,Male,Unknown,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,31,1307,NA,Unknown,Male,Unknown,NA
+1583884800000,1584748800000,NA,Broward,FL resident,No,25,1308,Yes,Yes,Male,No,NA
+1584144000000,1584489600000,NA,St. Johns,Non-FL resident,Yes,46,1309,Yes,Yes,Male,Unknown,FL; MN
+1584576000000,1584576000000,NA,Palm Beach,Non-FL resident,Unknown,78,1310,Unknown,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Pinellas,FL resident,Unknown,32,1311,NA,NA,Male,No,NA
+1584144000000,1584662400000,NA,Brevard,FL resident,No,49,1312,Yes,Yes,Male,No,NA
+1583798400000,1584748800000,NA,Indian River,FL resident,Yes,30,1313,No,No,Female,No,PORTUGAL; SPAIN; UNITED KINGDOM
+1584316800000,1585008000000,NA,Broward,FL resident,Yes,58,1314,Unknown,No,Male,No,NY
+1584403200000,1584662400000,NA,Okaloosa,FL resident,Yes,25,1315,No,No,Male,No,CA
+1584403200000,1585008000000,NA,Hillsborough,FL resident,Unknown,46,1316,Unknown,Unknown,Female,Unknown,NA
+1584144000000,1584835200000,NA,Indian River,FL resident,No,81,1317,No,No,Female,Yes,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,41,1318,NA,Unknown,Female,Unknown,NA
+1583971200000,1584921600000,NA,Broward,FL resident,No,29,1319,Yes,No,Male,No,NA
+1583884800000,1584748800000,NA,Dade,FL resident,Yes,46,1320,Yes,Yes,Male,No,NY
+1584403200000,1585008000000,NA,Orange,FL resident,Yes,45,1321,No,No,Male,No,VENEZUELA
+1584230400000,1585094400000,NA,Dade,FL resident,Unknown,34,1322,No,NA,Female,No,NA
+1584057600000,1584489600000,NA,Dade,FL resident,No,36,1323,Yes,No,Female,No,NA
+1583884800000,1584144000000,NA,Broward,Non-FL resident,Yes,19,1324,Yes,Yes,Female,Yes,Ireland
+1583884800000,1584316800000,NA,Broward,FL resident,No,54,1325,No,Yes,Female,No,NA
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,33,1326,NA,NA,Unknown,NA,NA
+1585008000000,1585094400000,NA,Dade,FL resident,Unknown,65,1327,NA,Unknown,Male,Unknown,NA
+1584748800000,1584835200000,NA,Dade,FL resident,Unknown,10,1328,Yes,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,27,1329,NA,Unknown,Female,Unknown,NA
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,50,1330,NA,Unknown,Female,Unknown,NA
+1583798400000,1584403200000,NA,Lake,FL resident,Yes,56,1331,Yes,Yes,Male,No,CO; FL
+1584662400000,1585008000000,NA,Lake,FL resident,No,55,1332,Yes,NA,Female,No,NA
+1585180800000,1585180800000,NA,Flagler,FL resident,Unknown,30,1333,NA,Unknown,Female,Unknown,NA
+1584748800000,1584748800000,NA,Alachua,FL resident,Unknown,22,1334,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,No,45,1335,NA,NA,Male,Yes,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,88,1336,NA,Unknown,Female,Unknown,NA
+1584316800000,1584576000000,NA,Dade,FL resident,Yes,48,1337,Yes,Yes,Female,No,SPAIN
+1585180800000,1585180800000,NA,Okaloosa,Non-FL resident,No,24,1338,NA,NA,Male,No,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,55,1339,NA,Unknown,Male,Unknown,NA
+1584835200000,1584921600000,NA,Broward,FL resident,Unknown,72,1340,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Broward,FL resident,Yes,33,1341,Unknown,Yes,Male,No,FL; Mexico
+1584748800000,1584835200000,NA,Dade,FL resident,Unknown,74,1342,NA,Unknown,Female,Yes,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,46,1343,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,28,1344,NA,Unknown,Male,Unknown,NA
+1584057600000,1585008000000,NA,Clay,FL resident,Yes,25,1345,Yes,No,Male,No,BAHAMAS; FL
+1585094400000,1585094400000,NA,Collier,FL resident,Unknown,30,1346,NA,Unknown,Male,Unknown,NA
+1584403200000,1584835200000,NA,Dade,FL resident,Yes,38,1347,Unknown,No,Male,No,CUBA; FL
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,52,1348,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,46,1349,NA,Unknown,Female,Unknown,NA
+1584662400000,1584662400000,NA,Dade,FL resident,Unknown,36,1350,No,Unknown,Male,Unknown,NA
+1584662400000,1584921600000,NA,Broward,FL resident,No,74,1351,Unknown,Yes,Male,Yes,NA
+1584057600000,1584489600000,NA,Broward,FL resident,No,33,1352,Yes,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,59,1353,NA,Unknown,Female,Unknown,NA
+1584489600000,1584662400000,NA,Polk,FL resident,No,8,1354,Yes,NA,Male,NA,NA
+1584057600000,1584230400000,NA,Broward,FL resident,Yes,52,1355,Yes,No,Female,No,FRANCE
+1583884800000,1584144000000,NA,Dade,FL resident,No,42,1356,No,Yes,Female,No,NA
+1583452800000,1584144000000,NA,Broward,FL resident,Yes,64,1357,Yes,No,Male,No,France; GA; NC; Spain
+1584230400000,1584921600000,NA,Broward,FL resident,Yes,64,1358,Yes,No,Female,No,PERU
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,26,1359,NA,Unknown,Female,Unknown,NA
+1584316800000,1584748800000,NA,Dade,FL resident,Unknown,51,1360,NA,Yes,Female,No,NA
+1584403200000,1585008000000,NA,Orange,FL resident,No,50,1361,No,No,Female,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,36,1362,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Alachua,FL resident,Unknown,30,1363,NA,Unknown,Female,Unknown,NA
+1583539200000,1584403200000,NA,Dade,FL resident,Yes,45,1364,No,Yes,Male,No,France; United Kingdom
+1584144000000,1584662400000,NA,Broward,FL resident,Yes,53,1365,No,NA,Female,No,FL; GA; HI; MA
+1583971200000,1584576000000,NA,Dade,FL resident,Unknown,43,1366,Unknown,Yes,Male,Yes,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,42,1367,NA,Unknown,Male,Unknown,NA
+1584835200000,1585094400000,NA,Sarasota,FL resident,Yes,70,1368,No,Yes,Female,Yes,ISRAEL; SPAIN
+1584576000000,1585008000000,NA,Volusia,FL resident,No,49,1369,Yes,No,Female,No,NA
+1583884800000,1584230400000,NA,Broward,FL resident,Yes,20,1370,Yes,No,Female,No,Ireland
+1581120000000,1583712000000,NA,Charlotte,FL resident,Yes,54,1371,Yes,NA,Female,Yes,Egypt; Israel
+1584576000000,1584662400000,NA,Charlotte,FL resident,No,55,1372,Yes,NA,Male,No,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,84,1373,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Sumter,FL resident,Unknown,79,1374,NA,Unknown,Male,Unknown,NA
+1584057600000,1585008000000,NA,Broward,FL resident,No,42,1375,No,No,Female,No,NA
+1584748800000,1584835200000,NA,Escambia,FL resident,No,25,1376,No,NA,Female,No,NA
+1584489600000,1585008000000,NA,Polk,FL resident,No,47,1377,No,Yes,Male,Yes,NA
+1584057600000,1584489600000,NA,Dade,FL resident,Yes,45,1378,Yes,Yes,Male,No,ECUADOR
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,13,1379,Yes,NA,Male,NA,NA
+1584230400000,1584835200000,NA,Dade,FL resident,No,42,1380,No,Yes,Male,No,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,56,1381,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,81,1382,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Duval,FL resident,Unknown,26,1383,NA,Unknown,Female,Unknown,NA
+1585008000000,1585094400000,NA,Dade,FL resident,Unknown,60,1384,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,36,1385,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,48,1386,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,72,1387,NA,Unknown,Male,Unknown,NA
+1584057600000,1584576000000,NA,Duval,FL resident,No,78,1388,Yes,Yes,Female,Yes,NA
+1580947200000,1584662400000,NA,Orange,FL resident,No,61,1389,No,Yes,Male,Yes,NA
+1584835200000,1584921600000,NA,Broward,FL resident,No,96,1390,Yes,Yes,Female,Yes,NA
+1584748800000,1584835200000,NA,Broward,FL resident,No,61,1391,Yes,Yes,Female,Yes,NA
+1584316800000,1584835200000,NA,Collier,FL resident,No,17,1392,No,No,Male,No,NA
+1583971200000,1584576000000,NA,Dade,FL resident,Yes,31,1393,Unknown,Yes,Male,Unknown,PORTUGAL; UNITED KINGDOM
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,20,1394,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Yes,46,1395,No,Unknown,Female,Unknown,SPAIN
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,21,1396,NA,Unknown,Male,Unknown,NA
+1584748800000,1584748800000,NA,Duval,FL resident,Unknown,52,1397,NA,Unknown,Female,Unknown,NA
+1584230400000,1584489600000,NA,Orange,FL resident,Unknown,49,1398,Unknown,Yes,Male,Yes,NA
+1584835200000,1585008000000,NA,Dade,FL resident,Unknown,51,1399,NA,Unknown,Male,Unknown,NA
+1584230400000,1584921600000,NA,Orange,FL resident,Yes,46,1400,No,No,Female,No,FL; UNITED KINGDOM
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,51,1401,NA,Unknown,Male,Unknown,NA
+1583625600000,1584662400000,NA,Palm Beach,FL resident,Unknown,66,1402,Unknown,Yes,Male,Unknown,NA
+1584316800000,1584576000000,NA,Dade,FL resident,No,64,1403,No,No,Female,No,NA
+1584316800000,1584662400000,NA,Broward,FL resident,No,65,1404,Yes,Yes,Male,Unknown,NA
+1584662400000,1585094400000,NA,Manatee,FL resident,Yes,58,1405,No,NA,Male,No,ITALY; NY
+1584748800000,1584748800000,NA,Alachua,FL resident,Unknown,55,1406,NA,Unknown,Male,Unknown,NA
+1583798400000,1584230400000,NA,Dade,FL resident,Yes,62,1407,Unknown,Yes,Male,No,FL; NY
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,67,1408,NA,Unknown,Male,Unknown,NA
+1584748800000,1585094400000,NA,Volusia,FL resident,Yes,45,1409,NA,No,Male,No,CUBA; FL
+1584748800000,1584748800000,NA,Dade,FL resident,Unknown,30,1410,NA,Unknown,Male,Unknown,NA
+1584230400000,1584835200000,NA,St. Johns,FL resident,No,44,1411,No,No,Male,No,NA
+1583884800000,1585094400000,NA,Seminole,FL resident,Unknown,43,1412,Unknown,Yes,Male,Yes,NA
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,39,1413,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Broward,Non-FL resident,Unknown,37,1414,NA,Unknown,Male,Unknown,NA
+1583798400000,1584057600000,NA,Broward,FL resident,No,68,1415,Yes,No,Female,No,NA
+1584316800000,1584403200000,NA,Dade,FL resident,Unknown,57,1416,NA,NA,Female,No,NA
+1583452800000,1584144000000,NA,Dade,FL resident,No,73,1417,Yes,Yes,Male,Yes,NA
+1584489600000,1584748800000,NA,Dade,FL resident,Unknown,35,1418,No,Yes,Female,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,52,1419,NA,Unknown,Female,Unknown,NA
+1583712000000,1584489600000,NA,Broward,FL resident,Yes,54,1420,Yes,No,Male,Yes,FL; IL
+1584403200000,1585094400000,NA,Broward,FL resident,No,59,1421,Yes,No,Male,No,NA
+1583971200000,1584835200000,NA,Pinellas,FL resident,Yes,66,1422,No,Yes,Female,Yes,FL; NV
+1584748800000,1584921600000,NA,Dade,FL resident,Unknown,64,1423,No,Yes,Male,No,NA
+1584403200000,1584748800000,NA,Dade,FL resident,No,78,1424,Yes,No,Male,No,NA
+1583971200000,1585008000000,NA,St. Johns,FL resident,Yes,59,1425,No,No,Male,No,BURKINA FASO
+1585008000000,1585094400000,NA,Lake,FL resident,Yes,74,1426,No,Yes,Female,Yes,EUROPE
+1583280000000,1584662400000,NA,Palm Beach,FL resident,No,53,1427,No,Yes,Male,Yes,NA
+1584489600000,1585008000000,NA,Volusia,FL resident,No,78,1428,No,Yes,Female,No,NA
+1584144000000,1585094400000,NA,Dade,FL resident,Yes,51,1429,NA,Yes,Female,No,NY
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,46,1430,NA,Unknown,Male,Unknown,NA
+1584835200000,1585008000000,NA,Baker,FL resident,No,64,1431,Yes,No,Female,No,NA
+1584144000000,1584576000000,NA,Hernando,FL resident,Yes,20,1432,Unknown,No,Male,No,SPAIN
+1584144000000,1584576000000,NA,Hillsborough,FL resident,No,28,1433,Yes,No,Male,No,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,53,1434,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,42,1435,NA,Unknown,Male,Unknown,NA
+1584748800000,1584835200000,NA,Marion,FL resident,Yes,48,1436,No,No,Female,No,FL; Ireland
+1584748800000,1585094400000,NA,Orange,FL resident,Yes,77,1437,Yes,NA,Male,Yes,FL; NY
+1584748800000,1584835200000,NA,Dade,FL resident,Unknown,67,1438,Yes,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Osceola,FL resident,Unknown,48,1439,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,61,1440,NA,Unknown,Male,Unknown,NA
+1584057600000,1584576000000,NA,Broward,FL resident,No,47,1441,Yes,Yes,Male,Yes,NA
+1584835200000,1584835200000,NA,Broward,FL resident,Unknown,60,1442,NA,Unknown,Female,Unknown,NA
+1584316800000,1584835200000,NA,Palm Beach,FL resident,No,28,1443,Unknown,Yes,Male,No,NA
+1583798400000,1584835200000,NA,Dade,FL resident,No,58,1444,Yes,No,Male,No,NA
+1583280000000,1583280000000,NA,Dade,Not diagnosed/isolated in FL,Yes,64,1445,Yes,NA,Male,Unknown,Japan
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,74,1446,NA,Unknown,Female,Unknown,NA
+1584316800000,1584748800000,NA,Broward,FL resident,No,57,1447,No,No,Female,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,71,1448,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,46,1449,NA,Unknown,Female,Unknown,NA
+1584144000000,1584576000000,NA,Pinellas,FL resident,Yes,24,1450,Yes,Yes,Female,Yes,Spain
+1584403200000,1584662400000,NA,Broward,FL resident,No,75,1451,Yes,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,44,1452,NA,Unknown,Male,Unknown,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,30,1453,Unknown,Yes,Male,No,NA
+1583798400000,1584835200000,NA,Dade,FL resident,Yes,50,1454,No,No,Male,No,IL
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,30,1455,NA,Unknown,Male,Unknown,NA
+1584403200000,1584662400000,NA,Broward,FL resident,No,32,1456,No,Yes,Male,No,NA
+1585008000000,1585008000000,NA,Alachua,FL resident,Unknown,20,1457,NA,Unknown,Male,Unknown,NA
+1583798400000,1584057600000,NA,Lake,FL resident,Yes,75,1458,Yes,Yes,Female,No,FL; NY
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,49,1459,NA,Unknown,Female,Unknown,NA
+1584230400000,1584662400000,NA,Broward,FL resident,No,73,1460,Yes,Yes,Male,No,NA
+1584576000000,1584748800000,NA,Duval,FL resident,Unknown,88,1461,NA,NA,Male,NA,NA
+1585008000000,1585008000000,NA,Alachua,FL resident,Unknown,25,1462,NA,Unknown,Female,Unknown,NA
+1583798400000,1584230400000,NA,Broward,FL resident,No,74,1463,Yes,Yes,Male,Yes,NA
+1584230400000,1584835200000,NA,Broward,Non-FL resident,Yes,47,1464,Unknown,Yes,Male,No,FL; MA
+1584576000000,1585094400000,NA,Orange,FL resident,Unknown,63,1465,Yes,No,Male,NA,NA
+1584316800000,1584921600000,NA,Orange,FL resident,Yes,62,1466,Yes,Yes,Male,No,FL; SPAIN
+1585008000000,1585008000000,NA,Monroe,Non-FL resident,Yes,79,1467,Unknown,NA,Male,Unknown,FL; NY
+1584576000000,1585008000000,NA,Orange,FL resident,No,26,1468,Yes,No,Male,No,NA
+1584057600000,1584489600000,NA,Broward,FL resident,Yes,30,1469,No,Yes,Male,No,CT; FL; Italy
+1584144000000,1584835200000,NA,Lee,FL resident,No,32,1470,No,Yes,Male,Yes,NA
+1584403200000,1584403200000,NA,Duval,FL resident,Unknown,44,1471,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Seminole,FL resident,Unknown,34,1472,NA,Unknown,Male,Unknown,NA
+1584057600000,1584662400000,NA,Collier,FL resident,Yes,59,1473,No,NA,Male,No,CANADA
+1584662400000,1584748800000,NA,Dade,FL resident,Unknown,59,1474,NA,Unknown,Male,Unknown,NA
+1584489600000,1584576000000,NA,Orange,FL resident,Unknown,62,1475,Yes,Yes,Male,Yes,NA
+1583971200000,1584489600000,NA,Palm Beach,FL resident,No,72,1476,No,Yes,Male,Yes,NA
+1583539200000,1584316800000,NA,Broward,FL resident,No,65,1477,Yes,No,Male,No,NA
+1583625600000,1584576000000,NA,Broward,FL resident,No,60,1478,Yes,NA,Male,Yes,NA
+1585008000000,1585008000000,NA,Monroe,FL resident,Yes,80,1479,No,Yes,Male,Yes,CARIBBEAN; HAITI
+1584403200000,1584835200000,NA,Sarasota,FL resident,No,78,1480,No,No,Female,No,NA
+1584662400000,1584748800000,NA,Duval,FL resident,Unknown,57,1481,Yes,No,Female,No,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,76,1482,NA,Unknown,Female,Unknown,NA
+1584403200000,1584489600000,NA,Duval,FL resident,No,91,1483,Yes,No,Male,No,NA
+1584835200000,1584921600000,NA,Broward,FL resident,Unknown,29,1484,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,61,1485,NA,Unknown,Female,Unknown,NA
+1584230400000,1585094400000,NA,Hillsborough,FL resident,No,41,1486,Yes,No,Female,No,NA
+1585008000000,1585094400000,NA,Dade,FL resident,Unknown,28,1487,NA,Unknown,Female,Unknown,NA
+1584230400000,1584835200000,NA,Broward,FL resident,No,30,1488,No,No,Male,No,NA
+1584316800000,1585094400000,NA,Palm Beach,FL resident,Yes,59,1489,Yes,No,Male,No,CO
+1583366400000,1584489600000,NA,Collier,FL resident,No,77,1490,No,NA,Male,Yes,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,80,1491,NA,Unknown,Female,Unknown,NA
+1584403200000,1585094400000,NA,Broward,FL resident,Unknown,36,1492,Yes,Unknown,Male,No,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,80,1493,NA,Unknown,Male,Unknown,NA
+1583107200000,1583625600000,NA,Volusia,FL resident,Yes,66,1494,Yes,Yes,Female,No,Egypt; Germany; Israel
+1584230400000,1585094400000,NA,Lee,FL resident,No,79,1495,Yes,No,Male,No,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,27,1496,NA,Unknown,Female,Unknown,NA
+1584057600000,1584403200000,NA,Dade,FL resident,Yes,28,1497,Yes,No,Female,No,Ireland
+1583884800000,1584403200000,NA,Seminole,FL resident,No,45,1498,Unknown,Yes,Female,Yes,NA
+1585180800000,1585180800000,NA,Seminole,FL resident,Unknown,29,1499,NA,Unknown,Male,Unknown,NA
+1583625600000,1585180800000,NA,Sumter,FL resident,Yes,73,1500,NA,NA,Male,No,CARIBBEAN
+1583798400000,1585094400000,NA,Dade,FL resident,Yes,30,1501,Unknown,No,Female,No,CO
+1584748800000,1584835200000,NA,Palm Beach,FL resident,Unknown,52,1502,NA,Unknown,Female,Unknown,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,44,1503,NA,Unknown,Male,Unknown,NA
+1584057600000,1584057600000,NA,Palm Beach,FL resident,Yes,73,1504,Yes,Yes,Male,Yes,Egypt; Germany
+1585180800000,1585180800000,NA,Desoto,FL resident,Unknown,63,1505,NA,NA,Male,NA,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,50,1506,NA,Unknown,Male,Unknown,NA
+1584144000000,1584662400000,NA,Seminole,FL resident,Yes,62,1507,No,Yes,Female,Yes,CT; FL; OK
+1585008000000,1585008000000,NA,Highlands,FL resident,Yes,78,1508,Unknown,Yes,Female,Unknown,CARIBBEAN; FL
+1584835200000,1584835200000,NA,Alachua,FL resident,Unknown,22,1509,NA,Unknown,Male,Unknown,NA
+1584316800000,1585094400000,NA,Volusia,FL resident,Yes,53,1510,Unknown,Yes,Male,Yes,FL; NY
+1584748800000,1585008000000,NA,Broward,FL resident,Yes,60,1511,Yes,Yes,Male,No,Ecuador
+1584662400000,1584921600000,NA,Broward,FL resident,Yes,28,1512,Yes,No,Male,No,Ecuador
+1584921600000,1584921600000,NA,Osceola,FL resident,Yes,36,1513,Yes,Yes,Male,Yes,NY
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,40,1514,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Collier,FL resident,Unknown,33,1515,NA,Unknown,Male,Unknown,NA
+1584921600000,1584921600000,NA,Broward,FL resident,Unknown,28,1516,NA,Unknown,Male,Unknown,NA
+1584748800000,1584748800000,NA,Dade,FL resident,Unknown,71,1517,NA,Unknown,Male,Unknown,NA
+1584662400000,1584662400000,NA,Dade,FL resident,Unknown,42,1518,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,37,1519,NA,Unknown,Male,Unknown,NA
+1584835200000,1585008000000,NA,Broward,FL resident,No,74,1520,Unknown,Yes,Male,No,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,47,1521,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,45,1522,NA,Unknown,Male,Unknown,NA
+1583971200000,1584489600000,NA,Collier,FL resident,Yes,59,1523,Unknown,NA,Male,NA,Japan
+1583712000000,1585094400000,NA,Hillsborough,FL resident,No,73,1524,No,Yes,Male,Yes,NA
+1583107200000,1584057600000,NA,Broward,FL resident,Yes,26,1525,Yes,NA,Female,Yes,Trinidad and Tobago
+1584403200000,1584835200000,NA,Broward,FL resident,No,50,1526,Yes,No,Male,No,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,85,1527,Yes,Yes,Male,Unknown,NA
+1582934400000,1584576000000,NA,Jackson,Non-FL resident,Yes,33,1528,Unknown,No,Male,No,AL; FL; GA; LA; Mexico; TX
+1584316800000,1585008000000,NA,St. Lucie,Non-FL resident,Yes,19,1529,No,No,Female,No,NY
+1584230400000,1584403200000,NA,Broward,FL resident,Yes,53,1530,No,Yes,Male,No,NC
+1583798400000,1585094400000,NA,St. Lucie,FL resident,No,26,1531,No,Yes,Female,No,NA
+1584230400000,1584748800000,NA,Broward,FL resident,Yes,45,1532,No,Yes,Female,No,SPAIN
+1583625600000,1584316800000,NA,Dade,FL resident,Yes,43,1533,Yes,NA,Female,No,UT
+1584489600000,1584748800000,NA,Dade,FL resident,Yes,84,1534,Yes,Yes,Female,No,NY
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,22,1535,NA,Unknown,Female,Unknown,NA
+1584144000000,1584748800000,NA,Dade,FL resident,Unknown,72,1536,NA,Unknown,Male,No,NA
+1584921600000,1585008000000,NA,Hillsborough,FL resident,Yes,48,1537,Yes,NA,Female,No,IL
+1584316800000,1585094400000,NA,Broward,FL resident,Yes,63,1538,Yes,Yes,Male,No,NY
+1584748800000,1585008000000,NA,Broward,FL resident,Unknown,52,1539,Yes,Yes,Female,Yes,NA
+1584403200000,1585008000000,NA,Palm Beach,FL resident,No,57,1540,No,Yes,Female,No,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,43,1541,NA,Unknown,Unknown,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,30,1542,NA,Yes,Female,NA,NA
+1585008000000,1585094400000,NA,Dade,FL resident,Unknown,27,1543,NA,Unknown,Female,Unknown,NA
+1583884800000,1585008000000,NA,Broward,FL resident,Yes,58,1544,Yes,Yes,Female,No,GA
+1584403200000,1585094400000,NA,Broward,FL resident,Yes,73,1545,Unknown,Yes,Male,No,SPAIN
+1585180800000,1585180800000,NA,Pasco,FL resident,Unknown,46,1546,NA,Unknown,Male,Unknown,NA
+1583971200000,1584403200000,NA,Dade,FL resident,Yes,44,1547,No,Yes,Male,No,FRANCE
+1585008000000,1585008000000,NA,Orange,FL resident,Unknown,47,1548,NA,Unknown,Female,Unknown,NA
+1584230400000,1585094400000,NA,Dade,FL resident,Unknown,76,1549,NA,Yes,Female,Yes,NA
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,46,1550,NA,Unknown,Female,Unknown,NA
+1584921600000,1585094400000,NA,Dade,FL resident,Unknown,80,1551,NA,NA,Male,NA,NA
+1584057600000,1584403200000,NA,Hillsborough,FL resident,No,23,1552,Yes,No,Male,No,NA
+1584057600000,1584921600000,NA,St. Lucie,FL resident,No,77,1553,No,No,Female,No,NA
+1584316800000,1584748800000,NA,Osceola,FL resident,No,21,1554,Yes,No,Female,No,NA
+1583539200000,1584748800000,NA,Pinellas,FL resident,Yes,67,1555,No,No,Male,No,FL; VA; WA
+1584316800000,1585180800000,NA,Citrus,FL resident,Unknown,41,1556,NA,NA,Male,NA,NA
+1583884800000,1584835200000,NA,Dade,FL resident,No,40,1557,Yes,Unknown,Male,Yes,NA
+1584316800000,1584662400000,NA,Seminole,FL resident,No,61,1558,No,Yes,Male,Yes,NA
+1585008000000,1585094400000,NA,Dade,FL resident,Unknown,29,1559,NA,Unknown,Female,Unknown,NA
+1584921600000,1585008000000,NA,Dade,FL resident,Unknown,56,1560,NA,Unknown,Female,Unknown,NA
+1582934400000,1584144000000,NA,Dade,FL resident,Yes,42,1561,No,Yes,Male,Yes,Spain
+1584576000000,1585180800000,NA,Citrus,FL resident,Unknown,41,1562,NA,NA,Female,NA,NA
+1584576000000,1585008000000,NA,Pasco,FL resident,Yes,33,1563,No,No,Male,No,UNITED KINGDOM
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,48,1564,NA,Unknown,Male,Unknown,NA
+1584316800000,1584835200000,NA,Dade,FL resident,No,37,1565,Yes,No,Male,No,NA
+1584576000000,1585094400000,NA,Orange,FL resident,No,81,1566,No,No,Female,Yes,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,60,1567,NA,Unknown,Female,Unknown,NA
+1584489600000,1584662400000,NA,Polk,FL resident,No,77,1568,No,Yes,Female,Yes,NA
+1584144000000,1584489600000,NA,Broward,FL resident,No,75,1569,Yes,No,Male,No,NA
+1583798400000,1584748800000,NA,Indian River,FL resident,No,54,1570,No,No,Male,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,43,1571,NA,Unknown,Female,Unknown,NA
+1584748800000,1584748800000,NA,Alachua,FL resident,Unknown,54,1572,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Palm Beach,FL resident,Unknown,18,1573,NA,Unknown,Female,Unknown,NA
+1584921600000,1585008000000,NA,Dade,FL resident,Unknown,50,1574,Unknown,Unknown,Male,Unknown,NA
+1583971200000,1584316800000,NA,Broward,FL resident,No,76,1575,Unknown,Yes,Male,Yes,NA
+1584835200000,1585008000000,NA,Broward,FL resident,Unknown,0,1576,Yes,Yes,Male,No,NA
+1584316800000,1584748800000,NA,Broward,FL resident,No,56,1577,No,No,Female,No,NA
+1584316800000,1584921600000,NA,Broward,FL resident,No,59,1578,NA,No,Male,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,49,1579,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,43,1580,NA,Unknown,Male,Unknown,NA
+1584403200000,1584662400000,Yes,Broward,FL resident,No,92,1581,Unknown,No,Male,No,NA
+1583971200000,1584576000000,NA,Martin,FL resident,Yes,45,1582,Unknown,No,Female,No,Brazil; FL
+1585094400000,1585180800000,NA,Hillsborough,FL resident,Unknown,20,1583,NA,NA,Male,NA,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,20,1584,NA,Unknown,Unknown,Unknown,NA
+1584316800000,1585008000000,NA,Seminole,FL resident,Yes,29,1585,Unknown,No,Female,No,NY
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,71,1586,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,62,1587,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,84,1588,NA,Unknown,Male,Unknown,NA
+1584057600000,1584662400000,NA,Sarasota,FL resident,No,74,1589,No,No,Male,No,NA
+1584403200000,1585008000000,NA,Osceola,FL resident,Yes,27,1590,Unknown,Yes,Male,Yes,NETHERLANDS
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,41,1591,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,39,1592,NA,Unknown,Male,Unknown,NA
+1584316800000,1584748800000,NA,Lee,FL resident,Unknown,60,1593,No,No,Male,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,63,1594,NA,Unknown,Female,Unknown,NA
+1583452800000,1584662400000,NA,Palm Beach,Non-FL resident,Yes,23,1595,No,Yes,Female,No,FL; Jamaica
+1584489600000,1584748800000,NA,Hillsborough,FL resident,No,38,1596,Yes,No,Female,No,NA
+1584835200000,1585008000000,NA,Palm Beach,FL resident,Unknown,46,1597,Unknown,No,Female,No,NA
+1583712000000,1584489600000,NA,Broward,FL resident,Yes,42,1598,Yes,No,Male,No,Australia
+1584144000000,1584403200000,NA,Broward,FL resident,No,46,1599,Unknown,Yes,Female,No,NA
+1584921600000,1584921600000,NA,Palm Beach,FL resident,Unknown,44,1600,NA,Unknown,Male,Unknown,NA
+1583971200000,1585094400000,Yes,Clay,FL resident,No,77,1601,No,NA,Female,Yes,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,93,1602,NA,NA,Female,Yes,NA
+1584748800000,1584748800000,NA,Orange,FL resident,Unknown,63,1603,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Orange,FL resident,Unknown,43,1604,NA,Unknown,Male,Unknown,NA
+1583971200000,1584921600000,NA,Pasco,FL resident,No,32,1605,No,No,Female,No,NA
+1584230400000,1584748800000,NA,Hillsborough,FL resident,Yes,20,1606,No,NA,Female,No,Venezuela
+1585008000000,1585008000000,NA,Dade,FL resident,Yes,38,1607,NA,Unknown,Male,No,FL; TX
+1584662400000,1584748800000,NA,Broward,FL resident,Unknown,21,1608,NA,Unknown,Male,Unknown,NA
+1584316800000,1584835200000,NA,Dade,FL resident,No,34,1609,Unknown,No,Female,No,NA
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,57,1610,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,31,1611,NA,Unknown,Male,Unknown,NA
+1584662400000,1585094400000,NA,Desoto,FL resident,No,27,1612,Yes,No,Female,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,51,1613,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,36,1614,NA,Unknown,Male,Unknown,NA
+1584576000000,1584835200000,NA,Broward,FL resident,Unknown,24,1615,Unknown,No,Male,No,NA
+1584403200000,1584921600000,NA,Seminole,FL resident,No,29,1616,Yes,No,Female,No,NA
+1584662400000,1585094400000,NA,Desoto,FL resident,No,28,1617,Yes,No,Male,No,NA
+1584316800000,1585094400000,NA,Desoto,FL resident,No,32,1618,Yes,No,Male,No,NA
+1585094400000,1585094400000,NA,Seminole,FL resident,Unknown,49,1619,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Seminole,FL resident,Unknown,49,1620,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,32,1621,NA,Unknown,Male,Unknown,NA
+1584316800000,1584748800000,NA,Broward,FL resident,No,86,1622,Yes,Yes,Male,Yes,NA
+1584748800000,1584748800000,NA,Duval,FL resident,Unknown,84,1623,NA,Unknown,Male,Unknown,NA
+1584403200000,1584662400000,NA,Broward,FL resident,No,28,1624,No,Yes,Female,No,NA
+1584748800000,1584921600000,NA,Dade,FL resident,Yes,65,1625,NA,Yes,Male,Yes,Spain
+1584748800000,1584835200000,NA,Dade,FL resident,Unknown,65,1626,NA,Unknown,Male,Unknown,NA
+1584144000000,1584662400000,NA,Polk,FL resident,Yes,77,1627,Yes,Yes,Female,Yes,FL; NY
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,57,1628,NA,Unknown,Male,Unknown,NA
+1583971200000,1584662400000,NA,Polk,FL resident,No,74,1629,Yes,Yes,Male,Yes,NA
+1583712000000,1585094400000,NA,Broward,FL resident,Yes,70,1630,Yes,No,Female,No,NY
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,57,1631,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,37,1632,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,59,1633,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,53,1634,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Alachua,FL resident,Unknown,30,1635,NA,Unknown,Female,Unknown,NA
+1583884800000,1584230400000,NA,Broward,FL resident,Yes,19,1636,Yes,Yes,Female,No,Ireland
+1584489600000,1585094400000,NA,Broward,FL resident,Yes,79,1637,Unknown,Yes,Male,No,PERU
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,57,1638,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,55,1639,NA,Unknown,Female,Unknown,NA
+1584403200000,1585180800000,NA,Pinellas,FL resident,No,53,1640,Yes,No,Male,No,NA
+1584835200000,1585094400000,NA,Dade,FL resident,Unknown,29,1641,Unknown,Yes,Male,No,NA
+1583366400000,1584316800000,NA,Palm Beach,FL resident,Yes,62,1642,Yes,Unknown,Male,Yes,United Kingdom
+1585008000000,1585008000000,NA,Marion,FL resident,Yes,62,1643,Unknown,No,Male,No,FL; TX
+1584662400000,1585008000000,NA,Broward,FL resident,No,38,1644,Yes,Yes,Male,No,NA
+1584403200000,1584748800000,NA,Hillsborough,FL resident,Yes,62,1645,Yes,No,Male,No,FL; NY
+1584921600000,1585094400000,NA,Collier,Non-FL resident,Unknown,44,1646,NA,NA,Male,NA,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,38,1647,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,75,1648,Yes,Unknown,Female,Unknown,NA
+1584316800000,1584748800000,NA,Hillsborough,FL resident,Yes,54,1649,Yes,No,Female,No,FL; NY
+1584230400000,1585008000000,NA,Orange,FL resident,No,26,1650,No,Unknown,Male,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,40,1651,NA,Unknown,Female,Unknown,NA
+1584489600000,1584835200000,NA,Columbia,FL resident,No,70,1652,No,NA,Female,No,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,86,1653,Yes,Unknown,Male,Unknown,NA
+1584662400000,1584662400000,NA,Dade,FL resident,Unknown,25,1654,NA,Unknown,Male,Unknown,NA
+1584576000000,1585008000000,NA,Broward,FL resident,Unknown,61,1655,No,Yes,Male,No,NA
+1583971200000,1584403200000,NA,Dade,FL resident,Yes,47,1656,Yes,Yes,Female,No,Spain
+1583366400000,1584489600000,NA,Pinellas,FL resident,No,59,1657,No,Yes,Male,Yes,NA
+1583625600000,1584489600000,NA,Pinellas,FL resident,Yes,52,1658,No,Yes,Male,Yes,BULGARIA; GERMANY; UT
+1584576000000,1585008000000,NA,Broward,FL resident,Yes,31,1659,Yes,Yes,Male,No,FL; NY
+1584057600000,1585008000000,NA,Pinellas,FL resident,Yes,42,1660,No,Yes,Male,No,BAHAMAS; CARIBBEAN; ST. KITTS AND NEVIS
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,58,1661,NA,Unknown,Male,Unknown,NA
+1584316800000,1584662400000,NA,Lee,FL resident,Yes,23,1662,Yes,No,Male,No,TN
+1584144000000,1584662400000,NA,Dade,FL resident,No,56,1663,Unknown,Yes,Female,Yes,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,40,1664,NA,Unknown,Female,Unknown,NA
+1584230400000,1584316800000,NA,Dade,FL resident,Yes,67,1665,Yes,NA,Female,No,Egypt
+1585008000000,1585008000000,NA,Hillsborough,FL resident,Unknown,86,1666,Unknown,Unknown,Female,Yes,NA
+1583452800000,1584403200000,NA,Brevard,FL resident,Yes,76,1667,Yes,No,Female,No,NY
+1584576000000,1584835200000,NA,Lee,FL resident,No,67,1668,Yes,No,Male,No,NA
+1583280000000,1584230400000,NA,Lee,FL resident,Yes,65,1669,Yes,Yes,Female,Yes,FL; JAMAICA
+1584403200000,1585008000000,NA,Dade,FL resident,No,78,1670,No,Yes,Male,Yes,NA
+1584144000000,1584921600000,NA,Volusia,FL resident,Yes,71,1671,Yes,No,Female,No,GA
+1584403200000,1584403200000,NA,Dade,FL resident,Yes,35,1672,Yes,NA,Male,No,Egypt
+1584489600000,1585008000000,NA,Manatee,FL resident,No,41,1673,No,No,Male,No,NA
+1584230400000,1584230400000,NA,Collier,FL resident,Yes,76,1674,Yes,No,Male,No,NY
+1583884800000,1584662400000,NA,Seminole,FL resident,Yes,61,1675,No,NA,Female,Yes,PA
+1582588800000,1584921600000,NA,Pinellas,FL resident,No,83,1676,No,Yes,Female,Yes,NA
+1583366400000,1585094400000,NA,Lee,FL resident,No,33,1677,Yes,No,Female,No,NA
+1583625600000,1584662400000,NA,Broward,FL resident,Yes,57,1678,Unknown,Yes,Male,No,CO
+1584921600000,1584921600000,NA,Palm Beach,FL resident,Unknown,43,1679,NA,Unknown,Male,Unknown,NA
+1584835200000,1585008000000,NA,Broward,FL resident,Unknown,43,1680,NA,Unknown,Male,Unknown,NA
+1583971200000,1584921600000,NA,Broward,FL resident,Yes,67,1681,No,No,Male,No,NY
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,47,1682,NA,Unknown,Male,Unknown,NA
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,56,1683,NA,Unknown,Female,Unknown,NA
+1583971200000,1584835200000,NA,Orange,FL resident,No,48,1684,Yes,Unknown,Male,No,NA
+1584489600000,1584748800000,NA,Broward,FL resident,No,59,1685,Unknown,Yes,Male,No,NA
+1583020800000,1584576000000,NA,Lee,FL resident,No,72,1686,Unknown,Yes,Female,Yes,NA
+1584403200000,1584403200000,NA,Duval,FL resident,Unknown,74,1687,NA,Unknown,Male,Unknown,NA
+1583971200000,1584489600000,NA,Broward,FL resident,Yes,21,1688,Unknown,No,Female,No,SPAIN
+1584748800000,1584748800000,NA,Osceola,FL resident,No,58,1689,Unknown,Yes,Male,Yes,NA
+1584835200000,1584835200000,NA,Dade,FL resident,No,44,1690,Yes,Unknown,Female,No,NA
+1584230400000,1584748800000,NA,Hillsborough,FL resident,No,27,1691,Yes,Unknown,Female,No,NA
+1584576000000,1584748800000,NA,Sarasota,FL resident,No,70,1692,No,Yes,Female,Yes,NA
+1583625600000,1584489600000,NA,Dade,FL resident,Yes,49,1693,No,Yes,Male,Yes,EUROPE
+1583884800000,1584748800000,NA,Dade,FL resident,No,59,1694,Yes,Yes,Female,Yes,NA
+1584057600000,1584921600000,NA,Broward,FL resident,Yes,65,1695,Yes,No,Male,No,NJ
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,37,1696,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Collier,FL resident,Unknown,57,1697,NA,Unknown,Female,Unknown,NA
+1584144000000,1584835200000,NA,Orange,FL resident,No,50,1698,Yes,Unknown,Female,No,NA
+1585094400000,1585180800000,NA,Lee,FL resident,No,63,1699,Yes,Yes,Female,Yes,NA
+1585008000000,1585008000000,NA,Sarasota,FL resident,No,82,1700,No,NA,Male,Yes,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,26,1701,NA,Unknown,Male,Unknown,NA
+1583798400000,1584489600000,NA,Palm Beach,FL resident,Unknown,43,1702,Unknown,No,Male,No,NA
+1584748800000,1584835200000,NA,Dade,FL resident,Unknown,41,1703,NA,Unknown,Female,Unknown,NA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,18,1704,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,40,1705,NA,Unknown,Female,Unknown,NA
+1584576000000,1584835200000,NA,Broward,FL resident,Yes,75,1706,No,Yes,Male,No,FL; HONDURAS
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,64,1707,NA,Unknown,Male,Unknown,NA
+1584057600000,1584230400000,NA,Broward,FL resident,Yes,19,1708,Yes,No,Female,No,Ireland
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,50,1709,No,Yes,Female,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,39,1710,NA,Unknown,Male,Unknown,NA
+1584057600000,1584489600000,NA,Dade,FL resident,Yes,53,1711,No,Unknown,Male,No,Qatar; Spain
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,37,1712,NA,Unknown,Male,Unknown,NA
+1583971200000,1584316800000,NA,Alachua,Non-FL resident,Yes,64,1713,No,Yes,Female,No,FL; NY
+1584921600000,1585008000000,Yes,Clay,FL resident,Unknown,65,1714,Yes,NA,Male,No,NA
+1583884800000,1584835200000,NA,Clay,FL resident,No,68,1715,Yes,Yes,Female,Yes,NA
+1583280000000,1583366400000,Yes,Santa Rosa,FL resident,Yes,71,1716,No,Yes,Male,Yes,EGYPT; ISRAEL; JORDAN
+1585094400000,1585180800000,NA,St. Johns,FL resident,Unknown,21,1717,NA,NA,Male,NA,NA
+1585094400000,1585180800000,NA,Broward,FL resident,Unknown,38,1718,NA,Unknown,Male,Unknown,NA
+1584748800000,1585008000000,NA,Orange,FL resident,No,55,1719,Unknown,Yes,Male,Yes,NA
+1583539200000,1584230400000,NA,Dade,FL resident,Yes,58,1720,No,Yes,Female,No,ITALY; SPAIN
+1584403200000,1585008000000,NA,Dade,FL resident,Unknown,57,1721,NA,Unknown,Female,Yes,NA
+1583452800000,1584748800000,NA,Lee,FL resident,Unknown,73,1722,No,Yes,Male,Yes,NA
+1583366400000,1584403200000,NA,Okaloosa,FL resident,Yes,78,1723,No,Yes,Female,No,Italy
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,27,1724,NA,Unknown,Male,Unknown,NA
+1584403200000,1584489600000,NA,Sumter,FL resident,Yes,68,1725,Yes,Yes,Male,Yes,EGYPT
+1585008000000,1585008000000,NA,Alachua,FL resident,No,26,1726,Yes,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,49,1727,NA,Unknown,Male,Unknown,NA
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,64,1728,NA,NA,Male,NA,NA
+1585008000000,1585094400000,NA,Dade,FL resident,Unknown,45,1729,Yes,Unknown,Female,Unknown,NA
+1583971200000,1584835200000,NA,Broward,FL resident,No,32,1730,Yes,No,Male,No,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,38,1731,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,72,1732,NA,Unknown,Female,Unknown,NA
+1584576000000,1584576000000,NA,Dade,FL resident,Unknown,48,1733,NA,Unknown,Male,Unknown,NA
+1584403200000,1585008000000,NA,Seminole,FL resident,Yes,55,1734,Yes,Yes,Male,No,PORTUGAL; SPAIN
+1585094400000,1585094400000,NA,Seminole,FL resident,Yes,48,1735,Yes,NA,Female,No,PORTUGAL; SPAIN
+1584230400000,1584835200000,NA,Hillsborough,FL resident,No,28,1736,Yes,Unknown,Female,No,NA
+1584489600000,1584921600000,NA,Seminole,FL resident,No,30,1737,No,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Alachua,FL resident,Unknown,69,1738,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,35,1739,NA,Unknown,Male,Unknown,NA
+1583971200000,1584748800000,NA,Broward,FL resident,Yes,57,1740,Yes,Yes,Male,No,COLOMBIA; FL
+1585008000000,1585094400000,NA,Broward,FL resident,No,48,1741,No,Yes,Male,No,NA
+1579478400000,1583280000000,NA,Okaloosa,Not diagnosed/isolated in FL,Yes,66,1742,Yes,Unknown,Female,Unknown,Japan
+1584057600000,1584403200000,NA,Palm Beach,FL resident,Unknown,38,1743,Unknown,Yes,Male,No,NA
+1584748800000,1585094400000,NA,Broward,FL resident,Unknown,37,1744,NA,NA,Male,NA,NA
+1583971200000,1585008000000,NA,Osceola,FL resident,No,67,1745,Yes,No,Female,No,NA
+1583971200000,1584921600000,NA,Osceola,FL resident,Unknown,70,1746,Yes,No,Male,Yes,NA
+1583625600000,1584144000000,NA,Osceola,FL resident,Yes,48,1747,Yes,Yes,Male,No,Switzerland
+1584144000000,1585008000000,NA,Lee,FL resident,No,65,1748,Yes,No,Male,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,70,1749,Yes,NA,Female,NA,NA
+1584489600000,1584489600000,NA,Palm Beach,FL resident,Unknown,6,1750,Yes,No,Female,No,NA
+1584489600000,1585094400000,NA,Pinellas,FL resident,No,50,1751,No,Yes,Male,Yes,NA
+1583712000000,1584489600000,NA,Osceola,FL resident,No,22,1752,Yes,Yes,Male,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,39,1753,NA,Unknown,Male,Unknown,NA
+1583971200000,1584748800000,NA,Broward,FL resident,No,53,1754,No,Yes,Female,Yes,NA
+1584489600000,1584835200000,NA,Broward,FL resident,No,64,1755,Unknown,Yes,Male,Yes,NA
+1584057600000,1584835200000,NA,Sumter,FL resident,Yes,67,1756,No,Yes,Male,Yes,FL; MA; RI
+1585008000000,1585008000000,NA,Broward,FL resident,Unknown,73,1757,NA,Unknown,Male,Unknown,NA
+1584144000000,1584662400000,NA,Orange,FL resident,Unknown,31,1758,Unknown,Unknown,Male,No,NA
+1584489600000,1584489600000,NA,Broward,FL resident,No,42,1759,Yes,No,Male,No,NA
+1585008000000,1585008000000,NA,Broward,FL resident,Unknown,38,1760,Unknown,Yes,Female,Yes,NA
+1585094400000,1585094400000,NA,Escambia,FL resident,No,36,1761,Unknown,No,Male,No,NA
+1584144000000,1584835200000,NA,St. Lucie,FL resident,No,45,1762,No,Yes,Female,No,NA
+1583712000000,1584057600000,Yes,Duval,FL resident,No,83,1763,Yes,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,64,1764,NA,Unknown,Male,Unknown,NA
+1584057600000,1584489600000,NA,Collier,FL resident,Yes,31,1765,No,Yes,Female,No,Egypt
+1583625600000,1584662400000,NA,Broward,FL resident,No,53,1766,Yes,Yes,Female,No,NA
+1583625600000,1584662400000,NA,Broward,FL resident,No,31,1767,Yes,Yes,Male,Yes,NA
+1585008000000,1585094400000,NA,Dade,FL resident,Unknown,73,1768,NA,Unknown,Female,Unknown,NA
+1585008000000,1585094400000,NA,Broward,FL resident,Unknown,61,1769,NA,Unknown,Female,Unknown,NA
+1584662400000,1584835200000,NA,Hillsborough,FL resident,Yes,39,1770,No,Yes,Male,Yes,QATAR
+1584403200000,1584489600000,NA,Dade,FL resident,Unknown,21,1771,NA,Unknown,Female,Unknown,NA
+1584576000000,1585094400000,NA,Collier,FL resident,Unknown,19,1772,NA,NA,Female,NA,NA
+1584662400000,1585094400000,NA,Collier,FL resident,Unknown,53,1773,NA,NA,Male,NA,NA
+1583539200000,1584230400000,NA,Dade,Non-FL resident,Yes,42,1774,No,Yes,Male,No,Brazil; FL; TX
+1584230400000,1584835200000,NA,Dade,FL resident,Yes,49,1775,No,NA,Male,Yes,SPAIN
+1582502400000,1585094400000,NA,Dade,FL resident,Yes,52,1776,NA,NA,Female,No,Spain
+1584144000000,1584748800000,NA,Orange,FL resident,Yes,46,1777,Unknown,No,Male,No,United Arab Emirates
+1585094400000,1585094400000,NA,Pinellas,FL resident,Unknown,42,1778,Unknown,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,74,1779,NA,Unknown,Female,Unknown,NA
+1583280000000,1584144000000,NA,Broward,FL resident,Yes,21,1780,No,Yes,Male,No,Italy; Spain
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,73,1781,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,57,1782,NA,Unknown,Male,Unknown,NA
+1583884800000,1584662400000,NA,Broward,FL resident,No,58,1783,No,Yes,Female,No,NA
+1585180800000,1585180800000,NA,Duval,FL resident,Unknown,48,1784,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Duval,FL resident,Unknown,51,1785,NA,Unknown,Male,Unknown,NA
+1584576000000,1584921600000,NA,Sarasota,FL resident,No,53,1786,No,No,Male,No,NA
+1584835200000,1584921600000,NA,Dade,FL resident,Unknown,68,1787,NA,Unknown,Female,Unknown,NA
+1585008000000,1585094400000,NA,Sumter,FL resident,Yes,73,1788,Yes,No,Female,No,CARIBBEAN; FL
+1585094400000,1585094400000,NA,Sumter,FL resident,Unknown,75,1789,Yes,No,Male,No,NA
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,45,1790,NA,Unknown,Female,Unknown,NA
+1584403200000,1585008000000,NA,Brevard,FL resident,Yes,52,1791,Unknown,No,Female,No,CANADA
+1585094400000,1585180800000,NA,Broward,Non-FL resident,Unknown,78,1792,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,59,1793,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,40,1794,NA,Unknown,Female,Unknown,NA
+1584057600000,1584576000000,NA,Palm Beach,FL resident,Yes,19,1795,Unknown,No,Male,No,NY
+1583452800000,1584403200000,NA,Osceola,FL resident,No,18,1796,Yes,Yes,Male,No,NA
+1583452800000,1584576000000,NA,Dade,FL resident,Yes,54,1797,No,Yes,Male,No,SPAIN
+1583884800000,1584835200000,NA,Palm Beach,FL resident,Yes,21,1798,No,Yes,Female,No,PORTUGAL; UNITED KINGDOM
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,40,1799,NA,Unknown,Male,Unknown,NA
+1584144000000,1585094400000,NA,Volusia,FL resident,Unknown,43,1800,No,No,Female,No,NA
+1584921600000,1584921600000,NA,Orange,FL resident,Unknown,61,1801,Unknown,Unknown,Male,Yes,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,38,1802,NA,Unknown,Male,Unknown,NA
+1584057600000,1584921600000,NA,St. Johns,FL resident,No,72,1803,No,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,Pinellas,FL resident,Unknown,21,1804,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,24,1805,NA,Unknown,Female,Unknown,NA
+1584835200000,1585180800000,NA,Duval,FL resident,No,91,1806,Yes,Unknown,Female,Yes,NA
+1584230400000,1584576000000,NA,Hillsborough,FL resident,Yes,50,1807,Yes,No,Male,No,UNITED KINGDOM
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,83,1808,NA,NA,Female,NA,NA
+1584662400000,1584748800000,NA,Broward,FL resident,Unknown,87,1809,NA,NA,Male,No,NA
+1581811200000,1584576000000,NA,Sarasota,Non-FL resident,No,78,1810,Yes,No,Female,No,NA
+1584489600000,1584576000000,NA,Palm Beach,FL resident,Unknown,78,1811,NA,Unknown,Male,Unknown,NA
+1584921600000,1584921600000,NA,Orange,FL resident,Unknown,57,1812,NA,Unknown,Female,Unknown,NA
+1584748800000,1584835200000,NA,Dade,FL resident,Unknown,42,1813,NA,Unknown,Female,Unknown,NA
+1583280000000,1584316800000,NA,Sarasota,Non-FL resident,No,80,1814,Yes,Yes,Male,Yes,NA
+1584748800000,1584835200000,NA,Broward,FL resident,Unknown,53,1815,Yes,Unknown,Female,Unknown,NA
+1583280000000,1584662400000,NA,Palm Beach,FL resident,Unknown,82,1816,Unknown,Yes,Male,Yes,NA
+1584835200000,1585008000000,NA,Pinellas,FL resident,Yes,65,1817,No,Yes,Male,No,FL; INDIA
+1583280000000,1584489600000,NA,Polk,FL resident,Yes,22,1818,Unknown,No,Female,No,GA
+1583366400000,1584057600000,NA,Osceola,Non-FL resident,Yes,65,1819,No,Yes,Male,Yes,CANADA
+1584316800000,1585008000000,NA,Pasco,FL resident,Yes,32,1820,Unknown,Yes,Female,No,UT
+1584403200000,1584662400000,NA,Broward,FL resident,No,86,1821,No,Yes,Male,No,NA
+1584144000000,1584144000000,NA,Volusia,FL resident,No,89,1822,Yes,Yes,Female,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,31,1823,NA,Unknown,Male,Unknown,NA
+1584835200000,1585094400000,NA,Dade,FL resident,Unknown,27,1824,NA,NA,Male,NA,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,28,1825,NA,Unknown,Male,Unknown,NA
+1584921600000,1585008000000,NA,Hernando,FL resident,Yes,29,1826,Yes,No,Male,No,CO
+1583884800000,1584748800000,NA,Hillsborough,FL resident,No,18,1827,Yes,No,Male,No,NA
+1584403200000,1585008000000,NA,Orange,FL resident,No,56,1828,No,Yes,Male,Yes,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,52,1829,NA,Unknown,Female,Unknown,NA
+1584489600000,1584748800000,NA,Broward,FL resident,Unknown,94,1830,Yes,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Sumter,FL resident,Unknown,66,1831,NA,Unknown,Female,Unknown,NA
+1584489600000,1584921600000,NA,Broward,FL resident,No,76,1832,No,Yes,Male,Yes,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,33,1833,NA,Unknown,Female,Unknown,NA
+1583452800000,1584489600000,NA,Dade,FL resident,No,25,1834,Yes,Yes,Female,No,NA
+1584057600000,1584835200000,NA,Dade,FL resident,No,32,1835,Unknown,Unknown,Male,No,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,35,1836,NA,Unknown,Female,Unknown,NA
+1584748800000,1584748800000,NA,Collier,FL resident,No,79,1837,No,No,Male,No,NA
+1583884800000,1584230400000,NA,Dade,FL resident,Unknown,39,1838,Yes,Yes,Male,No,NA
+1584489600000,1584835200000,NA,Broward,FL resident,No,51,1839,Yes,Yes,Female,No,NA
+1584748800000,1584748800000,NA,Pinellas,FL resident,Yes,45,1840,Unknown,No,Male,No,NY
+1584489600000,1585008000000,NA,St. Johns,FL resident,Yes,70,1841,Unknown,Yes,Male,Yes,NJ
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,77,1842,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,53,1843,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Putnam,FL resident,Unknown,65,1844,NA,NA,Male,NA,NA
+1584057600000,1585008000000,NA,Dade,FL resident,Unknown,27,1845,Unknown,Unknown,Male,Unknown,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,64,1846,NA,NA,Female,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,46,1847,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,40,1848,NA,Unknown,Male,Unknown,NA
+1584230400000,1585094400000,NA,Okaloosa,FL resident,No,39,1849,Unknown,No,Male,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,47,1850,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,39,1851,NA,Unknown,Male,Unknown,NA
+1584835200000,1585008000000,NA,Clay,FL resident,No,94,1852,Yes,Yes,Female,Yes,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,71,1853,NA,NA,Male,Yes,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,33,1854,NA,Unknown,Female,Unknown,NA
+1583971200000,1584489600000,NA,Dade,FL resident,Unknown,50,1855,NA,NA,Female,NA,NA
+1583971200000,1585008000000,NA,Dade,FL resident,Yes,41,1856,NA,Unknown,Female,Unknown,Italy
+1584230400000,1585094400000,NA,Polk,FL resident,Yes,34,1857,Unknown,No,Female,No,NY
+1584662400000,1584662400000,NA,Palm Beach,Non-FL resident,Unknown,29,1858,Yes,Unknown,Male,Unknown,NA
+1584230400000,1584489600000,NA,Broward,FL resident,Yes,25,1859,No,No,Female,No,Morocco; Spain
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,20,1860,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,68,1861,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,21,1862,NA,Unknown,Female,Unknown,NA
+1584662400000,1584662400000,NA,Dade,FL resident,Unknown,23,1863,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Orange,FL resident,Unknown,37,1864,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,60,1865,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,27,1866,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Collier,FL resident,Unknown,30,1867,NA,Unknown,Female,Unknown,NA
+1582329600000,1583107200000,NA,Hillsborough,FL resident,Yes,29,1868,Yes,No,Female,No,Italy
+1584835200000,1585008000000,NA,Manatee,FL resident,Unknown,69,1869,Unknown,Unknown,Female,Unknown,NA
+1584921600000,1584921600000,NA,Manatee,FL resident,Unknown,68,1870,Unknown,NA,Male,Unknown,NA
+1584489600000,1585094400000,NA,Putnam,FL resident,No,36,1871,Yes,NA,Male,No,NA
+1584489600000,1585094400000,NA,Putnam,FL resident,No,39,1872,No,NA,Male,No,NA
+1584316800000,1584835200000,NA,Putnam,FL resident,No,82,1873,Unknown,No,Female,No,NA
+1584489600000,1585094400000,NA,Putnam,FL resident,No,47,1874,Yes,NA,Male,No,NA
+1584489600000,1585094400000,NA,Putnam,FL resident,No,47,1875,Yes,NA,Female,No,NA
+1584489600000,1585094400000,NA,Putnam,FL resident,No,69,1876,Yes,NA,Female,No,NA
+1584489600000,1585094400000,NA,Putnam,FL resident,No,48,1877,Yes,NA,Female,No,NA
+1584489600000,1585094400000,NA,Putnam,FL resident,No,22,1878,Yes,NA,Male,No,NA
+1584748800000,1584748800000,NA,Dade,FL resident,Unknown,51,1879,NA,Unknown,Female,Unknown,NA
+1584403200000,1584921600000,NA,Pinellas,FL resident,No,69,1880,Yes,No,Female,No,NA
+1584662400000,1585094400000,NA,Pinellas,FL resident,No,67,1881,Yes,NA,Male,No,NA
+1583971200000,1584835200000,NA,Palm Beach,FL resident,No,76,1882,No,Yes,Male,Yes,NA
+1584316800000,1584316800000,NA,Palm Beach,FL resident,Unknown,25,1883,NA,Unknown,Male,Unknown,NA
+1584662400000,1584662400000,NA,Palm Beach,FL resident,No,29,1884,Unknown,Yes,Male,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,46,1885,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,3,1886,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,45,1887,NA,Unknown,Female,Unknown,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,46,1888,NA,Unknown,Male,Unknown,NA
+1584921600000,1584921600000,NA,Dade,FL resident,Unknown,26,1889,Unknown,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Orange,FL resident,Unknown,73,1890,NA,Unknown,Female,Unknown,NA
+1584230400000,1584835200000,NA,Palm Beach,FL resident,Yes,48,1891,No,Unknown,Male,No,CO; FL
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,3,1892,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,26,1893,NA,Unknown,Male,Unknown,NA
+1584489600000,1584921600000,NA,Broward,FL resident,No,22,1894,Yes,Yes,Female,No,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,36,1895,NA,Unknown,Female,Unknown,NA
+1583712000000,1584489600000,NA,Brevard,FL resident,Yes,32,1896,No,Yes,Male,No,PA; UT
+1584748800000,1584835200000,NA,Dade,FL resident,Unknown,29,1897,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,21,1898,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,49,1899,NA,Unknown,Male,Unknown,NA
+1585008000000,1585094400000,NA,Hillsborough,FL resident,Yes,67,1900,Yes,NA,Female,No,NY
+1583884800000,1584489600000,NA,Broward,FL resident,Yes,69,1901,No,No,Male,No,NY
+1584316800000,1585008000000,NA,Broward,FL resident,No,47,1902,Yes,NA,Female,No,NA
+1584662400000,1584748800000,NA,Broward,FL resident,Unknown,23,1903,Yes,NA,Female,NA,NA
+1584057600000,1585008000000,NA,Broward,FL resident,No,53,1904,Yes,No,Male,No,NA
+1584230400000,1584835200000,NA,Pinellas,FL resident,Yes,53,1905,No,No,Male,No,GA
+1584835200000,1584835200000,NA,Dade,FL resident,Unknown,40,1906,NA,Unknown,Female,Unknown,NA
+1584662400000,1584748800000,NA,Broward,FL resident,No,43,1907,No,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,58,1908,NA,Unknown,Male,Unknown,NA
+1584403200000,1584489600000,NA,Dade,FL resident,Unknown,59,1909,NA,NA,Male,NA,NA
+1584316800000,1584921600000,NA,Hillsborough,FL resident,No,39,1910,Yes,No,Male,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,35,1911,NA,Unknown,Female,Unknown,NA
+1583539200000,1584057600000,NA,Broward,FL resident,No,36,1912,Yes,Yes,Male,No,NA
+1584144000000,1585094400000,NA,Lee,FL resident,No,36,1913,Yes,No,Male,No,NA
+1583884800000,1585008000000,NA,Dade,FL resident,Yes,44,1914,Yes,Yes,Female,Unknown,ECUADOR
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,37,1915,Unknown,NA,Unknown,No,NA
+1585094400000,1585094400000,NA,Escambia,FL resident,No,24,1916,Unknown,No,Male,No,NA
+1584662400000,1585008000000,NA,Brevard,Non-FL resident,Yes,38,1917,No,No,Male,No,NY
+1584316800000,1584576000000,NA,Dade,FL resident,Yes,49,1918,Yes,Yes,Male,No,SPAIN
+1584489600000,1584835200000,NA,Broward,FL resident,Yes,58,1919,Unknown,Yes,Male,No,BRAZIL; NY; SPAIN
+1583366400000,1584489600000,NA,Lee,FL resident,No,80,1920,Yes,Yes,Male,Yes,NA
+1585180800000,1585180800000,NA,Sarasota,FL resident,Unknown,56,1921,NA,NA,Female,NA,NA
+1584403200000,1584403200000,NA,Dade,FL resident,No,61,1922,Yes,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,28,1923,NA,Unknown,Male,Unknown,NA
+1584662400000,1584748800000,NA,Dade,FL resident,Unknown,28,1924,NA,Unknown,Male,Unknown,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,59,1925,NA,Unknown,Male,Unknown,NA
+1583884800000,1584403200000,NA,Hillsborough,FL resident,Yes,30,1926,No,Unknown,Male,Unknown,FL; NY
+1584403200000,1585008000000,NA,Dade,FL resident,No,31,1927,Unknown,Yes,Male,No,NA
+1584835200000,1585008000000,NA,Dade,FL resident,Unknown,20,1928,NA,NA,Male,NA,NA
+1584403200000,1584921600000,NA,Dade,FL resident,Unknown,70,1929,NA,Yes,Female,Unknown,NA
+1584662400000,1584748800000,NA,Dade,FL resident,Unknown,47,1930,NA,Unknown,Female,Unknown,NA
+1584748800000,1584748800000,NA,Palm Beach,FL resident,Yes,53,1931,No,Yes,Male,Yes,EL SALVADOR
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,57,1932,NA,Unknown,Unknown,Unknown,NA
+1584403200000,1585094400000,NA,Broward,FL resident,No,48,1933,Yes,NA,Male,No,NA
+1584316800000,1584662400000,NA,Broward,FL resident,Yes,68,1934,Yes,Yes,Male,No,Dominican Republic
+1584489600000,1585008000000,NA,Broward,FL resident,Yes,49,1935,Unknown,Yes,Female,Yes,FL; GA
+1584403200000,1585008000000,NA,Lee,FL resident,No,82,1936,No,No,Male,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,35,1937,NA,Unknown,Female,Unknown,NA
+1583712000000,1584662400000,NA,Palm Beach,FL resident,No,84,1938,Yes,Yes,Male,Yes,NA
+1584489600000,1584835200000,NA,Dade,FL resident,No,32,1939,Yes,Yes,Female,No,NA
+1583971200000,1585094400000,NA,Palm Beach,FL resident,No,77,1940,Yes,No,Female,No,NA
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,59,1941,NA,Unknown,Male,Unknown,NA
+1583712000000,1584662400000,NA,Broward,FL resident,No,62,1942,Unknown,No,Male,No,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,64,1943,NA,Unknown,Male,Unknown,NA
+1584576000000,1584835200000,NA,Lake,FL resident,No,34,1944,Unknown,Yes,Male,No,NA
+1585180800000,1585180800000,NA,Dade,FL resident,Unknown,17,1945,NA,Unknown,Female,Unknown,NA
+1583712000000,1584316800000,NA,Lee,FL resident,Yes,66,1946,Unknown,No,Male,No,COLOMBIA; ECUADOR
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,55,1947,NA,Unknown,Female,Unknown,NA
+1583884800000,1584662400000,NA,Broward,FL resident,No,51,1948,No,No,Male,No,NA
+1585094400000,1585094400000,NA,Broward,FL resident,Unknown,55,1949,NA,Unknown,Male,Unknown,NA
+1584748800000,1585094400000,NA,Broward,FL resident,No,54,1950,Unknown,No,Male,No,NA
+1585008000000,1585094400000,NA,Hillsborough,FL resident,Unknown,68,1951,NA,Unknown,Male,Unknown,NA
+1584662400000,1585008000000,NA,Escambia,FL resident,No,24,1952,No,Yes,Female,No,NA
+1584489600000,1584662400000,NA,Dade,FL resident,No,60,1953,Yes,Yes,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,33,1954,NA,Unknown,Female,Unknown,NA
+1584921600000,1585008000000,NA,Dade,FL resident,Unknown,31,1955,NA,Unknown,Male,Unknown,NA
+1584748800000,1584748800000,NA,Alachua,FL resident,Unknown,23,1956,NA,Unknown,Female,Unknown,NA
+1584835200000,1584835200000,NA,Broward,FL resident,Unknown,42,1957,NA,NA,Male,NA,NA
+1584748800000,1584835200000,NA,Dade,FL resident,Unknown,30,1958,NA,Unknown,Female,Unknown,NA
+1584316800000,1584662400000,NA,Collier,FL resident,Yes,19,1959,NA,NA,Male,No,Italy
+1584403200000,1585008000000,NA,Collier,FL resident,No,28,1960,No,Yes,Female,No,NA
+1584835200000,1584835200000,NA,Dade,FL resident,No,52,1961,Yes,No,Male,No,NA
+1584316800000,1584835200000,NA,Orange,FL resident,No,33,1962,No,Unknown,Male,Unknown,NA
+1584144000000,1585008000000,NA,Dade,FL resident,Yes,58,1963,NA,Yes,Female,Unknown,Spain
+1584489600000,1584576000000,NA,Collier,FL resident,Yes,26,1964,NA,NA,Male,No,France; Italy; Spain
+1584489600000,1584576000000,NA,Collier,FL resident,Yes,66,1965,No,NA,Male,No,France; Italy; Spain
+1585180800000,1585180800000,NA,Palm Beach,FL resident,Unknown,35,1966,NA,Unknown,Female,Unknown,NA
+1584835200000,1584835200000,NA,Hillsborough,FL resident,No,21,1967,Unknown,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,19,1968,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Lake,FL resident,Unknown,58,1969,Unknown,Unknown,Female,Unknown,NA
+1584057600000,1584921600000,NA,Orange,FL resident,Yes,33,1970,No,No,Male,No,FL; NJ; NY
+1583798400000,1584835200000,NA,Osceola,FL resident,Yes,33,1971,No,No,Female,No,NY
+1584748800000,1584748800000,NA,Dade,FL resident,Unknown,28,1972,NA,Unknown,Male,Unknown,NA
+1584403200000,1585094400000,NA,Bay,FL resident,Yes,55,1973,Unknown,No,Male,No,FL; Puerto Rico
+1584921600000,1585008000000,NA,Dade,FL resident,Unknown,37,1974,NA,Unknown,Male,Unknown,NA
+1583712000000,1584748800000,NA,Dade,FL resident,No,47,1975,Yes,Unknown,Male,No,NA
+1585094400000,1585094400000,NA,Palm Beach,FL resident,Unknown,55,1976,NA,Unknown,Male,Unknown,NA
+1584489600000,1585008000000,NA,Broward,FL resident,Unknown,38,1977,No,Yes,Male,No,NA
+1584403200000,1584921600000,NA,Polk,FL resident,Yes,41,1978,No,Yes,Male,No,UNITED KINGDOM
+1584144000000,1585008000000,NA,Lee,FL resident,No,75,1979,Yes,No,Female,No,NA
+1583712000000,1585094400000,NA,Broward,FL resident,Yes,34,1980,Unknown,No,Male,No,CA; FL; TX
+1584576000000,1585008000000,NA,Dade,FL resident,No,49,1981,Unknown,Yes,Male,No,NA
+1585094400000,1585094400000,NA,Dade,FL resident,Unknown,44,1982,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Martin,FL resident,Unknown,80,1983,NA,Unknown,Male,Unknown,NA
+1585008000000,1585008000000,NA,Alachua,FL resident,Unknown,35,1984,NA,Unknown,Male,Unknown,NA
+1584144000000,1584835200000,NA,Broward,FL resident,No,38,1985,Yes,No,Male,No,NA
+1584144000000,1584835200000,NA,Dade,FL resident,Unknown,43,1986,NA,Unknown,Female,Unknown,NA
+1585094400000,1585094400000,NA,Hillsborough,FL resident,Unknown,65,1987,NA,Unknown,Female,Unknown,NA
+1583712000000,1585094400000,NA,Palm Beach,FL resident,Yes,77,1988,Yes,Yes,Male,No,FL; VA
+1583280000000,1584662400000,NA,Indian River,FL resident,No,84,1989,No,No,Female,No,NA
+1585094400000,1585094400000,NA,Collier,FL resident,Unknown,69,1990,NA,Unknown,Female,Unknown,NA
+1585008000000,1585008000000,NA,Dade,FL resident,Unknown,57,1991,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,39,1992,NA,Unknown,Unknown,Unknown,NA
+1584316800000,1584576000000,NA,Osceola,Non-FL resident,Unknown,39,1993,No,Yes,Male,Yes,NA
+1584835200000,1584835200000,NA,Palm Beach,FL resident,Unknown,64,1994,NA,Unknown,Male,Unknown,NA
+1583539200000,1584403200000,NA,Polk,FL resident,No,44,1995,Yes,No,Female,No,NA
+1584489600000,1584835200000,NA,Palm Beach,FL resident,No,83,1996,No,Yes,Male,No,NA
+1584748800000,1584748800000,NA,Palm Beach,FL resident,Unknown,72,1997,NA,Unknown,Male,Unknown,NA
+1585180800000,1585180800000,NA,Broward,FL resident,Unknown,44,1998,NA,Unknown,Unknown,Unknown,NA
+1584144000000,1585008000000,NA,Dade,FL resident,No,61,1999,No,Yes,Male,Yes,NA
+1583884800000,1584489600000,NA,Broward,FL resident,Yes,56,2000,No,No,Female,No,VA
