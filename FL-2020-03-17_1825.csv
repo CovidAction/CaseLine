@@ -1,0 +1,191 @@
+county,gender,age,travel
+Broward,Male,65,Yes - CAYMAN ISLANDS
+Broward,Male,70,Unknown
+Broward,Female,19,Yes - SPAIN
+Broward,Female,83,No
+Broward,Male,70,No
+Broward,Female,20,Yes - IRELAND
+Broward,Male,59,No
+Broward,Male,60,No
+Broward,Male,65,No
+Broward,Female,26,Yes - TRINIDAD AND TOBAGO
+Broward,Male,60,Yes - SPAIN
+Broward,Male,77,Unknown
+Broward,Female,54,No
+Broward,Female,27,No
+Broward,Female,20,Yes - IRELAND
+Broward,Female,68,No
+Broward,Male,83,Unknown
+Broward,Male,21,Yes - ITALY; SPAIN
+Broward,Female,68,No
+Broward,Male,61,Yes - ITALY
+Broward,Male,36,No
+Broward,Female,57,No
+Broward,Male,39,Yes - UNITED ARAB EMIRATES
+Broward,Female,51,Yes - COLOMBIA
+Broward,Male,64,Yes - FRANCE; GA; NC; SPAIN
+Broward,Male,76,Yes - TRINIDAD AND TOBAGO
+Broward,Female,46,No
+Broward,Female,63,Unknown
+Broward,Female,19,Yes - IRELAND
+Broward,Male,75,No
+Broward,Male,30,Yes - FL; GA
+Broward,Male,74,No
+Broward,Male,65,Yes - DC
+Broward,Male,67,No
+Broward,Female,79,Yes - CO; FL
+Broward,Male,65,No
+Broward,Male,63,No
+Broward,Female,20,Yes - IRELAND
+Broward,Male,66,No
+Broward,Male,58,No
+Broward,Female,52,Yes - FRANCE
+Broward,Male,53,Yes - GA; NC
+Broward,Female,22,Yes - IRELAND
+Broward,Female,19,Yes - IRELAND
+Broward,Female,20,Yes - IRELAND
+Broward,Female,19,Yes - IRELAND
+Broward,Female,19,No
+Broward,Female,20,Yes - IRELAND
+Miami-Dade,Female,39,Yes - FL; NY
+Miami-Dade,Male,45,Unknown
+Miami-Dade,Male,56,Yes - IRAN (ISLAMIC REP. OF)
+Miami-Dade,Male,20,Yes - Spain
+Miami-Dade,Female,61,Unknown
+Miami-Dade,Male,66,Unknown
+Miami-Dade,Male,42,Yes - FRANCE
+Miami-Dade,Male,73,No
+Miami-Dade,Female,28,Yes - IRELAND
+Miami-Dade,Female,77,Yes - EGYPT; IRAN (ISLAMIC REP. OF); UNITED ARAB EMIRATES
+Miami-Dade,Female,67,Yes - EGYPT
+Miami-Dade,Female,25,Yes - SPAIN
+Miami-Dade,Male,43,Yes - UT
+Miami-Dade,Male,57,Unknown
+Miami-Dade,Male,28,No
+Miami-Dade,Female,58,Yes - ITALY; SPAIN
+Miami-Dade,Female,19,Unknown
+Miami-Dade,Male,51,No
+Miami-Dade,Male,37,Yes - EL SALVADOR; FL; MEXICO; SPAIN
+Miami-Dade,Female,43,Yes - UT
+Miami-Dade,Female,42,Unknown
+Miami-Dade,Male,44,Yes - France
+Miami-Dade,Male,42,Yes - SPAIN
+Miami-Dade,Male,29,Yes - MA
+Miami-Dade,Male,18,Unknown
+Miami-Dade,Male,56,Unknown
+Miami-Dade,Female,57,Unknown
+Miami-Dade,Male,33,Unknown
+Miami-Dade,Male,35,Yes - EGYPT
+Miami-Dade,Female,45,No
+Miami-Dade,Female,45,Yes - NY
+Miami-Dade,Female,30,Unknown
+Miami-Dade,Male,42,Yes - NC
+Miami-Dade,Male,37,Unknown
+Miami-Dade,Male,62,Yes - FL; NY
+Miami-Dade,Male,52,Unknown
+Miami-Dade,Female,66,Unknown
+Miami-Dade,Male,39,Unknown
+Miami-Dade,Female,37,Yes - AZ; SPAIN
+Miami-Dade,Female,80,Unknown
+Palm Beach,Male,62,Yes - UNITED KINGDOM
+Palm Beach,Male,69,Unknown
+Palm Beach,Male,38,Unknown
+Palm Beach,Male,65,Yes - NY
+Palm Beach,Male,73,Yes - Egypt; Germany
+Palm Beach,NA,19,Unknown
+Palm Beach,Male,66,Unknown
+Palm Beach,Male,37,Yes - NY
+Palm Beach,Female,76,Yes - FRANCE
+Palm Beach,Male,74,Yes - BELGIUM; FL
+Palm Beach,Female,59,Yes - NY
+Palm Beach,Male,25,Unknown
+Palm Beach,NA,19,Unknown
+Duval,Male,83,No
+Duval,Male,44,Unknown
+Duval,Male,57,Yes - FL; UNKNOWN
+Duval,Male,66,No
+Duval,Female,25,Unknown
+Duval,Male,84,Unknown
+Duval,Male,74,Unknown
+Duval,Male,27,Unknown
+Duval,Female,91,No
+Duval,Male,88,No
+Volusia,Female,48,Yes - DC; FL
+Volusia,Female,60,Yes - EGYPT; GERMANY; ISRAEL
+Volusia,Female,70,Yes - EGYPT; JORDAN
+Volusia,Male,71,Yes - EGYPT; JORDAN
+Volusia,Female,37,No
+Volusia,Male,39,Yes - TRINIDAD AND TOBAGO
+Volusia,Female,89,No
+Volusia,Female,60,No
+Volusia,Female,66,Yes - EGYPT; GERMANY; ISRAEL
+Hillsborough,Male,17,No
+Hillsborough,Female,29,Yes - ITALY
+Hillsborough,Male,30,Unknown
+Hillsborough,Male,23,Unknown
+Hillsborough,Female,49,Yes - FL; IRELAND
+Hillsborough,Male,47,Yes - CO
+Hillsborough,Female,32,Yes - CO
+Manatee,Male,63,No
+Manatee,Female,67,No
+Manatee,Female,62,No
+Manatee,Male,71,Unknown
+Manatee,Male,75,Unknown
+Manatee,Female,81,Yes - EGYPT
+Manatee,Male,70,No
+Collier,Male,73,Yes - EGYPT
+Collier,Male,76,Yes - NY
+Collier,Female,68,Yes - EGYPT
+Collier,Female,64,Yes - EGYPT
+Collier,Female,49,No
+Collier,Male,28,Yes - ITALY
+Orange,Female,40,No
+Orange,Female,79,Unknown
+Orange,Female,28,Unknown
+Orange,Male,51,No
+Orange,Male,41,No
+Orange,Female,48,No
+Osceola,Male,29,Unknown
+Osceola,Male,48,Yes - SWITZERLAND
+Osceola,Female,20,Yes - SPAIN
+Osceola,Female,47,No
+Osceola,Male,54,No
+Osceola,Male,31,Yes - BRAZIL
+Lee,Female,72,Unknown
+Lee,Female,77,Yes - DOMINICAN REPUBLIC
+Lee,Male,77,Yes - DOMINICAN REPUBLIC
+Lee,Male,77,No
+Lee,Male,66,Yes - COLOMBIA; ECUADOR
+Alachua,Female,21,Unknown
+Alachua,Female,64,Yes - FL; NY
+Alachua,Male,22,Unknown
+Alachua,Male,24,Yes - PORTUGAL
+Clay,Female,55,No
+Clay,Male,57,No
+Clay,Male,70,No
+Clay,Female,66,Unknown
+Pinellas,Male,58,Yes - CO
+Pinellas,Male,58,Unknown
+Pinellas,Male,67,Yes - EGYPT
+Pinellas,Male,64,Yes - EGYPT
+Seminole,Male,68,Yes - EGYPT; JORDAN
+Seminole,Female,43,No
+Seminole,Female,68,Yes - EGYPT; JORDAN
+Seminole,Male,47,Unknown
+Citrus,Female,60,Yes - FL; SWITZERLAND
+Citrus,Male,64,No
+Okaloosa,Female,78,Yes - FL; ITALY
+Okaloosa,Female,61,Yes - CA; FL; MEXICO
+Pasco,Male,67,Yes - FL; NY
+Pasco,Male,46,No
+Sarasota,Male,87,No
+Sarasota,Female,50,Yes - NY
+St. Johns,Female,64,No
+St. Johns,Male,49,Yes - EUROPE
+Brevard,Female,76,Yes - NY
+Charlotte,Female,54,Yes - EGYPT; ISRAEL
+Escambia,Male,53,Yes - France
+Lake,Female,75,Yes - FL; NY
+Nassau,Male,68,Yes - GERMANY; MA
+Polk,Female,44,No
+Santa Rosa,Male,71,Yes - EGYPT; ISRAEL; JORDAN

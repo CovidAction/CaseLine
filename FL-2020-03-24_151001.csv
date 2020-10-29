@@ -1,0 +1,1413 @@
+CaseDate,Travel_related,EDvisit,Hospitalized,Origin,Age,ObjectId,Jurisdiction,Case_,County,Contact,Gender,Died
+,Yes,No,No,NJ,65,1,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,51,2,FL resident,Yes,Broward,NA,Female,NA
+,Yes,Yes,No,Dominican Republic,68,3,FL resident,Yes,Broward,Yes,Male,No
+,No,No,No,NA,62,4,FL resident,Yes,Broward,Unknown,Male,No
+,No,No,No,NA,51,5,FL resident,Yes,Broward,No,Male,No
+,Yes,No,No,VA,56,6,FL resident,Yes,Broward,No,Female,No
+,Unknown,Unknown,Unknown,NA,21,7,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,24,8,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,Yes,NA,86,9,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,No,NA,28,10,FL resident,Yes,Broward,No,Female,No
+,Yes,Yes,No,Ireland,19,11,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,38,12,FL resident,Yes,Broward,NA,Male,NA
+,Yes,Yes,No,CO,57,13,FL resident,Yes,Broward,Unknown,Male,No
+,No,Yes,No,NA,59,14,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,40,15,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,No,NA,86,16,FL resident,Yes,Broward,No,Male,No
+,Yes,No,No,Morocco; Spain,25,17,FL resident,Yes,Broward,No,Female,NA
+,Unknown,Unknown,Unknown,NA,15,18,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,22,19,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Yes,Yes,NA,87,20,FL resident,Yes,Broward,Unknown,Female,No
+,No,No,No,NA,66,21,FL resident,Yes,Broward,Yes,Male,No
+,No,No,No,NA,69,22,FL resident,Yes,Broward,Yes,Male,No
+,No,No,No,NA,77,23,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,80,24,FL resident,Yes,Broward,NA,Female,NA
+,No,Yes,No,NA,41,25,FL resident,Yes,Broward,No,Male,NA
+,Unknown,Unknown,Unknown,NA,64,26,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,57,27,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,26,28,FL resident,Yes,Broward,NA,Female,NA
+,No,Yes,No,NA,68,29,FL resident,Yes,Broward,Yes,Female,No
+,No,No,No,NA,66,30,FL resident,Yes,Broward,Yes,Male,No
+,No,No,No,NA,56,31,FL resident,Yes,Broward,Yes,Male,No
+,No,No,No,NA,58,32,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,36,33,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,NA,NA,NA,31,34,FL resident,Yes,Broward,NA,Unknown,NA
+,No,Yes,No,NA,54,35,FL resident,Yes,Broward,No,Male,No
+,Yes,No,No,DC,65,36,FL resident,Yes,Broward,Unknown,Male,No
+,Yes,No,No,NV,55,37,FL resident,Yes,Broward,Unknown,Male,No
+,Yes,No,No,Ireland,21,38,FL resident,Yes,Broward,Yes,Female,No
+,No,No,No,NA,65,39,FL resident,Yes,Broward,Yes,Male,No
+,Yes,No,No,Spain,20,40,FL resident,Yes,Broward,Unknown,Male,No
+,No,Yes,No,NA,83,41,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,NA,Unknown,NA,84,42,FL resident,Yes,Broward,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,67,43,FL resident,Yes,Broward,NA,Female,NA
+,No,Unknown,No,NA,62,44,FL resident,Yes,Broward,No,Female,NA
+,Unknown,NA,Yes,NA,96,45,FL resident,Yes,Broward,Unknown,Female,Yes
+,Unknown,Unknown,Unknown,NA,63,46,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,26,47,FL resident,Yes,Broward,NA,Female,NA
+,Yes,Yes,No,NY,57,48,FL resident,Yes,Broward,Unknown,Male,No
+,No,No,No,NA,22,49,FL resident,Yes,Broward,No,Female,No
+,No,No,No,NA,65,50,FL resident,Yes,Broward,Yes,Male,No
+,Yes,Unknown,Unknown,FL; NY,23,51,FL resident,Yes,Alachua,No,Female,NA
+,Unknown,Unknown,Unknown,NA,23,52,FL resident,Yes,Alachua,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,37,53,FL resident,Yes,Alachua,NA,Female,NA
+,Yes,No,Yes,GA,68,54,Non-FL resident,Yes,Alachua,No,Female,NA
+,Yes,No,No,Portugal,24,55,FL resident,Yes,Alachua,No,Male,No
+,Yes,No,No,Dominican Republic; FL,42,56,FL resident,Yes,Alachua,No,Female,No
+,Yes,No,No,Canada; NY; PA,22,57,FL resident,Yes,Alachua,No,Male,No
+,Unknown,Unknown,Unknown,NA,25,58,FL resident,Yes,Alachua,NA,Female,NA
+,Yes,Yes,No,Sweden,69,59,Non-FL resident,Yes,Alachua,No,Male,NA
+,No,Unknown,No,NA,27,60,FL resident,Yes,Alachua,No,Female,No
+,No,NA,No,NA,47,61,FL resident,Yes,Alachua,Yes,Female,NA
+,Yes,No,No,NY,21,62,FL resident,Yes,Alachua,No,Female,No
+,Unknown,Unknown,Unknown,NA,25,63,FL resident,Yes,Alachua,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,62,64,FL resident,Yes,Alachua,Unknown,Female,NA
+,No,Yes,Yes,NA,61,65,FL resident,Yes,Alachua,No,Male,NA
+,No,Yes,Unknown,NA,29,66,FL resident,Yes,Alachua,No,Female,No
+,No,No,No,NA,2,67,FL resident,Yes,Alachua,No,Female,No
+,No,No,No,NA,20,68,FL resident,Yes,Alachua,No,Female,No
+,Unknown,Unknown,Unknown,NA,21,69,FL resident,Yes,Alachua,NA,Female,NA
+,Yes,Yes,Yes,Bahamas; FL,50,70,FL resident,Yes,Alachua,Yes,Female,No
+,Yes,NA,No,Bahamas; FL,51,71,FL resident,Yes,Alachua,NA,Male,NA
+,No,No,No,NA,22,72,FL resident,Yes,Alachua,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,55,73,FL resident,Yes,Alachua,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,54,74,FL resident,Yes,Alachua,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,22,75,FL resident,Yes,Alachua,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,30,76,FL resident,Yes,Alachua,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,22,77,FL resident,Yes,Alachua,NA,Male,NA
+,Yes,Yes,No,FL; NY,64,78,Non-FL resident,Yes,Alachua,No,Female,NA
+,Unknown,Unknown,Unknown,NA,26,79,FL resident,Yes,Alachua,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,23,80,FL resident,Yes,Alachua,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,30,81,FL resident,Yes,Alachua,NA,Female,NA
+,No,NA,Unknown,NA,33,82,FL resident,Yes,Alachua,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,49,83,FL resident,Yes,Alachua,NA,Male,NA
+,Yes,NA,Unknown,GA,39,84,FL resident,Yes,Alachua,Unknown,Female,NA
+,No,Yes,Yes,NA,68,85,FL resident,Yes,Alachua,No,Male,No
+,Unknown,Unknown,Yes,NA,56,86,FL resident,Yes,Alachua,No,Male,No
+,Unknown,Unknown,Unknown,NA,68,87,FL resident,Yes,Alachua,NA,Female,NA
+,No,NA,No,NA,76,88,FL resident,Yes,Baker,Yes,Male,NA
+,No,No,Yes,NA,66,89,FL resident,Yes,Baker,Unknown,Male,No
+,No,NA,No,NA,64,90,FL resident,Yes,Baker,NA,Female,NA
+,No,Yes,Yes,NA,87,91,FL resident,Yes,Baker,Unknown,Female,NA
+,Yes,Yes,Yes,TX,47,92,Non-FL resident,Yes,Bay,Unknown,Male,NA
+,No,NA,Yes,NA,69,93,FL resident,Yes,Bradford,No,Male,NA
+,No,No,No,NA,32,94,FL resident,Yes,Brevard,Yes,Female,No
+,Yes,Yes,Yes,HAITI,64,95,FL resident,Yes,Brevard,No,Male,NA
+,No,Yes,No,NA,49,96,FL resident,Yes,Brevard,Yes,Male,NA
+,Yes,No,No,CANADA,52,97,FL resident,Yes,Brevard,Unknown,Female,No
+,Unknown,Unknown,Unknown,NA,38,98,FL resident,Yes,Brevard,NA,Male,NA
+,Yes,Yes,No,PA; UT,32,99,FL resident,Yes,Brevard,No,Male,NA
+,Yes,No,No,NY,76,100,FL resident,Yes,Brevard,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,62,101,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,No,NA,20,102,FL resident,Yes,Broward,Yes,Female,No
+,No,Yes,No,NA,17,103,FL resident,Yes,Broward,Yes,Female,No
+,Yes,Yes,No,Spain,17,104,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,96,105,FL resident,Yes,Broward,NA,Female,NA
+,No,Yes,Yes,NA,61,106,FL resident,Yes,Broward,Yes,Female,No
+,No,Yes,Unknown,NA,65,107,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,32,108,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,39,109,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,34,110,FL resident,Yes,Broward,NA,Female,NA
+,No,No,No,NA,68,111,FL resident,Yes,Broward,Yes,Female,NA
+,Yes,No,Yes,FL; IL,54,112,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,74,113,FL resident,Yes,Broward,NA,Male,NA
+,Yes,Yes,No,DC; FL; NY; PA,64,114,FL resident,Yes,Brevard,Unknown,Female,No
+,Unknown,Unknown,Unknown,NA,46,115,FL resident,Yes,Broward,NA,Female,NA
+,No,No,No,NA,75,116,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,Yes,NA,76,117,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,0,118,FL resident,Yes,Broward,NA,Male,NA
+,No,No,No,NA,56,119,FL resident,Yes,Broward,No,Female,No
+,No,No,No,NA,59,120,FL resident,Yes,Broward,NA,Male,No
+,No,No,No,NA,92,121,FL resident,Yes,Broward,Unknown,Male,Yes
+,Unknown,Unknown,Unknown,NA,71,122,FL resident,Yes,Broward,NA,Male,NA
+,Yes,No,No,Australia,42,123,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,No,NA,46,124,FL resident,Yes,Broward,Unknown,Female,No
+,Unknown,Unknown,Unknown,NA,72,125,FL resident,Yes,Broward,NA,Male,NA
+,Yes,Yes,No,FL; Mexico,33,126,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,NA,NA,NA,33,127,FL resident,Yes,Broward,Yes,Male,NA
+,Yes,No,No,France,52,128,FL resident,Yes,Broward,Yes,Female,No
+,Yes,No,No,France; GA; NC; Spain,64,129,FL resident,Yes,Broward,Yes,Male,NA
+,Yes,No,No,PERU,64,130,FL resident,Yes,Broward,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,74,131,FL resident,Yes,Broward,NA,Male,NA
+,Yes,NA,No,FL; GA; HI; MA,53,132,FL resident,Yes,Broward,No,Female,NA
+,Yes,No,No,Ireland,20,133,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,42,134,FL resident,Yes,Broward,NA,Female,NA
+,Yes,No,No,PA,48,135,FL resident,Yes,Broward,Unknown,Male,No
+,No,No,No,NA,43,136,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,59,137,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,No,NA,25,138,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,58,139,FL resident,Yes,Broward,NA,Male,NA
+,No,No,No,NA,29,140,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,No,NA,54,141,FL resident,Yes,Broward,No,Female,No
+,Yes,Yes,Yes,Ireland,19,142,Non-FL resident,Yes,Broward,Yes,Female,NA
+,Unknown,NA,NA,NA,33,143,FL resident,Yes,Broward,NA,Unknown,NA
+,No,NA,Yes,NA,60,144,FL resident,Yes,Broward,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,29,145,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,30,146,FL resident,Yes,Broward,NA,Male,NA
+,Yes,NA,Yes,Trinidad and Tobago,26,147,FL resident,Yes,Broward,Yes,Female,NA
+,No,No,No,NA,50,148,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,45,149,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,52,150,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,58,151,FL resident,Yes,Broward,NA,Female,NA
+,Yes,Yes,No,Ireland,20,152,FL resident,Yes,Broward,Yes,Female,No
+,Yes,No,No,FL; Unknown,53,153,FL resident,Yes,Broward,No,Male,No
+,Yes,No,No,FL; GA,30,154,FL resident,Yes,Broward,Yes,Male,No
+,No,No,No,NA,73,155,FL resident,Yes,Brevard,No,Male,NA
+,Yes,Yes,Yes,CO,67,156,FL resident,Yes,Broward,Unknown,Male,No
+,No,No,No,NA,43,157,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Yes,NA,88,158,FL resident,Yes,Broward,NA,Male,NA
+,Yes,No,No,FRANCE,72,159,FL resident,Yes,Broward,Yes,Female,No
+,Yes,Yes,Unknown,NY,33,160,Non-FL resident,Yes,Broward,Unknown,Male,NA
+,Yes,No,No,France,71,161,FL resident,Yes,Broward,Yes,Male,No
+,Yes,No,No,CO; FL,79,162,FL resident,Yes,Broward,Yes,Female,No
+,Yes,Yes,Yes,PERU,65,163,FL resident,Yes,Broward,Yes,Male,NA
+,Unknown,Yes,Yes,NA,82,164,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,18,165,Non-FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,56,166,FL resident,Yes,Broward,NA,Female,NA
+,No,Yes,No,NA,35,167,FL resident,Yes,Broward,Yes,Male,NA
+,No,Yes,No,NA,43,168,FL resident,Yes,Broward,No,Female,No
+,No,Yes,No,NA,55,169,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,33,170,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,Yes,NA,95,171,FL resident,Yes,Broward,Unknown,Male,No
+,Yes,Yes,No,France,57,172,FL resident,Yes,Broward,No,Male,No
+,Unknown,No,No,NA,83,173,FL resident,Yes,Broward,Yes,Male,No
+,Yes,No,No,NY,65,174,FL resident,Yes,Broward,Yes,Male,No
+,Yes,Yes,No,Colombia; FL,49,175,FL resident,Yes,Broward,Unknown,Male,No
+,No,Yes,Yes,NA,83,176,FL resident,Yes,Broward,Yes,Female,No
+,No,No,No,NA,20,177,FL resident,Yes,Broward,Yes,Male,No
+,Yes,Yes,No,Italy; Spain,35,178,FL resident,Yes,Broward,Unknown,Male,No
+,No,No,No,NA,58,179,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,Yes,NA,44,180,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,Yes,No,NA,46,181,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,33,182,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Yes,No,NA,20,183,Non-FL resident,Yes,Broward,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,53,184,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,Yes,NA,94,185,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,26,186,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,31,187,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,No,NA,55,188,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,59,189,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,No,NA,51,190,FL resident,Yes,Broward,Unknown,Male,No
+,No,No,No,NA,20,191,FL resident,Yes,Broward,No,Male,No
+,No,Yes,Yes,NA,80,192,FL resident,Yes,Broward,Unknown,Female,No
+,Unknown,NA,NA,NA,60,193,FL resident,Yes,Broward,NA,Unknown,NA
+,Unknown,Unknown,Unknown,NA,40,194,FL resident,Yes,Broward,NA,Female,NA
+,No,No,No,NA,60,195,FL resident,Yes,Broward,Yes,Male,No
+,Yes,No,No,CO,66,196,FL resident,Yes,Broward,Yes,Female,No
+,No,Yes,Yes,NA,93,197,FL resident,Yes,Broward,Unknown,Male,No
+,No,No,No,NA,26,198,FL resident,Yes,Broward,Yes,Female,No
+,No,No,No,NA,38,199,FL resident,Yes,Broward,Yes,Male,No
+,Yes,Yes,Yes,Ireland,20,200,FL resident,Yes,Broward,Yes,Female,No
+,Yes,Unknown,No,Mexico,21,201,FL resident,Yes,Broward,Yes,Female,NA
+,No,No,No,NA,52,202,FL resident,Yes,Broward,Yes,Female,NA
+,Yes,Yes,No,Ireland,19,203,FL resident,Yes,Broward,Yes,Female,No
+,No,No,No,NA,55,204,FL resident,Yes,Broward,No,Male,No
+,No,No,No,NA,70,205,FL resident,Yes,Broward,Yes,Male,No
+,Yes,Yes,No,NJ,57,206,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,2,207,FL resident,Yes,Broward,NA,Female,NA
+,Yes,Yes,No,Ireland,22,208,FL resident,Yes,Broward,Yes,Female,No
+,No,No,No,NA,63,209,FL resident,Yes,Broward,Yes,Male,No
+,No,Unknown,Unknown,NA,30,210,FL resident,Yes,Broward,NA,Female,NA
+,Yes,Unknown,Unknown,Spain,60,211,FL resident,Yes,Broward,NA,Male,NA
+,No,No,No,NA,50,212,FL resident,Yes,Broward,Yes,Female,No
+,No,Yes,No,NA,51,213,FL resident,Yes,Broward,Yes,Male,No
+,Yes,NA,No,GA,48,214,Non-FL resident,Yes,Broward,NA,Male,NA
+,Yes,No,No,NY,43,215,FL resident,Yes,Broward,Yes,Male,NA
+,Yes,Yes,No,United Arab Emirates,39,216,FL resident,Yes,Broward,Yes,Male,No
+,Yes,Yes,Yes,France; IL; NY; TX,48,217,Non-FL resident,Yes,Broward,Unknown,Female,NA
+,Unknown,Unknown,Unknown,NA,39,218,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,41,219,FL resident,Yes,Broward,NA,Male,NA
+,Yes,Unknown,No,NJ,20,220,FL resident,Yes,Broward,Unknown,Male,NA
+,Yes,NA,Yes,Egypt; Israel,54,221,FL resident,Yes,Charlotte,Yes,Female,No
+,No,NA,No,NA,55,222,FL resident,Yes,Charlotte,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,59,223,FL resident,Yes,Charlotte,NA,Male,NA
+,No,Yes,Yes,NA,63,224,FL resident,Yes,Citrus,No,Male,NA
+,Yes,NA,Unknown,Honduras,58,225,FL resident,Yes,Citrus,Unknown,Female,NA
+,Yes,No,No,Canada,17,226,FL resident,Yes,Citrus,Yes,Female,No
+,No,NA,No,NA,60,227,FL resident,Yes,Citrus,Yes,Female,NA
+,No,NA,No,NA,77,228,FL resident,Yes,Citrus,Yes,Female,NA
+,Yes,Yes,Yes,DE,80,229,FL resident,Yes,Citrus,Yes,Male,NA
+,No,NA,No,NA,33,230,FL resident,Yes,Citrus,No,Female,NA
+,No,NA,No,NA,64,231,FL resident,Yes,Citrus,Yes,Male,NA
+,Yes,NA,No,FL; Switzerland,60,232,FL resident,Yes,Citrus,No,Female,NA
+,Unknown,Unknown,Unknown,NA,30,233,FL resident,Yes,Clay,NA,Male,NA
+,No,Yes,Yes,NA,57,234,FL resident,Yes,Clay,Yes,Male,No
+,No,No,No,NA,55,235,FL resident,Yes,Clay,Yes,Female,No
+,Yes,Yes,Yes,FL; UNKNOWN,82,236,FL resident,Yes,Clay,No,Male,Yes
+,Unknown,Unknown,Unknown,NA,25,237,FL resident,Yes,Clay,NA,Male,NA
+,Yes,Yes,No,DC; FL,61,238,FL resident,Yes,Clay,Unknown,Female,NA
+,No,Yes,Yes,NA,68,239,FL resident,Yes,Clay,No,Female,NA
+,No,No,Yes,NA,66,240,FL resident,Yes,Clay,Yes,Female,No
+,No,Yes,Yes,NA,70,241,FL resident,Yes,Clay,Yes,Male,Yes
+,No,No,No,NA,53,242,FL resident,Yes,Clay,Unknown,Male,No
+,Yes,No,No,Egypt,68,243,FL resident,Yes,Collier,Yes,Female,NA
+,No,No,No,NA,49,244,FL resident,Yes,Collier,No,Female,No
+,No,No,No,NA,54,245,FL resident,Yes,Collier,Yes,Female,No
+,No,Yes,No,NA,46,246,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,44,247,FL resident,Yes,Collier,NA,Male,NA
+,Yes,No,No,Spain,33,248,FL resident,Yes,Collier,Unknown,Male,No
+,Yes,No,No,NY,80,249,FL resident,Yes,Collier,No,Male,No
+,Yes,No,No,Egypt,64,250,FL resident,Yes,Collier,Unknown,Female,No
+,Yes,No,No,Egypt,73,251,FL resident,Yes,Collier,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,50,252,Non-FL resident,Yes,Collier,NA,Male,NA
+,No,Yes,Yes,NA,75,253,FL resident,Yes,Collier,No,Female,No
+,Yes,Yes,No,FL; HI,64,254,Non-FL resident,Yes,Collier,No,Male,NA
+,Unknown,Unknown,Unknown,NA,47,255,FL resident,Yes,Collier,NA,Male,NA
+,Yes,NA,Yes,St. Martin,76,256,FL resident,Yes,Collier,Unknown,Male,NA
+,No,No,No,NA,80,257,FL resident,Yes,Collier,No,Male,No
+,Unknown,No,No,NA,61,258,FL resident,Yes,Collier,No,Female,No
+,No,No,No,NA,57,259,FL resident,Yes,Broward,Yes,Female,No
+,Yes,Yes,No,Spain,20,260,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,64,261,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,56,262,Non-FL resident,Yes,Broward,NA,Female,NA
+,Yes,No,No,Brazil; Spain,20,263,FL resident,Yes,Broward,No,Male,No
+,Yes,Yes,Yes,Ireland,20,264,FL resident,Yes,Broward,Yes,Female,No
+,No,Yes,Yes,NA,65,265,FL resident,Yes,Broward,No,Male,NA
+,No,Yes,No,NA,27,266,FL resident,Yes,Broward,Yes,Female,No
+,Yes,Yes,Yes,Cayman Islands,65,267,FL resident,Yes,Broward,No,Male,No
+,Unknown,Unknown,Unknown,NA,21,268,FL resident,Yes,Broward,NA,Male,NA
+,Yes,Yes,No,Italy,61,269,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,59,270,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Yes,No,NA,70,271,FL resident,Yes,Broward,Yes,Male,No
+,No,No,No,NA,60,272,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,64,273,FL resident,Yes,Broward,NA,Male,NA
+,Yes,No,Yes,FL; NV,30,274,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,61,275,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,NA,NA,NA,NA,276,Non-FL resident,Yes,Broward,NA,Unknown,NA
+,Yes,No,No,Ireland,19,277,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Yes,Yes,NA,77,278,FL resident,Yes,Broward,Yes,Male,Yes
+,Unknown,Unknown,Unknown,NA,36,279,FL resident,Yes,Broward,NA,Female,NA
+,No,Yes,No,NA,73,280,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,No,NA,77,281,FL resident,Yes,Broward,Unknown,Female,No
+,No,No,No,NA,67,282,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,43,283,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,51,284,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,No,NA,71,285,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,75,286,FL resident,Yes,Broward,NA,Female,NA
+,Yes,Yes,No,NY,19,287,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,56,288,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,22,289,FL resident,Yes,Broward,NA,Female,NA
+,No,Yes,No,NA,42,290,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,51,291,FL resident,Yes,Broward,NA,Female,NA
+,No,No,No,NA,55,292,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Yes,Yes,NA,70,293,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,NA,NA,NA,26,294,FL resident,Yes,Broward,Yes,Female,NA
+,Yes,No,No,FL; NY,22,295,FL resident,Yes,Broward,NA,Female,NA
+,No,Yes,Yes,NA,49,296,FL resident,Yes,Broward,No,Female,No
+,No,Yes,No,NA,53,297,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,50,298,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,71,299,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,No,NA,59,300,FL resident,Yes,Broward,Yes,Male,No
+,No,No,No,NA,30,301,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,Yes,NA,57,302,FL resident,Yes,Broward,No,Male,NA
+,Unknown,Unknown,Unknown,NA,18,303,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,84,304,Non-FL resident,Yes,Broward,NA,Female,NA
+,No,No,No,NA,57,305,FL resident,Yes,Broward,Yes,Male,No
+,Yes,No,No,NY,66,306,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,No,NA,75,307,FL resident,Yes,Broward,Yes,Male,No
+,Yes,NA,No,FL; UT,27,308,FL resident,Yes,Broward,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,94,309,Non-FL resident,Yes,Broward,NA,Male,NA
+,Yes,Yes,No,NJ; NY,29,310,FL resident,Yes,Broward,No,Male,NA
+,Yes,Unknown,Unknown,Ireland,19,311,FL resident,Yes,Broward,Yes,Female,NA
+,Yes,No,No,IL,69,312,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,29,313,FL resident,Yes,Broward,NA,Male,NA
+,Yes,Yes,No,Spain,21,314,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,50,315,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,No,NA,68,316,FL resident,Yes,Broward,No,Male,No
+,No,Yes,Unknown,NA,93,317,FL resident,Yes,Broward,Yes,Female,No
+,No,Yes,No,NA,51,318,FL resident,Yes,Broward,Yes,Male,NA
+,Yes,Yes,Yes,Spain,41,319,Non-FL resident,Yes,Broward,Unknown,Male,NA
+,Yes,Yes,No,Dominican Republic,67,320,FL resident,Yes,Broward,No,Female,No
+,No,Yes,No,NA,19,321,FL resident,Yes,Broward,Yes,Female,No
+,Yes,Yes,No,Colombia,51,322,FL resident,Yes,Broward,Yes,Female,No
+,Yes,Yes,No,NY,44,323,FL resident,Yes,Broward,No,Male,No
+,No,Yes,No,NA,32,324,FL resident,Yes,Broward,Unknown,Male,No
+,Yes,Yes,Yes,NY,73,325,FL resident,Yes,Broward,Yes,Female,No
+,Yes,No,No,Ireland,20,326,FL resident,Yes,Broward,Yes,Female,No
+,No,No,No,NA,50,327,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,78,328,FL resident,Yes,Broward,NA,Male,NA
+,Yes,No,No,Spain,59,329,FL resident,Yes,Broward,Yes,Male,NA
+,Yes,No,No,Spain,21,330,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,Yes,NA,43,331,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,Yes,No,NA,29,332,FL resident,Yes,Broward,No,Male,No
+,Yes,Yes,Yes,PUERTO RICO,76,333,FL resident,Yes,Broward,Yes,Female,No
+,Yes,NA,No,Egypt,52,334,FL resident,Yes,Broward,Yes,Male,NA
+,No,Yes,No,NA,35,335,FL resident,Yes,Broward,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,67,336,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,56,337,FL resident,Yes,Broward,NA,Female,NA
+,No,Yes,Yes,NA,71,338,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,Yes,NA,77,339,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,46,340,FL resident,Yes,Broward,NA,Female,NA
+,No,No,No,NA,24,341,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,NA,NA,NA,90,342,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,Yes,Yes,NA,63,343,FL resident,Yes,Broward,Unknown,Female,No
+,Unknown,Unknown,Unknown,NA,37,344,FL resident,Yes,Broward,NA,Male,NA
+,Yes,No,No,Spain,19,345,FL resident,Yes,Broward,Yes,Female,No
+,No,No,No,NA,44,346,FL resident,Yes,Broward,Yes,Male,No
+,Yes,No,No,Ireland,19,347,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,NA,No,NA,82,348,FL resident,Yes,Broward,Yes,Female,NA
+,No,No,Yes,NA,59,349,FL resident,Yes,Broward,Yes,Male,No
+,Yes,No,No,Ireland; Spain; United Kingdom,47,350,FL resident,Yes,Broward,No,Female,NA
+,Yes,NA,Yes,Brazil; FL,70,351,FL resident,Yes,Broward,No,Male,NA
+,Yes,Yes,No,NC,53,352,FL resident,Yes,Broward,No,Male,NA
+,Yes,No,No,CO,52,353,FL resident,Yes,Broward,Yes,Male,NA
+,Unknown,Yes,No,NA,43,354,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,20,355,FL resident,Yes,Broward,NA,Female,NA
+,Yes,Yes,No,NY,36,356,Non-FL resident,Yes,Broward,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,84,357,FL resident,Yes,Broward,NA,Female,NA
+,Yes,No,No,Australia; CA; FL,28,358,FL resident,Yes,Broward,Yes,Male,No
+,Yes,Yes,No,CT; FL; Italy,30,359,FL resident,Yes,Broward,No,Male,No
+,No,No,No,NA,65,360,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,28,361,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,28,362,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,60,363,FL resident,Yes,Broward,NA,Female,NA
+,No,No,No,NA,57,364,FL resident,Yes,Broward,No,Female,NA
+,No,Yes,Yes,NA,75,365,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,No,NA,32,366,FL resident,Yes,Broward,No,Male,NA
+,No,Yes,No,NA,73,367,FL resident,Yes,Broward,Yes,Male,No
+,No,Yes,Yes,NA,74,368,FL resident,Yes,Broward,Yes,Male,No
+,Yes,Yes,No,FL; MA,47,369,Non-FL resident,Yes,Broward,Unknown,Male,NA
+,Unknown,NA,NA,NA,76,370,FL resident,Yes,Broward,NA,Male,NA
+,Yes,Yes,No,Brazil; NY; Spain,58,371,FL resident,Yes,Broward,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,49,372,FL resident,Yes,Broward,NA,Female,NA
+,Unknown,NA,NA,NA,42,373,FL resident,Yes,Broward,NA,Male,NA
+,No,Yes,Yes,NA,53,374,FL resident,Yes,Broward,No,Female,NA
+,No,Yes,Yes,NA,64,375,FL resident,Yes,Broward,Unknown,Male,No
+,No,No,No,NA,42,376,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,38,377,FL resident,Yes,Broward,NA,Female,NA
+,No,Yes,No,NA,53,378,FL resident,Yes,Broward,Yes,Female,No
+,No,Yes,Yes,NA,31,379,FL resident,Yes,Broward,Yes,Male,No
+,Yes,Yes,No,Italy; Spain,21,380,FL resident,Yes,Broward,No,Male,No
+,No,Yes,No,NA,58,381,FL resident,Yes,Broward,No,Female,No
+,Unknown,Unknown,Unknown,NA,61,382,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,31,383,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,53,384,FL resident,Yes,Broward,Yes,Female,NA
+,Unknown,Yes,Yes,NA,94,385,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,38,386,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,38,387,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,75,388,FL resident,Yes,Broward,NA,Male,NA
+,Yes,No,No,Ireland,19,389,FL resident,Yes,Broward,Yes,Female,No
+,Unknown,NA,NA,NA,64,390,FL resident,Yes,Broward,NA,Male,NA
+,No,No,No,NA,32,391,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,57,392,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,NA,No,NA,87,393,FL resident,Yes,Broward,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,22,394,FL resident,Yes,Broward,NA,Female,NA
+,Yes,No,No,NY,69,395,FL resident,Yes,Broward,No,Male,NA
+,Unknown,NA,NA,NA,23,396,FL resident,Yes,Broward,NA,Female,NA
+,No,Yes,Yes,NA,43,397,FL resident,Yes,Broward,No,Male,No
+,No,Yes,No,NA,36,398,FL resident,Yes,Broward,Yes,Male,No
+,Unknown,NA,NA,NA,67,399,FL resident,Yes,Broward,NA,Male,NA
+,Yes,No,No,SPAIN,21,400,FL resident,Yes,Broward,Unknown,Female,No
+,No,Yes,Yes,NA,82,401,FL resident,Yes,Collier,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,76,402,Non-FL resident,Yes,Collier,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,77,403,Non-FL resident,Yes,Collier,NA,Male,NA
+,Yes,NA,No,France; Italy; Spain,47,404,FL resident,Yes,Collier,NA,Female,NA
+,Yes,Yes,Yes,CT,79,405,Non-FL resident,Yes,Collier,No,Female,NA
+,Unknown,No,No,NA,17,406,FL resident,Yes,Collier,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,59,407,FL resident,Yes,Collier,NA,Male,NA
+,No,NA,Yes,NA,77,408,FL resident,Yes,Collier,No,Male,NA
+,Yes,NA,NA,Japan,59,409,FL resident,Yes,Collier,Unknown,Male,NA
+,Yes,NA,No,Italy,28,410,FL resident,Yes,Collier,Unknown,Male,NA
+,Yes,Yes,No,United Kingdom,17,411,Non-FL resident,Yes,Collier,No,Female,NA
+,Yes,No,No,Spain,30,412,FL resident,Yes,Collier,No,Female,No
+,Yes,NA,No,Canada,59,413,FL resident,Yes,Collier,NA,Male,NA
+,No,No,No,NA,79,414,FL resident,Yes,Collier,No,Male,No
+,Yes,NA,No,Italy,19,415,FL resident,Yes,Collier,NA,Male,NA
+,Yes,NA,No,France; Italy; Spain,26,416,FL resident,Yes,Collier,NA,Male,NA
+,Yes,NA,No,France; Italy; Spain,66,417,FL resident,Yes,Collier,No,Male,NA
+,Yes,Yes,No,Egypt,31,418,FL resident,Yes,Collier,No,Female,No
+,Yes,No,No,NY,76,419,FL resident,Yes,Collier,Yes,Male,No
+,Yes,NA,No,Canada,61,420,FL resident,Yes,Collier,NA,Male,NA
+,Yes,No,No,Bahamas; FL; Honduras; Mexico,62,421,FL resident,Yes,Collier,Yes,Female,No
+,Yes,No,No,Bahamas; Belize; FL; Honduras; Mexico,64,422,FL resident,Yes,Collier,Yes,Male,No
+,No,NA,No,NA,77,423,FL resident,Yes,Collier,Yes,Male,NA
+,No,No,No,NA,60,424,FL resident,Yes,Collier,No,Female,No
+,No,Yes,Yes,NA,84,425,FL resident,Yes,Collier,No,Female,No
+,No,Yes,Yes,NA,75,426,Non-FL resident,Yes,Collier,No,Male,NA
+,Unknown,NA,NA,NA,46,427,FL resident,Yes,Columbia,NA,Male,NA
+,No,NA,NA,NA,70,428,FL resident,Yes,Columbia,NA,Female,NA
+,No,NA,NA,NA,46,429,FL resident,Yes,Columbia,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,53,430,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,61,431,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,No,NA,38,432,FL resident,Yes,Dade,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,31,433,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,63,434,FL resident,Yes,Dade,NA,Female,Unknown
+,Yes,Yes,No,Israel; Venezuela,80,435,Non-FL resident,Yes,Dade,No,Female,NA
+,Unknown,Unknown,Unknown,NA,26,436,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,Colombia; NY; Saudi Arabia,32,437,FL resident,Yes,Dade,No,Male,No
+,Unknown,Unknown,Unknown,NA,49,438,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Yes,Yes,NA,68,439,FL resident,Yes,Dade,NA,Female,No
+,Yes,Yes,No,SPAIN,20,440,FL resident,Yes,Dade,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,32,441,FL resident,Yes,Dade,NA,Male,NA
+,No,NA,NA,NA,57,442,FL resident,Yes,Dade,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,57,443,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,France,48,444,FL resident,Yes,Dade,No,Female,No
+,No,Yes,Yes,NA,38,445,FL resident,Yes,Dade,No,Male,No
+,Unknown,Unknown,Unknown,NA,56,446,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,36,447,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,25,448,FL resident,Yes,Dade,NA,Female,Unknown
+,Unknown,Unknown,No,NA,25,449,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,55,450,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Yes,No,Spain,21,451,FL resident,Yes,Dade,Unknown,Male,No
+,Yes,Yes,No,IL; Israel; VA,69,452,FL resident,Yes,Dade,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,33,453,FL resident,Yes,Dade,NA,Female,NA
+,Yes,NA,Unknown,Italy; Spain,58,454,FL resident,Yes,Dade,No,Female,NA
+,Unknown,Unknown,Unknown,NA,44,455,FL resident,Yes,Dade,NA,Female,NA
+,No,Yes,Yes,NA,47,456,FL resident,Yes,Dade,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,77,457,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,NA,Yes,NA,83,458,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,63,459,FL resident,Yes,Dade,NA,Male,NA
+,Yes,NA,No,CO,48,460,FL resident,Yes,Dade,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,88,461,FL resident,Yes,Dade,NA,Male,NA
+,No,Yes,No,NA,42,462,FL resident,Yes,Dade,No,Male,No
+,Unknown,Unknown,Unknown,NA,48,463,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,31,464,FL resident,Yes,Dade,NA,Male,NA
+,No,No,No,NA,64,465,FL resident,Yes,Dade,No,Female,No
+,Unknown,Unknown,Unknown,NA,57,466,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,49,467,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,FL; NY,62,468,FL resident,Yes,Dade,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,38,469,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,26,470,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,SPAIN,50,471,FL resident,Yes,Dade,No,Female,NA
+,Unknown,Unknown,Unknown,NA,67,472,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,48,473,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Yes,NA,67,474,FL resident,Yes,Dade,No,Male,NA
+,Yes,No,No,NY,57,475,FL resident,Yes,Dade,Unknown,Female,No
+,Unknown,Unknown,Unknown,NA,30,476,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,41,477,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Yes,No,Spain,20,478,FL resident,Yes,Dade,Yes,Male,No
+,No,Yes,No,NA,34,479,FL resident,Yes,Dade,Yes,Female,NA
+,Unknown,NA,No,NA,57,480,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,42,481,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Unknown,No,Spain,18,482,FL resident,Yes,Dade,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,58,483,FL resident,Yes,Dade,NA,Female,NA
+,No,Yes,Yes,NA,73,484,FL resident,Yes,Dade,Yes,Male,No
+,Unknown,Yes,No,NA,39,485,FL resident,Yes,Dade,Yes,Male,NA
+,No,Yes,Yes,NA,60,486,FL resident,Yes,Dade,No,Male,No
+,Yes,NA,NA,SPAIN; WA,51,487,FL resident,Yes,Dade,Unknown,Male,No
+,Unknown,Yes,No,NA,35,488,FL resident,Yes,Dade,No,Female,No
+,Unknown,Unknown,Unknown,NA,26,489,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,NA,NA,NA,70,490,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,Europe; France; Spain,75,491,FL resident,Yes,Dade,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,56,492,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,29,493,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,40,494,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,NA,NA,NA,59,495,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,NA,NA,NA,44,496,FL resident,Yes,Dade,Yes,Female,NA
+,Yes,Yes,No,Spain,47,497,FL resident,Yes,Dade,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,52,498,FL resident,Yes,Dade,NA,Female,NA
+,No,Yes,No,NA,25,499,FL resident,Yes,Dade,Yes,Female,No
+,Yes,Yes,No,SPAIN,49,500,FL resident,Yes,Dade,Yes,Male,NA
+,No,Unknown,Unknown,NA,61,501,FL resident,Yes,Dade,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,28,502,FL resident,Yes,Dade,NA,Male,Unknown
+,Unknown,Unknown,Unknown,NA,47,503,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,30,504,FL resident,Yes,Dade,NA,Female,NA
+,No,No,No,NA,34,505,FL resident,Yes,Dade,Unknown,Female,No
+,Yes,Yes,Yes,Spain,65,506,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,65,507,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,57,508,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,40,509,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,NA,Yes,NA,64,510,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,23,511,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,51,512,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,36,513,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,56,514,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,66,515,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,49,516,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,NA,NA,NA,51,517,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,31,518,FL resident,Yes,Dade,NA,Male,NA
+,No,Yes,No,NA,28,519,FL resident,Yes,Dade,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,53,520,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,34,521,FL resident,Yes,Dade,NA,Male,NA
+,Yes,No,No,FL; France,42,522,FL resident,Yes,Dade,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,38,523,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Yes,Yes,NA,71,524,FL resident,Yes,Dade,Unknown,Female,No
+,Unknown,Unknown,Unknown,NA,22,525,FL resident,Yes,Dade,NA,Female,NA
+,Yes,NA,Yes,FL; NY,39,526,FL resident,Yes,Dade,No,Female,NA
+,Unknown,Unknown,Unknown,NA,33,527,FL resident,Yes,Dade,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,44,528,FL resident,Yes,Dade,NA,Male,NA
+,No,Yes,Yes,NA,61,529,FL resident,Yes,Dade,No,Male,No
+,Unknown,Unknown,Unknown,NA,41,530,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Yes,No,EGYPT; IRAN; UNITED ARAB EMIRATES,77,531,FL resident,Yes,Dade,No,Female,No
+,No,Yes,No,NA,52,532,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,39,533,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Yes,Yes,NY,56,534,FL resident,Yes,Dade,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,32,535,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Yes,No,NA,69,536,FL resident,Yes,Dade,No,Female,No
+,Yes,NA,NA,FL; Unknown,53,537,FL resident,Yes,Dade,Unknown,Female,NA
+,Unknown,Unknown,Unknown,NA,33,538,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,26,539,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,54,540,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,64,541,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Yes,No,NA,64,542,Non-FL resident,Yes,Dade,Unknown,Male,NA
+,Yes,No,No,Ireland,28,543,FL resident,Yes,Dade,Yes,Female,No
+,Unknown,NA,Unknown,NA,60,544,Non-FL resident,Yes,Dade,Unknown,Female,NA
+,Unknown,Unknown,Unknown,NA,44,545,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,33,546,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,56,547,FL resident,Yes,Dade,NA,Male,NA
+,No,Yes,Yes,NA,46,548,Non-FL resident,Yes,Dade,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,21,549,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,27,550,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,76,551,FL resident,Yes,Dade,NA,Female,Unknown
+,Unknown,Unknown,Unknown,NA,81,552,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,58,553,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,46,554,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,68,555,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,No,NA,36,556,FL resident,Yes,Dade,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,46,557,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,64,558,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Yes,No,Spain,61,559,FL resident,Yes,Dade,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,28,560,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,39,561,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,37,562,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Unknown,Unknown,FL; TN,48,563,FL resident,Yes,Dade,Unknown,Male,No
+,Yes,Yes,Unknown,NY,45,564,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,22,565,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,75,566,FL resident,Yes,Dade,NA,Female,NA
+,No,No,No,NA,55,567,FL resident,Yes,Dade,Yes,Female,NA
+,Yes,Yes,No,UT,43,568,FL resident,Yes,Dade,Yes,Male,NA
+,No,Unknown,Unknown,NA,49,569,FL resident,Yes,Dade,No,Male,No
+,Unknown,Unknown,Unknown,NA,35,570,FL resident,Yes,Dade,NA,Female,Unknown
+,No,Yes,Yes,NA,50,571,FL resident,Yes,Dade,Yes,Male,NA
+,No,Unknown,No,NA,34,572,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Yes,Yes,NA,83,573,FL resident,Yes,Dade,Yes,Male,Unknown
+,Unknown,Unknown,Yes,NA,88,574,FL resident,Yes,Dade,Unknown,Male,No
+,Unknown,NA,NA,NA,69,575,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,36,576,FL resident,Yes,Dade,Yes,Female,Unknown
+,Unknown,Yes,No,NA,33,577,FL resident,Yes,Dade,Unknown,Male,No
+,Yes,Unknown,Unknown,FL; NY; UNITED KINGDOM,32,578,Non-FL resident,Yes,Dade,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,20,579,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,NA,Yes,NA,41,580,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Yes,No,DC; FL,37,581,FL resident,Yes,Dade,Yes,Male,NA
+,Yes,Unknown,No,Italy,51,582,FL resident,Yes,Dade,Yes,Female,No
+,No,Unknown,No,NA,50,583,FL resident,Yes,Dade,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,23,584,FL resident,Yes,Dade,NA,Female,NA
+,No,No,No,NA,37,585,FL resident,Yes,Dade,Yes,Male,No
+,Yes,Yes,Yes,FL; NY,66,586,Non-FL resident,Yes,Dade,No,Male,NA
+,Unknown,Unknown,Unknown,NA,33,587,FL resident,Yes,Dade,Unknown,Female,NA
+,Unknown,Unknown,Unknown,NA,70,588,FL resident,Yes,Dade,NA,Male,NA
+,No,No,No,NA,28,589,FL resident,Yes,Dade,Yes,Female,No
+,Unknown,Yes,Yes,NA,56,590,FL resident,Yes,Dade,No,Female,NA
+,Unknown,NA,NA,NA,46,591,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,29,592,FL resident,Yes,Dade,NA,Male,NA
+,Yes,NA,NA,Brazil,38,593,FL resident,Yes,Dade,NA,Male,NA
+,No,Yes,No,NA,59,594,FL resident,Yes,Dade,Yes,Male,No
+,Unknown,NA,NA,NA,33,595,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,58,596,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,47,597,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,50,598,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,43,599,FL resident,Yes,Dade,NA,Female,Unknown
+,Unknown,Unknown,Unknown,NA,67,600,FL resident,Yes,Dade,NA,Male,Unknown
+,Unknown,Unknown,Unknown,NA,25,601,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,Israel,62,602,FL resident,Yes,Dade,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,55,603,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Yes,Yes,NA,33,604,FL resident,Yes,Dade,No,Male,No
+,Unknown,Unknown,Unknown,NA,70,605,FL resident,Yes,Dade,NA,Female,NA
+,No,No,No,NA,32,606,FL resident,Yes,Dade,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,33,607,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,62,608,FL resident,Yes,Dade,NA,Male,NA
+,No,Yes,No,NA,25,609,FL resident,Yes,Dade,Yes,Male,NA
+,Unknown,NA,Yes,NA,53,610,FL resident,Yes,Dade,NA,Female,NA
+,No,Yes,Yes,NA,51,611,FL resident,Yes,Dade,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,66,612,FL resident,Yes,Dade,Yes,Male,NA
+,No,Yes,No,NA,52,613,FL resident,Yes,Dade,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,39,614,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,NY,45,615,FL resident,Yes,Dade,No,Female,No
+,Unknown,Unknown,Unknown,NA,30,616,FL resident,Yes,Dade,NA,Female,No
+,Yes,No,No,NY,48,617,Non-FL resident,Yes,Dade,Yes,Male,NA
+,Yes,Yes,No,MA,29,618,FL resident,Yes,Dade,No,Male,No
+,Unknown,Unknown,Unknown,NA,52,619,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,30,620,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,23,621,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Yes,NA,35,622,FL resident,Yes,Dade,Unknown,Female,No
+,Unknown,Unknown,Unknown,NA,50,623,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,50,624,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,43,625,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,27,626,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,23,627,FL resident,Yes,Dade,NA,Female,NA
+,No,Yes,Unknown,NA,50,628,FL resident,Yes,Dade,No,Female,NA
+,Unknown,Unknown,Unknown,NA,44,629,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,71,630,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,42,631,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,32,632,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,78,633,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,67,634,FL resident,Yes,Dade,NA,Male,NA
+,No,Yes,Yes,NA,47,635,FL resident,Yes,Dade,Yes,Male,No
+,No,No,No,NA,58,636,FL resident,Yes,Dade,Yes,Male,NA
+,Yes,NA,Unknown,Japan,64,637,Not diagnosed/isolated in FL,Yes,Dade,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,74,638,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,30,639,FL resident,Yes,Dade,NA,Male,NA
+,Yes,No,No,IL,50,640,FL resident,Yes,Dade,No,Male,No
+,Yes,NA,No,Egypt,67,641,FL resident,Yes,Dade,Yes,Female,NA
+,Yes,NA,No,Egypt,35,642,FL resident,Yes,Dade,Yes,Male,NA
+,Yes,Yes,Yes,EUROPE,49,643,FL resident,Yes,Dade,No,Male,No
+,Unknown,Unknown,Unknown,NA,70,644,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,32,645,FL resident,Yes,Dade,NA,Female,NA
+,No,Yes,Unknown,NA,60,646,FL resident,Yes,Dade,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,31,647,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,52,648,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,56,649,FL resident,Yes,Dade,Unknown,Female,NA
+,Unknown,NA,NA,NA,78,650,FL resident,Yes,Dade,NA,Unknown,NA
+,Unknown,Unknown,Unknown,NA,73,651,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,21,652,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Yes,No,Brazil; FL; TX,42,653,Non-FL resident,Yes,Dade,No,Male,NA
+,Yes,NA,Yes,SPAIN,49,654,FL resident,Yes,Dade,No,Male,NA
+,Unknown,Unknown,Unknown,NA,68,655,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,NA,NA,NA,59,656,FL resident,Yes,Dade,Yes,Female,NA
+,Yes,Yes,No,SPAIN,54,657,FL resident,Yes,Dade,No,Male,No
+,No,Unknown,No,NA,32,658,FL resident,Yes,Dade,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,27,659,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,NA,NA,NA,50,660,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,28,661,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,37,662,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,47,663,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,NA,NA,NA,49,664,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,43,665,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,25,666,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,NA,NA,NA,44,667,FL resident,Yes,Dade,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,18,668,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,64,669,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,50,670,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Unknown,No,Qatar; Spain,53,671,FL resident,Yes,Dade,No,Male,NA
+,Unknown,Unknown,Unknown,NA,41,672,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Yes,No,FL; IL,42,673,FL resident,Yes,Dade,Yes,Female,No
+,Yes,Yes,No,Spain,48,674,FL resident,Yes,Dade,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,55,675,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,NA,Unknown,NA,74,676,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,74,677,FL resident,Yes,Dade,NA,Female,NA
+,Yes,No,No,CUBA; FL,38,678,FL resident,Yes,Dade,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,36,679,FL resident,Yes,Dade,No,Male,NA
+,No,Yes,No,NA,42,680,FL resident,Yes,Dade,No,Female,No
+,Unknown,Unknown,Unknown,NA,51,681,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Yes,No,France; United Kingdom,45,682,FL resident,Yes,Dade,No,Male,No
+,Unknown,Yes,Yes,NA,43,683,FL resident,Yes,Dade,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,42,684,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,ECUADOR,45,685,FL resident,Yes,Dade,Yes,Male,NA
+,Yes,No,No,Spain,35,686,FL resident,Yes,Dade,No,Male,No
+,No,Yes,Yes,NA,52,687,FL resident,Yes,Dade,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,31,688,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,NY,46,689,FL resident,Yes,Dade,Yes,Male,No
+,No,No,No,NA,36,690,FL resident,Yes,Dade,Yes,Unknown,NA
+,Unknown,Unknown,Unknown,NA,10,691,FL resident,Yes,Dade,Yes,Female,NA
+,No,Unknown,No,NA,48,692,FL resident,Yes,Dade,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,59,693,FL resident,Yes,Dade,NA,Male,NA
+,Yes,NA,No,UT,43,694,FL resident,Yes,Dade,Yes,Female,NA
+,Yes,Yes,No,NY,84,695,FL resident,Yes,Dade,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,72,696,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,FRANCE,44,697,FL resident,Yes,Dade,No,Male,No
+,Unknown,Unknown,Unknown,NA,40,698,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,Yes,Spain,42,699,FL resident,Yes,Dade,No,Male,No
+,Yes,Yes,No,Peru,52,700,FL resident,Yes,Dade,No,Male,No
+,Unknown,Unknown,Unknown,NA,29,701,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,45,702,FL resident,Yes,Dade,Yes,Female,NA
+,Yes,No,No,NY,73,703,FL resident,Yes,Dade,No,Male,No
+,Unknown,Unknown,Unknown,NA,36,704,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Yes,No,NA,69,705,Non-FL resident,Yes,Dade,Yes,Female,NA
+,Unknown,Yes,Unknown,NA,45,706,FL resident,Yes,Dade,Yes,Male,No
+,No,Yes,No,NA,78,707,FL resident,Yes,Dade,No,Male,NA
+,Unknown,Unknown,Unknown,NA,23,708,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,No,No,NA,34,709,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Unknown,No,ROMANIA,21,710,FL resident,Yes,Dade,No,Male,NA
+,No,Yes,Yes,NA,73,711,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,Iran,56,712,FL resident,Yes,Dade,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,57,713,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,40,714,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,Yes,Costa Rica,56,715,FL resident,Yes,Dade,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,37,716,FL resident,Yes,Dade,NA,Male,Unknown
+,Yes,Yes,Yes,El Salvador; FL; Mexico; Spain,37,717,FL resident,Yes,Dade,Unknown,Male,No
+,No,No,No,NA,32,718,FL resident,Yes,Desoto,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,54,719,FL resident,Yes,Duval,NA,Female,NA
+,No,NA,Yes,NA,83,720,FL resident,Yes,Duval,No,Male,NA
+,Unknown,Unknown,Unknown,NA,71,721,FL resident,Yes,Duval,NA,Male,NA
+,Unknown,NA,NA,NA,65,722,Non-FL resident,Yes,Duval,NA,Unknown,NA
+,Unknown,Unknown,Unknown,NA,87,723,FL resident,Yes,Duval,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,68,724,FL resident,Yes,Duval,NA,Female,NA
+,Yes,No,No,Ireland; United Kingdom,57,725,FL resident,Yes,Duval,NA,Female,No
+,Unknown,Unknown,Unknown,NA,55,726,FL resident,Yes,Duval,NA,Male,NA
+,No,Yes,No,NA,91,727,FL resident,Yes,Duval,Yes,Female,No
+,Yes,Yes,No,FL; GA,36,728,FL resident,Yes,Duval,NA,Female,NA
+,Yes,Yes,No,Australia; FL; TN,25,729,Non-FL resident,Yes,Duval,Unknown,Female,NA
+,Unknown,NA,NA,NA,45,730,FL resident,Yes,Duval,NA,Female,NA
+,Unknown,NA,NA,NA,69,731,Non-FL resident,Yes,Duval,NA,Unknown,NA
+,No,Yes,Yes,NA,84,732,FL resident,Yes,Duval,No,Male,No
+,No,No,No,NA,86,733,FL resident,Yes,Duval,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,39,734,FL resident,Yes,Duval,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,57,735,FL resident,Yes,Duval,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,58,736,FL resident,Yes,Duval,NA,Male,NA
+,No,Yes,Yes,NA,84,737,FL resident,Yes,Duval,Yes,Female,No
+,No,Yes,Yes,NA,88,738,FL resident,Yes,Duval,Yes,Male,Yes
+,No,Yes,Yes,NA,84,739,FL resident,Yes,Duval,Yes,Male,No
+,Unknown,No,No,NA,82,740,FL resident,Yes,Duval,Yes,Female,NA
+,No,Yes,Yes,NA,84,741,FL resident,Yes,Duval,Yes,Male,Yes
+,Unknown,Unknown,Unknown,NA,27,742,FL resident,Yes,Duval,NA,Male,NA
+,No,Yes,No,NA,66,743,FL resident,Yes,Duval,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,19,744,FL resident,Yes,Duval,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,52,745,FL resident,Yes,Duval,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,49,746,FL resident,Yes,Duval,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,22,747,FL resident,Yes,Duval,NA,Male,NA
+,Yes,NA,No,FL; NV,53,748,FL resident,Yes,Duval,Yes,Female,No
+,No,Yes,Yes,NA,78,749,FL resident,Yes,Duval,No,Female,NA
+,Unknown,Unknown,Unknown,NA,20,750,FL resident,Yes,Duval,NA,Female,NA
+,Unknown,Yes,No,NA,73,751,FL resident,Yes,Dade,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,34,752,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,33,753,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,19,754,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,56,755,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,27,756,FL resident,Yes,Dade,NA,Female,NA
+,No,Yes,No,NA,19,757,FL resident,Yes,Dade,Yes,Female,No
+,Yes,Yes,NA,AZ; Spain,37,758,FL resident,Yes,Dade,NA,Female,No
+,Yes,Yes,No,SPAIN,25,759,FL resident,Yes,Dade,No,Female,No
+,No,Yes,Yes,NA,80,760,FL resident,Yes,Dade,No,Female,NA
+,No,No,No,NA,45,761,FL resident,Yes,Dade,Yes,Male,No
+,Yes,Yes,Yes,CA; NY,52,762,FL resident,Yes,Dade,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,35,763,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,49,764,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,55,765,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,Spain,36,766,Non-FL resident,Yes,Dade,No,Male,NA
+,No,Unknown,No,NA,47,767,FL resident,Yes,Dade,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,67,768,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,54,769,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,France; Spain,68,770,FL resident,Yes,Dade,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,21,771,FL resident,Yes,Dade,NA,Male,NA
+,Yes,Yes,No,NY,13,772,FL resident,Yes,Dade,Yes,Female,No
+,Yes,Yes,No,NY,13,773,FL resident,Yes,Dade,Yes,Male,No
+,Yes,Yes,No,NY,44,774,FL resident,Yes,Dade,Yes,Female,No
+,Yes,Yes,No,NY,11,775,FL resident,Yes,Dade,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,68,776,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,48,777,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,63,778,FL resident,Yes,Dade,Yes,Male,NA
+,No,Yes,No,NA,27,779,FL resident,Yes,Dade,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,47,780,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,46,781,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,No,No,NA,34,782,FL resident,Yes,Dade,Unknown,Male,No
+,Yes,Yes,Yes,Bahamas; CA; IL,51,783,Non-FL resident,Yes,Dade,Unknown,Male,NA
+,Unknown,Yes,No,NA,44,784,FL resident,Yes,Dade,No,Female,No
+,Unknown,Unknown,Unknown,NA,34,785,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,50,786,FL resident,Yes,Dade,Yes,Male,NA
+,Unknown,Yes,Unknown,NA,20,787,FL resident,Yes,Dade,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,33,788,Non-FL resident,Yes,Dade,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,11,789,FL resident,Yes,Dade,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,70,790,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,58,791,FL resident,Yes,Dade,NA,Male,Unknown
+,Unknown,Unknown,Unknown,NA,30,792,FL resident,Yes,Dade,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,28,793,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,46,794,FL resident,Yes,Dade,NA,Female,NA
+,Yes,Yes,Yes,Puerto Rico; SC,42,795,FL resident,Yes,Dade,No,Male,NA
+,Unknown,Unknown,Unknown,NA,38,796,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,NA,NA,NA,40,797,FL resident,Yes,Dade,NA,Male,NA
+,No,Yes,Yes,NA,75,798,FL resident,Yes,Dade,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,60,799,FL resident,Yes,Dade,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,65,800,FL resident,Yes,Dade,NA,Female,NA
+,No,Yes,Yes,NA,90,801,FL resident,Yes,Duval,Yes,Male,NA
+,No,No,No,NA,89,802,FL resident,Yes,Duval,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,44,803,FL resident,Yes,Duval,NA,Male,NA
+,Unknown,No,No,NA,57,804,FL resident,Yes,Duval,Yes,Female,No
+,No,No,No,NA,91,805,FL resident,Yes,Duval,Yes,Male,No
+,Unknown,NA,NA,NA,88,806,FL resident,Yes,Duval,NA,Male,NA
+,No,Yes,Yes,NA,83,807,FL resident,Yes,Duval,Yes,Male,Yes
+,Unknown,Unknown,Unknown,NA,74,808,FL resident,Yes,Duval,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,84,809,FL resident,Yes,Duval,NA,Male,NA
+,Unknown,NA,NA,NA,59,810,FL resident,Yes,Duval,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,56,811,FL resident,Yes,Duval,NA,Male,NA
+,Unknown,No,NA,NA,88,812,FL resident,Yes,Duval,Yes,Male,NA
+,No,No,No,NA,68,813,FL resident,Yes,Duval,Yes,Female,No
+,Unknown,Yes,Yes,NA,41,814,FL resident,Yes,Duval,No,Female,NA
+,Unknown,NA,NA,NA,83,815,Non-FL resident,Yes,Duval,NA,Unknown,NA
+,Unknown,NA,NA,NA,79,816,FL resident,Yes,Duval,NA,Unknown,NA
+,Unknown,No,Yes,NA,38,817,FL resident,Yes,Duval,Yes,Male,No
+,Yes,NA,Yes,FL; Unknown,57,818,FL resident,Yes,Duval,Yes,Male,NA
+,No,No,No,NA,76,819,FL resident,Yes,Escambia,No,Male,No
+,Unknown,NA,NA,NA,32,820,FL resident,Yes,Escambia,NA,Male,NA
+,No,NA,No,NA,48,821,FL resident,Yes,Escambia,Unknown,Male,NA
+,Unknown,NA,No,NA,33,822,FL resident,Yes,Escambia,No,Female,NA
+,Unknown,NA,NA,NA,58,823,FL resident,Yes,Escambia,NA,Male,NA
+,Yes,No,No,FRANCE,53,824,FL resident,Yes,Escambia,No,Male,No
+,Unknown,NA,NA,NA,60,825,FL resident,Yes,Escambia,NA,Female,NA
+,No,NA,No,NA,25,826,FL resident,Yes,Escambia,No,Female,NA
+,Unknown,Unknown,Unknown,NA,51,827,FL resident,Yes,Escambia,NA,Male,NA
+,Unknown,NA,Unknown,NA,56,828,FL resident,Yes,Escambia,Unknown,Male,NA
+,No,No,No,NA,45,829,FL resident,Yes,Flagler,Unknown,Male,No
+,Yes,No,No,EUROPE,68,830,FL resident,Yes,Flagler,Unknown,Male,No
+,Unknown,No,No,NA,59,831,FL resident,Yes,Flagler,Unknown,Female,No
+,Unknown,Yes,Yes,NA,72,832,FL resident,Yes,Flagler,Unknown,Female,No
+,Yes,NA,Unknown,Japan,54,833,Not diagnosed/isolated in FL,Yes,Gadsden,Unknown,Male,NA
+,No,No,No,NA,68,834,FL resident,Yes,Hernando,No,Male,No
+,No,No,No,NA,73,835,FL resident,Yes,Hernando,No,Female,No
+,Yes,No,No,Spain,19,836,FL resident,Yes,Hernando,No,Female,No
+,No,No,No,NA,70,837,FL resident,Yes,Hernando,No,Female,No
+,Yes,No,No,Spain,20,838,FL resident,Yes,Hernando,Unknown,Male,No
+,Yes,NA,No,CARIBBEAN; FL,56,839,FL resident,Yes,Highlands,Unknown,Female,NA
+,No,Yes,Yes,NA,78,840,FL resident,Yes,Highlands,No,Female,No
+,No,No,No,NA,77,841,FL resident,Yes,Highlands,No,Female,NA
+,Unknown,NA,NA,NA,39,842,FL resident,Yes,Highlands,NA,Male,NA
+,Yes,No,No,CA,27,843,FL resident,Yes,Hillsborough,Yes,Female,No
+,Unknown,NA,NA,NA,35,844,FL resident,Yes,Hillsborough,NA,Male,NA
+,No,NA,No,NA,33,845,FL resident,Yes,Hillsborough,Yes,Male,NA
+,Unknown,NA,NA,NA,28,846,FL resident,Yes,Hillsborough,NA,Male,NA
+,No,Yes,No,NA,30,847,FL resident,Yes,Hillsborough,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,57,848,FL resident,Yes,Hillsborough,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,41,849,FL resident,Yes,Hillsborough,NA,Male,NA
+,Yes,Yes,Yes,FL; NJ; NY,38,850,FL resident,Yes,Hillsborough,No,Female,No
+,Yes,No,No,UNITED KINGDOM,50,851,FL resident,Yes,Hillsborough,Yes,Male,No
+,No,Unknown,No,NA,65,852,FL resident,Yes,Manatee,Yes,Male,NA
+,No,NA,No,NA,60,853,FL resident,Yes,Hillsborough,Yes,Female,NA
+,No,Yes,Yes,NA,47,854,FL resident,Yes,Osceola,Yes,Female,No
+,No,NA,Yes,NA,43,855,FL resident,Yes,Lake,No,Female,NA
+,Unknown,No,No,NA,80,856,FL resident,Yes,Osceola,No,Male,NA
+,No,No,No,NA,18,857,FL resident,Yes,Hillsborough,Yes,Male,No
+,Yes,No,No,BELIZE; CARIBBEAN; FL,80,858,FL resident,Yes,Lake,No,Male,No
+,Yes,Yes,Yes,India,68,859,FL resident,Yes,Osceola,No,Male,No
+,Unknown,NA,NA,NA,16,860,FL resident,Yes,Hillsborough,NA,Male,NA
+,No,NA,Yes,NA,63,861,FL resident,Yes,Manatee,Yes,Female,NA
+,No,Unknown,Unknown,NA,27,862,FL resident,Yes,Hillsborough,NA,Female,NA
+,No,Yes,No,NA,63,863,FL resident,Yes,Lake,No,Female,NA
+,No,No,No,NA,21,864,FL resident,Yes,Osceola,Yes,Female,NA
+,Unknown,NA,NA,NA,6,865,FL resident,Yes,Hillsborough,Yes,Male,NA
+,No,NA,No,NA,61,866,FL resident,Yes,Manatee,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,39,867,FL resident,Yes,Hillsborough,NA,Male,NA
+,No,No,No,NA,26,868,FL resident,Yes,Lake,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,36,869,FL resident,Yes,Osceola,NA,Male,NA
+,Unknown,NA,NA,NA,6,870,FL resident,Yes,Hillsborough,NA,Unknown,NA
+,No,Yes,Yes,NA,67,871,FL resident,Yes,Manatee,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,21,872,FL resident,Yes,Hillsborough,NA,Female,NA
+,Yes,Yes,No,CO; FL,56,873,FL resident,Yes,Lake,No,Male,No
+,Yes,NA,NA,SPAIN; UNITED KINGDOM,79,874,FL resident,Yes,Osceola,No,Male,NA
+,Unknown,Unknown,No,NA,56,875,FL resident,Yes,Hillsborough,No,Female,NA
+,Unknown,NA,NA,NA,64,876,FL resident,Yes,Manatee,NA,Female,NA
+,No,No,No,NA,62,877,FL resident,Yes,Manatee,Yes,Female,No
+,No,Yes,Yes,NA,63,878,FL resident,Yes,Manatee,Yes,Male,No
+,No,Unknown,No,NA,75,879,FL resident,Yes,Manatee,No,Male,NA
+,Unknown,NA,NA,NA,14,880,FL resident,Yes,Manatee,NA,Male,NA
+,Yes,NA,No,Egypt,81,881,FL resident,Yes,Manatee,Yes,Female,NA
+,No,Yes,Yes,NA,56,882,FL resident,Yes,Manatee,NA,Female,No
+,Yes,Yes,Yes,NJ; NY,75,883,FL resident,Yes,Manatee,No,Male,NA
+,Unknown,NA,NA,NA,68,884,FL resident,Yes,Manatee,NA,Male,NA
+,No,Yes,No,NA,72,885,FL resident,Yes,Manatee,Yes,Female,NA
+,No,Yes,Yes,NA,71,886,FL resident,Yes,Manatee,Yes,Male,No
+,Yes,No,No,UNITED KINGDOM,40,887,FL resident,Yes,Marion,No,Female,No
+,Yes,Yes,No,WI,68,888,FL resident,Yes,Marion,Unknown,Male,No
+,Unknown,No,No,NA,59,889,FL resident,Yes,Marion,No,Female,No
+,Yes,No,No,FL; Ireland,48,890,FL resident,Yes,Marion,No,Female,No
+,No,No,No,NA,69,891,FL resident,Yes,Martin,No,Female,No
+,No,Yes,No,NA,57,892,FL resident,Yes,Martin,No,Male,No
+,Yes,No,No,Brazil; FL,45,893,FL resident,Yes,Martin,Unknown,Female,No
+,No,Yes,No,NA,75,894,FL resident,Yes,Martin,No,Male,No
+,Unknown,Yes,Yes,NA,52,895,FL resident,Yes,Monroe,Unknown,Female,NA
+,Yes,NA,No,FL; United Kingdom,72,896,FL resident,Yes,Monroe,Unknown,Female,NA
+,Yes,No,No,France,54,897,FL resident,Yes,Monroe,No,Female,NA
+,Yes,No,No,Germany; MA,68,898,FL resident,Yes,Nassau,Yes,Male,No
+,No,Yes,Yes,NA,66,899,FL resident,Yes,Okaloosa,No,Male,No
+,No,No,No,NA,44,900,FL resident,Yes,Okaloosa,Unknown,Female,No
+,Yes,No,No,CA; Mexico,61,901,FL resident,Yes,Okaloosa,Yes,Female,No
+,Yes,No,No,NJ; NY,47,902,FL resident,Yes,Okaloosa,No,Female,No
+,Yes,No,No,FL; GA; MS; NJ,47,903,FL resident,Yes,Okaloosa,No,Male,No
+,Yes,No,No,GA,45,904,FL resident,Yes,Okaloosa,No,Female,No
+,Yes,No,No,CO; FL,24,905,FL resident,Yes,Okaloosa,No,Female,No
+,Yes,No,No,CA,25,906,FL resident,Yes,Okaloosa,No,Male,No
+,Yes,Yes,No,Italy,78,907,FL resident,Yes,Okaloosa,No,Female,No
+,Yes,Unknown,Unknown,Japan,66,908,Not diagnosed/isolated in FL,Yes,Okaloosa,Yes,Female,No
+,No,No,No,NA,83,909,FL resident,Yes,Okaloosa,Yes,Male,No
+,No,No,No,NA,82,910,FL resident,Yes,Okaloosa,Yes,Female,No
+,No,No,No,NA,25,911,FL resident,Yes,Okaloosa,No,Female,No
+,Yes,Yes,Yes,EUROPE,59,912,FL resident,Yes,Okaloosa,No,Female,No
+,Unknown,Unknown,Unknown,NA,52,913,FL resident,Yes,Orange,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,21,914,FL resident,Yes,Orange,NA,Female,NA
+,Yes,Yes,Yes,NY,82,915,FL resident,Yes,Orange,Unknown,Female,No
+,No,Unknown,Unknown,NA,56,916,FL resident,Yes,Orange,NA,Male,NA
+,No,Yes,Yes,NA,55,917,FL resident,Yes,Orange,No,Female,No
+,Unknown,Unknown,Unknown,NA,30,918,FL resident,Yes,Orange,NA,Male,NA
+,No,No,No,NA,50,919,FL resident,Yes,Orange,Unknown,Female,No
+,No,Yes,Yes,NA,82,920,FL resident,Yes,Orange,Unknown,Female,No
+,No,NA,No,NA,52,921,FL resident,Yes,Orange,No,Female,NA
+,No,No,No,NA,36,922,FL resident,Yes,Hillsborough,Yes,Female,NA
+,Yes,Yes,No,Switzerland,48,923,FL resident,Yes,Osceola,Yes,Male,No
+,Unknown,NA,NA,NA,65,924,FL resident,Yes,Hillsborough,NA,Male,NA
+,Yes,Yes,No,FL; NY,75,925,FL resident,Yes,Lake,Yes,Female,No
+,No,Yes,No,NA,22,926,FL resident,Yes,Osceola,Yes,Male,No
+,No,Unknown,No,NA,28,927,FL resident,Yes,Hillsborough,NA,Female,NA
+,No,Yes,No,NA,34,928,FL resident,Yes,Lake,Unknown,Male,No
+,No,Yes,No,NA,18,929,FL resident,Yes,Osceola,Yes,Male,No
+,Unknown,Yes,No,NA,38,930,FL resident,Yes,Hillsborough,No,Male,NA
+,Yes,No,No,Italy,22,931,Non-FL resident,Yes,Hillsborough,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,75,932,FL resident,Yes,Lake,Unknown,Male,NA
+,No,No,No,NA,39,933,FL resident,Yes,Hillsborough,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,21,934,FL resident,Yes,Lake,Unknown,Female,NA
+,Yes,Unknown,Unknown,FL; NY,30,935,FL resident,Yes,Hillsborough,No,Male,NA
+,Yes,No,No,NY,33,936,FL resident,Yes,Osceola,No,Female,No
+,No,No,No,NA,59,937,FL resident,Yes,Lee,No,Female,No
+,Yes,NA,No,Venezuela,20,938,FL resident,Yes,Hillsborough,No,Female,NA
+,No,Yes,Yes,NA,79,939,FL resident,Yes,Lee,Yes,Male,No
+,Yes,No,No,FL; NY,62,940,FL resident,Yes,Hillsborough,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,70,941,FL resident,Yes,Osceola,NA,Male,NA
+,No,NA,No,NA,90,942,FL resident,Yes,Lee,Yes,Female,NA
+,Yes,Unknown,No,BOSNIA AND HERZEGOVINA; GERMANY,38,943,FL resident,Yes,Hillsborough,Yes,Female,NA
+,Yes,No,No,FL; NY,54,944,FL resident,Yes,Hillsborough,Yes,Female,No
+,No,Yes,Yes,NA,58,945,FL resident,Yes,Osceola,Unknown,Male,No
+,Unknown,No,No,NA,75,946,FL resident,Yes,Lee,No,Female,No
+,No,Yes,No,NA,54,947,FL resident,Yes,Hillsborough,No,Male,NA
+,Yes,No,No,Italy,29,948,FL resident,Yes,Hillsborough,Yes,Female,No
+,Yes,Yes,Yes,Canada,65,949,Non-FL resident,Yes,Osceola,No,Male,NA
+,Yes,No,No,FL; FRANCE; UNITED KINGDOM,57,950,Non-FL resident,Yes,Lee,Unknown,Male,NA
+,No,No,No,NA,46,951,FL resident,Yes,Hillsborough,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,28,952,Non-FL resident,Yes,Hillsborough,Unknown,Male,NA
+,Unknown,Yes,Yes,NA,39,953,Non-FL resident,Yes,Osceola,No,Male,NA
+,No,No,No,NA,75,954,FL resident,Yes,Lee,Yes,Male,No
+,No,Unknown,Yes,NA,79,955,FL resident,Yes,Hillsborough,Yes,Female,NA
+,Yes,Yes,Yes,Brazil,31,956,FL resident,Yes,Osceola,No,Male,No
+,No,No,No,NA,19,957,FL resident,Yes,Hillsborough,No,Female,NA
+,Unknown,Unknown,Unknown,NA,50,958,Non-FL resident,Yes,Hillsborough,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,60,959,FL resident,Yes,Hillsborough,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,69,960,FL resident,Yes,Hillsborough,NA,Male,NA
+,Unknown,NA,NA,NA,69,961,FL resident,Yes,Hillsborough,Yes,Female,NA
+,Unknown,NA,Unknown,NA,29,962,FL resident,Yes,Hillsborough,No,Male,NA
+,No,Yes,No,NA,79,963,FL resident,Yes,Hillsborough,No,Female,No
+,No,Unknown,Unknown,NA,49,964,FL resident,Yes,Hillsborough,No,Female,No
+,Yes,No,No,Bahamas,31,965,FL resident,Yes,Hillsborough,No,Unknown,NA
+,Unknown,No,No,NA,51,966,FL resident,Yes,Hillsborough,No,Male,No
+,Yes,No,No,GA,61,967,Non-FL resident,Yes,Hillsborough,Unknown,Male,NA
+,No,Yes,Yes,NA,40,968,FL resident,Yes,Hillsborough,Yes,Female,No
+,Unknown,NA,NA,NA,10,969,FL resident,Yes,Hillsborough,Yes,Male,NA
+,Unknown,NA,NA,NA,14,970,FL resident,Yes,Hillsborough,NA,Unknown,NA
+,Unknown,NA,NA,NA,15,971,FL resident,Yes,Hillsborough,NA,Unknown,NA
+,Yes,Yes,No,FL; TN,72,972,FL resident,Yes,Hillsborough,Unknown,Female,No
+,No,Yes,No,NA,76,973,FL resident,Yes,Osceola,No,Male,No
+,Yes,Yes,No,SPAIN,21,974,FL resident,Yes,Lee,No,Female,No
+,Yes,No,No,Spain,20,975,Non-FL resident,Yes,Osceola,No,Female,NA
+,No,NA,Yes,NA,83,976,FL resident,Yes,Lee,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,80,977,FL resident,Yes,Palm Beach,NA,Female,NA
+,Yes,Yes,Yes,Dominican Republic,77,978,FL resident,Yes,Lee,Yes,Female,Yes
+,Unknown,Unknown,Unknown,NA,53,979,FL resident,Yes,Palm Beach,NA,Female,NA
+,Yes,Yes,Yes,Dominican Republic,77,980,FL resident,Yes,Lee,Yes,Male,No
+,No,No,No,NA,66,981,FL resident,Yes,Palm Beach,Unknown,Male,No
+,No,Yes,Yes,NA,77,982,FL resident,Yes,Lee,Yes,Male,Yes
+,Yes,Unknown,No,TN,19,983,FL resident,Yes,Palm Beach,Yes,Female,No
+,Yes,No,No,MA; NH,72,984,FL resident,Yes,Lee,Yes,Female,NA
+,Unknown,NA,NA,NA,33,985,FL resident,Yes,Hillsborough,NA,Female,NA
+,Yes,NA,No,Japan,71,986,Not diagnosed/isolated in FL,Yes,Palm Beach,Yes,Female,No
+,No,Yes,Yes,NA,67,987,FL resident,Yes,Lee,Yes,Male,NA
+,Yes,Yes,No,CO,69,988,FL resident,Yes,Palm Beach,No,Male,No
+,No,Unknown,No,NA,20,989,Non-FL resident,Yes,Hillsborough,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,56,990,FL resident,Yes,Lee,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,32,991,FL resident,Yes,Palm Beach,NA,Male,NA
+,Yes,NA,No,NY,31,992,FL resident,Yes,Hillsborough,Yes,Male,NA
+,No,NA,No,NA,43,993,FL resident,Yes,Hillsborough,Yes,Female,NA
+,No,NA,No,NA,70,994,FL resident,Yes,Lee,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,69,995,FL resident,Yes,Palm Beach,NA,Female,NA
+,No,NA,No,NA,32,996,FL resident,Yes,Hillsborough,Yes,Female,NA
+,Yes,Yes,No,CO; FL,42,997,FL resident,Yes,Hillsborough,Yes,Male,NA
+,Yes,Yes,Yes,FL; NY,89,998,FL resident,Yes,Lee,No,Female,No
+,No,Unknown,Unknown,NA,69,999,FL resident,Yes,Palm Beach,No,Male,No
+,Unknown,No,No,NA,21,1000,FL resident,Yes,Hillsborough,NA,Male,NA
+,Yes,No,No,CO,56,1001,FL resident,Yes,Indian River,Yes,Male,No
+,Unknown,No,No,NA,60,1002,FL resident,Yes,Lee,No,Male,No
+,Yes,Yes,No,Bahamas; FL,26,1003,FL resident,Yes,Palm Beach,No,Male,No
+,No,Yes,No,NA,36,1004,FL resident,Yes,Hillsborough,No,Male,NA
+,Yes,Yes,No,FL; MO,77,1005,FL resident,Yes,Indian River,No,Female,No
+,No,Yes,Yes,NA,32,1006,FL resident,Yes,Lee,No,Male,No
+,Unknown,Unknown,Unknown,NA,38,1007,Non-FL resident,Yes,Hillsborough,NA,Female,NA
+,Yes,Unknown,Yes,France,76,1008,FL resident,Yes,Palm Beach,Unknown,Female,NA
+,No,Yes,Yes,NA,72,1009,FL resident,Yes,Lee,Unknown,Female,No
+,Yes,No,No,Egypt; Germany,69,1010,FL resident,Yes,Indian River,No,Male,No
+,No,Yes,No,NA,21,1011,FL resident,Yes,Hillsborough,Yes,Female,No
+,Yes,No,No,TN,23,1012,FL resident,Yes,Lee,Yes,Male,No
+,Unknown,NA,NA,NA,68,1013,FL resident,Yes,Indian River,NA,Female,NA
+,Yes,NA,No,FL; NY,26,1014,FL resident,Yes,Hillsborough,No,Female,NA
+,Yes,Yes,No,Ireland,58,1015,FL resident,Yes,Indian River,No,Female,No
+,Yes,Yes,Yes,FL; JAMAICA,65,1016,FL resident,Yes,Lee,Yes,Female,No
+,No,No,No,NA,49,1017,FL resident,Yes,Indian River,No,Male,No
+,Yes,NA,No,FL; NY,62,1018,FL resident,Yes,Hillsborough,No,Male,NA
+,Unknown,Unknown,Unknown,NA,19,1019,FL resident,Yes,Palm Beach,Unknown,Female,NA
+,Unknown,Yes,Yes,NA,73,1020,FL resident,Yes,Lee,No,Male,No
+,No,No,No,NA,54,1021,FL resident,Yes,Indian River,No,Male,No
+,No,NA,No,NA,36,1022,FL resident,Yes,Hillsborough,No,Male,NA
+,Yes,Yes,No,Egypt; Germany,56,1023,FL resident,Yes,Palm Beach,Yes,Female,No
+,Yes,NA,NA,Philippines; South Korea,68,1024,Not diagnosed/isolated in FL,Yes,Orange,NA,Female,Yes
+,No,No,No,NA,67,1025,FL resident,Yes,Lee,Yes,Male,No
+,Yes,No,No,NY,25,1026,Non-FL resident,Yes,Indian River,No,Female,NA
+,No,Yes,No,NA,30,1027,FL resident,Yes,Hillsborough,Unknown,Female,No
+,Yes,No,No,NV; UT; WY,41,1028,FL resident,Yes,Palm Beach,No,Male,No
+,Unknown,Unknown,Unknown,NA,28,1029,Non-FL resident,Yes,Orange,Unknown,Female,NA
+,No,Yes,Yes,NA,80,1030,FL resident,Yes,Lee,Yes,Male,No
+,Yes,No,No,Portugal; Spain; United Kingdom,30,1031,FL resident,Yes,Indian River,No,Female,No
+,Unknown,Unknown,Unknown,NA,51,1032,FL resident,Yes,Hillsborough,NA,Female,NA
+,No,No,No,NA,35,1033,FL resident,Yes,Palm Beach,No,Female,No
+,Unknown,Yes,Yes,NA,46,1034,FL resident,Yes,Orange,NA,Male,No
+,Yes,No,No,Colombia; Ecuador,66,1035,FL resident,Yes,Lee,Unknown,Male,No
+,No,No,Yes,NA,81,1036,FL resident,Yes,Indian River,No,Female,No
+,Yes,Yes,Yes,CO,47,1037,FL resident,Yes,Hillsborough,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,77,1038,FL resident,Yes,Palm Beach,NA,Female,NA
+,Unknown,Unknown,No,NA,37,1039,FL resident,Yes,Orange,No,Male,NA
+,No,NA,Yes,NA,67,1040,FL resident,Yes,Lee,No,Male,No
+,Unknown,Unknown,Unknown,NA,64,1041,FL resident,Yes,Palm Beach,NA,Female,NA
+,No,No,No,NA,84,1042,FL resident,Yes,Indian River,No,Female,No
+,Yes,Unknown,Unknown,Egypt,46,1043,FL resident,Yes,Hillsborough,No,Female,NA
+,Unknown,Unknown,Unknown,NA,68,1044,FL resident,Yes,Palm Beach,NA,Male,NA
+,No,Yes,No,NA,48,1045,FL resident,Yes,Orange,Yes,Female,No
+,Unknown,No,No,NA,35,1046,FL resident,Yes,Lee,No,Male,No
+,Unknown,Yes,Yes,NA,88,1047,FL resident,Yes,Palm Beach,No,Male,Yes
+,Yes,No,No,AL; FL; GA; LA; Mexico; TX,33,1048,Non-FL resident,Yes,Jackson,Unknown,Male,NA
+,Yes,Yes,Yes,FL; Ireland,49,1049,FL resident,Yes,Hillsborough,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,73,1050,FL resident,Yes,Palm Beach,NA,Male,NA
+,Yes,No,No,Peru,33,1051,Non-FL resident,Yes,Orange,NA,Female,NA
+,No,NA,No,NA,65,1052,FL resident,Yes,Lee,Yes,Female,NA
+,No,Yes,No,NA,43,1053,FL resident,Yes,Palm Beach,No,Male,No
+,Yes,Yes,No,FL; PANAMA,75,1054,FL resident,Yes,Lake,Yes,Male,No
+,Yes,Yes,No,CA,60,1055,FL resident,Yes,Hillsborough,No,Male,No
+,Yes,Yes,Yes,Belgium; FL,74,1056,FL resident,Yes,Palm Beach,No,Male,No
+,Unknown,Unknown,Unknown,NA,32,1057,FL resident,Yes,Orange,NA,Male,NA
+,No,Yes,Yes,NA,69,1058,FL resident,Yes,Lee,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,21,1059,FL resident,Yes,Palm Beach,NA,Female,NA
+,Yes,Yes,No,FL; PANAMA,75,1060,FL resident,Yes,Lake,Yes,Female,NA
+,Yes,Yes,Yes,FL; OH,68,1061,FL resident,Yes,Lake,No,Male,No
+,No,NA,Yes,NA,48,1062,FL resident,Yes,Lake,No,Male,No
+,Yes,NA,Yes,FL; NY,70,1063,FL resident,Yes,Lake,No,Female,NA
+,Unknown,Unknown,Unknown,NA,29,1064,FL resident,Yes,Palm Beach,NA,Unknown,NA
+,Yes,Yes,Yes,NY,81,1065,FL resident,Yes,Palm Beach,Yes,Male,No
+,No,Yes,Yes,NA,42,1066,FL resident,Yes,Palm Beach,Unknown,Female,No
+,Yes,Yes,Yes,NY,59,1067,FL resident,Yes,Palm Beach,Yes,Female,No
+,No,No,No,NA,57,1068,FL resident,Yes,Lee,Yes,Female,No
+,No,Yes,No,NA,19,1069,FL resident,Yes,Hillsborough,Yes,Female,No
+,Yes,Yes,Yes,NY,65,1070,FL resident,Yes,Palm Beach,Yes,Male,No
+,No,No,No,NA,75,1071,FL resident,Yes,Lee,Yes,Female,No
+,Unknown,No,No,NA,33,1072,FL resident,Yes,Hillsborough,Yes,Male,No
+,Yes,Unknown,Unknown,NJ,73,1073,Non-FL resident,Yes,Palm Beach,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,74,1074,FL resident,Yes,Lee,NA,Female,NA
+,No,Yes,No,NA,36,1075,FL resident,Yes,Hillsborough,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,55,1076,FL resident,Yes,Palm Beach,NA,Male,NA
+,Yes,Yes,No,GA,36,1077,Non-FL resident,Yes,Leon,Unknown,Male,NA
+,Unknown,NA,NA,NA,3,1078,FL resident,Yes,Hillsborough,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,26,1079,FL resident,Yes,Palm Beach,NA,Female,NA
+,Yes,Yes,No,UNITED KINGDOM,31,1080,FL resident,Yes,Leon,No,Female,No
+,No,Yes,Yes,NA,43,1081,FL resident,Yes,Hillsborough,Yes,Male,No
+,Yes,Yes,No,NY,37,1082,FL resident,Yes,Palm Beach,Yes,Male,No
+,Yes,Yes,Yes,GA,58,1083,FL resident,Yes,Leon,Yes,Female,No
+,No,No,No,NA,52,1084,FL resident,Yes,Hillsborough,No,Male,No
+,Unknown,Unknown,Unknown,NA,56,1085,FL resident,Yes,Palm Beach,NA,Male,NA
+,Yes,Yes,No,GA,55,1086,FL resident,Yes,Leon,Yes,Male,No
+,Unknown,NA,NA,NA,47,1087,FL resident,Yes,Hillsborough,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,67,1088,FL resident,Yes,Palm Beach,NA,Male,NA
+,Yes,Yes,Yes,GA,48,1089,Non-FL resident,Yes,Leon,Unknown,Female,NA
+,No,Unknown,No,NA,30,1090,FL resident,Yes,Hillsborough,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,61,1091,FL resident,Yes,Palm Beach,NA,Female,NA
+,Yes,No,No,NC,34,1092,FL resident,Yes,Leon,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,39,1093,FL resident,Yes,Hillsborough,No,Female,NA
+,Unknown,Unknown,Unknown,NA,47,1094,FL resident,Yes,Palm Beach,NA,Male,NA
+,Yes,NA,No,Egypt,33,1095,FL resident,Yes,Hillsborough,No,Female,NA
+,Yes,No,No,FL; GA,40,1096,FL resident,Yes,Leon,Yes,Female,No
+,Yes,No,No,NY,73,1097,Non-FL resident,Yes,Palm Beach,Yes,Male,NA
+,Unknown,Unknown,Yes,NA,74,1098,FL resident,Yes,Hillsborough,Yes,Female,NA
+,Yes,No,No,JAPAN,59,1099,Not diagnosed/isolated in FL,Yes,Leon,Unknown,Female,No
+,Yes,No,No,CO,32,1100,FL resident,Yes,Hillsborough,Yes,Female,No
+,No,Yes,Yes,NA,70,1101,FL resident,Yes,Manatee,No,Male,Yes
+,Yes,Yes,Yes,Canada; FL,72,1102,FL resident,Yes,Palm Beach,No,Male,No
+,Unknown,Unknown,Unknown,NA,42,1103,FL resident,Yes,Orange,NA,Male,NA
+,Unknown,Unknown,No,NA,60,1104,FL resident,Yes,Hillsborough,No,Male,NA
+,Unknown,Unknown,Unknown,NA,29,1105,FL resident,Yes,Palm Beach,NA,Male,NA
+,No,Yes,No,NA,40,1106,FL resident,Yes,Orange,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,52,1107,FL resident,Yes,Hillsborough,NA,Male,NA
+,No,Yes,No,NA,68,1108,FL resident,Yes,Palm Beach,Yes,Female,No
+,Yes,Yes,Yes,NY,46,1109,FL resident,Yes,Orange,Unknown,Male,No
+,No,Yes,No,NA,17,1110,FL resident,Yes,Hillsborough,No,Male,No
+,No,No,No,NA,23,1111,FL resident,Yes,Hillsborough,Yes,Male,No
+,No,No,No,NA,38,1112,FL resident,Yes,Hillsborough,Yes,Female,No
+,Unknown,NA,NA,NA,64,1113,FL resident,Yes,Hillsborough,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,46,1114,FL resident,Yes,Hillsborough,NA,Female,NA
+,Yes,No,No,SPAIN,50,1115,FL resident,Yes,Hillsborough,Unknown,Male,No
+,No,Yes,No,NA,20,1116,FL resident,Yes,Hillsborough,Yes,Female,No
+,No,No,No,NA,28,1117,FL resident,Yes,Hillsborough,Yes,Male,No
+,No,Yes,No,NA,69,1118,FL resident,Yes,Palm Beach,Yes,Male,No
+,Yes,No,No,BAHAMAS; FL; NY; TX,69,1119,FL resident,Yes,Palm Beach,No,Male,No
+,No,No,No,NA,71,1120,FL resident,Yes,Palm Beach,No,Male,No
+,Unknown,Unknown,Unknown,NA,22,1121,FL resident,Yes,Palm Beach,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,26,1122,Non-FL resident,Yes,Palm Beach,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,78,1123,FL resident,Yes,Palm Beach,Unknown,Male,NA
+,Yes,Yes,Yes,NY,60,1124,FL resident,Yes,Palm Beach,Unknown,Male,No
+,Unknown,Yes,No,NA,48,1125,FL resident,Yes,Palm Beach,Unknown,Male,No
+,Unknown,No,No,NA,20,1126,Non-FL resident,Yes,Palm Beach,Unknown,Female,NA
+,Unknown,NA,Unknown,NA,69,1127,FL resident,Yes,Palm Beach,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,25,1128,FL resident,Yes,Palm Beach,NA,Female,NA
+,Unknown,Yes,Unknown,NA,66,1129,FL resident,Yes,Palm Beach,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,18,1130,FL resident,Yes,Palm Beach,NA,Female,NA
+,Yes,Yes,No,FL; Jamaica,23,1131,Non-FL resident,Yes,Palm Beach,No,Female,NA
+,Unknown,Unknown,Unknown,NA,44,1132,FL resident,Yes,Palm Beach,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,50,1133,FL resident,Yes,Palm Beach,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,78,1134,Non-FL resident,Yes,Palm Beach,Unknown,Female,NA
+,No,Yes,Yes,NA,72,1135,FL resident,Yes,Palm Beach,No,Male,No
+,Yes,Yes,Yes,Russia; Spain,60,1136,FL resident,Yes,Palm Beach,No,Female,No
+,Unknown,Unknown,Unknown,NA,52,1137,FL resident,Yes,Palm Beach,NA,Female,NA
+,Yes,Yes,Yes,Egypt; Germany,73,1138,FL resident,Yes,Palm Beach,Yes,Male,No
+,No,Yes,Yes,NA,53,1139,FL resident,Yes,Palm Beach,No,Male,No
+,No,Yes,No,NA,28,1140,FL resident,Yes,Palm Beach,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,43,1141,FL resident,Yes,Palm Beach,NA,Male,NA
+,No,Yes,No,NA,29,1142,FL resident,Yes,Palm Beach,Unknown,Male,No
+,Yes,Yes,Yes,EL SALVADOR,53,1143,FL resident,Yes,Palm Beach,No,Male,No
+,Unknown,Unknown,Unknown,NA,59,1144,FL resident,Yes,Palm Beach,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,45,1145,FL resident,Yes,Palm Beach,NA,Female,NA
+,Yes,No,No,NY,19,1146,FL resident,Yes,Palm Beach,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,56,1147,FL resident,Yes,Palm Beach,NA,Female,NA
+,Unknown,Yes,No,NA,38,1148,FL resident,Yes,Palm Beach,Unknown,Male,No
+,Yes,Unknown,No,CO; FL,48,1149,FL resident,Yes,Palm Beach,No,Male,No
+,Unknown,No,No,NA,43,1150,FL resident,Yes,Palm Beach,Unknown,Male,No
+,Unknown,No,No,NA,6,1151,FL resident,Yes,Palm Beach,Yes,Female,No
+,Yes,Yes,No,PORTUGAL; UNITED KINGDOM,21,1152,FL resident,Yes,Palm Beach,No,Female,No
+,No,Yes,Unknown,NA,84,1153,FL resident,Yes,Palm Beach,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,64,1154,FL resident,Yes,Palm Beach,NA,Male,NA
+,No,Yes,No,NA,83,1155,FL resident,Yes,Palm Beach,No,Male,No
+,Unknown,Unknown,Unknown,NA,72,1156,FL resident,Yes,Palm Beach,NA,Male,NA
+,Yes,Unknown,Yes,United Kingdom,62,1157,FL resident,Yes,Palm Beach,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,78,1158,FL resident,Yes,Palm Beach,NA,Male,NA
+,Unknown,Yes,Yes,NA,82,1159,FL resident,Yes,Palm Beach,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,29,1160,Non-FL resident,Yes,Palm Beach,Yes,Male,NA
+,Yes,No,No,Peru,34,1161,Non-FL resident,Yes,Orange,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,70,1162,FL resident,Yes,Orange,NA,Male,NA
+,No,Unknown,Yes,NA,73,1163,Non-FL resident,Yes,Orange,No,Female,NA
+,No,Yes,No,NA,51,1164,FL resident,Yes,Orange,No,Male,No
+,No,Yes,Yes,NA,61,1165,FL resident,Yes,Orange,No,Male,No
+,Unknown,Yes,Yes,NA,49,1166,FL resident,Yes,Orange,Unknown,Male,No
+,Unknown,Unknown,Unknown,NA,46,1167,FL resident,Yes,Orange,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,58,1168,FL resident,Yes,Orange,NA,Male,NA
+,Yes,Yes,No,FL; NC,22,1169,Non-FL resident,Yes,Orange,Unknown,Female,NA
+,No,No,No,NA,33,1170,FL resident,Yes,Orange,NA,Female,No
+,No,No,No,NA,41,1171,FL resident,Yes,Orange,Yes,Male,No
+,No,Yes,No,NA,32,1172,FL resident,Yes,Orange,Unknown,Female,No
+,Unknown,Yes,Yes,NA,62,1173,FL resident,Yes,Orange,Yes,Male,NA
+,Yes,NA,Unknown,FL; SPAIN,62,1174,FL resident,Yes,Orange,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,61,1175,FL resident,Yes,Orange,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,57,1176,FL resident,Yes,Orange,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,33,1177,FL resident,Yes,Orange,NA,Male,NA
+,No,Unknown,No,NA,48,1178,FL resident,Yes,Orange,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,50,1179,FL resident,Yes,Orange,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,31,1180,FL resident,Yes,Orange,NA,Male,NA
+,Yes,No,No,United Arab Emirates,46,1181,FL resident,Yes,Orange,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,33,1182,FL resident,Yes,Orange,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,63,1183,FL resident,Yes,Orange,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,38,1184,FL resident,Yes,Orange,NA,Male,NA
+,Unknown,Yes,No,NA,39,1185,FL resident,Yes,Orange,Unknown,Male,NA
+,Unknown,Unknown,Yes,NA,73,1186,FL resident,Yes,Orange,NA,Male,NA
+,Unknown,Yes,Yes,NA,79,1187,FL resident,Yes,Orange,No,Female,Yes
+,No,Yes,Yes,NA,41,1188,FL resident,Yes,Orange,No,Female,No
+,No,No,No,NA,35,1189,FL resident,Yes,Orange,No,Male,NA
+,Yes,No,No,SPAIN,20,1190,FL resident,Yes,Orange,Unknown,Female,No
+,No,No,No,NA,42,1191,FL resident,Yes,Orange,Yes,Male,No
+,Yes,No,No,NY,28,1192,FL resident,Yes,Osceola,No,Female,No
+,Yes,No,No,Europe,50,1193,FL resident,Yes,Osceola,Yes,Male,No
+,Unknown,No,No,NA,36,1194,FL resident,Yes,Osceola,NA,Female,NA
+,No,Yes,No,NA,54,1195,FL resident,Yes,Osceola,No,Male,No
+,Yes,No,No,NY,57,1196,FL resident,Yes,Osceola,Unknown,Female,NA
+,No,Yes,No,NA,20,1197,FL resident,Yes,Osceola,Yes,Female,No
+,Yes,No,No,Europe,48,1198,FL resident,Yes,Osceola,Yes,Female,No
+,Yes,No,NA,SPAIN,64,1199,FL resident,Yes,Osceola,Unknown,Female,NA
+,No,Yes,Yes,NA,29,1200,FL resident,Yes,Osceola,Yes,Male,No
+,Unknown,Unknown,Unknown,NA,76,1201,FL resident,Yes,Palm Beach,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,25,1202,FL resident,Yes,Palm Beach,NA,Male,NA
+,No,Unknown,Unknown,NA,83,1203,FL resident,Yes,Palm Beach,Yes,Female,No
+,No,Yes,No,NA,69,1204,FL resident,Yes,Palm Beach,Yes,Female,No
+,Unknown,Yes,No,NA,70,1205,FL resident,Yes,Palm Beach,Yes,Male,No
+,Yes,Unknown,Unknown,FL; NY,83,1206,FL resident,Yes,Palm Beach,No,Male,No
+,No,No,No,NA,55,1207,FL resident,Yes,Palm Beach,No,Male,No
+,Unknown,Unknown,Unknown,NA,67,1208,FL resident,Yes,Palm Beach,NA,Male,NA
+,Unknown,Unknown,Unknown,NA,65,1209,FL resident,Yes,Palm Beach,Unknown,Female,NA
+,Unknown,Unknown,Unknown,NA,64,1210,FL resident,Yes,Palm Beach,NA,Female,NA
+,Unknown,Unknown,Unknown,NA,64,1211,FL resident,Yes,Palm Beach,NA,Male,NA
+,No,Yes,No,NA,69,1212,FL resident,Yes,Palm Beach,Yes,Male,No
+,No,Yes,No,NA,69,1213,FL resident,Yes,Palm Beach,Yes,Female,No
+,Yes,No,No,CO,30,1214,FL resident,Yes,Palm Beach,No,Female,No
+,Unknown,NA,Unknown,NA,85,1215,FL resident,Yes,Palm Beach,Unknown,Female,Yes
+,Unknown,Unknown,Unknown,NA,24,1216,FL resident,Yes,Palm Beach,NA,Female,NA
+,Unknown,Unknown,Yes,NA,83,1217,FL resident,Yes,Palm Beach,NA,Male,Yes
+,Unknown,Unknown,Unknown,NA,41,1218,FL resident,Yes,Palm Beach,Unknown,Male,NA
+,Yes,No,No,France; Portugal; Switzerland,69,1219,FL resident,Yes,Pasco,Unknown,Male,NA
+,Yes,No,No,France; Portugal; Switzerland,68,1220,FL resident,Yes,Pasco,Unknown,Female,NA
+,Yes,No,No,Mexico,50,1221,FL resident,Yes,Pasco,Yes,Male,NA
+,No,NA,No,NA,46,1222,FL resident,Yes,Pasco,Yes,Male,NA
+,Yes,Yes,Yes,FL; NY,64,1223,FL resident,Yes,Pasco,Yes,Female,No
+,Yes,Yes,Yes,FL; NY,67,1224,FL resident,Yes,Pasco,Yes,Male,No
+,No,No,No,NA,67,1225,FL resident,Yes,Pasco,Yes,Female,No
+,Yes,No,No,CA,67,1226,FL resident,Yes,Pasco,Unknown,Male,NA
+,No,No,No,NA,41,1227,FL resident,Yes,Pasco,No,Female,NA
+,No,No,No,NA,46,1228,FL resident,Yes,Pasco,Yes,Male,No
+,No,NA,Yes,NA,71,1229,FL resident,Yes,Pasco,Unknown,Female,NA
+,Yes,No,No,Spain,73,1230,Non-FL resident,Yes,Pasco,No,Female,NA
+,Unknown,NA,NA,NA,32,1231,FL resident,Yes,Pasco,NA,Female,NA
+,No,NA,Yes,NA,48,1232,FL resident,Yes,Pasco,Unknown,Male,NA
+,Yes,No,No,TX,44,1233,FL resident,Yes,Pasco,Unknown,Male,No
+,No,Yes,Yes,NA,37,1234,FL resident,Yes,Pinellas,No,Male,No
+,No,Yes,Yes,NA,67,1235,FL resident,Yes,Pinellas,No,Male,No
+,Yes,No,No,FL; NY,63,1236,FL resident,Yes,Pinellas,Yes,Female,No
+,Yes,Yes,No,NY,24,1237,FL resident,Yes,Pinellas,No,Male,No
+,Yes,Yes,Yes,Bahamas; Ecuador; FL,59,1238,Non-FL resident,Yes,Pinellas,Yes,Female,NA
+,Yes,Yes,Yes,BAHAMAS; ECUADOR; FL,62,1239,Non-FL resident,Yes,Pinellas,Yes,Male,NA
+,No,Yes,Yes,NA,72,1240,FL resident,Yes,Pinellas,No,Male,NA
+,Yes,No,No,ISRAEL,66,1241,FL resident,Yes,Pinellas,Yes,Female,NA
+,Yes,No,No,FL; ISRAEL,58,1242,FL resident,Yes,Pinellas,Yes,Male,No
+,No,Yes,Yes,NA,58,1243,FL resident,Yes,Pinellas,Yes,Male,NA
+,No,No,No,NA,32,1244,FL resident,Yes,Pinellas,Yes,Male,No
+,Yes,Yes,No,ID,62,1245,FL resident,Yes,Pinellas,No,Female,No
+,Yes,No,No,SPAIN,29,1246,FL resident,Yes,Pinellas,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,58,1247,FL resident,Yes,Pinellas,NA,Male,NA
+,Yes,No,No,Bahamas; FL,26,1248,FL resident,Yes,Pinellas,No,Male,No
+,Yes,No,No,Israel,70,1249,FL resident,Yes,Pinellas,Yes,Male,No
+,Yes,No,No,NY,54,1250,FL resident,Yes,Pinellas,No,Female,No
+,Yes,No,No,NY,61,1251,FL resident,Yes,Pinellas,No,Female,No
+,Yes,Yes,Yes,CO,58,1252,FL resident,Yes,Pinellas,No,Male,No
+,No,Yes,No,NA,29,1253,FL resident,Yes,Pinellas,Yes,Male,No
+,Yes,No,No,Egypt,67,1254,FL resident,Yes,Pinellas,Yes,Male,NA
+,Yes,No,No,SPAIN,64,1255,FL resident,Yes,Sarasota,No,Male,No
+,No,Yes,Yes,NA,60,1256,FL resident,Yes,Pinellas,Unknown,Male,No
+,Yes,Yes,No,FL; Mexico,30,1257,FL resident,Yes,Pinellas,No,Male,No
+,No,No,No,NA,62,1258,FL resident,Yes,Pinellas,Yes,Male,No
+,Yes,No,No,MEXICO,69,1259,FL resident,Yes,Pinellas,No,Female,No
+,Yes,No,No,Egypt,55,1260,FL resident,Yes,Pinellas,Yes,Male,No
+,Yes,No,No,Israel,52,1261,FL resident,Yes,Pinellas,Yes,Male,No
+,Yes,Yes,No,MA,53,1262,FL resident,Yes,Pinellas,No,Female,No
+,Yes,Yes,Yes,FL; NV,66,1263,FL resident,Yes,Pinellas,No,Female,No
+,Yes,No,No,NY,28,1264,Non-FL resident,Yes,Pinellas,Yes,Female,NA
+,No,No,No,NA,69,1265,FL resident,Yes,Pinellas,No,Female,NA
+,Yes,No,No,FL; VA; WA,67,1266,FL resident,Yes,Pinellas,No,Male,No
+,Yes,Yes,Yes,NY,63,1267,Non-FL resident,Yes,St. Johns,No,Male,NA
+,Yes,Yes,Yes,Spain,24,1268,FL resident,Yes,Pinellas,Yes,Female,No
+,Yes,Yes,Yes,BULGARIA; GERMANY; UT,52,1269,FL resident,Yes,Pinellas,No,Male,No
+,Yes,No,No,NY,45,1270,FL resident,Yes,Pinellas,Unknown,Male,NA
+,No,Yes,Yes,NA,83,1271,FL resident,Yes,Pinellas,No,Female,No
+,No,Yes,Yes,NA,59,1272,FL resident,Yes,Pinellas,No,Male,No
+,No,Yes,Yes,NA,87,1273,FL resident,Yes,Sarasota,Yes,Male,NA
+,Yes,No,No,GA,53,1274,FL resident,Yes,Pinellas,No,Male,NA
+,Yes,Yes,No,BAHAMAS; CARIBBEAN; ST. KITTS AND NEVIS,42,1275,FL resident,Yes,Pinellas,No,Male,No
+,Yes,No,No,ISRAEL; OH,71,1276,FL resident,Yes,Pinellas,Yes,Female,No
+,Yes,No,No,ISRAEL; OH,75,1277,FL resident,Yes,Pinellas,Yes,Male,No
+,Yes,NA,No,Belize; Honduras; Mexico,68,1278,FL resident,Yes,Pinellas,Yes,Male,NA
+,Yes,NA,No,Belize; Honduras; Mexico,70,1279,FL resident,Yes,Pinellas,Yes,Female,NA
+,Yes,No,No,SPAIN,21,1280,Non-FL resident,Yes,Pinellas,No,Female,NA
+,Yes,No,No,LA,23,1281,FL resident,Yes,Pinellas,No,Male,No
+,No,Yes,Yes,NA,49,1282,FL resident,Yes,Polk,No,Female,NA
+,Yes,Yes,Yes,France; United Kingdom,35,1283,FL resident,Yes,Polk,No,Male,No
+,Unknown,NA,NA,NA,73,1284,FL resident,Yes,Polk,NA,Female,NA
+,No,Yes,Yes,NA,60,1285,FL resident,Yes,Polk,Unknown,Male,No
+,Unknown,Yes,Yes,NA,77,1286,FL resident,Yes,Polk,NA,Female,NA
+,No,NA,NA,NA,8,1287,FL resident,Yes,Polk,Yes,Male,NA
+,Yes,Yes,No,UNITED KINGDOM,41,1288,FL resident,Yes,Polk,No,Male,No
+,Yes,No,No,GA,22,1289,FL resident,Yes,Polk,Unknown,Female,No
+,No,No,No,NA,44,1290,FL resident,Yes,Polk,No,Female,NA
+,Yes,Yes,Yes,FL; NY,77,1291,FL resident,Yes,Polk,Yes,Female,NA
+,No,Yes,Yes,NA,74,1292,FL resident,Yes,Polk,No,Male,No
+,No,Yes,Yes,NA,88,1293,FL resident,Yes,Polk,No,Male,No
+,Yes,No,No,FL; SPAIN; UNITED KINGDOM,55,1294,FL resident,Yes,Polk,No,Male,No
+,Yes,Yes,No,CA,67,1295,FL resident,Yes,Putnam,Unknown,Male,No
+,No,No,No,NA,82,1296,FL resident,Yes,Putnam,Unknown,Female,No
+,Yes,No,No,United Kingdom,48,1297,FL resident,Yes,Santa Rosa,No,Male,No
+,No,Yes,Yes,NA,17,1298,FL resident,Yes,Santa Rosa,No,Male,No
+,No,Yes,Yes,NA,2,1299,FL resident,Yes,Santa Rosa,No,Male,No
+,Yes,Yes,Yes,EGYPT; ISRAEL; JORDAN,71,1300,FL resident,Yes,Santa Rosa,No,Male,Yes
+,No,Yes,Yes,NA,70,1301,Non-FL resident,Yes,Sarasota,No,Male,NA
+,No,No,No,NA,53,1302,FL resident,Yes,Sarasota,Yes,Male,NA
+,No,Yes,Yes,NA,76,1303,FL resident,Yes,Sarasota,Yes,Male,No
+,Unknown,NA,NA,NA,66,1304,FL resident,Yes,Sarasota,NA,Male,NA
+,Yes,Yes,Yes,NY,50,1305,FL resident,Yes,Sarasota,No,Female,No
+,No,Yes,Yes,NA,75,1306,FL resident,Yes,Sarasota,Yes,Female,NA
+,Yes,No,No,FL; NY,76,1307,FL resident,Yes,Sarasota,No,Male,No
+,No,Unknown,Unknown,NA,49,1308,FL resident,Yes,Sarasota,Unknown,Male,NA
+,Unknown,NA,NA,NA,87,1309,FL resident,Yes,Sarasota,NA,Male,NA
+,No,No,No,NA,86,1310,FL resident,Yes,Sarasota,Yes,Female,NA
+,Unknown,Unknown,Unknown,NA,61,1311,FL resident,Yes,Sarasota,NA,Male,NA
+,No,No,No,NA,74,1312,FL resident,Yes,Sarasota,No,Male,No
+,Unknown,NA,NA,NA,81,1313,FL resident,Yes,Sarasota,NA,Male,NA
+,No,Yes,No,NA,40,1314,FL resident,Yes,St. Johns,No,Male,No
+,No,No,No,NA,78,1315,FL resident,Yes,Sarasota,No,Female,No
+,No,NA,Yes,NA,82,1316,FL resident,Yes,Sarasota,No,Male,NA
+,No,Yes,Yes,NA,68,1317,FL resident,Yes,St. Johns,No,Male,No
+,No,No,No,NA,53,1318,FL resident,Yes,Sarasota,No,Male,No
+,Unknown,Unknown,Unknown,NA,42,1319,FL resident,Yes,St. Johns,NA,Male,NA
+,No,No,No,NA,78,1320,Non-FL resident,Yes,Sarasota,Yes,Female,NA
+,Yes,Yes,Unknown,FL; MN,46,1321,Non-FL resident,Yes,St. Johns,Yes,Male,NA
+,No,Yes,Yes,NA,80,1322,Non-FL resident,Yes,Sarasota,Yes,Male,NA
+,Unknown,NA,NA,NA,72,1323,FL resident,Yes,St. Johns,NA,Male,NA
+,No,Yes,Yes,NA,67,1324,FL resident,Yes,St. Johns,No,Male,NA
+,Yes,Yes,No,CO,53,1325,FL resident,Yes,St. Johns,Yes,Female,No
+,Yes,Yes,No,Europe; Hungary,49,1326,FL resident,Yes,St. Johns,No,Male,No
+,No,No,No,NA,26,1327,FL resident,Yes,St. Lucie,No,Female,No
+,Yes,No,No,Caribbean,77,1328,FL resident,Yes,St. Lucie,No,Male,No
+,Unknown,Unknown,Unknown,NA,19,1329,FL resident,Yes,St. Lucie,NA,Female,NA
+,No,No,No,NA,77,1330,FL resident,Yes,St. Lucie,No,Female,No
+,No,Yes,No,NA,45,1331,FL resident,Yes,St. Lucie,No,Female,No
+,No,No,No,NA,56,1332,FL resident,Yes,St. Lucie,No,Male,No
+,Unknown,Yes,Yes,NA,75,1333,FL resident,Yes,Sumter,No,Male,NA
+,Yes,Yes,Yes,OR,78,1334,FL resident,Yes,Sumter,No,Male,NA
+,Yes,No,No,Belize; FL; Honduras; Mexico,67,1335,FL resident,Yes,Sumter,Yes,Female,No
+,Yes,No,No,Belize; FL; Honduras; Mexico,71,1336,FL resident,Yes,Sumter,Yes,Male,No
+,Yes,Yes,No,TX,74,1337,FL resident,Yes,Sumter,Yes,Male,NA
+,Unknown,Unknown,Unknown,NA,73,1338,FL resident,Yes,Sumter,Unknown,Male,NA
+,Yes,Yes,Yes,FL; MA; RI,67,1339,FL resident,Yes,Sumter,No,Male,No
+,Yes,Yes,Yes,Egypt,68,1340,FL resident,Yes,Sumter,Yes,Male,No
+,No,No,No,NA,68,1341,FL resident,Yes,Sumter,Yes,Female,No
+,No,No,No,NA,66,1342,FL resident,Yes,Sumter,Yes,Male,No
+,No,No,No,NA,54,1343,FL resident,Yes,Volusia,Unknown,Male,No
+,Yes,No,No,Spain,23,1344,FL resident,Yes,Volusia,Unknown,Female,No
+,Yes,Yes,Yes,DC; FL,48,1345,FL resident,Yes,Volusia,Yes,Female,No
+,No,No,No,NA,60,1346,FL resident,Yes,Volusia,Yes,Female,No
+,Yes,Yes,Yes,Egypt; Jordan,71,1347,FL resident,Yes,Volusia,Yes,Male,No
+,Yes,Unknown,Yes,Egypt; Jordan,70,1348,FL resident,Yes,Volusia,Yes,Female,No
+,Yes,No,No,Egypt; Germany; Israel,60,1349,FL resident,Yes,Volusia,Yes,Female,No
+,Yes,Yes,No,Egypt; Germany; Israel,66,1350,FL resident,Yes,Volusia,Yes,Female,No
+,No,Yes,No,NA,78,1351,FL resident,Yes,Volusia,Unknown,Female,No
+,No,Yes,Yes,NA,89,1352,FL resident,Yes,Volusia,Yes,Female,No
+,Unknown,Unknown,Unknown,NA,71,1353,FL resident,Yes,Volusia,NA,Female,NA
+,No,No,No,NA,32,1354,FL resident,Yes,Volusia,Unknown,Female,No
+,No,No,No,NA,37,1355,FL resident,Yes,Volusia,Yes,Female,No
+,Yes,No,No,Trinidad and Tobago,39,1356,FL resident,Yes,Volusia,Yes,Male,No
+,No,No,No,NA,17,1357,FL resident,Yes,Volusia,Yes,Male,No
+,No,No,Yes,NA,62,1358,FL resident,Yes,Volusia,Unknown,Male,No
+,Yes,No,No,Ireland,65,1359,FL resident,Yes,Volusia,Yes,Male,No
+,Yes,No,No,Ireland,66,1360,FL resident,Yes,Volusia,Yes,Female,No
+,Yes,Yes,No,FL; MI,79,1361,Non-FL resident,Yes,Walton,Yes,Male,NA
+,No,No,No,NA,78,1362,FL resident,Yes,Walton,Yes,Male,No
+,Yes,No,Yes,FL; MI,77,1363,Non-FL resident,Yes,Walton,Yes,Female,NA
+,No,No,No,NA,22,1364,FL resident,Yes,Walton,Unknown,Female,No
+,Yes,No,No,CA,38,1365,FL resident,Yes,Walton,Unknown,Female,No
+,Yes,Yes,No,COSTA RICA,61,1366,FL resident,Yes,Walton,Yes,Female,No
+,No,Yes,Yes,NA,58,1367,FL resident,Yes,Walton,Yes,Male,No
+,No,Yes,Yes,NA,45,1368,Non-FL resident,Yes,Walton,Unknown,Male,NA
+,No,No,No,NA,49,1369,FL resident,Yes,Walton,No,Male,No
+,Yes,No,No,FL; Spain,20,1370,FL resident,Yes,Walton,Unknown,Female,No
+,Unknown,NA,NA,NA,70,1371,FL resident,Yes,Sarasota,NA,Female,NA
+,No,No,No,NA,71,1372,FL resident,Yes,Sarasota,Unknown,Female,No
+,Yes,Unknown,Unknown,FL; NY,75,1373,Non-FL resident,Yes,Sarasota,Yes,Male,NA
+,Yes,Unknown,Yes,FL; NY,73,1374,Non-FL resident,Yes,Sarasota,Yes,Female,NA
+,Unknown,NA,NA,NA,81,1375,FL resident,Yes,Sarasota,NA,Female,NA
+,Yes,No,No,ISRAEL,80,1376,FL resident,Yes,Sarasota,Unknown,Male,No
+,No,Yes,Yes,NA,47,1377,FL resident,Yes,Seminole,No,Male,No
+,Yes,No,No,AL,56,1378,FL resident,Yes,Seminole,No,Male,No
+,Yes,Yes,Yes,NY,70,1379,Non-FL resident,Yes,Seminole,Unknown,Male,NA
+,Yes,No,No,EUROPE,22,1380,FL resident,Yes,Seminole,Unknown,Female,No
+,Yes,Yes,No,Egypt,57,1381,FL resident,Yes,Seminole,Yes,Female,No
+,Yes,Yes,Yes,Egypt; Jordan,68,1382,FL resident,Yes,Seminole,Yes,Female,No
+,Yes,Yes,No,Egypt; Jordan,68,1383,FL resident,Yes,Seminole,Yes,Male,No
+,Yes,Yes,Yes,NY,60,1384,FL resident,Yes,Seminole,Unknown,Female,No
+,Unknown,NA,No,NA,44,1385,FL resident,Yes,Seminole,Unknown,Male,NA
+,Unknown,Unknown,Unknown,NA,41,1386,FL resident,Yes,Seminole,NA,Female,NA
+,Yes,Yes,No,FL; United Kingdom,25,1387,FL resident,Yes,Seminole,No,Female,No
+,Yes,No,No,EGYPT; ISRAEL; JORDAN,76,1388,FL resident,Yes,Seminole,Unknown,Female,No
+,No,Yes,Yes,NA,61,1389,FL resident,Yes,Seminole,No,Male,No
+,No,Yes,Yes,NA,45,1390,FL resident,Yes,Seminole,Unknown,Female,NA
+,Yes,Yes,Yes,CT; FL; OK,62,1391,FL resident,Yes,Seminole,No,Female,No
+,Unknown,Yes,Yes,NA,30,1392,FL resident,Yes,Seminole,Unknown,Male,No
+,Yes,NA,Yes,PA,61,1393,FL resident,Yes,Seminole,No,Female,No
+,No,NA,NA,NA,29,1394,FL resident,Yes,Seminole,Yes,Female,NA
+,No,Yes,No,NA,43,1395,FL resident,Yes,Seminole,No,Female,No
+,Yes,Unknown,No,FL; NC; NY,64,1396,FL resident,Yes,Seminole,No,Female,No
+,Yes,Yes,Yes,FL; NY,55,1397,FL resident,Yes,Seminole,No,Male,No
+,Unknown,Unknown,Unknown,NA,21,1398,FL resident,Yes,Seminole,NA,Male,NA
+,Yes,No,No,CA,64,1399,FL resident,Yes,Seminole,Unknown,Female,No
+,Unknown,Yes,Yes,NA,76,1400,FL resident,Yes,St. Johns,No,Male,NA
+,No,No,No,NA,50,1401,FL resident,Yes,St. Johns,Yes,Male,No
+,No,No,No,NA,21,1402,FL resident,Yes,St. Johns,Yes,Male,No
+,No,No,No,NA,22,1403,FL resident,Yes,St. Johns,Yes,Male,No
+,No,Yes,No,NA,47,1404,FL resident,Yes,St. Johns,Yes,Female,No
+,No,Yes,No,NA,47,1405,FL resident,Yes,St. Johns,Yes,Male,No
+,Unknown,No,No,NA,49,1406,FL resident,Yes,St. Johns,No,Male,NA
+,Unknown,Unknown,Unknown,NA,33,1407,FL resident,Yes,St. Johns,NA,Male,NA
+,No,Yes,Yes,NA,64,1408,FL resident,Yes,St. Johns,No,Female,NA
+,Unknown,Unknown,Unknown,NA,53,1409,FL resident,Yes,St. Johns,NA,Male,NA
+,Yes,Yes,No,FL; MN,38,1410,FL resident,Yes,St. Johns,Yes,Female,No
+,Yes,Yes,Yes,FL; MN,52,1411,FL resident,Yes,St. Johns,Yes,Male,Yes
+,No,Yes,No,NA,69,1412,FL resident,Yes,St. Johns,No,Male,No

@@ -1,0 +1,1413 @@
+ObjectId,Died,Jurisdiction,EDvisit,Age,Origin,Hospitalized,Contact,Gender,County,Travel_related,CaseDate,Case_
+1,No,FL resident,No,65,NJ,No,Yes,Male,Broward,Yes,,Yes
+2,NA,FL resident,Unknown,51,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+3,No,FL resident,Yes,68,Dominican Republic,No,Yes,Male,Broward,Yes,,Yes
+4,No,FL resident,No,62,NA,No,Unknown,Male,Broward,No,,Yes
+5,No,FL resident,No,51,NA,No,No,Male,Broward,No,,Yes
+6,No,FL resident,No,56,VA,No,No,Female,Broward,Yes,,Yes
+7,NA,FL resident,Unknown,21,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+8,NA,FL resident,Unknown,24,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+9,No,FL resident,Yes,86,NA,Yes,Yes,Male,Broward,No,,Yes
+10,No,FL resident,Yes,28,NA,No,No,Female,Broward,No,,Yes
+11,No,FL resident,Yes,19,Ireland,No,Yes,Female,Broward,Yes,,Yes
+12,NA,FL resident,Unknown,38,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+13,No,FL resident,Yes,57,CO,No,Unknown,Male,Broward,Yes,,Yes
+14,No,FL resident,Yes,59,NA,No,Unknown,Male,Broward,No,,Yes
+15,NA,FL resident,Unknown,40,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+16,No,FL resident,Yes,86,NA,No,No,Male,Broward,No,,Yes
+17,NA,FL resident,No,25,Morocco; Spain,No,No,Female,Broward,Yes,,Yes
+18,NA,FL resident,Unknown,15,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+19,NA,FL resident,Unknown,22,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+20,No,FL resident,Yes,87,NA,Yes,Unknown,Female,Broward,Unknown,,Yes
+21,No,FL resident,No,66,NA,No,Yes,Male,Broward,No,,Yes
+22,No,FL resident,No,69,NA,No,Yes,Male,Broward,No,,Yes
+23,No,FL resident,No,77,NA,No,Yes,Male,Broward,No,,Yes
+24,NA,FL resident,Unknown,80,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+25,NA,FL resident,Yes,41,NA,No,No,Male,Broward,No,,Yes
+26,NA,FL resident,Unknown,64,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+27,NA,FL resident,Unknown,57,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+28,NA,FL resident,Unknown,26,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+29,No,FL resident,Yes,68,NA,No,Yes,Female,Broward,No,,Yes
+30,No,FL resident,No,66,NA,No,Yes,Male,Broward,No,,Yes
+31,No,FL resident,No,56,NA,No,Yes,Male,Broward,No,,Yes
+32,No,FL resident,No,58,NA,No,Yes,Male,Broward,No,,Yes
+33,NA,FL resident,Unknown,36,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+34,NA,FL resident,NA,31,NA,NA,NA,Unknown,Broward,Unknown,,Yes
+35,No,FL resident,Yes,54,NA,No,No,Male,Broward,No,,Yes
+36,No,FL resident,No,65,DC,No,Unknown,Male,Broward,Yes,,Yes
+37,No,FL resident,No,55,NV,No,Unknown,Male,Broward,Yes,,Yes
+38,No,FL resident,No,21,Ireland,No,Yes,Female,Broward,Yes,,Yes
+39,No,FL resident,No,65,NA,No,Yes,Male,Broward,No,,Yes
+40,No,FL resident,No,20,Spain,No,Unknown,Male,Broward,Yes,,Yes
+41,No,FL resident,Yes,83,NA,No,Yes,Female,Broward,No,,Yes
+42,NA,FL resident,NA,84,NA,Unknown,Yes,Female,Broward,Unknown,,Yes
+43,NA,FL resident,Unknown,67,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+44,NA,FL resident,Unknown,62,NA,No,No,Female,Broward,No,,Yes
+45,Yes,FL resident,NA,96,NA,Yes,Unknown,Female,Broward,Unknown,,Yes
+46,NA,FL resident,Unknown,63,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+47,NA,FL resident,Unknown,26,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+48,No,FL resident,Yes,57,NY,No,Unknown,Male,Broward,Yes,,Yes
+49,No,FL resident,No,22,NA,No,No,Female,Broward,No,,Yes
+50,No,FL resident,No,65,NA,No,Yes,Male,Broward,No,,Yes
+51,NA,FL resident,Unknown,23,FL; NY,Unknown,No,Female,Alachua,Yes,,Yes
+52,NA,FL resident,Unknown,23,NA,Unknown,NA,Male,Alachua,Unknown,,Yes
+53,NA,FL resident,Unknown,37,NA,Unknown,NA,Female,Alachua,Unknown,,Yes
+54,NA,Non-FL resident,No,68,GA,Yes,No,Female,Alachua,Yes,,Yes
+55,No,FL resident,No,24,Portugal,No,No,Male,Alachua,Yes,,Yes
+56,No,FL resident,No,42,Dominican Republic; FL,No,No,Female,Alachua,Yes,,Yes
+57,No,FL resident,No,22,Canada; NY; PA,No,No,Male,Alachua,Yes,,Yes
+58,NA,FL resident,Unknown,25,NA,Unknown,NA,Female,Alachua,Unknown,,Yes
+59,NA,Non-FL resident,Yes,69,Sweden,No,No,Male,Alachua,Yes,,Yes
+60,No,FL resident,Unknown,27,NA,No,No,Female,Alachua,No,,Yes
+61,NA,FL resident,NA,47,NA,No,Yes,Female,Alachua,No,,Yes
+62,No,FL resident,No,21,NY,No,No,Female,Alachua,Yes,,Yes
+63,NA,FL resident,Unknown,25,NA,Unknown,NA,Female,Alachua,Unknown,,Yes
+64,NA,FL resident,Unknown,62,NA,Unknown,Unknown,Female,Alachua,Unknown,,Yes
+65,NA,FL resident,Yes,61,NA,Yes,No,Male,Alachua,No,,Yes
+66,No,FL resident,Yes,29,NA,Unknown,No,Female,Alachua,No,,Yes
+67,No,FL resident,No,2,NA,No,No,Female,Alachua,No,,Yes
+68,No,FL resident,No,20,NA,No,No,Female,Alachua,No,,Yes
+69,NA,FL resident,Unknown,21,NA,Unknown,NA,Female,Alachua,Unknown,,Yes
+70,No,FL resident,Yes,50,Bahamas; FL,Yes,Yes,Female,Alachua,Yes,,Yes
+71,NA,FL resident,NA,51,Bahamas; FL,No,NA,Male,Alachua,Yes,,Yes
+72,NA,FL resident,No,22,NA,No,Yes,Male,Alachua,No,,Yes
+73,NA,FL resident,Unknown,55,NA,Unknown,NA,Male,Alachua,Unknown,,Yes
+74,NA,FL resident,Unknown,54,NA,Unknown,NA,Male,Alachua,Unknown,,Yes
+75,NA,FL resident,Unknown,22,NA,Unknown,NA,Male,Alachua,Unknown,,Yes
+76,NA,FL resident,Unknown,30,NA,Unknown,NA,Female,Alachua,Unknown,,Yes
+77,NA,FL resident,Unknown,22,NA,Unknown,NA,Male,Alachua,Unknown,,Yes
+78,NA,Non-FL resident,Yes,64,FL; NY,No,No,Female,Alachua,Yes,,Yes
+79,NA,FL resident,Unknown,26,NA,Unknown,NA,Male,Alachua,Unknown,,Yes
+80,NA,FL resident,Unknown,23,NA,Unknown,NA,Female,Alachua,Unknown,,Yes
+81,NA,FL resident,Unknown,30,NA,Unknown,NA,Female,Alachua,Unknown,,Yes
+82,NA,FL resident,NA,33,NA,Unknown,NA,Male,Alachua,No,,Yes
+83,NA,FL resident,Unknown,49,NA,Unknown,NA,Male,Alachua,Unknown,,Yes
+84,NA,FL resident,NA,39,GA,Unknown,Unknown,Female,Alachua,Yes,,Yes
+85,No,FL resident,Yes,68,NA,Yes,No,Male,Alachua,No,,Yes
+86,No,FL resident,Unknown,56,NA,Yes,No,Male,Alachua,Unknown,,Yes
+87,NA,FL resident,Unknown,68,NA,Unknown,NA,Female,Alachua,Unknown,,Yes
+88,NA,FL resident,NA,76,NA,No,Yes,Male,Baker,No,,Yes
+89,No,FL resident,No,66,NA,Yes,Unknown,Male,Baker,No,,Yes
+90,NA,FL resident,NA,64,NA,No,NA,Female,Baker,No,,Yes
+91,NA,FL resident,Yes,87,NA,Yes,Unknown,Female,Baker,No,,Yes
+92,NA,Non-FL resident,Yes,47,TX,Yes,Unknown,Male,Bay,Yes,,Yes
+93,NA,FL resident,NA,69,NA,Yes,No,Male,Bradford,No,,Yes
+94,No,FL resident,No,32,NA,No,Yes,Female,Brevard,No,,Yes
+95,NA,FL resident,Yes,64,HAITI,Yes,No,Male,Brevard,Yes,,Yes
+96,NA,FL resident,Yes,49,NA,No,Yes,Male,Brevard,No,,Yes
+97,No,FL resident,No,52,CANADA,No,Unknown,Female,Brevard,Yes,,Yes
+98,NA,FL resident,Unknown,38,NA,Unknown,NA,Male,Brevard,Unknown,,Yes
+99,NA,FL resident,Yes,32,PA; UT,No,No,Male,Brevard,Yes,,Yes
+100,No,FL resident,No,76,NY,No,Yes,Female,Brevard,Yes,,Yes
+101,NA,FL resident,Unknown,62,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+102,No,FL resident,Yes,20,NA,No,Yes,Female,Broward,No,,Yes
+103,No,FL resident,Yes,17,NA,No,Yes,Female,Broward,No,,Yes
+104,No,FL resident,Yes,17,Spain,No,Yes,Female,Broward,Yes,,Yes
+105,NA,FL resident,Unknown,96,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+106,No,FL resident,Yes,61,NA,Yes,Yes,Female,Broward,No,,Yes
+107,No,FL resident,Yes,65,NA,Unknown,Yes,Male,Broward,No,,Yes
+108,NA,FL resident,Unknown,32,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+109,NA,FL resident,Unknown,39,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+110,NA,FL resident,Unknown,34,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+111,NA,FL resident,No,68,NA,No,Yes,Female,Broward,No,,Yes
+112,No,FL resident,No,54,FL; IL,Yes,Yes,Male,Broward,Yes,,Yes
+113,NA,FL resident,Unknown,74,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+114,No,FL resident,Yes,64,DC; FL; NY; PA,No,Unknown,Female,Brevard,Yes,,Yes
+115,NA,FL resident,Unknown,46,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+116,No,FL resident,No,75,NA,No,Yes,Male,Broward,No,,Yes
+117,No,FL resident,Yes,76,NA,Yes,Unknown,Male,Broward,No,,Yes
+118,NA,FL resident,Unknown,0,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+119,No,FL resident,No,56,NA,No,No,Female,Broward,No,,Yes
+120,No,FL resident,No,59,NA,No,NA,Male,Broward,No,,Yes
+121,Yes,FL resident,No,92,NA,No,Unknown,Male,Broward,No,,Yes
+122,NA,FL resident,Unknown,71,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+123,No,FL resident,No,42,Australia,No,Yes,Male,Broward,Yes,,Yes
+124,No,FL resident,Yes,46,NA,No,Unknown,Female,Broward,No,,Yes
+125,NA,FL resident,Unknown,72,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+126,No,FL resident,Yes,33,FL; Mexico,No,Unknown,Male,Broward,Yes,,Yes
+127,NA,FL resident,NA,33,NA,NA,Yes,Male,Broward,Unknown,,Yes
+128,No,FL resident,No,52,France,No,Yes,Female,Broward,Yes,,Yes
+129,NA,FL resident,No,64,France; GA; NC; Spain,No,Yes,Male,Broward,Yes,,Yes
+130,NA,FL resident,No,64,PERU,No,Yes,Female,Broward,Yes,,Yes
+131,NA,FL resident,Unknown,74,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+132,NA,FL resident,NA,53,FL; GA; HI; MA,No,No,Female,Broward,Yes,,Yes
+133,No,FL resident,No,20,Ireland,No,Yes,Female,Broward,Yes,,Yes
+134,NA,FL resident,Unknown,42,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+135,No,FL resident,No,48,PA,No,Unknown,Male,Broward,Yes,,Yes
+136,No,FL resident,No,43,NA,No,Yes,Female,Broward,No,,Yes
+137,NA,FL resident,Unknown,59,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+138,No,FL resident,Yes,25,NA,No,Yes,Male,Broward,No,,Yes
+139,NA,FL resident,Unknown,58,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+140,No,FL resident,No,29,NA,No,Yes,Male,Broward,No,,Yes
+141,No,FL resident,Yes,54,NA,No,No,Female,Broward,No,,Yes
+142,NA,Non-FL resident,Yes,19,Ireland,Yes,Yes,Female,Broward,Yes,,Yes
+143,NA,FL resident,NA,33,NA,NA,NA,Unknown,Broward,Unknown,,Yes
+144,NA,FL resident,NA,60,NA,Yes,Yes,Male,Broward,No,,Yes
+145,NA,FL resident,Unknown,29,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+146,NA,FL resident,Unknown,30,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+147,NA,FL resident,NA,26,Trinidad and Tobago,Yes,Yes,Female,Broward,Yes,,Yes
+148,No,FL resident,No,50,NA,No,Yes,Male,Broward,No,,Yes
+149,NA,FL resident,Unknown,45,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+150,NA,FL resident,Unknown,52,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+151,NA,FL resident,Unknown,58,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+152,No,FL resident,Yes,20,Ireland,No,Yes,Female,Broward,Yes,,Yes
+153,No,FL resident,No,53,FL; Unknown,No,No,Male,Broward,Yes,,Yes
+154,No,FL resident,No,30,FL; GA,No,Yes,Male,Broward,Yes,,Yes
+155,NA,FL resident,No,73,NA,No,No,Male,Brevard,No,,Yes
+156,No,FL resident,Yes,67,CO,Yes,Unknown,Male,Broward,Yes,,Yes
+157,No,FL resident,No,43,NA,No,Yes,Male,Broward,No,,Yes
+158,NA,FL resident,Unknown,88,NA,Yes,NA,Male,Broward,Unknown,,Yes
+159,No,FL resident,No,72,FRANCE,No,Yes,Female,Broward,Yes,,Yes
+160,NA,Non-FL resident,Yes,33,NY,Unknown,Unknown,Male,Broward,Yes,,Yes
+161,No,FL resident,No,71,France,No,Yes,Male,Broward,Yes,,Yes
+162,No,FL resident,No,79,CO; FL,No,Yes,Female,Broward,Yes,,Yes
+163,NA,FL resident,Yes,65,PERU,Yes,Yes,Male,Broward,Yes,,Yes
+164,No,FL resident,Yes,82,NA,Yes,Yes,Male,Broward,Unknown,,Yes
+165,NA,Non-FL resident,Unknown,18,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+166,NA,FL resident,Unknown,56,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+167,NA,FL resident,Yes,35,NA,No,Yes,Male,Broward,No,,Yes
+168,No,FL resident,Yes,43,NA,No,No,Female,Broward,No,,Yes
+169,No,FL resident,Yes,55,NA,No,Unknown,Male,Broward,No,,Yes
+170,NA,FL resident,Unknown,33,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+171,No,FL resident,Yes,95,NA,Yes,Unknown,Male,Broward,No,,Yes
+172,No,FL resident,Yes,57,France,No,No,Male,Broward,Yes,,Yes
+173,No,FL resident,No,83,NA,No,Yes,Male,Broward,Unknown,,Yes
+174,No,FL resident,No,65,NY,No,Yes,Male,Broward,Yes,,Yes
+175,No,FL resident,Yes,49,Colombia; FL,No,Unknown,Male,Broward,Yes,,Yes
+176,No,FL resident,Yes,83,NA,Yes,Yes,Female,Broward,No,,Yes
+177,No,FL resident,No,20,NA,No,Yes,Male,Broward,No,,Yes
+178,No,FL resident,Yes,35,Italy; Spain,No,Unknown,Male,Broward,Yes,,Yes
+179,No,FL resident,No,58,NA,No,Yes,Male,Broward,No,,Yes
+180,No,FL resident,Yes,44,NA,Yes,Unknown,Male,Broward,No,,Yes
+181,No,FL resident,Yes,46,NA,No,Unknown,Male,Broward,Unknown,,Yes
+182,NA,FL resident,Unknown,33,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+183,NA,Non-FL resident,Yes,20,NA,No,Yes,Female,Broward,Unknown,,Yes
+184,NA,FL resident,Unknown,53,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+185,No,FL resident,Yes,94,NA,Yes,Unknown,Male,Broward,No,,Yes
+186,NA,FL resident,Unknown,26,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+187,NA,FL resident,Unknown,31,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+188,No,FL resident,Yes,55,NA,No,Yes,Male,Broward,No,,Yes
+189,NA,FL resident,Unknown,59,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+190,No,FL resident,Yes,51,NA,No,Unknown,Male,Broward,No,,Yes
+191,No,FL resident,No,20,NA,No,No,Male,Broward,No,,Yes
+192,No,FL resident,Yes,80,NA,Yes,Unknown,Female,Broward,No,,Yes
+193,NA,FL resident,NA,60,NA,NA,NA,Unknown,Broward,Unknown,,Yes
+194,NA,FL resident,Unknown,40,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+195,No,FL resident,No,60,NA,No,Yes,Male,Broward,No,,Yes
+196,No,FL resident,No,66,CO,No,Yes,Female,Broward,Yes,,Yes
+197,No,FL resident,Yes,93,NA,Yes,Unknown,Male,Broward,No,,Yes
+198,No,FL resident,No,26,NA,No,Yes,Female,Broward,No,,Yes
+199,No,FL resident,No,38,NA,No,Yes,Male,Broward,No,,Yes
+200,No,FL resident,Yes,20,Ireland,Yes,Yes,Female,Broward,Yes,,Yes
+201,NA,FL resident,Unknown,21,Mexico,No,Yes,Female,Broward,Yes,,Yes
+202,NA,FL resident,No,52,NA,No,Yes,Female,Broward,No,,Yes
+203,No,FL resident,Yes,19,Ireland,No,Yes,Female,Broward,Yes,,Yes
+204,No,FL resident,No,55,NA,No,No,Male,Broward,No,,Yes
+205,No,FL resident,No,70,NA,No,Yes,Male,Broward,No,,Yes
+206,No,FL resident,Yes,57,NJ,No,Yes,Male,Broward,Yes,,Yes
+207,NA,FL resident,Unknown,2,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+208,No,FL resident,Yes,22,Ireland,No,Yes,Female,Broward,Yes,,Yes
+209,No,FL resident,No,63,NA,No,Yes,Male,Broward,No,,Yes
+210,NA,FL resident,Unknown,30,NA,Unknown,NA,Female,Broward,No,,Yes
+211,NA,FL resident,Unknown,60,Spain,Unknown,NA,Male,Broward,Yes,,Yes
+212,No,FL resident,No,50,NA,No,Yes,Female,Broward,No,,Yes
+213,No,FL resident,Yes,51,NA,No,Yes,Male,Broward,No,,Yes
+214,NA,Non-FL resident,NA,48,GA,No,NA,Male,Broward,Yes,,Yes
+215,NA,FL resident,No,43,NY,No,Yes,Male,Broward,Yes,,Yes
+216,No,FL resident,Yes,39,United Arab Emirates,No,Yes,Male,Broward,Yes,,Yes
+217,NA,Non-FL resident,Yes,48,France; IL; NY; TX,Yes,Unknown,Female,Broward,Yes,,Yes
+218,NA,FL resident,Unknown,39,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+219,NA,FL resident,Unknown,41,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+220,NA,FL resident,Unknown,20,NJ,No,Unknown,Male,Broward,Yes,,Yes
+221,No,FL resident,NA,54,Egypt; Israel,Yes,Yes,Female,Charlotte,Yes,,Yes
+222,No,FL resident,NA,55,NA,No,Yes,Male,Charlotte,No,,Yes
+223,NA,FL resident,Unknown,59,NA,Unknown,NA,Male,Charlotte,Unknown,,Yes
+224,NA,FL resident,Yes,63,NA,Yes,No,Male,Citrus,No,,Yes
+225,NA,FL resident,NA,58,Honduras,Unknown,Unknown,Female,Citrus,Yes,,Yes
+226,No,FL resident,No,17,Canada,No,Yes,Female,Citrus,Yes,,Yes
+227,NA,FL resident,NA,60,NA,No,Yes,Female,Citrus,No,,Yes
+228,NA,FL resident,NA,77,NA,No,Yes,Female,Citrus,No,,Yes
+229,NA,FL resident,Yes,80,DE,Yes,Yes,Male,Citrus,Yes,,Yes
+230,NA,FL resident,NA,33,NA,No,No,Female,Citrus,No,,Yes
+231,NA,FL resident,NA,64,NA,No,Yes,Male,Citrus,No,,Yes
+232,NA,FL resident,NA,60,FL; Switzerland,No,No,Female,Citrus,Yes,,Yes
+233,NA,FL resident,Unknown,30,NA,Unknown,NA,Male,Clay,Unknown,,Yes
+234,No,FL resident,Yes,57,NA,Yes,Yes,Male,Clay,No,,Yes
+235,No,FL resident,No,55,NA,No,Yes,Female,Clay,No,,Yes
+236,Yes,FL resident,Yes,82,FL; UNKNOWN,Yes,No,Male,Clay,Yes,,Yes
+237,NA,FL resident,Unknown,25,NA,Unknown,NA,Male,Clay,Unknown,,Yes
+238,NA,FL resident,Yes,61,DC; FL,No,Unknown,Female,Clay,Yes,,Yes
+239,NA,FL resident,Yes,68,NA,Yes,No,Female,Clay,No,,Yes
+240,No,FL resident,No,66,NA,Yes,Yes,Female,Clay,No,,Yes
+241,Yes,FL resident,Yes,70,NA,Yes,Yes,Male,Clay,No,,Yes
+242,No,FL resident,No,53,NA,No,Unknown,Male,Clay,No,,Yes
+243,NA,FL resident,No,68,Egypt,No,Yes,Female,Collier,Yes,,Yes
+244,No,FL resident,No,49,NA,No,No,Female,Collier,No,,Yes
+245,No,FL resident,No,54,NA,No,Yes,Female,Collier,No,,Yes
+246,No,FL resident,Yes,46,NA,No,Unknown,Male,Broward,No,,Yes
+247,NA,FL resident,Unknown,44,NA,Unknown,NA,Male,Collier,Unknown,,Yes
+248,No,FL resident,No,33,Spain,No,Unknown,Male,Collier,Yes,,Yes
+249,No,FL resident,No,80,NY,No,No,Male,Collier,Yes,,Yes
+250,No,FL resident,No,64,Egypt,No,Unknown,Female,Collier,Yes,,Yes
+251,No,FL resident,No,73,Egypt,No,Unknown,Male,Collier,Yes,,Yes
+252,NA,Non-FL resident,Unknown,50,NA,Unknown,NA,Male,Collier,Unknown,,Yes
+253,No,FL resident,Yes,75,NA,Yes,No,Female,Collier,No,,Yes
+254,NA,Non-FL resident,Yes,64,FL; HI,No,No,Male,Collier,Yes,,Yes
+255,NA,FL resident,Unknown,47,NA,Unknown,NA,Male,Collier,Unknown,,Yes
+256,NA,FL resident,NA,76,St. Martin,Yes,Unknown,Male,Collier,Yes,,Yes
+257,No,FL resident,No,80,NA,No,No,Male,Collier,No,,Yes
+258,No,FL resident,No,61,NA,No,No,Female,Collier,Unknown,,Yes
+259,No,FL resident,No,57,NA,No,Yes,Female,Broward,No,,Yes
+260,No,FL resident,Yes,20,Spain,No,Yes,Female,Broward,Yes,,Yes
+261,NA,FL resident,Unknown,64,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+262,NA,Non-FL resident,Unknown,56,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+263,No,FL resident,No,20,Brazil; Spain,No,No,Male,Broward,Yes,,Yes
+264,No,FL resident,Yes,20,Ireland,Yes,Yes,Female,Broward,Yes,,Yes
+265,NA,FL resident,Yes,65,NA,Yes,No,Male,Broward,No,,Yes
+266,No,FL resident,Yes,27,NA,No,Yes,Female,Broward,No,,Yes
+267,No,FL resident,Yes,65,Cayman Islands,Yes,No,Male,Broward,Yes,,Yes
+268,NA,FL resident,Unknown,21,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+269,No,FL resident,Yes,61,Italy,No,Unknown,Male,Broward,Yes,,Yes
+270,NA,FL resident,Unknown,59,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+271,No,FL resident,Yes,70,NA,No,Yes,Male,Broward,Unknown,,Yes
+272,No,FL resident,No,60,NA,No,Yes,Male,Broward,No,,Yes
+273,NA,FL resident,Unknown,64,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+274,No,FL resident,No,30,FL; NV,Yes,Unknown,Male,Broward,Yes,,Yes
+275,NA,FL resident,Unknown,61,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+276,NA,Non-FL resident,NA,NA,NA,NA,NA,Unknown,Broward,Unknown,,Yes
+277,No,FL resident,No,19,Ireland,No,Yes,Male,Broward,Yes,,Yes
+278,Yes,FL resident,Yes,77,NA,Yes,Yes,Male,Broward,Unknown,,Yes
+279,NA,FL resident,Unknown,36,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+280,No,FL resident,Yes,73,NA,No,Yes,Male,Broward,No,,Yes
+281,No,FL resident,Yes,77,NA,No,Unknown,Female,Broward,No,,Yes
+282,No,FL resident,No,67,NA,No,Yes,Male,Broward,No,,Yes
+283,NA,FL resident,Unknown,43,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+284,NA,FL resident,Unknown,51,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+285,No,FL resident,Yes,71,NA,No,Yes,Female,Broward,No,,Yes
+286,NA,FL resident,Unknown,75,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+287,No,FL resident,Yes,19,NY,No,Yes,Male,Broward,Yes,,Yes
+288,NA,FL resident,Unknown,56,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+289,NA,FL resident,Unknown,22,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+290,No,FL resident,Yes,42,NA,No,Yes,Female,Broward,No,,Yes
+291,NA,FL resident,Unknown,51,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+292,No,FL resident,No,55,NA,No,Yes,Male,Broward,No,,Yes
+293,No,FL resident,Yes,70,NA,Yes,Unknown,Male,Broward,Unknown,,Yes
+294,NA,FL resident,NA,26,NA,NA,Yes,Female,Broward,Unknown,,Yes
+295,NA,FL resident,No,22,FL; NY,No,NA,Female,Broward,Yes,,Yes
+296,No,FL resident,Yes,49,NA,Yes,No,Female,Broward,No,,Yes
+297,No,FL resident,Yes,53,NA,No,Yes,Female,Broward,No,,Yes
+298,NA,FL resident,Unknown,50,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+299,NA,FL resident,Unknown,71,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+300,No,FL resident,Yes,59,NA,No,Yes,Male,Broward,No,,Yes
+301,No,FL resident,No,30,NA,No,Yes,Male,Broward,No,,Yes
+302,NA,FL resident,Yes,57,NA,Yes,No,Male,Broward,No,,Yes
+303,NA,FL resident,Unknown,18,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+304,NA,Non-FL resident,Unknown,84,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+305,No,FL resident,No,57,NA,No,Yes,Male,Broward,No,,Yes
+306,No,FL resident,No,66,NY,No,Yes,Male,Broward,Yes,,Yes
+307,No,FL resident,Yes,75,NA,No,Yes,Male,Broward,No,,Yes
+308,NA,FL resident,NA,27,FL; UT,No,Yes,Male,Broward,Yes,,Yes
+309,NA,Non-FL resident,Unknown,94,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+310,NA,FL resident,Yes,29,NJ; NY,No,No,Male,Broward,Yes,,Yes
+311,NA,FL resident,Unknown,19,Ireland,Unknown,Yes,Female,Broward,Yes,,Yes
+312,No,FL resident,No,69,IL,No,Yes,Male,Broward,Yes,,Yes
+313,NA,FL resident,Unknown,29,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+314,No,FL resident,Yes,21,Spain,No,Yes,Female,Broward,Yes,,Yes
+315,NA,FL resident,Unknown,50,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+316,No,FL resident,Yes,68,NA,No,No,Male,Broward,No,,Yes
+317,No,FL resident,Yes,93,NA,Unknown,Yes,Female,Broward,No,,Yes
+318,NA,FL resident,Yes,51,NA,No,Yes,Male,Broward,No,,Yes
+319,NA,Non-FL resident,Yes,41,Spain,Yes,Unknown,Male,Broward,Yes,,Yes
+320,No,FL resident,Yes,67,Dominican Republic,No,No,Female,Broward,Yes,,Yes
+321,No,FL resident,Yes,19,NA,No,Yes,Female,Broward,No,,Yes
+322,No,FL resident,Yes,51,Colombia,No,Yes,Female,Broward,Yes,,Yes
+323,No,FL resident,Yes,44,NY,No,No,Male,Broward,Yes,,Yes
+324,No,FL resident,Yes,32,NA,No,Unknown,Male,Broward,No,,Yes
+325,No,FL resident,Yes,73,NY,Yes,Yes,Female,Broward,Yes,,Yes
+326,No,FL resident,No,20,Ireland,No,Yes,Female,Broward,Yes,,Yes
+327,No,FL resident,No,50,NA,No,Yes,Female,Broward,No,,Yes
+328,NA,FL resident,Unknown,78,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+329,NA,FL resident,No,59,Spain,No,Yes,Male,Broward,Yes,,Yes
+330,No,FL resident,No,21,Spain,No,Yes,Male,Broward,Yes,,Yes
+331,No,FL resident,Yes,43,NA,Yes,Yes,Female,Broward,No,,Yes
+332,No,FL resident,Yes,29,NA,No,No,Male,Broward,Unknown,,Yes
+333,No,FL resident,Yes,76,PUERTO RICO,Yes,Yes,Female,Broward,Yes,,Yes
+334,NA,FL resident,NA,52,Egypt,No,Yes,Male,Broward,Yes,,Yes
+335,NA,FL resident,Yes,35,NA,No,Yes,Female,Broward,No,,Yes
+336,NA,FL resident,Unknown,67,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+337,NA,FL resident,Unknown,56,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+338,No,FL resident,Yes,71,NA,Yes,Yes,Male,Broward,No,,Yes
+339,No,FL resident,Yes,77,NA,Yes,Unknown,Male,Broward,No,,Yes
+340,NA,FL resident,Unknown,46,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+341,No,FL resident,No,24,NA,No,Yes,Male,Broward,No,,Yes
+342,NA,FL resident,NA,90,NA,NA,NA,Female,Broward,Unknown,,Yes
+343,No,FL resident,Yes,63,NA,Yes,Unknown,Female,Broward,Unknown,,Yes
+344,NA,FL resident,Unknown,37,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+345,No,FL resident,No,19,Spain,No,Yes,Female,Broward,Yes,,Yes
+346,No,FL resident,No,44,NA,No,Yes,Male,Broward,No,,Yes
+347,No,FL resident,No,19,Ireland,No,Yes,Female,Broward,Yes,,Yes
+348,NA,FL resident,NA,82,NA,No,Yes,Female,Broward,Unknown,,Yes
+349,No,FL resident,No,59,NA,Yes,Yes,Male,Broward,No,,Yes
+350,NA,FL resident,No,47,Ireland; Spain; United Kingdom,No,No,Female,Broward,Yes,,Yes
+351,NA,FL resident,NA,70,Brazil; FL,Yes,No,Male,Broward,Yes,,Yes
+352,NA,FL resident,Yes,53,NC,No,No,Male,Broward,Yes,,Yes
+353,NA,FL resident,No,52,CO,No,Yes,Male,Broward,Yes,,Yes
+354,No,FL resident,Yes,43,NA,No,Yes,Male,Broward,Unknown,,Yes
+355,NA,FL resident,Unknown,20,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+356,NA,Non-FL resident,Yes,36,NY,No,Yes,Male,Broward,Yes,,Yes
+357,NA,FL resident,Unknown,84,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+358,No,FL resident,No,28,Australia; CA; FL,No,Yes,Male,Broward,Yes,,Yes
+359,No,FL resident,Yes,30,CT; FL; Italy,No,No,Male,Broward,Yes,,Yes
+360,No,FL resident,No,65,NA,No,Yes,Male,Broward,No,,Yes
+361,NA,FL resident,Unknown,28,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+362,NA,FL resident,Unknown,28,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+363,NA,FL resident,Unknown,60,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+364,NA,FL resident,No,57,NA,No,No,Female,Broward,No,,Yes
+365,No,FL resident,Yes,75,NA,Yes,Yes,Male,Broward,No,,Yes
+366,NA,FL resident,Yes,32,NA,No,No,Male,Broward,No,,Yes
+367,No,FL resident,Yes,73,NA,No,Yes,Male,Broward,No,,Yes
+368,No,FL resident,Yes,74,NA,Yes,Yes,Male,Broward,No,,Yes
+369,NA,Non-FL resident,Yes,47,FL; MA,No,Unknown,Male,Broward,Yes,,Yes
+370,NA,FL resident,NA,76,NA,NA,NA,Male,Broward,Unknown,,Yes
+371,No,FL resident,Yes,58,Brazil; NY; Spain,No,Unknown,Male,Broward,Yes,,Yes
+372,NA,FL resident,Unknown,49,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+373,NA,FL resident,NA,42,NA,NA,NA,Male,Broward,Unknown,,Yes
+374,NA,FL resident,Yes,53,NA,Yes,No,Female,Broward,No,,Yes
+375,No,FL resident,Yes,64,NA,Yes,Unknown,Male,Broward,No,,Yes
+376,No,FL resident,No,42,NA,No,Yes,Male,Broward,No,,Yes
+377,NA,FL resident,Unknown,38,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+378,No,FL resident,Yes,53,NA,No,Yes,Female,Broward,No,,Yes
+379,No,FL resident,Yes,31,NA,Yes,Yes,Male,Broward,No,,Yes
+380,No,FL resident,Yes,21,Italy; Spain,No,No,Male,Broward,Yes,,Yes
+381,No,FL resident,Yes,58,NA,No,No,Female,Broward,No,,Yes
+382,NA,FL resident,Unknown,61,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+383,NA,FL resident,Unknown,31,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+384,NA,FL resident,Unknown,53,NA,Unknown,Yes,Female,Broward,Unknown,,Yes
+385,No,FL resident,Yes,94,NA,Yes,Yes,Male,Broward,Unknown,,Yes
+386,NA,FL resident,Unknown,38,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+387,NA,FL resident,Unknown,38,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+388,NA,FL resident,Unknown,75,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+389,No,FL resident,No,19,Ireland,No,Yes,Female,Broward,Yes,,Yes
+390,NA,FL resident,NA,64,NA,NA,NA,Male,Broward,Unknown,,Yes
+391,No,FL resident,No,32,NA,No,Yes,Male,Broward,No,,Yes
+392,NA,FL resident,Unknown,57,NA,Unknown,NA,Male,Broward,Unknown,,Yes
+393,NA,FL resident,NA,87,NA,No,NA,Male,Broward,Unknown,,Yes
+394,NA,FL resident,Unknown,22,NA,Unknown,NA,Female,Broward,Unknown,,Yes
+395,NA,FL resident,No,69,NY,No,No,Male,Broward,Yes,,Yes
+396,NA,FL resident,NA,23,NA,NA,NA,Female,Broward,Unknown,,Yes
+397,No,FL resident,Yes,43,NA,Yes,No,Male,Broward,No,,Yes
+398,No,FL resident,Yes,36,NA,No,Yes,Male,Broward,No,,Yes
+399,NA,FL resident,NA,67,NA,NA,NA,Male,Broward,Unknown,,Yes
+400,No,FL resident,No,21,SPAIN,No,Unknown,Female,Broward,Yes,,Yes
+401,No,FL resident,Yes,82,NA,Yes,Yes,Male,Collier,No,,Yes
+402,NA,Non-FL resident,Unknown,76,NA,Unknown,NA,Female,Collier,Unknown,,Yes
+403,NA,Non-FL resident,Unknown,77,NA,Unknown,NA,Male,Collier,Unknown,,Yes
+404,NA,FL resident,NA,47,France; Italy; Spain,No,NA,Female,Collier,Yes,,Yes
+405,NA,Non-FL resident,Yes,79,CT,Yes,No,Female,Collier,Yes,,Yes
+406,No,FL resident,No,17,NA,No,Unknown,Male,Collier,Unknown,,Yes
+407,NA,FL resident,Unknown,59,NA,Unknown,NA,Male,Collier,Unknown,,Yes
+408,NA,FL resident,NA,77,NA,Yes,No,Male,Collier,No,,Yes
+409,NA,FL resident,NA,59,Japan,NA,Unknown,Male,Collier,Yes,,Yes
+410,NA,FL resident,NA,28,Italy,No,Unknown,Male,Collier,Yes,,Yes
+411,NA,Non-FL resident,Yes,17,United Kingdom,No,No,Female,Collier,Yes,,Yes
+412,No,FL resident,No,30,Spain,No,No,Female,Collier,Yes,,Yes
+413,NA,FL resident,NA,59,Canada,No,NA,Male,Collier,Yes,,Yes
+414,No,FL resident,No,79,NA,No,No,Male,Collier,No,,Yes
+415,NA,FL resident,NA,19,Italy,No,NA,Male,Collier,Yes,,Yes
+416,NA,FL resident,NA,26,France; Italy; Spain,No,NA,Male,Collier,Yes,,Yes
+417,NA,FL resident,NA,66,France; Italy; Spain,No,No,Male,Collier,Yes,,Yes
+418,No,FL resident,Yes,31,Egypt,No,No,Female,Collier,Yes,,Yes
+419,No,FL resident,No,76,NY,No,Yes,Male,Collier,Yes,,Yes
+420,NA,FL resident,NA,61,Canada,No,NA,Male,Collier,Yes,,Yes
+421,No,FL resident,No,62,Bahamas; FL; Honduras; Mexico,No,Yes,Female,Collier,Yes,,Yes
+422,No,FL resident,No,64,Bahamas; Belize; FL; Honduras; Mexico,No,Yes,Male,Collier,Yes,,Yes
+423,NA,FL resident,NA,77,NA,No,Yes,Male,Collier,No,,Yes
+424,No,FL resident,No,60,NA,No,No,Female,Collier,No,,Yes
+425,No,FL resident,Yes,84,NA,Yes,No,Female,Collier,No,,Yes
+426,NA,Non-FL resident,Yes,75,NA,Yes,No,Male,Collier,No,,Yes
+427,NA,FL resident,NA,46,NA,NA,NA,Male,Columbia,Unknown,,Yes
+428,NA,FL resident,NA,70,NA,NA,NA,Female,Columbia,No,,Yes
+429,NA,FL resident,NA,46,NA,NA,NA,Female,Columbia,No,,Yes
+430,NA,FL resident,Unknown,53,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+431,NA,FL resident,Unknown,61,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+432,NA,FL resident,Unknown,38,NA,No,Unknown,Male,Dade,Unknown,,Yes
+433,NA,FL resident,Unknown,31,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+434,Unknown,FL resident,Unknown,63,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+435,NA,Non-FL resident,Yes,80,Israel; Venezuela,No,No,Female,Dade,Yes,,Yes
+436,NA,FL resident,Unknown,26,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+437,No,FL resident,Yes,32,Colombia; NY; Saudi Arabia,No,No,Male,Dade,Yes,,Yes
+438,NA,FL resident,Unknown,49,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+439,No,FL resident,Yes,68,NA,Yes,NA,Female,Dade,Unknown,,Yes
+440,NA,FL resident,Yes,20,SPAIN,No,Yes,Female,Dade,Yes,,Yes
+441,NA,FL resident,Unknown,32,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+442,NA,FL resident,NA,57,NA,NA,Yes,Male,Dade,No,,Yes
+443,NA,FL resident,Unknown,57,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+444,No,FL resident,Yes,48,France,No,No,Female,Dade,Yes,,Yes
+445,No,FL resident,Yes,38,NA,Yes,No,Male,Dade,No,,Yes
+446,NA,FL resident,Unknown,56,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+447,NA,FL resident,Unknown,36,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+448,Unknown,FL resident,Unknown,25,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+449,NA,FL resident,Unknown,25,NA,No,NA,Female,Dade,Unknown,,Yes
+450,NA,FL resident,Unknown,55,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+451,No,FL resident,Yes,21,Spain,No,Unknown,Male,Dade,Yes,,Yes
+452,No,FL resident,Yes,69,IL; Israel; VA,No,Yes,Male,Dade,Yes,,Yes
+453,NA,FL resident,Unknown,33,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+454,NA,FL resident,NA,58,Italy; Spain,Unknown,No,Female,Dade,Yes,,Yes
+455,NA,FL resident,Unknown,44,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+456,NA,FL resident,Yes,47,NA,Yes,Yes,Male,Dade,No,,Yes
+457,NA,FL resident,Unknown,77,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+458,NA,FL resident,NA,83,NA,Yes,NA,Male,Dade,Unknown,,Yes
+459,NA,FL resident,Unknown,63,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+460,NA,FL resident,NA,48,CO,No,Unknown,Male,Dade,Yes,,Yes
+461,NA,FL resident,Unknown,88,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+462,No,FL resident,Yes,42,NA,No,No,Male,Dade,No,,Yes
+463,NA,FL resident,Unknown,48,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+464,NA,FL resident,Unknown,31,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+465,No,FL resident,No,64,NA,No,No,Female,Dade,No,,Yes
+466,NA,FL resident,Unknown,57,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+467,NA,FL resident,Unknown,49,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+468,No,FL resident,Yes,62,FL; NY,No,Unknown,Male,Dade,Yes,,Yes
+469,NA,FL resident,Unknown,38,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+470,NA,FL resident,Unknown,26,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+471,NA,FL resident,Yes,50,SPAIN,No,No,Female,Dade,Yes,,Yes
+472,NA,FL resident,Unknown,67,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+473,NA,FL resident,Unknown,48,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+474,NA,FL resident,Unknown,67,NA,Yes,No,Male,Dade,Unknown,,Yes
+475,No,FL resident,No,57,NY,No,Unknown,Female,Dade,Yes,,Yes
+476,NA,FL resident,Unknown,30,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+477,NA,FL resident,Unknown,41,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+478,No,FL resident,Yes,20,Spain,No,Yes,Male,Dade,Yes,,Yes
+479,NA,FL resident,Yes,34,NA,No,Yes,Female,Dade,No,,Yes
+480,NA,FL resident,NA,57,NA,No,NA,Female,Dade,Unknown,,Yes
+481,NA,FL resident,Unknown,42,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+482,No,FL resident,Unknown,18,Spain,No,Yes,Male,Dade,Yes,,Yes
+483,NA,FL resident,Unknown,58,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+484,No,FL resident,Yes,73,NA,Yes,Yes,Male,Dade,No,,Yes
+485,NA,FL resident,Yes,39,NA,No,Yes,Male,Dade,Unknown,,Yes
+486,No,FL resident,Yes,60,NA,Yes,No,Male,Dade,No,,Yes
+487,No,FL resident,NA,51,SPAIN; WA,NA,Unknown,Male,Dade,Yes,,Yes
+488,No,FL resident,Yes,35,NA,No,No,Female,Dade,Unknown,,Yes
+489,NA,FL resident,Unknown,26,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+490,NA,FL resident,NA,70,NA,NA,NA,Male,Dade,Unknown,,Yes
+491,NA,FL resident,Yes,75,Europe; France; Spain,No,Yes,Male,Dade,Yes,,Yes
+492,NA,FL resident,Unknown,56,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+493,NA,FL resident,Unknown,29,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+494,NA,FL resident,Unknown,40,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+495,NA,FL resident,NA,59,NA,NA,NA,Male,Dade,Unknown,,Yes
+496,NA,FL resident,NA,44,NA,NA,Yes,Female,Dade,Unknown,,Yes
+497,No,FL resident,Yes,47,Spain,No,Yes,Female,Dade,Yes,,Yes
+498,NA,FL resident,Unknown,52,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+499,No,FL resident,Yes,25,NA,No,Yes,Female,Dade,No,,Yes
+500,NA,FL resident,Yes,49,SPAIN,No,Yes,Male,Dade,Yes,,Yes
+501,NA,FL resident,Unknown,61,NA,Unknown,Yes,Female,Dade,No,,Yes
+502,Unknown,FL resident,Unknown,28,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+503,NA,FL resident,Unknown,47,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+504,NA,FL resident,Unknown,30,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+505,No,FL resident,No,34,NA,No,Unknown,Female,Dade,No,,Yes
+506,NA,FL resident,Yes,65,Spain,Yes,NA,Male,Dade,Yes,,Yes
+507,NA,FL resident,Unknown,65,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+508,NA,FL resident,Unknown,57,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+509,NA,FL resident,Unknown,40,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+510,NA,FL resident,NA,64,NA,Yes,NA,Female,Dade,Unknown,,Yes
+511,NA,FL resident,Unknown,23,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+512,NA,FL resident,Unknown,51,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+513,NA,FL resident,Unknown,36,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+514,NA,FL resident,Unknown,56,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+515,NA,FL resident,Unknown,66,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+516,NA,FL resident,Unknown,49,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+517,NA,FL resident,NA,51,NA,NA,NA,Male,Dade,Unknown,,Yes
+518,NA,FL resident,Unknown,31,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+519,No,FL resident,Yes,28,NA,No,Yes,Male,Dade,No,,Yes
+520,NA,FL resident,Unknown,53,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+521,NA,FL resident,Unknown,34,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+522,NA,FL resident,No,42,FL; France,No,Yes,Male,Dade,Yes,,Yes
+523,NA,FL resident,Unknown,38,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+524,No,FL resident,Yes,71,NA,Yes,Unknown,Female,Dade,Unknown,,Yes
+525,NA,FL resident,Unknown,22,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+526,NA,FL resident,NA,39,FL; NY,Yes,No,Female,Dade,Yes,,Yes
+527,NA,FL resident,Unknown,33,NA,Unknown,Yes,Male,Dade,Unknown,,Yes
+528,NA,FL resident,Unknown,44,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+529,No,FL resident,Yes,61,NA,Yes,No,Male,Dade,No,,Yes
+530,NA,FL resident,Unknown,41,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+531,No,FL resident,Yes,77,EGYPT; IRAN; UNITED ARAB EMIRATES,No,No,Female,Dade,Yes,,Yes
+532,NA,FL resident,Yes,52,NA,No,NA,Female,Dade,No,,Yes
+533,NA,FL resident,Unknown,39,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+534,NA,FL resident,Yes,56,NY,Yes,Yes,Male,Dade,Yes,,Yes
+535,NA,FL resident,Unknown,32,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+536,No,FL resident,Yes,69,NA,No,No,Female,Dade,Unknown,,Yes
+537,NA,FL resident,NA,53,FL; Unknown,NA,Unknown,Female,Dade,Yes,,Yes
+538,NA,FL resident,Unknown,33,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+539,NA,FL resident,Unknown,26,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+540,NA,FL resident,Unknown,54,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+541,NA,FL resident,Unknown,64,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+542,NA,Non-FL resident,Yes,64,NA,No,Unknown,Male,Dade,Unknown,,Yes
+543,No,FL resident,No,28,Ireland,No,Yes,Female,Dade,Yes,,Yes
+544,NA,Non-FL resident,NA,60,NA,Unknown,Unknown,Female,Dade,Unknown,,Yes
+545,NA,FL resident,Unknown,44,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+546,NA,FL resident,Unknown,33,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+547,NA,FL resident,Unknown,56,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+548,NA,Non-FL resident,Yes,46,NA,Yes,Yes,Male,Dade,No,,Yes
+549,NA,FL resident,Unknown,21,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+550,NA,FL resident,Unknown,27,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+551,Unknown,FL resident,Unknown,76,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+552,NA,FL resident,Unknown,81,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+553,NA,FL resident,Unknown,58,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+554,NA,FL resident,Unknown,46,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+555,NA,FL resident,Unknown,68,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+556,No,FL resident,Unknown,36,NA,No,Unknown,Male,Dade,Unknown,,Yes
+557,NA,FL resident,Unknown,46,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+558,NA,FL resident,Unknown,64,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+559,NA,FL resident,Yes,61,Spain,No,Yes,Female,Dade,Yes,,Yes
+560,NA,FL resident,Unknown,28,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+561,NA,FL resident,Unknown,39,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+562,NA,FL resident,Unknown,37,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+563,No,FL resident,Unknown,48,FL; TN,Unknown,Unknown,Male,Dade,Yes,,Yes
+564,NA,FL resident,Yes,45,NY,Unknown,NA,Male,Dade,Yes,,Yes
+565,NA,FL resident,Unknown,22,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+566,NA,FL resident,Unknown,75,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+567,NA,FL resident,No,55,NA,No,Yes,Female,Dade,No,,Yes
+568,NA,FL resident,Yes,43,UT,No,Yes,Male,Dade,Yes,,Yes
+569,No,FL resident,Unknown,49,NA,Unknown,No,Male,Dade,No,,Yes
+570,Unknown,FL resident,Unknown,35,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+571,NA,FL resident,Yes,50,NA,Yes,Yes,Male,Dade,No,,Yes
+572,NA,FL resident,Unknown,34,NA,No,NA,Female,Dade,No,,Yes
+573,Unknown,FL resident,Yes,83,NA,Yes,Yes,Male,Dade,Unknown,,Yes
+574,No,FL resident,Unknown,88,NA,Yes,Unknown,Male,Dade,Unknown,,Yes
+575,NA,FL resident,NA,69,NA,NA,NA,Male,Dade,Unknown,,Yes
+576,Unknown,FL resident,Unknown,36,NA,Unknown,Yes,Female,Dade,Unknown,,Yes
+577,No,FL resident,Yes,33,NA,No,Unknown,Male,Dade,Unknown,,Yes
+578,NA,Non-FL resident,Unknown,32,FL; NY; UNITED KINGDOM,Unknown,Unknown,Male,Dade,Yes,,Yes
+579,NA,FL resident,Unknown,20,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+580,NA,FL resident,NA,41,NA,Yes,NA,Female,Dade,Unknown,,Yes
+581,NA,FL resident,Yes,37,DC; FL,No,Yes,Male,Dade,Yes,,Yes
+582,No,FL resident,Unknown,51,Italy,No,Yes,Female,Dade,Yes,,Yes
+583,No,FL resident,Unknown,50,NA,No,Yes,Male,Dade,No,,Yes
+584,NA,FL resident,Unknown,23,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+585,No,FL resident,No,37,NA,No,Yes,Male,Dade,No,,Yes
+586,NA,Non-FL resident,Yes,66,FL; NY,Yes,No,Male,Dade,Yes,,Yes
+587,NA,FL resident,Unknown,33,NA,Unknown,Unknown,Female,Dade,Unknown,,Yes
+588,NA,FL resident,Unknown,70,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+589,No,FL resident,No,28,NA,No,Yes,Female,Dade,No,,Yes
+590,NA,FL resident,Yes,56,NA,Yes,No,Female,Dade,Unknown,,Yes
+591,NA,FL resident,NA,46,NA,NA,NA,Male,Dade,Unknown,,Yes
+592,NA,FL resident,Unknown,29,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+593,NA,FL resident,NA,38,Brazil,NA,NA,Male,Dade,Yes,,Yes
+594,No,FL resident,Yes,59,NA,No,Yes,Male,Dade,No,,Yes
+595,NA,FL resident,NA,33,NA,NA,NA,Female,Dade,Unknown,,Yes
+596,NA,FL resident,Unknown,58,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+597,NA,FL resident,Unknown,47,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+598,NA,FL resident,Unknown,50,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+599,Unknown,FL resident,Unknown,43,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+600,Unknown,FL resident,Unknown,67,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+601,NA,FL resident,Unknown,25,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+602,No,FL resident,Yes,62,Israel,No,Yes,Female,Dade,Yes,,Yes
+603,NA,FL resident,Unknown,55,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+604,No,FL resident,Yes,33,NA,Yes,No,Male,Dade,Unknown,,Yes
+605,NA,FL resident,Unknown,70,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+606,No,FL resident,No,32,NA,No,Unknown,Male,Dade,No,,Yes
+607,NA,FL resident,Unknown,33,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+608,NA,FL resident,Unknown,62,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+609,NA,FL resident,Yes,25,NA,No,Yes,Male,Dade,No,,Yes
+610,NA,FL resident,NA,53,NA,Yes,NA,Female,Dade,Unknown,,Yes
+611,No,FL resident,Yes,51,NA,Yes,Yes,Male,Dade,No,,Yes
+612,NA,FL resident,Unknown,66,NA,Unknown,Yes,Male,Dade,Unknown,,Yes
+613,No,FL resident,Yes,52,NA,No,Yes,Female,Dade,No,,Yes
+614,NA,FL resident,Unknown,39,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+615,No,FL resident,Yes,45,NY,No,No,Female,Dade,Yes,,Yes
+616,No,FL resident,Unknown,30,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+617,NA,Non-FL resident,No,48,NY,No,Yes,Male,Dade,Yes,,Yes
+618,No,FL resident,Yes,29,MA,No,No,Male,Dade,Yes,,Yes
+619,NA,FL resident,Unknown,52,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+620,NA,FL resident,Unknown,30,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+621,NA,FL resident,Unknown,23,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+622,No,FL resident,Unknown,35,NA,Yes,Unknown,Female,Dade,Unknown,,Yes
+623,NA,FL resident,Unknown,50,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+624,NA,FL resident,Unknown,50,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+625,NA,FL resident,Unknown,43,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+626,NA,FL resident,Unknown,27,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+627,NA,FL resident,Unknown,23,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+628,NA,FL resident,Yes,50,NA,Unknown,No,Female,Dade,No,,Yes
+629,NA,FL resident,Unknown,44,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+630,NA,FL resident,Unknown,71,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+631,NA,FL resident,Unknown,42,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+632,NA,FL resident,Unknown,32,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+633,NA,FL resident,Unknown,78,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+634,NA,FL resident,Unknown,67,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+635,No,FL resident,Yes,47,NA,Yes,Yes,Male,Dade,No,,Yes
+636,NA,FL resident,No,58,NA,No,Yes,Male,Dade,No,,Yes
+637,No,Not diagnosed/isolated in FL,NA,64,Japan,Unknown,Yes,Male,Dade,Yes,,Yes
+638,NA,FL resident,Unknown,74,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+639,NA,FL resident,Unknown,30,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+640,No,FL resident,No,50,IL,No,No,Male,Dade,Yes,,Yes
+641,NA,FL resident,NA,67,Egypt,No,Yes,Female,Dade,Yes,,Yes
+642,NA,FL resident,NA,35,Egypt,No,Yes,Male,Dade,Yes,,Yes
+643,No,FL resident,Yes,49,EUROPE,Yes,No,Male,Dade,Yes,,Yes
+644,NA,FL resident,Unknown,70,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+645,NA,FL resident,Unknown,32,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+646,NA,FL resident,Yes,60,NA,Unknown,Yes,Female,Dade,No,,Yes
+647,NA,FL resident,Unknown,31,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+648,NA,FL resident,Unknown,52,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+649,NA,FL resident,Unknown,56,NA,Unknown,Unknown,Female,Dade,Unknown,,Yes
+650,NA,FL resident,NA,78,NA,NA,NA,Unknown,Dade,Unknown,,Yes
+651,NA,FL resident,Unknown,73,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+652,NA,FL resident,Unknown,21,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+653,NA,Non-FL resident,Yes,42,Brazil; FL; TX,No,No,Male,Dade,Yes,,Yes
+654,NA,FL resident,NA,49,SPAIN,Yes,No,Male,Dade,Yes,,Yes
+655,NA,FL resident,Unknown,68,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+656,NA,FL resident,NA,59,NA,NA,Yes,Female,Dade,Unknown,,Yes
+657,No,FL resident,Yes,54,SPAIN,No,No,Male,Dade,Yes,,Yes
+658,NA,FL resident,Unknown,32,NA,No,Yes,Male,Dade,No,,Yes
+659,NA,FL resident,Unknown,27,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+660,NA,FL resident,NA,50,NA,NA,NA,Female,Dade,Unknown,,Yes
+661,NA,FL resident,Unknown,28,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+662,NA,FL resident,Unknown,37,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+663,NA,FL resident,Unknown,47,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+664,NA,FL resident,NA,49,NA,NA,NA,Male,Dade,Unknown,,Yes
+665,NA,FL resident,Unknown,43,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+666,NA,FL resident,Unknown,25,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+667,NA,FL resident,NA,44,NA,NA,Yes,Female,Dade,Unknown,,Yes
+668,NA,FL resident,Unknown,18,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+669,NA,FL resident,Unknown,64,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+670,NA,FL resident,Unknown,50,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+671,NA,FL resident,Unknown,53,Qatar; Spain,No,No,Male,Dade,Yes,,Yes
+672,NA,FL resident,Unknown,41,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+673,No,FL resident,Yes,42,FL; IL,No,Yes,Female,Dade,Yes,,Yes
+674,No,FL resident,Yes,48,Spain,No,Yes,Female,Dade,Yes,,Yes
+675,NA,FL resident,Unknown,55,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+676,NA,FL resident,NA,74,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+677,NA,FL resident,Unknown,74,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+678,No,FL resident,No,38,CUBA; FL,No,Unknown,Male,Dade,Yes,,Yes
+679,NA,FL resident,Unknown,36,NA,Unknown,No,Male,Dade,Unknown,,Yes
+680,No,FL resident,Yes,42,NA,No,No,Female,Dade,No,,Yes
+681,NA,FL resident,Unknown,51,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+682,No,FL resident,Yes,45,France; United Kingdom,No,No,Male,Dade,Yes,,Yes
+683,NA,FL resident,Yes,43,NA,Yes,Unknown,Male,Dade,Unknown,,Yes
+684,NA,FL resident,Unknown,42,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+685,NA,FL resident,Yes,45,ECUADOR,No,Yes,Male,Dade,Yes,,Yes
+686,No,FL resident,No,35,Spain,No,No,Male,Dade,Yes,,Yes
+687,No,FL resident,Yes,52,NA,Yes,Unknown,Male,Dade,No,,Yes
+688,NA,FL resident,Unknown,31,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+689,No,FL resident,Yes,46,NY,No,Yes,Male,Dade,Yes,,Yes
+690,NA,FL resident,No,36,NA,No,Yes,Unknown,Dade,No,,Yes
+691,NA,FL resident,Unknown,10,NA,Unknown,Yes,Female,Dade,Unknown,,Yes
+692,NA,FL resident,Unknown,48,NA,No,Yes,Male,Dade,No,,Yes
+693,NA,FL resident,Unknown,59,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+694,NA,FL resident,NA,43,UT,No,Yes,Female,Dade,Yes,,Yes
+695,NA,FL resident,Yes,84,NY,No,Yes,Female,Dade,Yes,,Yes
+696,NA,FL resident,Unknown,72,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+697,No,FL resident,Yes,44,FRANCE,No,No,Male,Dade,Yes,,Yes
+698,NA,FL resident,Unknown,40,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+699,No,FL resident,Yes,42,Spain,Yes,No,Male,Dade,Yes,,Yes
+700,No,FL resident,Yes,52,Peru,No,No,Male,Dade,Yes,,Yes
+701,NA,FL resident,Unknown,29,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+702,NA,FL resident,Unknown,45,NA,Unknown,Yes,Female,Dade,Unknown,,Yes
+703,No,FL resident,No,73,NY,No,No,Male,Dade,Yes,,Yes
+704,NA,FL resident,Unknown,36,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+705,NA,Non-FL resident,Yes,69,NA,No,Yes,Female,Dade,Unknown,,Yes
+706,No,FL resident,Yes,45,NA,Unknown,Yes,Male,Dade,Unknown,,Yes
+707,NA,FL resident,Yes,78,NA,No,No,Male,Dade,No,,Yes
+708,NA,FL resident,Unknown,23,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+709,NA,FL resident,No,34,NA,No,NA,Female,Dade,Unknown,,Yes
+710,NA,FL resident,Unknown,21,ROMANIA,No,No,Male,Dade,Yes,,Yes
+711,NA,FL resident,Yes,73,NA,Yes,NA,Male,Dade,No,,Yes
+712,No,FL resident,Yes,56,Iran,No,Yes,Male,Dade,Yes,,Yes
+713,NA,FL resident,Unknown,57,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+714,NA,FL resident,Unknown,40,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+715,No,FL resident,Yes,56,Costa Rica,Yes,Unknown,Male,Dade,Yes,,Yes
+716,Unknown,FL resident,Unknown,37,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+717,No,FL resident,Yes,37,El Salvador; FL; Mexico; Spain,Yes,Unknown,Male,Dade,Yes,,Yes
+718,No,FL resident,No,32,NA,No,Unknown,Male,Desoto,No,,Yes
+719,NA,FL resident,Unknown,54,NA,Unknown,NA,Female,Duval,Unknown,,Yes
+720,NA,FL resident,NA,83,NA,Yes,No,Male,Duval,No,,Yes
+721,NA,FL resident,Unknown,71,NA,Unknown,NA,Male,Duval,Unknown,,Yes
+722,NA,Non-FL resident,NA,65,NA,NA,NA,Unknown,Duval,Unknown,,Yes
+723,NA,FL resident,Unknown,87,NA,Unknown,NA,Female,Duval,Unknown,,Yes
+724,NA,FL resident,Unknown,68,NA,Unknown,NA,Female,Duval,Unknown,,Yes
+725,No,FL resident,No,57,Ireland; United Kingdom,No,NA,Female,Duval,Yes,,Yes
+726,NA,FL resident,Unknown,55,NA,Unknown,NA,Male,Duval,Unknown,,Yes
+727,No,FL resident,Yes,91,NA,No,Yes,Female,Duval,No,,Yes
+728,NA,FL resident,Yes,36,FL; GA,No,NA,Female,Duval,Yes,,Yes
+729,NA,Non-FL resident,Yes,25,Australia; FL; TN,No,Unknown,Female,Duval,Yes,,Yes
+730,NA,FL resident,NA,45,NA,NA,NA,Female,Duval,Unknown,,Yes
+731,NA,Non-FL resident,NA,69,NA,NA,NA,Unknown,Duval,Unknown,,Yes
+732,No,FL resident,Yes,84,NA,Yes,No,Male,Duval,No,,Yes
+733,No,FL resident,No,86,NA,No,Yes,Female,Duval,No,,Yes
+734,NA,FL resident,Unknown,39,NA,Unknown,NA,Male,Duval,Unknown,,Yes
+735,NA,FL resident,Unknown,57,NA,Unknown,NA,Female,Duval,Unknown,,Yes
+736,NA,FL resident,Unknown,58,NA,Unknown,NA,Male,Duval,Unknown,,Yes
+737,No,FL resident,Yes,84,NA,Yes,Yes,Female,Duval,No,,Yes
+738,Yes,FL resident,Yes,88,NA,Yes,Yes,Male,Duval,No,,Yes
+739,No,FL resident,Yes,84,NA,Yes,Yes,Male,Duval,No,,Yes
+740,NA,FL resident,No,82,NA,No,Yes,Female,Duval,Unknown,,Yes
+741,Yes,FL resident,Yes,84,NA,Yes,Yes,Male,Duval,No,,Yes
+742,NA,FL resident,Unknown,27,NA,Unknown,NA,Male,Duval,Unknown,,Yes
+743,No,FL resident,Yes,66,NA,No,Yes,Male,Duval,No,,Yes
+744,NA,FL resident,Unknown,19,NA,Unknown,NA,Female,Duval,Unknown,,Yes
+745,NA,FL resident,Unknown,52,NA,Unknown,NA,Female,Duval,Unknown,,Yes
+746,NA,FL resident,Unknown,49,NA,Unknown,NA,Female,Duval,Unknown,,Yes
+747,NA,FL resident,Unknown,22,NA,Unknown,NA,Male,Duval,Unknown,,Yes
+748,No,FL resident,NA,53,FL; NV,No,Yes,Female,Duval,Yes,,Yes
+749,NA,FL resident,Yes,78,NA,Yes,No,Female,Duval,No,,Yes
+750,NA,FL resident,Unknown,20,NA,Unknown,NA,Female,Duval,Unknown,,Yes
+751,No,FL resident,Yes,73,NA,No,Yes,Male,Dade,Unknown,,Yes
+752,NA,FL resident,Unknown,34,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+753,NA,FL resident,Unknown,33,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+754,NA,FL resident,Unknown,19,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+755,NA,FL resident,Unknown,56,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+756,NA,FL resident,Unknown,27,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+757,No,FL resident,Yes,19,NA,No,Yes,Female,Dade,No,,Yes
+758,No,FL resident,Yes,37,AZ; Spain,NA,NA,Female,Dade,Yes,,Yes
+759,No,FL resident,Yes,25,SPAIN,No,No,Female,Dade,Yes,,Yes
+760,NA,FL resident,Yes,80,NA,Yes,No,Female,Dade,No,,Yes
+761,No,FL resident,No,45,NA,No,Yes,Male,Dade,No,,Yes
+762,No,FL resident,Yes,52,CA; NY,Yes,Unknown,Male,Dade,Yes,,Yes
+763,NA,FL resident,Unknown,35,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+764,NA,FL resident,Unknown,49,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+765,NA,FL resident,Unknown,55,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+766,NA,Non-FL resident,Yes,36,Spain,No,No,Male,Dade,Yes,,Yes
+767,No,FL resident,Unknown,47,NA,No,Yes,Female,Dade,No,,Yes
+768,NA,FL resident,Unknown,67,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+769,NA,FL resident,Unknown,54,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+770,NA,FL resident,Yes,68,France; Spain,No,Yes,Female,Dade,Yes,,Yes
+771,NA,FL resident,Unknown,21,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+772,No,FL resident,Yes,13,NY,No,Yes,Female,Dade,Yes,,Yes
+773,No,FL resident,Yes,13,NY,No,Yes,Male,Dade,Yes,,Yes
+774,No,FL resident,Yes,44,NY,No,Yes,Female,Dade,Yes,,Yes
+775,No,FL resident,Yes,11,NY,No,Yes,Male,Dade,Yes,,Yes
+776,NA,FL resident,Unknown,68,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+777,NA,FL resident,Unknown,48,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+778,NA,FL resident,Unknown,63,NA,Unknown,Yes,Male,Dade,Unknown,,Yes
+779,No,FL resident,Yes,27,NA,No,Yes,Male,Dade,No,,Yes
+780,NA,FL resident,Unknown,47,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+781,NA,FL resident,Unknown,46,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+782,No,FL resident,No,34,NA,No,Unknown,Male,Dade,Unknown,,Yes
+783,NA,Non-FL resident,Yes,51,Bahamas; CA; IL,Yes,Unknown,Male,Dade,Yes,,Yes
+784,No,FL resident,Yes,44,NA,No,No,Female,Dade,Unknown,,Yes
+785,NA,FL resident,Unknown,34,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+786,NA,FL resident,Unknown,50,NA,Unknown,Yes,Male,Dade,Unknown,,Yes
+787,No,FL resident,Yes,20,NA,Unknown,Yes,Female,Dade,Unknown,,Yes
+788,NA,Non-FL resident,Unknown,33,NA,Unknown,Unknown,Male,Dade,Unknown,,Yes
+789,NA,FL resident,Unknown,11,NA,Unknown,Yes,Female,Dade,Unknown,,Yes
+790,NA,FL resident,Unknown,70,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+791,Unknown,FL resident,Unknown,58,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+792,NA,FL resident,Unknown,30,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+793,NA,FL resident,Unknown,28,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+794,NA,FL resident,Unknown,46,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+795,NA,FL resident,Yes,42,Puerto Rico; SC,Yes,No,Male,Dade,Yes,,Yes
+796,NA,FL resident,Unknown,38,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+797,NA,FL resident,NA,40,NA,NA,NA,Male,Dade,Unknown,,Yes
+798,No,FL resident,Yes,75,NA,Yes,Unknown,Male,Dade,No,,Yes
+799,NA,FL resident,Unknown,60,NA,Unknown,NA,Male,Dade,Unknown,,Yes
+800,NA,FL resident,Unknown,65,NA,Unknown,NA,Female,Dade,Unknown,,Yes
+801,NA,FL resident,Yes,90,NA,Yes,Yes,Male,Duval,No,,Yes
+802,No,FL resident,No,89,NA,No,Yes,Female,Duval,No,,Yes
+803,NA,FL resident,Unknown,44,NA,Unknown,NA,Male,Duval,Unknown,,Yes
+804,No,FL resident,No,57,NA,No,Yes,Female,Duval,Unknown,,Yes
+805,No,FL resident,No,91,NA,No,Yes,Male,Duval,No,,Yes
+806,NA,FL resident,NA,88,NA,NA,NA,Male,Duval,Unknown,,Yes
+807,Yes,FL resident,Yes,83,NA,Yes,Yes,Male,Duval,No,,Yes
+808,NA,FL resident,Unknown,74,NA,Unknown,NA,Male,Duval,Unknown,,Yes
+809,NA,FL resident,Unknown,84,NA,Unknown,NA,Male,Duval,Unknown,,Yes
+810,NA,FL resident,NA,59,NA,NA,NA,Male,Duval,Unknown,,Yes
+811,NA,FL resident,Unknown,56,NA,Unknown,NA,Male,Duval,Unknown,,Yes
+812,NA,FL resident,No,88,NA,NA,Yes,Male,Duval,Unknown,,Yes
+813,No,FL resident,No,68,NA,No,Yes,Female,Duval,No,,Yes
+814,NA,FL resident,Yes,41,NA,Yes,No,Female,Duval,Unknown,,Yes
+815,NA,Non-FL resident,NA,83,NA,NA,NA,Unknown,Duval,Unknown,,Yes
+816,NA,FL resident,NA,79,NA,NA,NA,Unknown,Duval,Unknown,,Yes
+817,No,FL resident,No,38,NA,Yes,Yes,Male,Duval,Unknown,,Yes
+818,NA,FL resident,NA,57,FL; Unknown,Yes,Yes,Male,Duval,Yes,,Yes
+819,No,FL resident,No,76,NA,No,No,Male,Escambia,No,,Yes
+820,NA,FL resident,NA,32,NA,NA,NA,Male,Escambia,Unknown,,Yes
+821,NA,FL resident,NA,48,NA,No,Unknown,Male,Escambia,No,,Yes
+822,NA,FL resident,NA,33,NA,No,No,Female,Escambia,Unknown,,Yes
+823,NA,FL resident,NA,58,NA,NA,NA,Male,Escambia,Unknown,,Yes
+824,No,FL resident,No,53,FRANCE,No,No,Male,Escambia,Yes,,Yes
+825,NA,FL resident,NA,60,NA,NA,NA,Female,Escambia,Unknown,,Yes
+826,NA,FL resident,NA,25,NA,No,No,Female,Escambia,No,,Yes
+827,NA,FL resident,Unknown,51,NA,Unknown,NA,Male,Escambia,Unknown,,Yes
+828,NA,FL resident,NA,56,NA,Unknown,Unknown,Male,Escambia,Unknown,,Yes
+829,No,FL resident,No,45,NA,No,Unknown,Male,Flagler,No,,Yes
+830,No,FL resident,No,68,EUROPE,No,Unknown,Male,Flagler,Yes,,Yes
+831,No,FL resident,No,59,NA,No,Unknown,Female,Flagler,Unknown,,Yes
+832,No,FL resident,Yes,72,NA,Yes,Unknown,Female,Flagler,Unknown,,Yes
+833,NA,Not diagnosed/isolated in FL,NA,54,Japan,Unknown,Unknown,Male,Gadsden,Yes,,Yes
+834,No,FL resident,No,68,NA,No,No,Male,Hernando,No,,Yes
+835,No,FL resident,No,73,NA,No,No,Female,Hernando,No,,Yes
+836,No,FL resident,No,19,Spain,No,No,Female,Hernando,Yes,,Yes
+837,No,FL resident,No,70,NA,No,No,Female,Hernando,No,,Yes
+838,No,FL resident,No,20,Spain,No,Unknown,Male,Hernando,Yes,,Yes
+839,NA,FL resident,NA,56,CARIBBEAN; FL,No,Unknown,Female,Highlands,Yes,,Yes
+840,No,FL resident,Yes,78,NA,Yes,No,Female,Highlands,No,,Yes
+841,NA,FL resident,No,77,NA,No,No,Female,Highlands,No,,Yes
+842,NA,FL resident,NA,39,NA,NA,NA,Male,Highlands,Unknown,,Yes
+843,No,FL resident,No,27,CA,No,Yes,Female,Hillsborough,Yes,,Yes
+844,NA,FL resident,NA,35,NA,NA,NA,Male,Hillsborough,Unknown,,Yes
+845,NA,FL resident,NA,33,NA,No,Yes,Male,Hillsborough,No,,Yes
+846,NA,FL resident,NA,28,NA,NA,NA,Male,Hillsborough,Unknown,,Yes
+847,NA,FL resident,Yes,30,NA,No,NA,Female,Hillsborough,No,,Yes
+848,NA,FL resident,Unknown,57,NA,Unknown,NA,Male,Hillsborough,Unknown,,Yes
+849,NA,FL resident,Unknown,41,NA,Unknown,NA,Male,Hillsborough,Unknown,,Yes
+850,No,FL resident,Yes,38,FL; NJ; NY,Yes,No,Female,Hillsborough,Yes,,Yes
+851,No,FL resident,No,50,UNITED KINGDOM,No,Yes,Male,Hillsborough,Yes,,Yes
+852,NA,FL resident,Unknown,65,NA,No,Yes,Male,Manatee,No,,Yes
+853,NA,FL resident,NA,60,NA,No,Yes,Female,Hillsborough,No,,Yes
+854,No,FL resident,Yes,47,NA,Yes,Yes,Female,Osceola,No,,Yes
+855,NA,FL resident,NA,43,NA,Yes,No,Female,Lake,No,,Yes
+856,NA,FL resident,No,80,NA,No,No,Male,Osceola,Unknown,,Yes
+857,No,FL resident,No,18,NA,No,Yes,Male,Hillsborough,No,,Yes
+858,No,FL resident,No,80,BELIZE; CARIBBEAN; FL,No,No,Male,Lake,Yes,,Yes
+859,No,FL resident,Yes,68,India,Yes,No,Male,Osceola,Yes,,Yes
+860,NA,FL resident,NA,16,NA,NA,NA,Male,Hillsborough,Unknown,,Yes
+861,NA,FL resident,NA,63,NA,Yes,Yes,Female,Manatee,No,,Yes
+862,NA,FL resident,Unknown,27,NA,Unknown,NA,Female,Hillsborough,No,,Yes
+863,NA,FL resident,Yes,63,NA,No,No,Female,Lake,No,,Yes
+864,NA,FL resident,No,21,NA,No,Yes,Female,Osceola,No,,Yes
+865,NA,FL resident,NA,6,NA,NA,Yes,Male,Hillsborough,Unknown,,Yes
+866,NA,FL resident,NA,61,NA,No,Yes,Male,Manatee,No,,Yes
+867,NA,FL resident,Unknown,39,NA,Unknown,NA,Male,Hillsborough,Unknown,,Yes
+868,No,FL resident,No,26,NA,No,Yes,Male,Lake,No,,Yes
+869,NA,FL resident,Unknown,36,NA,Unknown,NA,Male,Osceola,Unknown,,Yes
+870,NA,FL resident,NA,6,NA,NA,NA,Unknown,Hillsborough,Unknown,,Yes
+871,No,FL resident,Yes,67,NA,Yes,Yes,Female,Manatee,No,,Yes
+872,NA,FL resident,Unknown,21,NA,Unknown,NA,Female,Hillsborough,Unknown,,Yes
+873,No,FL resident,Yes,56,CO; FL,No,No,Male,Lake,Yes,,Yes
+874,NA,FL resident,NA,79,SPAIN; UNITED KINGDOM,NA,No,Male,Osceola,Yes,,Yes
+875,NA,FL resident,Unknown,56,NA,No,No,Female,Hillsborough,Unknown,,Yes
+876,NA,FL resident,NA,64,NA,NA,NA,Female,Manatee,Unknown,,Yes
+877,No,FL resident,No,62,NA,No,Yes,Female,Manatee,No,,Yes
+878,No,FL resident,Yes,63,NA,Yes,Yes,Male,Manatee,No,,Yes
+879,NA,FL resident,Unknown,75,NA,No,No,Male,Manatee,No,,Yes
+880,NA,FL resident,NA,14,NA,NA,NA,Male,Manatee,Unknown,,Yes
+881,NA,FL resident,NA,81,Egypt,No,Yes,Female,Manatee,Yes,,Yes
+882,No,FL resident,Yes,56,NA,Yes,NA,Female,Manatee,No,,Yes
+883,NA,FL resident,Yes,75,NJ; NY,Yes,No,Male,Manatee,Yes,,Yes
+884,NA,FL resident,NA,68,NA,NA,NA,Male,Manatee,Unknown,,Yes
+885,NA,FL resident,Yes,72,NA,No,Yes,Female,Manatee,No,,Yes
+886,No,FL resident,Yes,71,NA,Yes,Yes,Male,Manatee,No,,Yes
+887,No,FL resident,No,40,UNITED KINGDOM,No,No,Female,Marion,Yes,,Yes
+888,No,FL resident,Yes,68,WI,No,Unknown,Male,Marion,Yes,,Yes
+889,No,FL resident,No,59,NA,No,No,Female,Marion,Unknown,,Yes
+890,No,FL resident,No,48,FL; Ireland,No,No,Female,Marion,Yes,,Yes
+891,No,FL resident,No,69,NA,No,No,Female,Martin,No,,Yes
+892,No,FL resident,Yes,57,NA,No,No,Male,Martin,No,,Yes
+893,No,FL resident,No,45,Brazil; FL,No,Unknown,Female,Martin,Yes,,Yes
+894,No,FL resident,Yes,75,NA,No,No,Male,Martin,No,,Yes
+895,NA,FL resident,Yes,52,NA,Yes,Unknown,Female,Monroe,Unknown,,Yes
+896,NA,FL resident,NA,72,FL; United Kingdom,No,Unknown,Female,Monroe,Yes,,Yes
+897,NA,FL resident,No,54,France,No,No,Female,Monroe,Yes,,Yes
+898,No,FL resident,No,68,Germany; MA,No,Yes,Male,Nassau,Yes,,Yes
+899,No,FL resident,Yes,66,NA,Yes,No,Male,Okaloosa,No,,Yes
+900,No,FL resident,No,44,NA,No,Unknown,Female,Okaloosa,No,,Yes
+901,No,FL resident,No,61,CA; Mexico,No,Yes,Female,Okaloosa,Yes,,Yes
+902,No,FL resident,No,47,NJ; NY,No,No,Female,Okaloosa,Yes,,Yes
+903,No,FL resident,No,47,FL; GA; MS; NJ,No,No,Male,Okaloosa,Yes,,Yes
+904,No,FL resident,No,45,GA,No,No,Female,Okaloosa,Yes,,Yes
+905,No,FL resident,No,24,CO; FL,No,No,Female,Okaloosa,Yes,,Yes
+906,No,FL resident,No,25,CA,No,No,Male,Okaloosa,Yes,,Yes
+907,No,FL resident,Yes,78,Italy,No,No,Female,Okaloosa,Yes,,Yes
+908,No,Not diagnosed/isolated in FL,Unknown,66,Japan,Unknown,Yes,Female,Okaloosa,Yes,,Yes
+909,No,FL resident,No,83,NA,No,Yes,Male,Okaloosa,No,,Yes
+910,No,FL resident,No,82,NA,No,Yes,Female,Okaloosa,No,,Yes
+911,No,FL resident,No,25,NA,No,No,Female,Okaloosa,No,,Yes
+912,No,FL resident,Yes,59,EUROPE,Yes,No,Female,Okaloosa,Yes,,Yes
+913,NA,FL resident,Unknown,52,NA,Unknown,NA,Female,Orange,Unknown,,Yes
+914,NA,FL resident,Unknown,21,NA,Unknown,NA,Female,Orange,Unknown,,Yes
+915,No,FL resident,Yes,82,NY,Yes,Unknown,Female,Orange,Yes,,Yes
+916,NA,FL resident,Unknown,56,NA,Unknown,NA,Male,Orange,No,,Yes
+917,No,FL resident,Yes,55,NA,Yes,No,Female,Orange,No,,Yes
+918,NA,FL resident,Unknown,30,NA,Unknown,NA,Male,Orange,Unknown,,Yes
+919,No,FL resident,No,50,NA,No,Unknown,Female,Orange,No,,Yes
+920,No,FL resident,Yes,82,NA,Yes,Unknown,Female,Orange,No,,Yes
+921,NA,FL resident,NA,52,NA,No,No,Female,Orange,No,,Yes
+922,NA,FL resident,No,36,NA,No,Yes,Female,Hillsborough,No,,Yes
+923,No,FL resident,Yes,48,Switzerland,No,Yes,Male,Osceola,Yes,,Yes
+924,NA,FL resident,NA,65,NA,NA,NA,Male,Hillsborough,Unknown,,Yes
+925,No,FL resident,Yes,75,FL; NY,No,Yes,Female,Lake,Yes,,Yes
+926,No,FL resident,Yes,22,NA,No,Yes,Male,Osceola,No,,Yes
+927,NA,FL resident,Unknown,28,NA,No,NA,Female,Hillsborough,No,,Yes
+928,No,FL resident,Yes,34,NA,No,Unknown,Male,Lake,No,,Yes
+929,No,FL resident,Yes,18,NA,No,Yes,Male,Osceola,No,,Yes
+930,NA,FL resident,Yes,38,NA,No,No,Male,Hillsborough,Unknown,,Yes
+931,NA,Non-FL resident,No,22,Italy,No,Yes,Female,Hillsborough,Yes,,Yes
+932,NA,FL resident,Unknown,75,NA,Unknown,Unknown,Male,Lake,Unknown,,Yes
+933,No,FL resident,No,39,NA,No,Yes,Male,Hillsborough,No,,Yes
+934,NA,FL resident,Unknown,21,NA,Unknown,Unknown,Female,Lake,Unknown,,Yes
+935,NA,FL resident,Unknown,30,FL; NY,Unknown,No,Male,Hillsborough,Yes,,Yes
+936,No,FL resident,No,33,NY,No,No,Female,Osceola,Yes,,Yes
+937,No,FL resident,No,59,NA,No,No,Female,Lee,No,,Yes
+938,NA,FL resident,NA,20,Venezuela,No,No,Female,Hillsborough,Yes,,Yes
+939,No,FL resident,Yes,79,NA,Yes,Yes,Male,Lee,No,,Yes
+940,No,FL resident,No,62,FL; NY,No,Yes,Male,Hillsborough,Yes,,Yes
+941,NA,FL resident,Unknown,70,NA,Unknown,NA,Male,Osceola,Unknown,,Yes
+942,NA,FL resident,NA,90,NA,No,Yes,Female,Lee,No,,Yes
+943,NA,FL resident,Unknown,38,BOSNIA AND HERZEGOVINA; GERMANY,No,Yes,Female,Hillsborough,Yes,,Yes
+944,No,FL resident,No,54,FL; NY,No,Yes,Female,Hillsborough,Yes,,Yes
+945,No,FL resident,Yes,58,NA,Yes,Unknown,Male,Osceola,No,,Yes
+946,No,FL resident,No,75,NA,No,No,Female,Lee,Unknown,,Yes
+947,NA,FL resident,Yes,54,NA,No,No,Male,Hillsborough,No,,Yes
+948,No,FL resident,No,29,Italy,No,Yes,Female,Hillsborough,Yes,,Yes
+949,NA,Non-FL resident,Yes,65,Canada,Yes,No,Male,Osceola,Yes,,Yes
+950,NA,Non-FL resident,No,57,FL; FRANCE; UNITED KINGDOM,No,Unknown,Male,Lee,Yes,,Yes
+951,NA,FL resident,No,46,NA,No,Unknown,Male,Hillsborough,No,,Yes
+952,NA,Non-FL resident,Unknown,28,NA,Unknown,Unknown,Male,Hillsborough,Unknown,,Yes
+953,NA,Non-FL resident,Yes,39,NA,Yes,No,Male,Osceola,Unknown,,Yes
+954,No,FL resident,No,75,NA,No,Yes,Male,Lee,No,,Yes
+955,NA,FL resident,Unknown,79,NA,Yes,Yes,Female,Hillsborough,No,,Yes
+956,No,FL resident,Yes,31,Brazil,Yes,No,Male,Osceola,Yes,,Yes
+957,NA,FL resident,No,19,NA,No,No,Female,Hillsborough,No,,Yes
+958,NA,Non-FL resident,Unknown,50,NA,Unknown,NA,Female,Hillsborough,Unknown,,Yes
+959,NA,FL resident,Unknown,60,NA,Unknown,NA,Male,Hillsborough,Unknown,,Yes
+960,NA,FL resident,Unknown,69,NA,Unknown,NA,Male,Hillsborough,Unknown,,Yes
+961,NA,FL resident,NA,69,NA,NA,Yes,Female,Hillsborough,Unknown,,Yes
+962,NA,FL resident,NA,29,NA,Unknown,No,Male,Hillsborough,Unknown,,Yes
+963,No,FL resident,Yes,79,NA,No,No,Female,Hillsborough,No,,Yes
+964,No,FL resident,Unknown,49,NA,Unknown,No,Female,Hillsborough,No,,Yes
+965,NA,FL resident,No,31,Bahamas,No,No,Unknown,Hillsborough,Yes,,Yes
+966,No,FL resident,No,51,NA,No,No,Male,Hillsborough,Unknown,,Yes
+967,NA,Non-FL resident,No,61,GA,No,Unknown,Male,Hillsborough,Yes,,Yes
+968,No,FL resident,Yes,40,NA,Yes,Yes,Female,Hillsborough,No,,Yes
+969,NA,FL resident,NA,10,NA,NA,Yes,Male,Hillsborough,Unknown,,Yes
+970,NA,FL resident,NA,14,NA,NA,NA,Unknown,Hillsborough,Unknown,,Yes
+971,NA,FL resident,NA,15,NA,NA,NA,Unknown,Hillsborough,Unknown,,Yes
+972,No,FL resident,Yes,72,FL; TN,No,Unknown,Female,Hillsborough,Yes,,Yes
+973,No,FL resident,Yes,76,NA,No,No,Male,Osceola,No,,Yes
+974,No,FL resident,Yes,21,SPAIN,No,No,Female,Lee,Yes,,Yes
+975,NA,Non-FL resident,No,20,Spain,No,No,Female,Osceola,Yes,,Yes
+976,NA,FL resident,NA,83,NA,Yes,Unknown,Male,Lee,No,,Yes
+977,NA,FL resident,Unknown,80,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+978,Yes,FL resident,Yes,77,Dominican Republic,Yes,Yes,Female,Lee,Yes,,Yes
+979,NA,FL resident,Unknown,53,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+980,No,FL resident,Yes,77,Dominican Republic,Yes,Yes,Male,Lee,Yes,,Yes
+981,No,FL resident,No,66,NA,No,Unknown,Male,Palm Beach,No,,Yes
+982,Yes,FL resident,Yes,77,NA,Yes,Yes,Male,Lee,No,,Yes
+983,No,FL resident,Unknown,19,TN,No,Yes,Female,Palm Beach,Yes,,Yes
+984,NA,FL resident,No,72,MA; NH,No,Yes,Female,Lee,Yes,,Yes
+985,NA,FL resident,NA,33,NA,NA,NA,Female,Hillsborough,Unknown,,Yes
+986,No,Not diagnosed/isolated in FL,NA,71,Japan,No,Yes,Female,Palm Beach,Yes,,Yes
+987,NA,FL resident,Yes,67,NA,Yes,Yes,Male,Lee,No,,Yes
+988,No,FL resident,Yes,69,CO,No,No,Male,Palm Beach,Yes,,Yes
+989,NA,Non-FL resident,Unknown,20,NA,No,Yes,Female,Hillsborough,No,,Yes
+990,NA,FL resident,Unknown,56,NA,Unknown,NA,Male,Lee,Unknown,,Yes
+991,NA,FL resident,Unknown,32,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+992,NA,FL resident,NA,31,NY,No,Yes,Male,Hillsborough,Yes,,Yes
+993,NA,FL resident,NA,43,NA,No,Yes,Female,Hillsborough,No,,Yes
+994,NA,FL resident,NA,70,NA,No,Yes,Male,Lee,No,,Yes
+995,NA,FL resident,Unknown,69,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+996,NA,FL resident,NA,32,NA,No,Yes,Female,Hillsborough,No,,Yes
+997,NA,FL resident,Yes,42,CO; FL,No,Yes,Male,Hillsborough,Yes,,Yes
+998,No,FL resident,Yes,89,FL; NY,Yes,No,Female,Lee,Yes,,Yes
+999,No,FL resident,Unknown,69,NA,Unknown,No,Male,Palm Beach,No,,Yes
+1000,NA,FL resident,No,21,NA,No,NA,Male,Hillsborough,Unknown,,Yes
+1001,No,FL resident,No,56,CO,No,Yes,Male,Indian River,Yes,,Yes
+1002,No,FL resident,No,60,NA,No,No,Male,Lee,Unknown,,Yes
+1003,No,FL resident,Yes,26,Bahamas; FL,No,No,Male,Palm Beach,Yes,,Yes
+1004,NA,FL resident,Yes,36,NA,No,No,Male,Hillsborough,No,,Yes
+1005,No,FL resident,Yes,77,FL; MO,No,No,Female,Indian River,Yes,,Yes
+1006,No,FL resident,Yes,32,NA,Yes,No,Male,Lee,No,,Yes
+1007,NA,Non-FL resident,Unknown,38,NA,Unknown,NA,Female,Hillsborough,Unknown,,Yes
+1008,NA,FL resident,Unknown,76,France,Yes,Unknown,Female,Palm Beach,Yes,,Yes
+1009,No,FL resident,Yes,72,NA,Yes,Unknown,Female,Lee,No,,Yes
+1010,No,FL resident,No,69,Egypt; Germany,No,No,Male,Indian River,Yes,,Yes
+1011,No,FL resident,Yes,21,NA,No,Yes,Female,Hillsborough,No,,Yes
+1012,No,FL resident,No,23,TN,No,Yes,Male,Lee,Yes,,Yes
+1013,NA,FL resident,NA,68,NA,NA,NA,Female,Indian River,Unknown,,Yes
+1014,NA,FL resident,NA,26,FL; NY,No,No,Female,Hillsborough,Yes,,Yes
+1015,No,FL resident,Yes,58,Ireland,No,No,Female,Indian River,Yes,,Yes
+1016,No,FL resident,Yes,65,FL; JAMAICA,Yes,Yes,Female,Lee,Yes,,Yes
+1017,No,FL resident,No,49,NA,No,No,Male,Indian River,No,,Yes
+1018,NA,FL resident,NA,62,FL; NY,No,No,Male,Hillsborough,Yes,,Yes
+1019,NA,FL resident,Unknown,19,NA,Unknown,Unknown,Female,Palm Beach,Unknown,,Yes
+1020,No,FL resident,Yes,73,NA,Yes,No,Male,Lee,Unknown,,Yes
+1021,No,FL resident,No,54,NA,No,No,Male,Indian River,No,,Yes
+1022,NA,FL resident,NA,36,NA,No,No,Male,Hillsborough,No,,Yes
+1023,No,FL resident,Yes,56,Egypt; Germany,No,Yes,Female,Palm Beach,Yes,,Yes
+1024,Yes,Not diagnosed/isolated in FL,NA,68,Philippines; South Korea,NA,NA,Female,Orange,Yes,,Yes
+1025,No,FL resident,No,67,NA,No,Yes,Male,Lee,No,,Yes
+1026,NA,Non-FL resident,No,25,NY,No,No,Female,Indian River,Yes,,Yes
+1027,No,FL resident,Yes,30,NA,No,Unknown,Female,Hillsborough,No,,Yes
+1028,No,FL resident,No,41,NV; UT; WY,No,No,Male,Palm Beach,Yes,,Yes
+1029,NA,Non-FL resident,Unknown,28,NA,Unknown,Unknown,Female,Orange,Unknown,,Yes
+1030,No,FL resident,Yes,80,NA,Yes,Yes,Male,Lee,No,,Yes
+1031,No,FL resident,No,30,Portugal; Spain; United Kingdom,No,No,Female,Indian River,Yes,,Yes
+1032,NA,FL resident,Unknown,51,NA,Unknown,NA,Female,Hillsborough,Unknown,,Yes
+1033,No,FL resident,No,35,NA,No,No,Female,Palm Beach,No,,Yes
+1034,No,FL resident,Yes,46,NA,Yes,NA,Male,Orange,Unknown,,Yes
+1035,No,FL resident,No,66,Colombia; Ecuador,No,Unknown,Male,Lee,Yes,,Yes
+1036,No,FL resident,No,81,NA,Yes,No,Female,Indian River,No,,Yes
+1037,No,FL resident,Yes,47,CO,Yes,Unknown,Male,Hillsborough,Yes,,Yes
+1038,NA,FL resident,Unknown,77,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1039,NA,FL resident,Unknown,37,NA,No,No,Male,Orange,Unknown,,Yes
+1040,No,FL resident,NA,67,NA,Yes,No,Male,Lee,No,,Yes
+1041,NA,FL resident,Unknown,64,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1042,No,FL resident,No,84,NA,No,No,Female,Indian River,No,,Yes
+1043,NA,FL resident,Unknown,46,Egypt,Unknown,No,Female,Hillsborough,Yes,,Yes
+1044,NA,FL resident,Unknown,68,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1045,No,FL resident,Yes,48,NA,No,Yes,Female,Orange,No,,Yes
+1046,No,FL resident,No,35,NA,No,No,Male,Lee,Unknown,,Yes
+1047,Yes,FL resident,Yes,88,NA,Yes,No,Male,Palm Beach,Unknown,,Yes
+1048,NA,Non-FL resident,No,33,AL; FL; GA; LA; Mexico; TX,No,Unknown,Male,Jackson,Yes,,Yes
+1049,No,FL resident,Yes,49,FL; Ireland,Yes,Yes,Female,Hillsborough,Yes,,Yes
+1050,NA,FL resident,Unknown,73,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1051,NA,Non-FL resident,No,33,Peru,No,NA,Female,Orange,Yes,,Yes
+1052,NA,FL resident,NA,65,NA,No,Yes,Female,Lee,No,,Yes
+1053,No,FL resident,Yes,43,NA,No,No,Male,Palm Beach,No,,Yes
+1054,No,FL resident,Yes,75,FL; PANAMA,No,Yes,Male,Lake,Yes,,Yes
+1055,No,FL resident,Yes,60,CA,No,No,Male,Hillsborough,Yes,,Yes
+1056,No,FL resident,Yes,74,Belgium; FL,Yes,No,Male,Palm Beach,Yes,,Yes
+1057,NA,FL resident,Unknown,32,NA,Unknown,NA,Male,Orange,Unknown,,Yes
+1058,No,FL resident,Yes,69,NA,Yes,Unknown,Male,Lee,No,,Yes
+1059,NA,FL resident,Unknown,21,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1060,NA,FL resident,Yes,75,FL; PANAMA,No,Yes,Female,Lake,Yes,,Yes
+1061,No,FL resident,Yes,68,FL; OH,Yes,No,Male,Lake,Yes,,Yes
+1062,No,FL resident,NA,48,NA,Yes,No,Male,Lake,No,,Yes
+1063,NA,FL resident,NA,70,FL; NY,Yes,No,Female,Lake,Yes,,Yes
+1064,NA,FL resident,Unknown,29,NA,Unknown,NA,Unknown,Palm Beach,Unknown,,Yes
+1065,No,FL resident,Yes,81,NY,Yes,Yes,Male,Palm Beach,Yes,,Yes
+1066,No,FL resident,Yes,42,NA,Yes,Unknown,Female,Palm Beach,No,,Yes
+1067,No,FL resident,Yes,59,NY,Yes,Yes,Female,Palm Beach,Yes,,Yes
+1068,No,FL resident,No,57,NA,No,Yes,Female,Lee,No,,Yes
+1069,No,FL resident,Yes,19,NA,No,Yes,Female,Hillsborough,No,,Yes
+1070,No,FL resident,Yes,65,NY,Yes,Yes,Male,Palm Beach,Yes,,Yes
+1071,No,FL resident,No,75,NA,No,Yes,Female,Lee,No,,Yes
+1072,No,FL resident,No,33,NA,No,Yes,Male,Hillsborough,Unknown,,Yes
+1073,NA,Non-FL resident,Unknown,73,NJ,Unknown,Unknown,Male,Palm Beach,Yes,,Yes
+1074,NA,FL resident,Unknown,74,NA,Unknown,NA,Female,Lee,Unknown,,Yes
+1075,No,FL resident,Yes,36,NA,No,Yes,Female,Hillsborough,No,,Yes
+1076,NA,FL resident,Unknown,55,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1077,NA,Non-FL resident,Yes,36,GA,No,Unknown,Male,Leon,Yes,,Yes
+1078,NA,FL resident,NA,3,NA,NA,NA,Male,Hillsborough,Unknown,,Yes
+1079,NA,FL resident,Unknown,26,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1080,No,FL resident,Yes,31,UNITED KINGDOM,No,No,Female,Leon,Yes,,Yes
+1081,No,FL resident,Yes,43,NA,Yes,Yes,Male,Hillsborough,No,,Yes
+1082,No,FL resident,Yes,37,NY,No,Yes,Male,Palm Beach,Yes,,Yes
+1083,No,FL resident,Yes,58,GA,Yes,Yes,Female,Leon,Yes,,Yes
+1084,No,FL resident,No,52,NA,No,No,Male,Hillsborough,No,,Yes
+1085,NA,FL resident,Unknown,56,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1086,No,FL resident,Yes,55,GA,No,Yes,Male,Leon,Yes,,Yes
+1087,NA,FL resident,NA,47,NA,NA,Yes,Female,Hillsborough,Unknown,,Yes
+1088,NA,FL resident,Unknown,67,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1089,NA,Non-FL resident,Yes,48,GA,Yes,Unknown,Female,Leon,Yes,,Yes
+1090,NA,FL resident,Unknown,30,NA,No,NA,Female,Hillsborough,No,,Yes
+1091,NA,FL resident,Unknown,61,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1092,No,FL resident,No,34,NC,No,Unknown,Male,Leon,Yes,,Yes
+1093,NA,FL resident,Unknown,39,NA,Unknown,No,Female,Hillsborough,Unknown,,Yes
+1094,NA,FL resident,Unknown,47,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1095,NA,FL resident,NA,33,Egypt,No,No,Female,Hillsborough,Yes,,Yes
+1096,No,FL resident,No,40,FL; GA,No,Yes,Female,Leon,Yes,,Yes
+1097,NA,Non-FL resident,No,73,NY,No,Yes,Male,Palm Beach,Yes,,Yes
+1098,NA,FL resident,Unknown,74,NA,Yes,Yes,Female,Hillsborough,Unknown,,Yes
+1099,No,Not diagnosed/isolated in FL,No,59,JAPAN,No,Unknown,Female,Leon,Yes,,Yes
+1100,No,FL resident,No,32,CO,No,Yes,Female,Hillsborough,Yes,,Yes
+1101,Yes,FL resident,Yes,70,NA,Yes,No,Male,Manatee,No,,Yes
+1102,No,FL resident,Yes,72,Canada; FL,Yes,No,Male,Palm Beach,Yes,,Yes
+1103,NA,FL resident,Unknown,42,NA,Unknown,NA,Male,Orange,Unknown,,Yes
+1104,NA,FL resident,Unknown,60,NA,No,No,Male,Hillsborough,Unknown,,Yes
+1105,NA,FL resident,Unknown,29,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1106,No,FL resident,Yes,40,NA,No,Yes,Female,Orange,No,,Yes
+1107,NA,FL resident,Unknown,52,NA,Unknown,NA,Male,Hillsborough,Unknown,,Yes
+1108,No,FL resident,Yes,68,NA,No,Yes,Female,Palm Beach,No,,Yes
+1109,No,FL resident,Yes,46,NY,Yes,Unknown,Male,Orange,Yes,,Yes
+1110,No,FL resident,Yes,17,NA,No,No,Male,Hillsborough,No,,Yes
+1111,No,FL resident,No,23,NA,No,Yes,Male,Hillsborough,No,,Yes
+1112,No,FL resident,No,38,NA,No,Yes,Female,Hillsborough,No,,Yes
+1113,NA,FL resident,NA,64,NA,NA,Unknown,Male,Hillsborough,Unknown,,Yes
+1114,NA,FL resident,Unknown,46,NA,Unknown,NA,Female,Hillsborough,Unknown,,Yes
+1115,No,FL resident,No,50,SPAIN,No,Unknown,Male,Hillsborough,Yes,,Yes
+1116,No,FL resident,Yes,20,NA,No,Yes,Female,Hillsborough,No,,Yes
+1117,No,FL resident,No,28,NA,No,Yes,Male,Hillsborough,No,,Yes
+1118,No,FL resident,Yes,69,NA,No,Yes,Male,Palm Beach,No,,Yes
+1119,No,FL resident,No,69,BAHAMAS; FL; NY; TX,No,No,Male,Palm Beach,Yes,,Yes
+1120,No,FL resident,No,71,NA,No,No,Male,Palm Beach,No,,Yes
+1121,NA,FL resident,Unknown,22,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1122,NA,Non-FL resident,Unknown,26,NA,Unknown,Yes,Female,Palm Beach,Unknown,,Yes
+1123,NA,FL resident,Unknown,78,NA,Unknown,Unknown,Male,Palm Beach,Unknown,,Yes
+1124,No,FL resident,Yes,60,NY,Yes,Unknown,Male,Palm Beach,Yes,,Yes
+1125,No,FL resident,Yes,48,NA,No,Unknown,Male,Palm Beach,Unknown,,Yes
+1126,NA,Non-FL resident,No,20,NA,No,Unknown,Female,Palm Beach,Unknown,,Yes
+1127,NA,FL resident,NA,69,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1128,NA,FL resident,Unknown,25,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1129,No,FL resident,Yes,66,NA,Unknown,Unknown,Male,Palm Beach,Unknown,,Yes
+1130,NA,FL resident,Unknown,18,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1131,NA,Non-FL resident,Yes,23,FL; Jamaica,No,No,Female,Palm Beach,Yes,,Yes
+1132,NA,FL resident,Unknown,44,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1133,NA,FL resident,Unknown,50,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1134,NA,Non-FL resident,Unknown,78,NA,Unknown,Unknown,Female,Palm Beach,Unknown,,Yes
+1135,No,FL resident,Yes,72,NA,Yes,No,Male,Palm Beach,No,,Yes
+1136,No,FL resident,Yes,60,Russia; Spain,Yes,No,Female,Palm Beach,Yes,,Yes
+1137,NA,FL resident,Unknown,52,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1138,No,FL resident,Yes,73,Egypt; Germany,Yes,Yes,Male,Palm Beach,Yes,,Yes
+1139,No,FL resident,Yes,53,NA,Yes,No,Male,Palm Beach,No,,Yes
+1140,No,FL resident,Yes,28,NA,No,Unknown,Male,Palm Beach,No,,Yes
+1141,NA,FL resident,Unknown,43,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1142,No,FL resident,Yes,29,NA,No,Unknown,Male,Palm Beach,No,,Yes
+1143,No,FL resident,Yes,53,EL SALVADOR,Yes,No,Male,Palm Beach,Yes,,Yes
+1144,NA,FL resident,Unknown,59,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1145,NA,FL resident,Unknown,45,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1146,No,FL resident,No,19,NY,No,Unknown,Male,Palm Beach,Yes,,Yes
+1147,NA,FL resident,Unknown,56,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1148,No,FL resident,Yes,38,NA,No,Unknown,Male,Palm Beach,Unknown,,Yes
+1149,No,FL resident,Unknown,48,CO; FL,No,No,Male,Palm Beach,Yes,,Yes
+1150,No,FL resident,No,43,NA,No,Unknown,Male,Palm Beach,Unknown,,Yes
+1151,No,FL resident,No,6,NA,No,Yes,Female,Palm Beach,Unknown,,Yes
+1152,No,FL resident,Yes,21,PORTUGAL; UNITED KINGDOM,No,No,Female,Palm Beach,Yes,,Yes
+1153,No,FL resident,Yes,84,NA,Unknown,Yes,Male,Palm Beach,No,,Yes
+1154,NA,FL resident,Unknown,64,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1155,No,FL resident,Yes,83,NA,No,No,Male,Palm Beach,No,,Yes
+1156,NA,FL resident,Unknown,72,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1157,NA,FL resident,Unknown,62,United Kingdom,Yes,Yes,Male,Palm Beach,Yes,,Yes
+1158,NA,FL resident,Unknown,78,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1159,No,FL resident,Yes,82,NA,Yes,Unknown,Male,Palm Beach,Unknown,,Yes
+1160,NA,Non-FL resident,Unknown,29,NA,Unknown,Yes,Male,Palm Beach,Unknown,,Yes
+1161,NA,Non-FL resident,No,34,Peru,No,NA,Male,Orange,Yes,,Yes
+1162,NA,FL resident,Unknown,70,NA,Unknown,NA,Male,Orange,Unknown,,Yes
+1163,NA,Non-FL resident,Unknown,73,NA,Yes,No,Female,Orange,No,,Yes
+1164,No,FL resident,Yes,51,NA,No,No,Male,Orange,No,,Yes
+1165,No,FL resident,Yes,61,NA,Yes,No,Male,Orange,No,,Yes
+1166,No,FL resident,Yes,49,NA,Yes,Unknown,Male,Orange,Unknown,,Yes
+1167,NA,FL resident,Unknown,46,NA,Unknown,NA,Female,Orange,Unknown,,Yes
+1168,NA,FL resident,Unknown,58,NA,Unknown,NA,Male,Orange,Unknown,,Yes
+1169,NA,Non-FL resident,Yes,22,FL; NC,No,Unknown,Female,Orange,Yes,,Yes
+1170,No,FL resident,No,33,NA,No,NA,Female,Orange,No,,Yes
+1171,No,FL resident,No,41,NA,No,Yes,Male,Orange,No,,Yes
+1172,No,FL resident,Yes,32,NA,No,Unknown,Female,Orange,No,,Yes
+1173,NA,FL resident,Yes,62,NA,Yes,Yes,Male,Orange,Unknown,,Yes
+1174,NA,FL resident,NA,62,FL; SPAIN,Unknown,Unknown,Male,Orange,Yes,,Yes
+1175,NA,FL resident,Unknown,61,NA,Unknown,NA,Male,Orange,Unknown,,Yes
+1176,NA,FL resident,Unknown,57,NA,Unknown,NA,Female,Orange,Unknown,,Yes
+1177,NA,FL resident,Unknown,33,NA,Unknown,NA,Male,Orange,Unknown,,Yes
+1178,NA,FL resident,Unknown,48,NA,No,Yes,Male,Orange,No,,Yes
+1179,NA,FL resident,Unknown,50,NA,Unknown,Yes,Female,Orange,Unknown,,Yes
+1180,NA,FL resident,Unknown,31,NA,Unknown,NA,Male,Orange,Unknown,,Yes
+1181,NA,FL resident,No,46,United Arab Emirates,No,Unknown,Male,Orange,Yes,,Yes
+1182,NA,FL resident,Unknown,33,NA,Unknown,NA,Male,Orange,Unknown,,Yes
+1183,NA,FL resident,Unknown,63,NA,Unknown,NA,Male,Orange,Unknown,,Yes
+1184,NA,FL resident,Unknown,38,NA,Unknown,NA,Male,Orange,Unknown,,Yes
+1185,NA,FL resident,Yes,39,NA,No,Unknown,Male,Orange,Unknown,,Yes
+1186,NA,FL resident,Unknown,73,NA,Yes,NA,Male,Orange,Unknown,,Yes
+1187,Yes,FL resident,Yes,79,NA,Yes,No,Female,Orange,Unknown,,Yes
+1188,No,FL resident,Yes,41,NA,Yes,No,Female,Orange,No,,Yes
+1189,NA,FL resident,No,35,NA,No,No,Male,Orange,No,,Yes
+1190,No,FL resident,No,20,SPAIN,No,Unknown,Female,Orange,Yes,,Yes
+1191,No,FL resident,No,42,NA,No,Yes,Male,Orange,No,,Yes
+1192,No,FL resident,No,28,NY,No,No,Female,Osceola,Yes,,Yes
+1193,No,FL resident,No,50,Europe,No,Yes,Male,Osceola,Yes,,Yes
+1194,NA,FL resident,No,36,NA,No,NA,Female,Osceola,Unknown,,Yes
+1195,No,FL resident,Yes,54,NA,No,No,Male,Osceola,No,,Yes
+1196,NA,FL resident,No,57,NY,No,Unknown,Female,Osceola,Yes,,Yes
+1197,No,FL resident,Yes,20,NA,No,Yes,Female,Osceola,No,,Yes
+1198,No,FL resident,No,48,Europe,No,Yes,Female,Osceola,Yes,,Yes
+1199,NA,FL resident,No,64,SPAIN,NA,Unknown,Female,Osceola,Yes,,Yes
+1200,No,FL resident,Yes,29,NA,Yes,Yes,Male,Osceola,No,,Yes
+1201,NA,FL resident,Unknown,76,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1202,NA,FL resident,Unknown,25,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1203,No,FL resident,Unknown,83,NA,Unknown,Yes,Female,Palm Beach,No,,Yes
+1204,No,FL resident,Yes,69,NA,No,Yes,Female,Palm Beach,No,,Yes
+1205,No,FL resident,Yes,70,NA,No,Yes,Male,Palm Beach,Unknown,,Yes
+1206,No,FL resident,Unknown,83,FL; NY,Unknown,No,Male,Palm Beach,Yes,,Yes
+1207,No,FL resident,No,55,NA,No,No,Male,Palm Beach,No,,Yes
+1208,NA,FL resident,Unknown,67,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1209,NA,FL resident,Unknown,65,NA,Unknown,Unknown,Female,Palm Beach,Unknown,,Yes
+1210,NA,FL resident,Unknown,64,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1211,NA,FL resident,Unknown,64,NA,Unknown,NA,Male,Palm Beach,Unknown,,Yes
+1212,No,FL resident,Yes,69,NA,No,Yes,Male,Palm Beach,No,,Yes
+1213,No,FL resident,Yes,69,NA,No,Yes,Female,Palm Beach,No,,Yes
+1214,No,FL resident,No,30,CO,No,No,Female,Palm Beach,Yes,,Yes
+1215,Yes,FL resident,NA,85,NA,Unknown,Unknown,Female,Palm Beach,Unknown,,Yes
+1216,NA,FL resident,Unknown,24,NA,Unknown,NA,Female,Palm Beach,Unknown,,Yes
+1217,Yes,FL resident,Unknown,83,NA,Yes,NA,Male,Palm Beach,Unknown,,Yes
+1218,NA,FL resident,Unknown,41,NA,Unknown,Unknown,Male,Palm Beach,Unknown,,Yes
+1219,NA,FL resident,No,69,France; Portugal; Switzerland,No,Unknown,Male,Pasco,Yes,,Yes
+1220,NA,FL resident,No,68,France; Portugal; Switzerland,No,Unknown,Female,Pasco,Yes,,Yes
+1221,NA,FL resident,No,50,Mexico,No,Yes,Male,Pasco,Yes,,Yes
+1222,NA,FL resident,NA,46,NA,No,Yes,Male,Pasco,No,,Yes
+1223,No,FL resident,Yes,64,FL; NY,Yes,Yes,Female,Pasco,Yes,,Yes
+1224,No,FL resident,Yes,67,FL; NY,Yes,Yes,Male,Pasco,Yes,,Yes
+1225,No,FL resident,No,67,NA,No,Yes,Female,Pasco,No,,Yes
+1226,NA,FL resident,No,67,CA,No,Unknown,Male,Pasco,Yes,,Yes
+1227,NA,FL resident,No,41,NA,No,No,Female,Pasco,No,,Yes
+1228,No,FL resident,No,46,NA,No,Yes,Male,Pasco,No,,Yes
+1229,NA,FL resident,NA,71,NA,Yes,Unknown,Female,Pasco,No,,Yes
+1230,NA,Non-FL resident,No,73,Spain,No,No,Female,Pasco,Yes,,Yes
+1231,NA,FL resident,NA,32,NA,NA,NA,Female,Pasco,Unknown,,Yes
+1232,NA,FL resident,NA,48,NA,Yes,Unknown,Male,Pasco,No,,Yes
+1233,No,FL resident,No,44,TX,No,Unknown,Male,Pasco,Yes,,Yes
+1234,No,FL resident,Yes,37,NA,Yes,No,Male,Pinellas,No,,Yes
+1235,No,FL resident,Yes,67,NA,Yes,No,Male,Pinellas,No,,Yes
+1236,No,FL resident,No,63,FL; NY,No,Yes,Female,Pinellas,Yes,,Yes
+1237,No,FL resident,Yes,24,NY,No,No,Male,Pinellas,Yes,,Yes
+1238,NA,Non-FL resident,Yes,59,Bahamas; Ecuador; FL,Yes,Yes,Female,Pinellas,Yes,,Yes
+1239,NA,Non-FL resident,Yes,62,BAHAMAS; ECUADOR; FL,Yes,Yes,Male,Pinellas,Yes,,Yes
+1240,NA,FL resident,Yes,72,NA,Yes,No,Male,Pinellas,No,,Yes
+1241,NA,FL resident,No,66,ISRAEL,No,Yes,Female,Pinellas,Yes,,Yes
+1242,No,FL resident,No,58,FL; ISRAEL,No,Yes,Male,Pinellas,Yes,,Yes
+1243,NA,FL resident,Yes,58,NA,Yes,Yes,Male,Pinellas,No,,Yes
+1244,No,FL resident,No,32,NA,No,Yes,Male,Pinellas,No,,Yes
+1245,No,FL resident,Yes,62,ID,No,No,Female,Pinellas,Yes,,Yes
+1246,No,FL resident,No,29,SPAIN,No,Yes,Female,Pinellas,Yes,,Yes
+1247,NA,FL resident,Unknown,58,NA,Unknown,NA,Male,Pinellas,Unknown,,Yes
+1248,No,FL resident,No,26,Bahamas; FL,No,No,Male,Pinellas,Yes,,Yes
+1249,No,FL resident,No,70,Israel,No,Yes,Male,Pinellas,Yes,,Yes
+1250,No,FL resident,No,54,NY,No,No,Female,Pinellas,Yes,,Yes
+1251,No,FL resident,No,61,NY,No,No,Female,Pinellas,Yes,,Yes
+1252,No,FL resident,Yes,58,CO,Yes,No,Male,Pinellas,Yes,,Yes
+1253,No,FL resident,Yes,29,NA,No,Yes,Male,Pinellas,No,,Yes
+1254,NA,FL resident,No,67,Egypt,No,Yes,Male,Pinellas,Yes,,Yes
+1255,No,FL resident,No,64,SPAIN,No,No,Male,Sarasota,Yes,,Yes
+1256,No,FL resident,Yes,60,NA,Yes,Unknown,Male,Pinellas,No,,Yes
+1257,No,FL resident,Yes,30,FL; Mexico,No,No,Male,Pinellas,Yes,,Yes
+1258,No,FL resident,No,62,NA,No,Yes,Male,Pinellas,No,,Yes
+1259,No,FL resident,No,69,MEXICO,No,No,Female,Pinellas,Yes,,Yes
+1260,No,FL resident,No,55,Egypt,No,Yes,Male,Pinellas,Yes,,Yes
+1261,No,FL resident,No,52,Israel,No,Yes,Male,Pinellas,Yes,,Yes
+1262,No,FL resident,Yes,53,MA,No,No,Female,Pinellas,Yes,,Yes
+1263,No,FL resident,Yes,66,FL; NV,Yes,No,Female,Pinellas,Yes,,Yes
+1264,NA,Non-FL resident,No,28,NY,No,Yes,Female,Pinellas,Yes,,Yes
+1265,NA,FL resident,No,69,NA,No,No,Female,Pinellas,No,,Yes
+1266,No,FL resident,No,67,FL; VA; WA,No,No,Male,Pinellas,Yes,,Yes
+1267,NA,Non-FL resident,Yes,63,NY,Yes,No,Male,St. Johns,Yes,,Yes
+1268,No,FL resident,Yes,24,Spain,Yes,Yes,Female,Pinellas,Yes,,Yes
+1269,No,FL resident,Yes,52,BULGARIA; GERMANY; UT,Yes,No,Male,Pinellas,Yes,,Yes
+1270,NA,FL resident,No,45,NY,No,Unknown,Male,Pinellas,Yes,,Yes
+1271,No,FL resident,Yes,83,NA,Yes,No,Female,Pinellas,No,,Yes
+1272,No,FL resident,Yes,59,NA,Yes,No,Male,Pinellas,No,,Yes
+1273,NA,FL resident,Yes,87,NA,Yes,Yes,Male,Sarasota,No,,Yes
+1274,NA,FL resident,No,53,GA,No,No,Male,Pinellas,Yes,,Yes
+1275,No,FL resident,Yes,42,BAHAMAS; CARIBBEAN; ST. KITTS AND NEVIS,No,No,Male,Pinellas,Yes,,Yes
+1276,No,FL resident,No,71,ISRAEL; OH,No,Yes,Female,Pinellas,Yes,,Yes
+1277,No,FL resident,No,75,ISRAEL; OH,No,Yes,Male,Pinellas,Yes,,Yes
+1278,NA,FL resident,NA,68,Belize; Honduras; Mexico,No,Yes,Male,Pinellas,Yes,,Yes
+1279,NA,FL resident,NA,70,Belize; Honduras; Mexico,No,Yes,Female,Pinellas,Yes,,Yes
+1280,NA,Non-FL resident,No,21,SPAIN,No,No,Female,Pinellas,Yes,,Yes
+1281,No,FL resident,No,23,LA,No,No,Male,Pinellas,Yes,,Yes
+1282,NA,FL resident,Yes,49,NA,Yes,No,Female,Polk,No,,Yes
+1283,No,FL resident,Yes,35,France; United Kingdom,Yes,No,Male,Polk,Yes,,Yes
+1284,NA,FL resident,NA,73,NA,NA,NA,Female,Polk,Unknown,,Yes
+1285,No,FL resident,Yes,60,NA,Yes,Unknown,Male,Polk,No,,Yes
+1286,NA,FL resident,Yes,77,NA,Yes,NA,Female,Polk,Unknown,,Yes
+1287,NA,FL resident,NA,8,NA,NA,Yes,Male,Polk,No,,Yes
+1288,No,FL resident,Yes,41,UNITED KINGDOM,No,No,Male,Polk,Yes,,Yes
+1289,No,FL resident,No,22,GA,No,Unknown,Female,Polk,Yes,,Yes
+1290,NA,FL resident,No,44,NA,No,No,Female,Polk,No,,Yes
+1291,NA,FL resident,Yes,77,FL; NY,Yes,Yes,Female,Polk,Yes,,Yes
+1292,No,FL resident,Yes,74,NA,Yes,No,Male,Polk,No,,Yes
+1293,No,FL resident,Yes,88,NA,Yes,No,Male,Polk,No,,Yes
+1294,No,FL resident,No,55,FL; SPAIN; UNITED KINGDOM,No,No,Male,Polk,Yes,,Yes
+1295,No,FL resident,Yes,67,CA,No,Unknown,Male,Putnam,Yes,,Yes
+1296,No,FL resident,No,82,NA,No,Unknown,Female,Putnam,No,,Yes
+1297,No,FL resident,No,48,United Kingdom,No,No,Male,Santa Rosa,Yes,,Yes
+1298,No,FL resident,Yes,17,NA,Yes,No,Male,Santa Rosa,No,,Yes
+1299,No,FL resident,Yes,2,NA,Yes,No,Male,Santa Rosa,No,,Yes
+1300,Yes,FL resident,Yes,71,EGYPT; ISRAEL; JORDAN,Yes,No,Male,Santa Rosa,Yes,,Yes
+1301,NA,Non-FL resident,Yes,70,NA,Yes,No,Male,Sarasota,No,,Yes
+1302,NA,FL resident,No,53,NA,No,Yes,Male,Sarasota,No,,Yes
+1303,No,FL resident,Yes,76,NA,Yes,Yes,Male,Sarasota,No,,Yes
+1304,NA,FL resident,NA,66,NA,NA,NA,Male,Sarasota,Unknown,,Yes
+1305,No,FL resident,Yes,50,NY,Yes,No,Female,Sarasota,Yes,,Yes
+1306,NA,FL resident,Yes,75,NA,Yes,Yes,Female,Sarasota,No,,Yes
+1307,No,FL resident,No,76,FL; NY,No,No,Male,Sarasota,Yes,,Yes
+1308,NA,FL resident,Unknown,49,NA,Unknown,Unknown,Male,Sarasota,No,,Yes
+1309,NA,FL resident,NA,87,NA,NA,NA,Male,Sarasota,Unknown,,Yes
+1310,NA,FL resident,No,86,NA,No,Yes,Female,Sarasota,No,,Yes
+1311,NA,FL resident,Unknown,61,NA,Unknown,NA,Male,Sarasota,Unknown,,Yes
+1312,No,FL resident,No,74,NA,No,No,Male,Sarasota,No,,Yes
+1313,NA,FL resident,NA,81,NA,NA,NA,Male,Sarasota,Unknown,,Yes
+1314,No,FL resident,Yes,40,NA,No,No,Male,St. Johns,No,,Yes
+1315,No,FL resident,No,78,NA,No,No,Female,Sarasota,No,,Yes
+1316,NA,FL resident,NA,82,NA,Yes,No,Male,Sarasota,No,,Yes
+1317,No,FL resident,Yes,68,NA,Yes,No,Male,St. Johns,No,,Yes
+1318,No,FL resident,No,53,NA,No,No,Male,Sarasota,No,,Yes
+1319,NA,FL resident,Unknown,42,NA,Unknown,NA,Male,St. Johns,Unknown,,Yes
+1320,NA,Non-FL resident,No,78,NA,No,Yes,Female,Sarasota,No,,Yes
+1321,NA,Non-FL resident,Yes,46,FL; MN,Unknown,Yes,Male,St. Johns,Yes,,Yes
+1322,NA,Non-FL resident,Yes,80,NA,Yes,Yes,Male,Sarasota,No,,Yes
+1323,NA,FL resident,NA,72,NA,NA,NA,Male,St. Johns,Unknown,,Yes
+1324,NA,FL resident,Yes,67,NA,Yes,No,Male,St. Johns,No,,Yes
+1325,No,FL resident,Yes,53,CO,No,Yes,Female,St. Johns,Yes,,Yes
+1326,No,FL resident,Yes,49,Europe; Hungary,No,No,Male,St. Johns,Yes,,Yes
+1327,No,FL resident,No,26,NA,No,No,Female,St. Lucie,No,,Yes
+1328,No,FL resident,No,77,Caribbean,No,No,Male,St. Lucie,Yes,,Yes
+1329,NA,FL resident,Unknown,19,NA,Unknown,NA,Female,St. Lucie,Unknown,,Yes
+1330,No,FL resident,No,77,NA,No,No,Female,St. Lucie,No,,Yes
+1331,No,FL resident,Yes,45,NA,No,No,Female,St. Lucie,No,,Yes
+1332,No,FL resident,No,56,NA,No,No,Male,St. Lucie,No,,Yes
+1333,NA,FL resident,Yes,75,NA,Yes,No,Male,Sumter,Unknown,,Yes
+1334,NA,FL resident,Yes,78,OR,Yes,No,Male,Sumter,Yes,,Yes
+1335,No,FL resident,No,67,Belize; FL; Honduras; Mexico,No,Yes,Female,Sumter,Yes,,Yes
+1336,No,FL resident,No,71,Belize; FL; Honduras; Mexico,No,Yes,Male,Sumter,Yes,,Yes
+1337,NA,FL resident,Yes,74,TX,No,Yes,Male,Sumter,Yes,,Yes
+1338,NA,FL resident,Unknown,73,NA,Unknown,Unknown,Male,Sumter,Unknown,,Yes
+1339,No,FL resident,Yes,67,FL; MA; RI,Yes,No,Male,Sumter,Yes,,Yes
+1340,No,FL resident,Yes,68,Egypt,Yes,Yes,Male,Sumter,Yes,,Yes
+1341,No,FL resident,No,68,NA,No,Yes,Female,Sumter,No,,Yes
+1342,No,FL resident,No,66,NA,No,Yes,Male,Sumter,No,,Yes
+1343,No,FL resident,No,54,NA,No,Unknown,Male,Volusia,No,,Yes
+1344,No,FL resident,No,23,Spain,No,Unknown,Female,Volusia,Yes,,Yes
+1345,No,FL resident,Yes,48,DC; FL,Yes,Yes,Female,Volusia,Yes,,Yes
+1346,No,FL resident,No,60,NA,No,Yes,Female,Volusia,No,,Yes
+1347,No,FL resident,Yes,71,Egypt; Jordan,Yes,Yes,Male,Volusia,Yes,,Yes
+1348,No,FL resident,Unknown,70,Egypt; Jordan,Yes,Yes,Female,Volusia,Yes,,Yes
+1349,No,FL resident,No,60,Egypt; Germany; Israel,No,Yes,Female,Volusia,Yes,,Yes
+1350,No,FL resident,Yes,66,Egypt; Germany; Israel,No,Yes,Female,Volusia,Yes,,Yes
+1351,No,FL resident,Yes,78,NA,No,Unknown,Female,Volusia,No,,Yes
+1352,No,FL resident,Yes,89,NA,Yes,Yes,Female,Volusia,No,,Yes
+1353,NA,FL resident,Unknown,71,NA,Unknown,NA,Female,Volusia,Unknown,,Yes
+1354,No,FL resident,No,32,NA,No,Unknown,Female,Volusia,No,,Yes
+1355,No,FL resident,No,37,NA,No,Yes,Female,Volusia,No,,Yes
+1356,No,FL resident,No,39,Trinidad and Tobago,No,Yes,Male,Volusia,Yes,,Yes
+1357,No,FL resident,No,17,NA,No,Yes,Male,Volusia,No,,Yes
+1358,No,FL resident,No,62,NA,Yes,Unknown,Male,Volusia,No,,Yes
+1359,No,FL resident,No,65,Ireland,No,Yes,Male,Volusia,Yes,,Yes
+1360,No,FL resident,No,66,Ireland,No,Yes,Female,Volusia,Yes,,Yes
+1361,NA,Non-FL resident,Yes,79,FL; MI,No,Yes,Male,Walton,Yes,,Yes
+1362,No,FL resident,No,78,NA,No,Yes,Male,Walton,No,,Yes
+1363,NA,Non-FL resident,No,77,FL; MI,Yes,Yes,Female,Walton,Yes,,Yes
+1364,No,FL resident,No,22,NA,No,Unknown,Female,Walton,No,,Yes
+1365,No,FL resident,No,38,CA,No,Unknown,Female,Walton,Yes,,Yes
+1366,No,FL resident,Yes,61,COSTA RICA,No,Yes,Female,Walton,Yes,,Yes
+1367,No,FL resident,Yes,58,NA,Yes,Yes,Male,Walton,No,,Yes
+1368,NA,Non-FL resident,Yes,45,NA,Yes,Unknown,Male,Walton,No,,Yes
+1369,No,FL resident,No,49,NA,No,No,Male,Walton,No,,Yes
+1370,No,FL resident,No,20,FL; Spain,No,Unknown,Female,Walton,Yes,,Yes
+1371,NA,FL resident,NA,70,NA,NA,NA,Female,Sarasota,Unknown,,Yes
+1372,No,FL resident,No,71,NA,No,Unknown,Female,Sarasota,No,,Yes
+1373,NA,Non-FL resident,Unknown,75,FL; NY,Unknown,Yes,Male,Sarasota,Yes,,Yes
+1374,NA,Non-FL resident,Unknown,73,FL; NY,Yes,Yes,Female,Sarasota,Yes,,Yes
+1375,NA,FL resident,NA,81,NA,NA,NA,Female,Sarasota,Unknown,,Yes
+1376,No,FL resident,No,80,ISRAEL,No,Unknown,Male,Sarasota,Yes,,Yes
+1377,No,FL resident,Yes,47,NA,Yes,No,Male,Seminole,No,,Yes
+1378,No,FL resident,No,56,AL,No,No,Male,Seminole,Yes,,Yes
+1379,NA,Non-FL resident,Yes,70,NY,Yes,Unknown,Male,Seminole,Yes,,Yes
+1380,No,FL resident,No,22,EUROPE,No,Unknown,Female,Seminole,Yes,,Yes
+1381,No,FL resident,Yes,57,Egypt,No,Yes,Female,Seminole,Yes,,Yes
+1382,No,FL resident,Yes,68,Egypt; Jordan,Yes,Yes,Female,Seminole,Yes,,Yes
+1383,No,FL resident,Yes,68,Egypt; Jordan,No,Yes,Male,Seminole,Yes,,Yes
+1384,No,FL resident,Yes,60,NY,Yes,Unknown,Female,Seminole,Yes,,Yes
+1385,NA,FL resident,NA,44,NA,No,Unknown,Male,Seminole,Unknown,,Yes
+1386,NA,FL resident,Unknown,41,NA,Unknown,NA,Female,Seminole,Unknown,,Yes
+1387,No,FL resident,Yes,25,FL; United Kingdom,No,No,Female,Seminole,Yes,,Yes
+1388,No,FL resident,No,76,EGYPT; ISRAEL; JORDAN,No,Unknown,Female,Seminole,Yes,,Yes
+1389,No,FL resident,Yes,61,NA,Yes,No,Male,Seminole,No,,Yes
+1390,NA,FL resident,Yes,45,NA,Yes,Unknown,Female,Seminole,No,,Yes
+1391,No,FL resident,Yes,62,CT; FL; OK,Yes,No,Female,Seminole,Yes,,Yes
+1392,No,FL resident,Yes,30,NA,Yes,Unknown,Male,Seminole,Unknown,,Yes
+1393,No,FL resident,NA,61,PA,Yes,No,Female,Seminole,Yes,,Yes
+1394,NA,FL resident,NA,29,NA,NA,Yes,Female,Seminole,No,,Yes
+1395,No,FL resident,Yes,43,NA,No,No,Female,Seminole,No,,Yes
+1396,No,FL resident,Unknown,64,FL; NC; NY,No,No,Female,Seminole,Yes,,Yes
+1397,No,FL resident,Yes,55,FL; NY,Yes,No,Male,Seminole,Yes,,Yes
+1398,NA,FL resident,Unknown,21,NA,Unknown,NA,Male,Seminole,Unknown,,Yes
+1399,No,FL resident,No,64,CA,No,Unknown,Female,Seminole,Yes,,Yes
+1400,NA,FL resident,Yes,76,NA,Yes,No,Male,St. Johns,Unknown,,Yes
+1401,No,FL resident,No,50,NA,No,Yes,Male,St. Johns,No,,Yes
+1402,No,FL resident,No,21,NA,No,Yes,Male,St. Johns,No,,Yes
+1403,No,FL resident,No,22,NA,No,Yes,Male,St. Johns,No,,Yes
+1404,No,FL resident,Yes,47,NA,No,Yes,Female,St. Johns,No,,Yes
+1405,No,FL resident,Yes,47,NA,No,Yes,Male,St. Johns,No,,Yes
+1406,NA,FL resident,No,49,NA,No,No,Male,St. Johns,Unknown,,Yes
+1407,NA,FL resident,Unknown,33,NA,Unknown,NA,Male,St. Johns,Unknown,,Yes
+1408,NA,FL resident,Yes,64,NA,Yes,No,Female,St. Johns,No,,Yes
+1409,NA,FL resident,Unknown,53,NA,Unknown,NA,Male,St. Johns,Unknown,,Yes
+1410,No,FL resident,Yes,38,FL; MN,No,Yes,Female,St. Johns,Yes,,Yes
+1411,Yes,FL resident,Yes,52,FL; MN,Yes,Yes,Male,St. Johns,Yes,,Yes
+1412,No,FL resident,Yes,69,NA,No,No,Male,St. Johns,No,,Yes

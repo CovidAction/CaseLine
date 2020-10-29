@@ -1,0 +1,433 @@
+State,Age,County,ObjectId,VCountry2,Sex,VCountry3,VCountry1,Contact,Travel_Related,Jurisdiction
+Florida,58,Pinellas,1,,Male,,,Yes,No,FL resident
+Florida,27,Duval,2,,Male,,,,Unknown,FL resident
+Florida,32,Pinellas,3,,Male,,,Yes,No,FL resident
+Florida,75,Lake,4,,Female,,FL; NY,Yes,Yes,FL resident
+Florida,66,Duval,5,,Male,,,Yes,No,FL resident
+Florida,67,Broward,6,,Male,,,Yes,No,FL resident
+Florida,93,Broward,7,,Male,,,Unknown,No,FL resident
+Florida,74,Broward,8,,Male,,,Yes,No,FL resident
+Florida,64,Collier,9,,Male,,FL; HI,No,Yes,Non-FL resident
+Florida,75,Miami-Dade,10,,Male,,,Unknown,No,FL resident
+Florida,27,Hillsborough,11,,Female,,CA,Yes,Yes,FL resident
+Florida,91,Duval,12,,Female,,,Yes,No,FL resident
+Florida,52,Pinellas,13,,Male,,,,Unknown,FL resident
+Florida,26,Broward,14,,Female,,,,Unknown,FL resident
+Florida,80,Miami-Dade,15,,Female,,Israel; Venezuela,No,Yes,FL resident
+Florida,50,Sarasota,16,,Female,,NY,No,Yes,FL resident
+Florida,32,Miami-Dade,17,,Male,,COLOMBIA; NY; SAUDI ARABIA,No,Yes,FL resident
+Florida,67,Miami-Dade,18,,Female,,EGYPT,Yes,Yes,FL resident
+Florida,20,Broward,19,,Female,,IRELAND,Yes,Yes,FL resident
+Florida,62,Hillsborough,20,,Female,,,,Unknown,FL resident
+Florida,35,Miami-Dade,21,,Male,,EGYPT,Yes,Yes,FL resident
+Florida,70,Manatee,22,,Male,,,No,No,FL resident
+Florida,74,Hillsborough,23,,Female,,,,Unknown,FL resident
+Florida,49,Miami-Dade,24,,Male,,Europe,No,Yes,FL resident
+Florida,74,Palm Beach,25,,Male,,BELGIUM; FL,No,Yes,FL resident
+Florida,68,Miami-Dade,26,,Female,,,,Unknown,FL resident
+Florida,32,Hillsborough,27,,Female,,CO,Yes,Yes,FL resident
+Florida,48,Osceola,28,,Male,,SWITZERLAND,Yes,Yes,FL resident
+Florida,31,Hillsborough,29,,Male,,,No,Unknown,FL resident
+Florida,29,Broward,30,,Male,,NJ; NY,No,Yes,FL resident
+Florida,19,Broward,31,,Female,,IRELAND,Yes,Yes,Non-FL resident
+Florida,22,Osceola,32,,Male,,,Yes,No,FL resident
+Florida,42,Alachua,33,,Female,,DOMINICAN REPUBLIC; FL,No,Yes,FL resident
+Florida,18,Osceola,34,,Male,,,Yes,No,FL resident
+Florida,80,Citrus,35,,Male,,DE,,Yes,FL resident
+Florida,20,Miami-Dade,36,,Female,,,,Unknown,FL resident
+Florida,46,Pasco,37,,Male,,,Yes,No,FL resident
+Florida,50,Hillsborough,38,,Male,,UNITED KINGDOM,,Yes,FL resident
+Florida,48,Miami-Dade,39,,Female,,,,Unknown,FL resident
+Florida,71,Volusia,40,,Male,,EGYPT; JORDAN,Yes,Yes,FL resident
+Florida,25,Duval,41,,Female,,,,Unknown,FL resident
+Florida,89,Volusia,42,,Female,,,Yes,No,FL resident
+Florida,38,Miami-Dade,43,,Male,,,No,No,FL resident
+Florida,70,Volusia,44,,Female,,EGYPT; JORDAN,Yes,Yes,FL resident
+Florida,56,Orange,45,,Male,,,,No,FL resident
+Florida,26,Collier,46,,Male,,FRANCE; ITALY; SPAIN,,Yes,FL resident
+Florida,22,Alachua,47,,Male,,CANADA; NY; PA,No,Yes,FL resident
+Florida,51,Orange,48,,Male,,,No,No,FL resident
+Florida,47,Seminole,49,,Male,,,,Unknown,FL resident
+Florida,66,Collier,50,,Male,,FRANCE; ITALY; SPAIN,,Yes,FL resident
+Florida,62,Broward,51,,Female,,ISRAEL,Yes,Yes,FL resident
+Florida,55,Broward,52,,Male,,,No,No,FL resident
+Florida,55,Orange,53,,Female,,,,Unknown,FL resident
+Florida,42,Broward,54,,Male,,,,Unknown,FL resident
+Florida,70,Broward,55,,Male,,,Yes,No,FL resident
+Florida,83,Duval,56,,Male,,,Yes,No,FL resident
+Florida,31,Collier,57,,Female,,EGYPT,No,Yes,FL resident
+Florida,21,Miami-Dade,58,,Female,,,,Unknown,FL resident
+Florida,42,Miami-Dade,59,,Male,,BRAZIL; FL; TX,No,Yes,Non-FL resident
+Florida,21,Broward,60,,Male,,ITALY; SPAIN,No,Yes,FL resident
+Florida,19,Palm Beach,61,,Male,,,,Unknown,FL resident
+Florida,74,Duval,62,,Male,,,,Unknown,FL resident
+Florida,54,Miami-Dade,63,,Male,,,,Unknown,FL resident
+Florida,50,Miami-Dade,64,,Female,,,,Unknown,FL resident
+Florida,65,Lee,65,,Female,,,,Unknown,Non-FL resident
+Florida,19,Broward,66,,Female,,IRELAND,Yes,Yes,FL resident
+Florida,53,Miami-Dade,67,,Male,,,,Unknown,FL resident
+Florida,64,Alachua,68,,Female,,FL; NY,No,Yes,Non-FL resident
+Florida,71,Santa Rosa,69,,Male,,EGYPT; ISRAEL; JORDAN,No,Yes,FL resident
+Florida,58,Miami-Dade,70,,Female,,ITALY; SPAIN,No,Yes,FL resident
+Florida,78,Okaloosa,71,,Female,,FL; ITALY,No,Yes,FL resident
+Florida,68,Sumter,72,,Male,,EGYPT,Yes,Yes,FL resident
+Florida,48,Miami-Dade,73,,Male,,,,Unknown,FL resident
+Florida,66,Okaloosa,74,,Female,,JAPAN,Yes,Yes,Not diagnosed/isolated in FL
+Florida,38,Palm Beach,75,,Male,,,Unknown,Unknown,FL resident
+Florida,59,Pinellas,76,,Male,,,No,No,FL resident
+Florida,22,Polk,77,,Female,,GA,Unknown,Yes,FL resident
+Florida,39,Miami-Dade,78,,Male,,,,Unknown,FL resident
+Florida,32,Brevard,79,,Male,,PA; UT,No,Yes,FL resident
+Florida,69,Broward,80,,Male,,NY,No,Yes,FL resident
+Florida,59,Miami-Dade,81,,Male,,,,Unknown,FL resident
+Florida,36,Broward,82,,Male,,,Yes,No,FL resident
+Florida,47,Miami-Dade,83,,Female,,SPAIN,Yes,Yes,FL resident
+Florida,76,Brevard,84,,Female,,NY,Yes,Yes,FL resident
+Florida,76,Collier,85,,Male,,NY,Yes,Yes,FL resident
+Florida,21,Broward,86,,Female,,SPAIN,Unknown,Yes,FL resident
+Florida,43,Palm Beach,87,,Male,,,Unknown,Unknown,FL resident
+Florida,6,Palm Beach,88,,Female,,,Yes,Unknown,FL resident
+Florida,78,Sarasota,89,,Female,,,Yes,No,Non-FL resident
+Florida,80,Sarasota,90,,Male,,,Yes,No,Non-FL resident
+Florida,65,Osceola,91,,Male,,CANADA,No,Yes,Non-FL resident
+Florida,64,Pasco,92,,Female,,FL; NY,Yes,Yes,FL resident
+Florida,63,St. Johns,93,,Male,,NY,No,Yes,Non-FL resident
+Florida,69,Miami-Dade,94,,Male,,,Yes,Unknown,FL resident
+Florida,55,Pinellas,95,,Male,,EGYPT,Yes,Yes,FL resident
+Florida,68,Osceola,96,,Male,,INDIA,No,Yes,FL resident
+Florida,47,Miami-Dade,97,,Male,,,,Unknown,FL resident
+Florida,24,Okaloosa,98,,Female,,CO; FL,No,Yes,FL resident
+Florida,50,Alachua,99,,Female,,BAHAMAS; FL,Yes,Yes,FL resident
+Florida,26,Lake,100,,Male,,,Yes,No,FL resident
+Florida,51,Alachua,101,,Male,,BAHAMAS; FL,,Yes,FL resident
+Florida,67,Pasco,102,,Male,,FL; NY,Yes,Yes,FL resident
+Florida,57,Broward,103,,Male,,NJ,No,Yes,FL resident
+Florida,36,Hillsborough,104,,Male,,,No,No,FL resident
+Florida,79,Collier,105,,Female,,CT,No,Yes,Non-FL resident
+Florida,33,Miami-Dade,106,,Male,,,No,Unknown,FL resident
+Florida,68,Nassau,107,,Male,,GERMANY; MA,Yes,Yes,FL resident
+Florida,17,Hillsborough,108,,Male,,,No,No,FL resident
+Florida,48,Miami-Dade,109,,Male,,CO,,Yes,FL resident
+Florida,31,Miami-Dade,110,,Male,,,,Unknown,FL resident
+Florida,49,Orange,111,,Male,,,Unknown,Unknown,FL resident
+Florida,64,Miami-Dade,112,,Female,,,,Unknown,FL resident
+Florida,67,Miami-Dade,113,,Male,,,,Unknown,FL resident
+Florida,62,Miami-Dade,114,,Male,,FL; NY,Unknown,Yes,FL resident
+Florida,68,Broward,115,,Female,,,Yes,No,FL resident
+Florida,57,Miami-Dade,116,,Female,,,,Unknown,FL resident
+Florida,73,Miami-Dade,117,,Male,,,Yes,No,FL resident
+Florida,54,Broward,118,,Male,,FL; IL,Unknown,Yes,FL resident
+Florida,23,Hillsborough,119,,Male,,,Yes,Unknown,FL resident
+Florida,75,Broward,120,,Male,,,Yes,No,FL resident
+Florida,76,Broward,121,,Male,,,Unknown,No,FL resident
+Florida,45,Martin,122,,Female,,Brazil; FL,Unknown,Yes,FL resident
+Florida,42,Broward,123,,Male,,AUSTRALIA,Unknown,Yes,FL resident
+Florida,46,Broward,124,,Female,,,Unknown,No,FL resident
+Florida,56,Lake,125,,Male,,CO; FL,No,Yes,FL resident
+Florida,48,Miami-Dade,126,,Female,,,,Unknown,FL resident
+Florida,33,Broward,127,,Male,,,,Unknown,FL resident
+Florida,52,Broward,128,,Female,,FRANCE,Yes,Yes,FL resident
+Florida,42,Miami-Dade,129,,Female,,,No,No,FL resident
+Florida,64,Broward,130,,Male,,FRANCE; GA; NC; SPAIN,Yes,Yes,FL resident
+Florida,45,Miami-Dade,131,,Male,,FRANCE; UNITED KINGDOM,No,Yes,FL resident
+Florida,57,Lee,132,,Male,,FL; FRANCE; UNITED KINGDOM,Unknown,Yes,Non-FL resident
+Florida,66,Palm Beach,133,,Male,,,Unknown,No,FL resident
+Florida,76,Palm Beach,134,,Female,,FRANCE,Unknown,Yes,FL resident
+Florida,48,Santa Rosa,135,,Male,,UNITED KINGDOM,No,Yes,FL resident
+Florida,20,Miami-Dade,136,,Male,,SPAIN,Yes,Yes,FL resident
+Florida,63,Broward,137,,Female,,,Unknown,Unknown,FL resident
+Florida,68,Orange,138,,Female,,PHILIPPINES; SOUTH KOREA,,Yes,Not diagnosed/isolated in FL
+Florida,18,Miami-Dade,139,,Male,,SPAIN,Yes,Yes,FL resident
+Florida,19,Broward,140,,Female,,SPAIN,Yes,Yes,FL resident
+Florida,70,Broward,141,,Male,,,Unknown,Unknown,FL resident
+Florida,60,Miami-Dade,142,,Male,,,No,No,FL resident
+Florida,19,Broward,143,,Female,,IRELAND,Yes,Yes,FL resident
+Florida,19,Hernando,144,,Female,,SPAIN,No,Yes,FL resident
+Florida,21,Broward,145,,Female,,Spain,Yes,Yes,FL resident
+Florida,33,Collier,146,,Male,,SPAIN,Unknown,Yes,FL resident
+Florida,67,Pasco,147,,Female,,,Unknown,No,FL resident
+Florida,44,Okaloosa,148,,Female,,,Unknown,No,FL resident
+Florida,68,Hernando,149,,Male,,,No,No,FL resident
+Florida,77,Walton,150,,Female,,MI,No,Yes,Non-FL resident
+Florida,70,Sarasota,151,,Male,,,No,No,Non-FL resident
+Florida,56,Palm Beach,152,,Female,,EGYPT; GERMANY,Yes,Yes,FL resident
+Florida,76,Collier,153,,Male,,ST. MARTIN,Unknown,Yes,FL resident
+Florida,19,Palm Beach,154,,Female,,TN,Yes,Yes,FL resident
+Florida,59,Broward,155,,Male,,,Yes,No,FL resident
+Florida,25,Miami-Dade,156,,Male,,,Yes,No,FL resident
+Florida,25,Miami-Dade,157,,Female,,,Yes,No,FL resident
+Florida,68,Collier,158,,Female,,EGYPT,Yes,Yes,FL resident
+Florida,93,Broward,159,,Female,,,No,No,FL resident
+Florida,41,Broward,160,,Male,,SPAIN,Unknown,Yes,Non-FL resident
+Florida,50,Osceola,161,,Male,,EUROPE,Yes,Yes,FL resident
+Florida,71,Palm Beach,162,,Female,,JAPAN,Yes,Yes,Not diagnosed/isolated in FL
+Florida,49,Collier,163,,Female,,,No,No,FL resident
+Florida,19,Broward,164,,Female,,,Yes,No,FL resident
+Florida,51,Broward,165,,Female,,Colombia,Yes,Yes,FL resident
+Florida,63,Pinellas,166,,Female,,FL; NY,No,Yes,FL resident
+Florida,44,Broward,167,,Male,,,,Unknown,FL resident
+Florida,69,Palm Beach,168,,Male,,CO,No,Yes,FL resident
+Florida,64,Miami-Dade,169,,Male,,,Unknown,Unknown,Non-FL resident
+Florida,60,Miami-Dade,170,,Female,,,Unknown,Unknown,Non-FL resident
+Florida,24,Pinellas,171,,Male,,NY,No,Yes,FL resident
+Florida,57,Clay,172,,Male,,,Yes,No,FL resident
+Florida,55,Clay,173,,Female,,,Yes,No,FL resident
+Florida,79,Lee,174,,Male,,,Yes,No,FL resident
+Florida,83,Duval,175,,Male,,,No,No,FL resident
+Florida,20,Broward,176,,Female,,IRELAND,Yes,Yes,FL resident
+Florida,21,Broward,177,,Male,,Spain,Unknown,Yes,FL resident
+Florida,53,Sarasota,178,,Male,,,Yes,No,FL resident
+Florida,70,Seminole,179,,Male,,NY,No,Yes,FL resident
+Florida,61,Okaloosa,180,,Female,,CA; FL; MEXICO,Yes,Yes,FL resident
+Florida,58,Leon,181,,Female,,GA,Yes,Yes,FL resident
+Florida,55,Leon,182,,Male,,GA,Yes,Yes,FL resident
+Florida,64,Miami-Dade,183,,Female,,,,Unknown,FL resident
+Florida,26,Palm Beach,184,,Male,,,No,No,FL resident
+Florida,61,Manatee,185,,Male,,,,Unknown,FL resident
+Florida,67,Manatee,186,,Female,,,Unknown,No,FL resident
+Florida,37,Palm Beach,187,,Male,,NY,Yes,Yes,FL resident
+Florida,49,Broward,188,,Female,,,No,No,FL resident
+Florida,68,Alachua,189,,Female,,GA,No,Yes,Non-FL resident
+Florida,49,Miami-Dade,190,,Male,,,,Unknown,FL resident
+Florida,48,Leon,191,,Female,,GA,Unknown,Yes,Non-FL resident
+Florida,43,Miami-Dade,192,,Male,,,,Unknown,FL resident
+Florida,75,Manatee,193,,Male,,,No,No,FL resident
+Florida,47,Broward,194,,Female,,IRELAND; SPAIN; UNITED KINGDOM,No,Yes,FL resident
+Florida,80,Lee,195,,Male,,,Yes,No,FL resident
+Florida,67,Pasco,196,,Male,,CA,Unknown,Yes,FL resident
+Florida,20,Broward,197,,Female,,IRELAND,Yes,Yes,FL resident
+Florida,33,Broward,198,,Male,,,,Unknown,FL resident
+Florida,43,Miami-Dade,199,,Male,,UT,Yes,Yes,FL resident
+Florida,61,Miami-Dade,200,,Female,,,Yes,No,FL resident
+Florida,69,Alachua,201,,Male,,SWEDEN,No,Yes,Non-FL resident
+Florida,54,Charlotte,202,,Female,,EGYPT; ISRAEL,Unknown,Yes,FL resident
+Florida,79,Broward,203,,Female,,CO; FL,No,Yes,FL resident
+Florida,54,Osceola,204,,Male,,,No,No,FL resident
+Florida,30,Hillsborough,205,,Male,,FL; NY,No,Yes,FL resident
+Florida,51,Miami-Dade,206,,Male,,,Unknown,No,FL resident
+Florida,45,Miami-Dade,207,,Male,,ECUADOR,No,Yes,FL resident
+Florida,73,Miami-Dade,208,,Male,,,Yes,Unknown,FL resident
+Florida,50,Miami-Dade,209,,Male,,,Yes,Unknown,FL resident
+Florida,66,Lee,210,,Male,,COLOMBIA; ECUADOR,Unknown,Yes,FL resident
+Florida,66,Miami-Dade,211,,Female,,,,Unknown,FL resident
+Florida,39,Orange,212,,Male,,,,Unknown,Non-FL resident
+Florida,44,Polk,213,,Female,,,Unknown,No,FL resident
+Florida,56,Broward,214,,Female,,VA,No,Yes,FL resident
+Florida,19,Broward,215,,Female,,IRELAND,Yes,Yes,FL resident
+Florida,62,Palm Beach,216,,Male,,United Kingdom,Yes,Yes,FL resident
+Florida,78,Palm Beach,217,,Male,,,,Unknown,FL resident
+Florida,25,Broward,218,,Female,,MOROCCO; SPAIN,No,Yes,FL resident
+Florida,29,Hillsborough,219,,Female,,ITALY,Yes,Yes,FL resident
+Florida,25,Palm Beach,220,,Male,,,,Unknown,FL resident
+Florida,67,Lee,221,,Male,,,No,No,FL resident
+Florida,43,Seminole,222,,Female,,,No,No,FL resident
+Florida,69,Palm Beach,223,,Female,,,Unknown,No,FL resident
+Florida,66,Clay,224,,Female,,,Yes,No,FL resident
+Florida,70,Clay,225,,Male,,,Yes,No,FL resident
+Florida,28,Hillsborough,226,,Male,,,Unknown,Unknown,Non-FL resident
+Florida,87,Broward,227,,Female,,,Unknown,Unknown,FL resident
+Florida,66,Broward,228,,Male,,,Yes,No,FL resident
+Florida,55,Palm Beach,229,,Male,,,No,No,FL resident
+Florida,73,Orange,230,,Male,,,,Unknown,FL resident
+Florida,53,St. Johns,231,,Female,,CO,Yes,Yes,FL resident
+Florida,79,Orange,232,,Female,,,No,Unknown,FL resident
+Florida,28,Miami-Dade,233,,Male,,,Yes,No,FL resident
+Florida,72,Manatee,234,,Female,,,,Unknown,FL resident
+Florida,71,Manatee,235,,Male,,,No,No,FL resident
+Florida,69,Lee,236,,Male,,,Unknown,No,FL resident
+Florida,69,Palm Beach,237,,Female,,,Yes,No,FL resident
+Florida,42,Miami-Dade,238,,Male,,FL; FRANCE,Yes,Yes,FL resident
+Florida,88,Polk,239,,Male,,,,No,FL resident
+Florida,31,Osceola,240,,Male,,BRAZIL,No,Yes,FL resident
+Florida,68,Broward,241,,Female,,,Yes,No,FL resident
+Florida,60,Hillsborough,242,,Male,,,,Unknown,FL resident
+Florida,55,Seminole,243,,Male,,,,Unknown,FL resident
+Florida,21,Pinellas,244,,Female,,SPAIN,No,Yes,FL resident
+Florida,58,Broward,245,,Male,,,Yes,No,FL resident
+Florida,76,Osceola,246,,Male,,,No,No,FL resident
+Florida,39,Alachua,247,,Female,,GA,Unknown,Yes,FL resident
+Florida,65,Broward,248,,Male,,DC,Unknown,Yes,FL resident
+Florida,39,Miami-Dade,249,,Female,,FL; NY,No,Yes,FL resident
+Florida,21,Broward,250,,Female,,IRELAND,Yes,Yes,FL resident
+Florida,64,Brevard,251,,Female,,DC; FL; NY; PA,Unknown,Yes,FL resident
+Florida,65,Broward,252,,Male,,,Yes,No,FL resident
+Florida,77,Miami-Dade,253,,Female,,EGYPT; IRAN; UNITED ARAB EMIRATES,No,Yes,FL resident
+Florida,83,Broward,254,,Female,,,Yes,No,FL resident
+Florida,52,Miami-Dade,255,,Female,,,Yes,No,FL resident
+Florida,41,Palm Beach,256,,Male,,UT; WY,No,Yes,FL resident
+Florida,48,Broward,257,,Male,,PA,Unknown,Yes,FL resident
+Florida,43,Broward,258,,Female,,,No,No,FL resident
+Florida,28,Orange,259,,Female,,,Unknown,Unknown,Non-FL resident
+Florida,22,Hillsborough,260,,Female,,ITALY,Yes,Yes,Non-FL resident
+Florida,57,Broward,261,,Female,,,Yes,No,FL resident
+Florida,88,Miami-Dade,262,,Male,,,Unknown,Unknown,FL resident
+Florida,36,Miami-Dade,263,,Female,,,Yes,Unknown,FL resident
+Florida,57,Seminole,264,,Female,,EGYPT,Yes,Yes,FL resident
+Florida,20,Broward,265,,Male,,BRAZIL; SPAIN,No,Yes,FL resident
+Florida,24,Alachua,266,,Male,,PORTUGAL,No,Yes,FL resident
+Florida,20,Broward,267,,Female,,IRELAND,Yes,Yes,FL resident
+Florida,20,Miami-Dade,268,,Female,,,,Unknown,FL resident
+Florida,65,Broward,269,,Male,,,No,No,FL resident
+Florida,38,Hillsborough,270,,Female,,BOSNIA AND HERZEGOVINA; GERMANY,Yes,Yes,FL resident
+Florida,27,Broward,271,,Female,,,Yes,No,FL resident
+Florida,37,Miami-Dade,272,,Male,,DC; FL,Yes,Yes,FL resident
+Florida,64,Collier,273,,Female,,EGYPT,Unknown,Yes,FL resident
+Florida,73,Collier,274,,Male,,EGYPT,Unknown,Yes,FL resident
+Florida,65,Broward,275,,Male,,CAYMAN ISLANDS,No,Yes,FL resident
+Florida,50,Miami-Dade,276,,Male,,,Yes,Unknown,FL resident
+Florida,61,Broward,277,,Male,,ITALY,Unknown,Yes,FL resident
+Florida,50,Miami-Dade,278,,Female,,,,Unknown,FL resident
+Florida,62,Manatee,279,,Female,,,Yes,No,FL resident
+Florida,63,Manatee,280,,Male,,,Yes,No,FL resident
+Florida,51,Miami-Dade,281,,Male,,,,Unknown,FL resident
+Florida,66,Miami-Dade,282,,Male,,FL; NY,No,Yes,Non-FL resident
+Florida,68,Seminole,283,,Female,,EGYPT; JORDAN,Yes,Yes,FL resident
+Florida,60,Broward,284,,Male,,,Unknown,No,FL resident
+Florida,68,Seminole,285,,Male,,EGYPT; JORDAN,Yes,Yes,FL resident
+Florida,64,St. Johns,286,,Female,,,No,No,FL resident
+Florida,77,Indian River,287,,Female,,,Unknown,No,FL resident
+Florida,48,Volusia,288,,Female,,DC; FL,No,Yes,FL resident
+Florida,50,Orange,289,,Female,,,,No,FL resident
+Florida,54,Gadsden,290,,Male,,JAPAN,Unknown,Yes,Not diagnosed/isolated in FL
+Florida,67,Pinellas,291,,Female,,,,Unknown,FL resident
+Florida,38,Miami-Dade,292,,Male,,BRAZIL,,Yes,FL resident
+Florida,19,Broward,293,,Male,,Ireland,Yes,Yes,Non-FL resident
+Florida,77,Broward,294,,Male,,,Unknown,Unknown,FL resident
+Florida,59,Palm Beach,295,,Female,,NY,Yes,Yes,FL resident
+Florida,35,Miami-Dade,296,,Male,,SPAIN,No,Yes,FL resident
+Florida,19,Miami-Dade,297,,Female,,,Unknown,No,FL resident
+Florida,65,Palm Beach,298,,Male,,NY,Yes,Yes,FL resident
+Florida,60,Volusia,299,,Female,,EGYPT; GERMANY; ISRAEL,Yes,Yes,FL resident
+Florida,29,Osceola,300,,Male,,,No,No,FL resident
+Florida,73,Palm Beach,301,,Male,,,,Unknown,FL resident
+Florida,52,Miami-Dade,302,,Male,,,Unknown,No,FL resident
+Florida,47,Osceola,303,,Female,,,No,No,FL resident
+Florida,46,Orange,304,,Male,,,,Unknown,FL resident
+Florida,22,Duval,305,,Male,,,,Unknown,FL resident
+Florida,47,Hillsborough,306,,Male,,CO,Unknown,Yes,FL resident
+Florida,45,Miami-Dade,307,,Female,,NY,No,Yes,FL resident
+Florida,46,Duval,308,,Male,,,No,No,Non-FL resident
+Florida,37,Miami-Dade,309,,Female,,AZ; SPAIN,,Yes,FL resident
+Florida,25,Miami-Dade,310,,Female,,SPAIN,,Yes,FL resident
+Florida,83,Broward,311,,Male,,,Yes,Unknown,FL resident
+Florida,80,Miami-Dade,312,,Female,,,No,No,FL resident
+Florida,45,Miami-Dade,313,,Female,,,Yes,No,FL resident
+Florida,49,Broward,314,,Male,,COLOMBIA; FL,Unknown,Yes,FL resident
+Florida,73,Palm Beach,315,,Male,,NY,Yes,Yes,Non-FL resident
+Florida,77,Lee,316,,Male,,,Unknown,No,FL resident
+Florida,72,Lee,317,,Female,,,Yes,Unknown,FL resident
+Florida,36,Miami-Dade,318,,Male,,SPAIN,,Yes,Non-FL resident
+Florida,58,Broward,319,,Male,,,Yes,No,FL resident
+Florida,54,Pinellas,320,,Female,,NY,,Yes,FL resident
+Florida,61,Pinellas,321,,Female,,NY,,Yes,FL resident
+Florida,70,Hernando,322,,Female,,,No,No,FL resident
+Florida,49,Hillsborough,323,,Female,,FL; IRELAND,Yes,Yes,FL resident
+Florida,40,Orange,324,,Female,,,Unknown,No,FL resident
+Florida,63,Miami-Dade,325,,Male,,,Yes,Unknown,FL resident
+Florida,27,Miami-Dade,326,,Male,,NJ,Yes,Yes,FL resident
+Florida,87,Sarasota,327,,Male,,,No,No,FL resident
+Florida,58,Pinellas,328,,Male,,CO,,Yes,FL resident
+Florida,21,Alachua,329,,Female,,NY,No,Yes,FL resident
+Florida,34,Miami-Dade,330,,Male,,,,Unknown,FL resident
+Florida,20,Broward,331,,Female,,IRELAND,Yes,Yes,Non-FL resident
+Florida,94,Broward,332,,Male,,,Unknown,No,FL resident
+Florida,51,Miami-Dade,333,,Male,,CA; IL,,Yes,Non-FL resident
+Florida,88,Duval,334,,Male,,,Yes,No,FL resident
+Florida,84,Duval,335,,Male,,,Yes,No,FL resident
+Florida,81,Manatee,336,,Female,,EGYPT,Yes,Yes,FL resident
+Florida,67,Pinellas,337,,Male,,EGYPT,Yes,Yes,FL resident
+Florida,82,Collier,338,,Male,,,Unknown,No,FL resident
+Florida,33,Miami-Dade,339,,Male,,,Unknown,Unknown,Non-FL resident
+Florida,53,Escambia,340,,Male,,France,No,Yes,FL resident
+Florida,30,Pinellas,341,,Male,,FL; MEXICO,Yes,Yes,FL resident
+Florida,33,Hillsborough,342,,Male,,,Yes,Unknown,FL resident
+Florida,43,Hillsborough,343,,Male,,,,No,FL resident
+Florida,60,Broward,344,,Male,,,Yes,No,FL resident
+Florida,47,Collier,345,,Male,,FRANCE; ITALY; SPAIN,,Yes,FL resident
+Florida,42,Miami-Dade,346,,Male,,NC,No,Yes,FL resident
+Florida,60,Volusia,347,,Female,,,Yes,No,FL resident
+Florida,26,Palm Beach,348,,Female,,,Unknown,Unknown,Non-FL resident
+Florida,30,Miami-Dade,349,,Female,,,,Unknown,FL resident
+Florida,78,Palm Beach,350,,Female,,,Unknown,Unknown,Non-FL resident
+Florida,57,Broward,351,,Male,,,,Unknown,FL resident
+Florida,54,Broward,352,,Female,,,No,No,FL resident
+Florida,29,Miami-Dade,353,,Male,,MA,No,Yes,FL resident
+Florida,36,Miami-Dade,354,,Unknown,,,Yes,No,FL resident
+Florida,30,Miami-Dade,355,,Male,,,,Unknown,FL resident
+Florida,19,Broward,356,,Female,,IRELAND,Yes,Yes,Non-FL resident
+Florida,48,Orange,357,,Female,,,Yes,No,FL resident
+Florida,78,Duval,358,,Female,,,No,Unknown,FL resident
+Florida,75,Broward,359,,Male,,,Yes,No,FL resident
+Florida,48,Osceola,360,,Female,,EUROPE,Yes,Yes,FL resident
+Florida,30,Broward,361,,Male,,FL; GA,Yes,Yes,FL resident
+Florida,67,Broward,362,,Male,,CO,Unknown,Yes,FL resident
+Florida,77,Lee,363,,Female,,DOMINICAN REPUBLIC,Yes,Yes,FL resident
+Florida,77,Lee,364,,Male,,DOMINICAN REPUBLIC,Yes,Yes,FL resident
+Florida,27,Alachua,365,,Female,,,,No,FL resident
+Florida,72,Palm Beach,366,,Male,,,No,No,FL resident
+Florida,60,Broward,367,,Male,,,No,No,FL resident
+Florida,77,Collier,368,,Male,,,No,No,FL resident
+Florida,66,Volusia,369,,Female,,EGYPT; GERMANY; ISRAEL,Yes,Yes,FL resident
+Florida,59,Collier,370,,Male,,JAPAN,Unknown,Yes,FL resident
+Florida,26,Broward,371,,Female,,TRINIDAD AND TOBAGO,Yes,Yes,FL resident
+Florida,33,Jackson,372,,Male,,AL; GA; LA; MEXICO; TX,No,Yes,FL resident
+Florida,43,Miami-Dade,373,,Female,,UT,Yes,Yes,FL resident
+Florida,44,Miami-Dade,374,,Male,,France,No,Yes,FL resident
+Florida,42,Miami-Dade,375,,Male,,SPAIN,No,Yes,FL resident
+Florida,20,Broward,376,,Female,,IRELAND,Yes,Yes,FL resident
+Florida,53,Broward,377,,Male,,FL; UNKNOWN,No,Yes,FL resident
+Florida,22,Orange,378,,Female,,FL; NC,Unknown,Yes,Non-FL resident
+Florida,69,Miami-Dade,379,,Female,,,No,Unknown,FL resident
+Florida,28,Collier,380,,Male,,ITALY,Unknown,Yes,FL resident
+Florida,53,Broward,381,,Male,,NC,No,Yes,FL resident
+Florida,33,Orange,382,,Female,,,,No,FL resident
+Florida,41,Orange,383,,Male,,,Yes,No,FL resident
+Florida,60,Palm Beach,384,,Female,,RUSSIA; SPAIN,No,Yes,FL resident
+Florida,32,Orange,385,,Female,,,Unknown,No,FL resident
+Florida,53,Miami-Dade,386,,Female,,,,Unknown,FL resident
+Florida,30,Collier,387,,Female,,SPAIN,No,Yes,FL resident
+Florida,30,Broward,388,,Male,,CT; FL; ITALY,No,Yes,FL resident
+Florida,44,Duval,389,,Male,,,,Unknown,FL resident
+Florida,62,Orange,390,,Male,,,,Unknown,FL resident
+Florida,65,Broward,391,,Male,,,Yes,No,FL resident
+Florida,91,Duval,392,,Male,,,Yes,No,FL resident
+Florida,28,Miami-Dade,393,,Female,,IRELAND,,Yes,FL resident
+Florida,45,Seminole,394,,Female,,,,Unknown,FL resident
+Florida,73,Palm Beach,395,,Male,,EGYPT; GERMANY,Yes,Yes,FL resident
+Florida,20,Hernando,396,,Male,,SPAIN,Unknown,Yes,FL resident
+Florida,28,Hillsborough,397,,Male,,,,Unknown,FL resident
+Florida,47,Miami-Dade,398,,Male,,,,Unknown,FL resident
+Florida,64,Miami-Dade,399,,Male,,JAPAN,Yes,Yes,Not diagnosed/isolated in FL
+Florida,24,Pinellas,400,,Female,,SPAIN,,Yes,FL resident
+Florida,20,Osceola,401,,Female,,SPAIN,No,Yes,Non-FL resident
+Florida,56,Miami-Dade,402,,Male,,,,Unknown,FL resident
+Florida,64,Citrus,403,,Male,,,Yes,No,FL resident
+Florida,55,Polk,404,,Male,,EUROPE; FL; SPAIN,No,Yes,FL resident
+Florida,73,Miami-Dade,405,,Male,,NY,No,Yes,FL resident
+Florida,37,Volusia,406,,Female,,,Yes,No,FL resident
+Florida,39,Volusia,407,,Male,,TRINIDAD AND TOBAGO,Yes,Yes,FL resident
+Florida,96,Broward,408,,Female,,,Unknown,Unknown,FL resident
+Florida,59,Leon,409,,Female,,JAPAN,Unknown,Yes,Not diagnosed/isolated in FL
+Florida,22,Broward,410,,Female,,,No,No,FL resident
+Florida,69,Miami-Dade,411,,Female,,,Yes,Unknown,Non-FL resident
+Florida,22,Broward,412,,Female,,IRELAND,Yes,Yes,FL resident
+Florida,78,Miami-Dade,413,,Male,,,,Unknown,FL resident
+Florida,23,Pinellas,414,,Male,,,,Unknown,FL resident
+Florida,63,Broward,415,,Male,,,Yes,No,FL resident
+Florida,42,Orange,416,,Male,,,Yes,No,FL resident
+Florida,60,Broward,417,,Male,,SPAIN,,Yes,FL resident
+Florida,34,Miami-Dade,418,,Female,,,,Unknown,FL resident
+Florida,60,Citrus,419,,Female,,FL; SWITZERLAND,No,Yes,FL resident
+Florida,48,Broward,420,,Male,,GA,,Yes,Non-FL resident
+Florida,43,Broward,421,,Male,,NY,Yes,Yes,FL resident
+Florida,66,Sumter,422,,Male,,,No,No,FL resident
+Florida,56,Miami-Dade,423,,Male,,IRAN,Yes,Yes,FL resident
+Florida,39,Broward,424,,Male,,UNITED ARAB EMIRATES,Yes,Yes,FL resident
+Florida,48,Broward,425,,Female,,FRANCE; IL; NY; TX,Unknown,Yes,Non-FL resident
+Florida,57,Miami-Dade,426,,Male,,,,Unknown,FL resident
+Florida,20,Broward,427,,Male,,NJ,Unknown,Yes,FL resident
+Florida,56,Miami-Dade,428,,Male,,COSTA RICA,Unknown,Yes,FL resident
+Florida,37,Miami-Dade,429,,Male,,,,Unknown,FL resident
+Florida,49,St. Johns,430,,Male,,EUROPE; HUNGARY,No,Yes,FL resident
+Florida,37,Miami-Dade,431,,Male,,EL SALVADOR; FL; MEXICO; SPAIN,Unknown,Yes,FL resident
+Florida,57,Duval,432,,Male,,FL; UNKNOWN,Unknown,Yes,FL resident

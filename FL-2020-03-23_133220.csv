@@ -1,0 +1,1172 @@
+County,Age,Gender,Jurisdiction,Travel_related,Origin,EDvisit,Hospitalized,Died,Case_,Contact,ObjectId
+Duval,83,Unknown,Non-FL resident,Unknown,NA,NA,NA,NA,Yes,NA,1
+Polk,73,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,2
+Palm Beach,56,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,3
+Dade,46,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,4
+Citrus,80,Male,FL resident,Yes,DE,Yes,Yes,NA,Yes,Yes,5
+Alachua,29,Female,FL resident,No,NA,Yes,Unknown,No,Yes,No,6
+Santa Rosa,71,Male,FL resident,Yes,Egypt; Israel; Jordan,Yes,Yes,Yes,Yes,No,7
+Dade,28,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,8
+Dade,23,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,9
+Hillsborough,57,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,10
+Broward,33,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,11
+Seminole,64,Female,FL resident,Yes,FL; NC; NY,Unknown,No,No,Yes,No,12
+Seminole,41,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,13
+Dade,51,Female,FL resident,Yes,Italy,Unknown,No,No,Yes,Yes,14
+Dade,57,Unknown,FL resident,No,NA,NA,NA,NA,Yes,Yes,15
+Broward,96,Female,FL resident,Unknown,NA,NA,Yes,Yes,Yes,Unknown,16
+Broward,54,Female,FL resident,No,NA,Yes,No,No,Yes,No,17
+Palm Beach,62,Male,FL resident,Yes,United Kingdom,Unknown,Yes,NA,Yes,Yes,18
+Dade,61,Female,FL resident,No,NA,Unknown,Unknown,NA,Yes,Yes,19
+Pinellas,68,Male,FL resident,Yes,BELIZE; HONDURAS; MEXICO,NA,No,NA,Yes,Yes,20
+Broward,31,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,21
+Broward,41,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,22
+Dade,29,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,23
+Palm Beach,85,Female,FL resident,Unknown,NA,NA,Unknown,Yes,Yes,Unknown,24
+Dade,46,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,25
+Dade,53,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,26
+Dade,46,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,27
+Broward,57,Male,FL resident,Yes,France,Yes,No,No,Yes,No,28
+Hillsborough,38,Female,FL resident,No,NA,No,No,No,Yes,No,29
+Hillsborough,54,Female,FL resident,Yes,FL; NY,No,No,No,Yes,Yes,30
+Escambia,33,Unknown,FL resident,Unknown,NA,NA,No,NA,Yes,No,31
+Dade,34,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,32
+Broward,29,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,33
+Broward,63,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,34
+Collier,59,Male,FL resident,Yes,Canada,NA,No,NA,Yes,NA,35
+Polk,22,Female,FL resident,Yes,GA,No,No,No,Yes,Unknown,36
+Pinellas,24,Female,FL resident,Yes,SPAIN,Yes,Yes,No,Yes,Yes,37
+Palm Beach,67,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,38
+Palm Beach,41,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Unknown,39
+Broward,57,Male,FL resident,No,NA,Yes,Yes,NA,Yes,No,40
+Duval,65,Unknown,Non-FL resident,Unknown,NA,NA,NA,NA,Yes,NA,41
+Broward,45,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,42
+Dade,56,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,43
+Palm Beach,78,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Unknown,44
+Dade,36,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,45
+Broward,27,Male,FL resident,Yes,FL; UT,NA,No,NA,Yes,Yes,46
+Hillsborough,22,Female,Non-FL resident,Yes,Italy,No,No,NA,Yes,Yes,47
+Manatee,63,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,48
+Collier,80,Male,FL resident,Yes,NY,No,No,No,Yes,No,49
+St. Lucie,45,Female,FL resident,No,NA,Yes,No,No,Yes,No,50
+Seminole,60,Female,FL resident,Yes,NY,Yes,Yes,No,Yes,Unknown,51
+Hillsborough,29,Male,FL resident,Unknown,NA,NA,Unknown,NA,Yes,No,52
+Dade,45,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,53
+Palm Beach,22,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,54
+Dade,23,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,55
+Brevard,76,Female,FL resident,Yes,NY,No,No,No,Yes,Yes,56
+Hernando,73,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,57
+Osceola,36,Female,FL resident,Unknown,NA,No,No,NA,Yes,NA,58
+Broward,94,Male,FL resident,Unknown,NA,Yes,Yes,No,Yes,Yes,59
+Broward,68,Male,FL resident,Yes,Dominican Republic,Yes,No,No,Yes,Yes,60
+Okaloosa,44,Female,FL resident,No,NA,No,No,No,Yes,Unknown,61
+Alachua,47,Female,FL resident,No,NA,NA,No,NA,Yes,Yes,62
+Collier,19,Male,FL resident,Yes,Italy,NA,No,NA,Yes,NA,63
+Collier,75,Male,Non-FL resident,No,NA,Yes,Yes,NA,Yes,No,64
+Broward,53,Female,FL resident,No,NA,Yes,Yes,NA,Yes,No,65
+Dade,25,Female,FL resident,Unknown,NA,Unknown,Unknown,Unknown,Yes,NA,66
+Pinellas,67,Male,FL resident,Yes,FL; VA; WA,No,No,No,Yes,No,67
+Broward,60,Male,FL resident,Yes,Spain,Unknown,Unknown,NA,Yes,NA,68
+Dade,56,Male,FL resident,Yes,NY,Yes,Yes,NA,Yes,Yes,69
+Dade,30,Female,FL resident,Unknown,NA,Unknown,Unknown,No,Yes,NA,70
+Palm Beach,29,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,71
+Alachua,75,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,72
+Hillsborough,21,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,73
+Duval,53,Female,FL resident,Yes,FL; NV,NA,No,No,Yes,Yes,74
+Palm Beach,69,Male,FL resident,Yes,CO,Yes,No,No,Yes,No,75
+Dade,58,Female,FL resident,Yes,Italy; Spain,NA,Unknown,NA,Yes,No,76
+Collier,79,Female,Non-FL resident,Yes,CT,Yes,Yes,NA,Yes,No,77
+Dade,73,Male,FL resident,Yes,NY,No,No,No,Yes,No,78
+Pasco,46,Male,FL resident,No,NA,No,No,No,Yes,Yes,79
+St. Johns,50,Male,FL resident,No,NA,No,No,No,Yes,Yes,80
+Pinellas,53,Female,FL resident,Yes,MA,Yes,No,No,Yes,No,81
+Dade,27,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,82
+Broward,53,Female,FL resident,Yes,FL; GA; HI; MA,NA,No,NA,Yes,No,83
+Polk,44,Female,FL resident,No,NA,No,No,NA,Yes,Unknown,84
+Palm Beach,69,Male,FL resident,No,NA,Unknown,Unknown,No,Yes,No,85
+Orange,62,Male,FL resident,Unknown,NA,Yes,Yes,NA,Yes,Yes,86
+Baker,87,Female,FL resident,No,NA,Yes,Yes,NA,Yes,Unknown,87
+Escambia,25,Female,FL resident,No,NA,NA,No,NA,Yes,Unknown,88
+Alachua,25,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,89
+Hillsborough,47,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,90
+Sumter,68,Female,FL resident,No,NA,No,No,No,Yes,Yes,91
+Seminole,25,Female,FL resident,Yes,FL; United Kingdom,Yes,No,No,Yes,No,92
+Broward,30,Male,FL resident,Yes,CT; FL; ITALY,Yes,No,No,Yes,No,93
+Duval,54,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,94
+Dade,42,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,95
+Palm Beach,72,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,96
+Broward,22,Female,FL resident,Yes,IRELAND,Yes,No,No,Yes,Yes,97
+Orange,41,Male,FL resident,No,NA,No,No,No,Yes,Yes,98
+Palm Beach,69,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,99
+Collier,30,Female,FL resident,Yes,Spain,No,No,No,Yes,No,100
+Hillsborough,32,Female,FL resident,Yes,CO,No,No,No,Yes,Yes,101
+Dade,43,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,102
+Collier,49,Female,FL resident,No,NA,No,No,No,Yes,No,103
+Broward,67,Female,FL resident,Yes,Dominican Republic,Yes,No,No,Yes,No,104
+Broward,88,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,105
+Manatee,62,Female,FL resident,No,NA,No,No,No,Yes,Yes,106
+Seminole,61,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,107
+Bradford,69,Male,FL resident,No,NA,NA,Yes,NA,Yes,No,108
+Collier,33,Male,FL resident,Yes,SPAIN,No,No,No,Yes,Unknown,109
+Broward,32,Male,FL resident,No,NA,Yes,No,No,Yes,Unknown,110
+Broward,84,Female,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,111
+Dade,54,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,112
+Dade,54,Male,FL resident,Yes,Spain,NA,NA,NA,Yes,No,113
+Palm Beach,19,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Unknown,114
+Broward,56,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,115
+Escambia,48,Male,FL resident,No,NA,NA,No,NA,Yes,Unknown,116
+Hillsborough,35,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,117
+Hillsborough,17,Male,FL resident,No,NA,Yes,No,No,Yes,No,118
+Broward,57,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,119
+Flagler,72,Female,FL resident,Unknown,NA,Yes,Yes,No,Yes,Unknown,120
+Jackson,33,Male,Non-FL resident,Yes,AL; FL; GA; LA; Mexico; TX,No,No,NA,Yes,Unknown,121
+Duval,45,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,122
+Orange,30,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,123
+Dade,34,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,124
+Alachua,23,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,125
+Palm Beach,69,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,126
+Broward,43,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,127
+Broward,52,Female,FL resident,Yes,France,No,No,No,Yes,Yes,128
+Hillsborough,30,Female,FL resident,No,NA,Yes,No,No,Yes,Unknown,129
+Osceola,80,Male,FL resident,Unknown,NA,No,No,NA,Yes,NA,130
+Dade,51,Male,Non-FL resident,Yes,Bahamas; CA; IL,Yes,Yes,NA,Yes,Unknown,131
+Broward,73,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,132
+Hillsborough,31,Male,FL resident,Yes,NY,NA,No,NA,Yes,Yes,133
+Dade,30,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,134
+Walton,49,Male,FL resident,No,NA,No,No,No,Yes,No,135
+Dade,32,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,136
+Broward,69,Male,FL resident,Yes,NY,No,No,NA,Yes,No,137
+Hillsborough,51,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,138
+Seminole,44,Male,FL resident,Unknown,NA,NA,No,NA,Yes,Unknown,139
+Orange,31,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,140
+Broward,65,Male,FL resident,No,NA,Yes,Yes,NA,Yes,No,141
+Broward,53,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,142
+Dade,68,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,143
+Dade,28,Female,FL resident,No,NA,No,No,No,Yes,Yes,144
+Broward,43,Female,FL resident,No,NA,Yes,No,No,Yes,No,145
+Dade,61,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,146
+Broward,24,Male,FL resident,No,NA,No,No,No,Yes,Yes,147
+Broward,44,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,148
+Hillsborough,27,Female,FL resident,Yes,CA,No,No,No,Yes,Yes,149
+Dade,60,Female,FL resident,No,NA,Yes,Unknown,NA,Yes,Yes,150
+Orange,82,Female,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,151
+Broward,31,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,152
+Osceola,21,Female,FL resident,No,NA,No,No,NA,Yes,Yes,153
+Leon,48,Female,Non-FL resident,Yes,GA,Yes,Yes,NA,Yes,Unknown,154
+Columbia,46,Female,FL resident,No,NA,NA,NA,NA,Yes,NA,155
+Dade,68,Female,FL resident,Yes,France; Spain,Yes,No,NA,Yes,Yes,156
+Okaloosa,83,Male,FL resident,No,NA,No,No,No,Yes,Yes,157
+Broward,61,Male,FL resident,Yes,Italy,Yes,No,No,Yes,Unknown,158
+Broward,64,Female,FL resident,Yes,Peru,No,No,NA,Yes,Yes,159
+Broward,28,Female,FL resident,No,NA,Yes,No,No,Yes,No,160
+Hillsborough,79,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,161
+Palm Beach,60,Female,FL resident,Yes,Russia; Spain,Yes,Yes,No,Yes,No,162
+Okaloosa,47,Female,FL resident,Yes,NJ; NY,No,No,No,Yes,No,163
+Dade,25,Female,FL resident,Unknown,NA,Unknown,No,NA,Yes,NA,164
+Palm Beach,55,Male,FL resident,No,NA,No,No,No,Yes,No,165
+Sarasota,71,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,166
+Broward,69,Male,FL resident,Yes,IL,No,No,No,Yes,Yes,167
+Broward,35,Female,FL resident,No,NA,Yes,No,NA,Yes,Yes,168
+Broward,73,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,169
+Dade,56,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Unknown,170
+Polk,74,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,171
+St. Johns,53,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,172
+Pinellas,26,Male,FL resident,Yes,BAHAMAS; FL,No,No,No,Yes,No,173
+Pinellas,71,Female,FL resident,Yes,FL; Israel; OH,No,No,No,Yes,Yes,174
+Pinellas,75,Male,FL resident,Yes,Israel; OH,No,No,No,Yes,Yes,175
+Clay,82,Male,FL resident,Yes,FL; UNKNOWN,Yes,Yes,Unknown,Yes,No,176
+Indian River,77,Female,FL resident,Yes,FL; MO,Yes,No,No,Yes,No,177
+Dade,42,Male,Non-FL resident,Yes,Brazil; FL; TX,Yes,No,NA,Yes,No,178
+Hillsborough,6,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,179
+Dade,26,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,180
+Hillsborough,79,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,181
+Alachua,55,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,182
+Sarasota,61,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,183
+Pasco,67,Female,FL resident,No,NA,No,No,No,Yes,Yes,184
+Citrus,60,Female,FL resident,Yes,FL; Switzerland,NA,No,NA,Yes,No,185
+Broward,59,Male,FL resident,Yes,Spain,No,No,NA,Yes,Yes,186
+Orange,33,Female,FL resident,No,NA,No,No,No,Yes,NA,187
+Okaloosa,66,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,188
+Palm Beach,83,Male,FL resident,Yes,FL; NY,Unknown,Unknown,No,Yes,No,189
+Dade,48,Male,Non-FL resident,Yes,NY,No,No,NA,Yes,Yes,190
+Citrus,17,Female,FL resident,Yes,Canada,No,No,No,Yes,Yes,191
+Duval,55,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,192
+Collier,62,Female,FL resident,Yes,BAHAMAS; FL; HONDURAS; MEXICO,No,No,No,Yes,Yes,193
+Escambia,53,Male,FL resident,Yes,France,No,No,No,Yes,No,194
+Collier,26,Male,FL resident,Yes,France; Italy; Spain,NA,No,NA,Yes,NA,195
+Hernando,68,Male,FL resident,No,NA,No,No,No,Yes,No,196
+Broward,49,Male,FL resident,Yes,Colombia; FL,Yes,No,No,Yes,Unknown,197
+Dade,56,Male,FL resident,Yes,Costa Rica,Yes,Yes,No,Yes,Unknown,198
+Dade,44,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,199
+Broward,56,Female,FL resident,No,NA,No,No,No,Yes,No,200
+Dade,63,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,201
+Dade,68,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,202
+Walton,22,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,203
+Dade,40,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,204
+Hillsborough,56,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,205
+Broward,32,Male,FL resident,No,NA,Yes,No,NA,Yes,No,206
+Collier,28,Male,FL resident,Yes,Italy,NA,No,NA,Yes,Unknown,207
+Dade,30,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,208
+Sarasota,76,Male,FL resident,Yes,FL; NY,No,No,No,Yes,No,209
+Broward,67,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,210
+Orange,50,Female,FL resident,No,NA,NA,No,NA,Yes,Unknown,211
+Broward,18,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,212
+Broward,43,Female,FL resident,No,NA,No,No,No,Yes,Yes,213
+Dade,57,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,214
+Lee,57,Female,FL resident,No,NA,No,No,No,Yes,Yes,215
+Lee,75,Female,FL resident,No,NA,NA,No,NA,Yes,Yes,216
+Broward,56,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,217
+Dade,71,Female,FL resident,Unknown,NA,Yes,Unknown,No,Yes,Unknown,218
+Dade,45,Female,FL resident,Yes,NY,Yes,No,No,Yes,No,219
+Dade,32,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,220
+Broward,21,Male,FL resident,Yes,Italy; Spain,Yes,No,No,Yes,No,221
+Broward,57,Male,FL resident,Yes,CO,Yes,No,No,Yes,Unknown,222
+Alachua,20,Female,FL resident,No,NA,No,No,No,Yes,No,223
+Seminole,68,Male,FL resident,Yes,Egypt; Jordan,Yes,No,No,Yes,Yes,224
+Palm Beach,23,Female,Non-FL resident,Yes,FL; Jamaica,Yes,No,NA,Yes,No,225
+Polk,77,Female,FL resident,Unknown,NA,Yes,Yes,NA,Yes,NA,226
+Dade,50,Male,FL resident,No,NA,NA,Yes,NA,Yes,NA,227
+Okaloosa,82,Female,FL resident,No,NA,No,No,No,Yes,Yes,228
+Palm Beach,26,Female,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Yes,229
+Nassau,68,Male,FL resident,Yes,Germany; MA,No,No,No,Yes,Yes,230
+Sarasota,50,Female,FL resident,Yes,NY,Yes,Yes,No,Yes,No,231
+Lee,65,Female,Non-FL resident,Yes,FL; JAMAICA,Yes,Yes,NA,Yes,Yes,232
+Broward,75,Male,FL resident,No,NA,No,No,No,Yes,Yes,233
+Osceola,48,Male,FL resident,Yes,Switzerland,Yes,No,No,Yes,Yes,234
+Dade,44,Male,FL resident,Yes,France,Yes,No,No,Yes,No,235
+Broward,71,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,236
+Hillsborough,60,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,237
+Broward,23,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,238
+Santa Rosa,17,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,239
+Dade,21,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,240
+Dade,34,Female,FL resident,No,NA,Yes,No,NA,Yes,Yes,241
+Broward,43,Male,FL resident,Unknown,NA,Yes,No,No,Yes,Yes,242
+Sarasota,80,Male,Non-FL resident,No,NA,Yes,Yes,NA,Yes,Yes,243
+Dade,45,Male,FL resident,No,NA,No,No,No,Yes,Yes,244
+Sarasota,78,Female,Non-FL resident,No,NA,No,No,NA,Yes,Yes,245
+Broward,57,Female,FL resident,No,NA,No,No,NA,Yes,No,246
+Dade,20,Female,FL resident,Yes,SPAIN,Yes,No,NA,Yes,Unknown,247
+Dade,37,Female,FL resident,Yes,AZ; Spain,Yes,NA,No,Yes,NA,248
+Broward,70,Male,FL resident,Unknown,NA,Yes,No,No,Yes,Yes,249
+Seminole,55,Male,FL resident,Yes,FL; NY,Yes,Yes,No,Yes,No,250
+Duval,44,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,251
+Dade,63,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Yes,252
+Broward,19,Female,FL resident,Yes,Ireland,Unknown,Unknown,NA,Yes,Yes,253
+Palm Beach,59,Female,FL resident,Yes,NY,Yes,Yes,No,Yes,Yes,254
+Duval,74,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,255
+Broward,26,Female,FL resident,No,NA,No,No,No,Yes,Yes,256
+Hillsborough,32,Female,FL resident,No,NA,NA,No,NA,Yes,Yes,257
+Broward,19,Female,Non-FL resident,Yes,Ireland,Yes,Yes,NA,Yes,Yes,258
+Hillsborough,30,Male,FL resident,Yes,FL; NY,Unknown,Unknown,NA,Yes,No,259
+Palm Beach,78,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,260
+Sumter,66,Male,FL resident,No,NA,No,No,No,Yes,Yes,261
+Orange,48,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,262
+Lee,69,Male,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,263
+Indian River,69,Male,FL resident,Yes,Egypt; Germany,No,No,No,Yes,No,264
+Hernando,20,Male,FL resident,Yes,Spain,No,No,No,Yes,Unknown,265
+Broward,30,Male,FL resident,Yes,FL; GA,No,No,No,Yes,Yes,266
+Gadsden,54,Male,Not diagnosed/isolated in FL,Yes,Japan,NA,Unknown,NA,Yes,Unknown,267
+Hillsborough,43,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,268
+Palm Beach,65,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,269
+Alachua,69,Male,Non-FL resident,Yes,Sweden,Yes,No,NA,Yes,No,270
+Okaloosa,66,Female,Not diagnosed/isolated in FL,Yes,Japan,Unknown,Unknown,No,Yes,Yes,271
+Palm Beach,53,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,272
+Clay,53,Male,FL resident,No,NA,NA,No,NA,Yes,NA,273
+Broward,53,Male,FL resident,Yes,NC,Yes,No,NA,Yes,No,274
+Lee,77,Female,FL resident,Yes,Dominican Republic,Yes,Yes,Yes,Yes,Yes,275
+Palm Beach,73,Male,Non-FL resident,Yes,NJ,Unknown,Unknown,NA,Yes,Unknown,276
+Walton,20,Female,FL resident,Yes,FL; Spain,No,No,No,Yes,Unknown,277
+Polk,77,Female,FL resident,Yes,FL; NY,Yes,Yes,NA,Yes,Yes,278
+Broward,71,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,279
+Indian River,25,Female,Non-FL resident,Yes,NY,No,No,NA,Yes,No,280
+Broward,20,Male,FL resident,Yes,Spain,No,No,No,Yes,Unknown,281
+Broward,87,Male,FL resident,Unknown,NA,NA,No,NA,Yes,NA,282
+Osceola,33,Female,FL resident,Yes,NY,No,No,No,Yes,No,283
+Osceola,28,Female,FL resident,Yes,NY,No,No,No,Yes,No,284
+Broward,60,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,285
+Alachua,21,Female,FL resident,Yes,NY,No,No,No,Yes,No,286
+Alachua,22,Male,FL resident,Yes,Canada; NY; PA,No,No,No,Yes,No,287
+Hillsborough,26,Female,FL resident,Yes,FL; NY,NA,No,NA,Yes,No,288
+Broward,62,Female,FL resident,No,NA,Unknown,No,NA,Yes,No,289
+Broward,86,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,290
+Pinellas,58,Male,FL resident,No,NA,Yes,Yes,NA,Yes,Yes,291
+Dade,80,Female,FL resident,No,NA,Yes,Yes,NA,Yes,No,292
+Broward,64,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,293
+Hillsborough,29,Female,FL resident,Yes,Italy,No,No,No,Yes,Yes,294
+Pinellas,67,Male,FL resident,Yes,EGYPT,No,No,NA,Yes,Yes,295
+Dade,55,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,296
+Dade,67,Female,FL resident,Yes,Egypt,NA,No,NA,Yes,Yes,297
+Pasco,46,Male,FL resident,No,NA,NA,No,NA,Yes,Yes,298
+Dade,60,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,299
+Dade,35,Male,FL resident,Yes,Egypt,NA,No,NA,Yes,Yes,300
+Pinellas,55,Male,FL resident,Yes,Egypt,No,No,No,Yes,Yes,301
+Dade,52,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,302
+Sarasota,70,Male,Non-FL resident,No,NA,Yes,Yes,NA,Yes,No,303
+Okaloosa,24,Female,FL resident,Yes,CO; FL,No,No,No,Yes,No,304
+St. Johns,68,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,305
+Broward,48,Male,FL resident,Yes,PA,No,No,No,Yes,Unknown,306
+Dade,78,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,307
+Dade,61,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,308
+Brevard,32,Male,FL resident,Yes,PA; UT,Yes,No,NA,Yes,No,309
+Orange,63,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,310
+Palm Beach,77,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,311
+Broward,44,Male,FL resident,No,NA,No,No,No,Yes,Yes,312
+Duval,68,Female,FL resident,No,NA,No,No,No,Yes,Yes,313
+Osceola,68,Male,FL resident,Yes,India,Yes,Yes,No,Yes,No,314
+Broward,65,Male,FL resident,No,NA,No,No,No,Yes,Yes,315
+Dade,60,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,316
+Pinellas,62,Male,FL resident,No,NA,No,No,No,Yes,Yes,317
+Broward,46,Male,FL resident,Unknown,NA,Yes,No,No,Yes,Unknown,318
+Broward,87,Female,FL resident,Unknown,NA,Yes,Yes,No,Yes,Unknown,319
+Dade,75,Male,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,320
+Pinellas,59,Female,Non-FL resident,Yes,Bahamas; Ecuador; FL,Yes,Yes,NA,Yes,Yes,321
+Broward,68,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,322
+Broward,52,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,323
+Palm Beach,21,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,324
+Collier,68,Female,FL resident,Yes,Egypt,No,No,NA,Yes,Yes,325
+Hillsborough,49,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,326
+Palm Beach,68,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,327
+Broward,58,Male,FL resident,Yes,Brazil; NY; Spain,Yes,No,No,Yes,Unknown,328
+Broward,68,Female,FL resident,No,NA,No,No,NA,Yes,Yes,329
+Orange,39,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,330
+Palm Beach,53,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,331
+Dade,18,Male,FL resident,Yes,Spain,Unknown,No,No,Yes,Yes,332
+Dade,66,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,333
+Broward,21,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,334
+Manatee,75,Male,FL resident,No,NA,Unknown,No,NA,Yes,No,335
+Hernando,19,Female,FL resident,Yes,Spain,No,No,No,Yes,No,336
+Alachua,51,Male,FL resident,Yes,Bahamas; FL,NA,No,NA,Yes,NA,337
+Sarasota,86,Unknown,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,338
+Lee,77,Male,FL resident,No,NA,Yes,Yes,Yes,Yes,Yes,339
+Dade,44,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,Yes,340
+Hillsborough,42,Male,FL resident,Yes,CO; FL,Yes,No,NA,Yes,Unknown,341
+Leon,59,Female,Not diagnosed/isolated in FL,Yes,Japan,No,No,No,Yes,Unknown,342
+Broward,21,Male,FL resident,Yes,Spain,No,No,No,Yes,Yes,343
+Palm Beach,43,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,344
+Dade,25,Female,FL resident,Yes,Spain,NA,Unknown,NA,Yes,NA,345
+St. Lucie,56,Male,FL resident,No,NA,No,No,No,Yes,No,346
+Baker,66,Male,FL resident,No,NA,No,Yes,No,Yes,Unknown,347
+Broward,63,Male,FL resident,No,NA,No,No,No,Yes,Yes,348
+Palm Beach,83,Female,FL resident,No,NA,Unknown,Unknown,No,Yes,Yes,349
+Dade,36,Unknown,FL resident,No,NA,No,No,NA,Yes,Yes,350
+Dade,53,Male,FL resident,Yes,Qatar; Spain,Unknown,No,NA,Yes,No,351
+Manatee,81,Female,FL resident,Yes,Egypt,NA,No,NA,Yes,Yes,352
+Dade,20,Male,FL resident,Yes,Spain,Yes,No,No,Yes,Yes,353
+Dade,33,Male,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Unknown,354
+Duval,84,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,355
+Duval,84,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,356
+Palm Beach,37,Male,FL resident,Yes,NY,Yes,No,No,Yes,Yes,357
+Seminole,45,Female,FL resident,No,NA,Yes,Yes,NA,Yes,Unknown,358
+Lee,80,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,359
+Dade,73,Male,FL resident,Unknown,NA,Yes,No,No,Yes,Yes,360
+Broward,70,Male,FL resident,No,NA,No,No,No,Yes,Yes,361
+Broward,19,Female,FL resident,Yes,Ireland,No,No,No,Yes,Yes,362
+Broward,21,Female,FL resident,Yes,Ireland,No,No,No,Yes,Yes,363
+Osceola,48,Female,FL resident,Yes,Europe,No,No,No,Yes,Yes,364
+Santa Rosa,48,Male,FL resident,Yes,United Kingdom,No,No,No,Yes,No,365
+Seminole,62,Female,FL resident,Yes,CT; FL; OK,Yes,Yes,No,Yes,No,366
+Dade,43,Male,FL resident,Yes,UT,Yes,No,NA,Yes,Yes,367
+Hillsborough,36,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,368
+Sarasota,64,Male,FL resident,Yes,SPAIN,No,No,No,Yes,Unknown,369
+Broward,75,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,370
+Charlotte,54,Female,FL resident,Yes,Egypt; Israel,NA,Yes,No,Yes,Unknown,371
+Okaloosa,61,Female,FL resident,Yes,CA; MEXICO,No,No,No,Yes,Yes,372
+Hillsborough,47,Male,FL resident,Yes,CO,Yes,Yes,No,Yes,Unknown,373
+Dade,42,Male,FL resident,Yes,FL; France,No,No,NA,Yes,Yes,374
+Palm Beach,35,Female,FL resident,Unknown,NA,Unknown,Unknown,Unknown,Yes,Unknown,375
+Broward,53,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,376
+Dade,27,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,377
+Okaloosa,47,Male,FL resident,Yes,FL; GA; MS; NJ,No,No,No,Yes,No,378
+Broward,27,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,379
+Broward,20,Female,FL resident,Yes,Ireland,No,No,No,Yes,Yes,380
+Lee,75,Male,FL resident,No,NA,NA,No,NA,Yes,Yes,381
+Broward,55,Male,FL resident,No,NA,No,No,No,Yes,Yes,382
+Dade,58,Male,FL resident,Unknown,NA,Unknown,Unknown,Unknown,Yes,NA,383
+Dade,47,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,384
+Manatee,70,Male,FL resident,No,NA,Yes,Yes,Yes,Yes,No,385
+Dade,48,Male,FL resident,Yes,CO,NA,No,NA,Yes,NA,386
+Palm Beach,6,Female,FL resident,Unknown,NA,No,No,No,Yes,Yes,387
+Dade,67,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,388
+Dade,21,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,389
+Manatee,71,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,390
+Broward,38,Male,FL resident,No,NA,No,No,No,Yes,Yes,391
+Broward,46,Female,FL resident,No,NA,Yes,No,No,Yes,Unknown,392
+Broward,19,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,393
+Pasco,71,Female,FL resident,No,NA,NA,Yes,NA,Yes,Unknown,394
+Indian River,84,Female,FL resident,No,NA,No,No,No,Yes,No,395
+Leon,40,Female,FL resident,Yes,FL; GA,No,No,No,Yes,Yes,396
+Dade,71,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,397
+Broward,47,Male,Non-FL resident,Yes,FL; MA,Yes,No,NA,Yes,Unknown,398
+Pinellas,61,Female,FL resident,Yes,NY,NA,No,NA,Yes,NA,399
+Broward,35,Male,FL resident,No,NA,Yes,No,NA,Yes,Yes,400
+Walton,22,Male,Non-FL resident,Unknown,NA,NA,NA,NA,Yes,NA,401
+Orange,34,Male,Non-FL resident,Yes,Peru,No,No,NA,Yes,NA,402
+Dade,13,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,403
+Broward,38,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,404
+Duval,57,Female,FL resident,Unknown,NA,No,No,No,Yes,Yes,405
+Dade,50,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,406
+Dade,50,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,407
+Flagler,59,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,408
+Broward,29,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,409
+Broward,41,Male,FL resident,No,NA,Yes,No,NA,Yes,No,410
+Broward,72,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,411
+Collier,77,Male,FL resident,No,NA,NA,No,NA,Yes,Yes,412
+Duval,91,Male,FL resident,No,NA,No,No,No,Yes,Yes,413
+Orange,46,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,414
+Broward,74,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,415
+Dade,23,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,416
+Duval,59,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,417
+Collier,76,Male,FL resident,Yes,St. Martin,NA,Yes,NA,Yes,Unknown,418
+Collier,59,Male,FL resident,Yes,Japan,NA,NA,NA,Yes,Unknown,419
+Dade,73,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,420
+Duval,66,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,421
+Hillsborough,20,Female,Non-FL resident,No,NA,Unknown,No,NA,Yes,Yes,422
+Broward,56,Female,FL resident,Yes,VA,No,No,No,Yes,No,423
+Dade,34,Male,FL resident,Unknown,NA,No,No,No,Yes,Unknown,424
+Duval,79,Unknown,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,425
+Broward,43,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,426
+Broward,22,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,427
+Broward,25,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,428
+Alachua,24,Male,FL resident,Yes,Portugal,No,No,No,Yes,No,429
+Alachua,39,Female,FL resident,Yes,GA,NA,Unknown,NA,Yes,Unknown,430
+Marion,68,Male,FL resident,Yes,WI,Yes,No,No,Yes,Unknown,431
+Collier,80,Male,FL resident,No,NA,No,No,No,Yes,No,432
+Dade,50,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,433
+Dade,10,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,434
+Dade,38,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,435
+Palm Beach,68,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,436
+Martin,75,Male,FL resident,No,NA,Yes,No,No,Yes,No,437
+Dade,35,Male,FL resident,Yes,Spain,No,No,No,Yes,No,438
+Dade,76,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,439
+Dade,33,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,440
+Dade,49,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,441
+Volusia,65,Male,FL resident,Yes,IRELAND,No,No,No,Yes,Yes,442
+Dade,83,Male,FL resident,Unknown,NA,NA,Yes,NA,Yes,NA,443
+Broward,46,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,444
+Broward,73,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,445
+Broward,51,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,446
+Duval,58,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,447
+Hillsborough,72,Female,FL resident,Yes,FL; TN,Yes,No,No,Yes,Unknown,448
+Dade,25,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,449
+Pinellas,53,Female,FL resident,Yes,GA,No,No,NA,Yes,No,450
+Broward,61,Female,FL resident,No,NA,Yes,Yes,No,Yes,Yes,451
+Broward,22,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,452
+Citrus,58,Female,FL resident,Yes,Honduras,NA,Unknown,NA,Yes,Unknown,453
+Broward,26,Female,FL resident,Yes,Trinidad and Tobago,NA,Yes,NA,Yes,Yes,454
+Orange,50,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,455
+Dade,27,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,456
+Lee,60,Male,FL resident,Unknown,NA,No,No,No,Yes,No,457
+Pinellas,67,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Yes,458
+Dade,67,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,459
+Dade,51,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,460
+Okaloosa,78,Female,FL resident,Yes,ITALY,Yes,No,No,Yes,No,461
+Alachua,56,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,462
+Dade,47,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,463
+Dade,45,Male,FL resident,Yes,France; United Kingdom,Yes,No,No,Yes,No,464
+Orange,35,Male,FL resident,No,NA,No,No,NA,Yes,No,465
+Pinellas,23,Male,FL resident,Yes,LA,No,No,No,Yes,No,466
+Dade,33,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,467
+Lee,72,Female,Non-FL resident,No,NA,Yes,Yes,NA,Yes,Unknown,468
+Dade,47,Female,FL resident,Yes,Spain,Yes,No,No,Yes,Yes,469
+Lee,67,Male,FL resident,No,NA,Yes,Yes,NA,Yes,Yes,470
+Sarasota,87,Male,FL resident,No,NA,Yes,Yes,NA,Yes,No,471
+Palm Beach,67,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,472
+Duval,25,Female,Non-FL resident,Yes,Australia; FL; TN,Yes,No,NA,Yes,Unknown,473
+Palm Beach,59,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,474
+Broward,50,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,475
+Lee,75,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,476
+Lee,72,Female,FL resident,Yes,MA; NH,No,No,NA,Yes,Yes,477
+Dade,67,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,478
+Osceola,54,Male,FL resident,No,NA,Yes,No,No,Yes,No,479
+Palm Beach,43,Male,FL resident,Unknown,NA,No,No,No,Yes,Unknown,480
+Broward,19,Female,FL resident,Yes,Ireland,No,No,No,Yes,Yes,481
+Collier,64,Male,Non-FL resident,Yes,FL; HI,Yes,No,NA,Yes,No,482
+Palm Beach,71,Female,Not diagnosed/isolated in FL,Yes,Japan,NA,No,No,Yes,Yes,483
+Duval,39,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,484
+Palm Beach,48,Male,FL resident,Unknown,NA,Yes,No,No,Yes,Unknown,485
+Dade,37,Male,FL resident,No,NA,No,No,No,Yes,Yes,486
+Sarasota,75,Male,Non-FL resident,Yes,FL; NY,Unknown,Unknown,NA,Yes,Yes,487
+Dade,19,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,488
+Walton,77,Female,Non-FL resident,Yes,FL; MI,No,Yes,NA,Yes,Unknown,489
+Broward,56,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,490
+Palm Beach,60,Male,FL resident,Yes,NY,Yes,Yes,No,Yes,Unknown,491
+Sarasota,74,Male,FL resident,No,NA,No,No,No,Yes,No,492
+Broward,65,Male,FL resident,Yes,Cayman Islands,Yes,Yes,No,Yes,No,493
+Hillsborough,62,Male,FL resident,Yes,FL; NY,NA,No,NA,Yes,No,494
+Dade,34,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,495
+Polk,55,Male,FL resident,Yes,Europe; FL; Spain,No,No,No,Yes,No,496
+Broward,20,Female,FL resident,Yes,Ireland,Yes,No,No,Yes,Yes,497
+Broward,20,Female,FL resident,Yes,Ireland,Yes,Yes,No,Yes,Yes,498
+Pinellas,28,Female,Non-FL resident,Yes,NY,No,No,NA,Yes,Yes,499
+Okaloosa,25,Female,FL resident,Unknown,NA,No,No,No,Yes,No,500
+Broward,39,Male,FL resident,Yes,United Arab Emirates,Yes,No,No,Yes,Yes,501
+Dade,38,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,502
+Marion,40,Female,FL resident,Yes,UNITED KINGDOM,No,No,No,Yes,No,503
+Dade,34,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,504
+Broward,59,Male,FL resident,No,NA,Yes,No,No,Yes,No,505
+Dade,31,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,506
+Lee,79,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,507
+Palm Beach,78,Female,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Unknown,508
+Hillsborough,28,Male,FL resident,No,NA,No,No,No,Yes,Yes,509
+Broward,33,Male,Non-FL resident,Yes,NY,Yes,Unknown,NA,Yes,Unknown,510
+Sumter,71,Male,FL resident,Yes,Belize; FL; Honduras; Mexico,No,No,No,Yes,Yes,511
+Dade,46,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,512
+Dade,13,Female,FL resident,Yes,NY,Yes,No,No,Yes,Yes,513
+Broward,32,Male,FL resident,No,NA,No,No,No,Yes,Yes,514
+Dade,59,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,515
+Dade,32,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,516
+Palm Beach,69,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,517
+Sarasota,70,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,518
+Dade,31,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,519
+Lee,23,Male,FL resident,Yes,TN,No,No,No,Yes,Yes,520
+Dade,39,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,521
+Dade,57,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,522
+Lake,48,Male,FL resident,No,NA,NA,Yes,No,Yes,No,523
+Lee,89,Female,FL resident,Yes,FL; NY,Yes,Yes,No,Yes,No,524
+Pinellas,70,Male,FL resident,Yes,Israel,No,No,No,Yes,Yes,525
+Pinellas,52,Male,FL resident,Yes,ISRAEL,No,No,No,Yes,Yes,526
+Dade,23,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,527
+Broward,63,Female,FL resident,Unknown,NA,Yes,Yes,No,Yes,Unknown,528
+Pinellas,29,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,529
+Dade,33,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,530
+Broward,42,Male,FL resident,Yes,AUSTRALIA,No,No,No,Yes,Yes,531
+Pinellas,52,Male,FL resident,Yes,Bulgaria; Germany; UT,Yes,Yes,NA,Yes,No,532
+Collier,73,Male,FL resident,Yes,Egypt,No,No,No,Yes,Unknown,533
+Dade,51,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,534
+Clay,66,Female,FL resident,No,NA,No,Yes,No,Yes,Yes,535
+Pasco,48,Male,FL resident,No,NA,NA,Yes,NA,Yes,Unknown,536
+Collier,54,Female,FL resident,No,NA,No,No,No,Yes,Yes,537
+Osceola,65,Male,Non-FL resident,Yes,Canada,Yes,Yes,NA,Yes,No,538
+Dade,50,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,539
+Manatee,61,Male,FL resident,No,NA,NA,No,NA,Yes,Yes,540
+Lee,67,Male,FL resident,No,NA,NA,Yes,No,Yes,No,541
+Broward,75,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,542
+Dade,44,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,543
+St. Johns,40,Male,FL resident,No,NA,Yes,No,No,Yes,No,544
+Volusia,71,Male,FL resident,Yes,Egypt; Jordan,Yes,Yes,No,Yes,Yes,545
+Duval,57,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,546
+Palm Beach,83,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,547
+Duval,90,Male,FL resident,No,NA,Yes,Yes,NA,Yes,Yes,548
+St. Johns,64,Female,FL resident,No,NA,Yes,NA,NA,Yes,No,549
+Dade,56,Male,FL resident,Yes,Iran,Yes,No,No,Yes,Yes,550
+Broward,59,Male,FL resident,No,NA,Yes,No,No,Yes,Unknown,551
+Dade,40,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,552
+Manatee,56,Female,FL resident,No,NA,Yes,Yes,No,Yes,NA,553
+Dade,65,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,554
+Seminole,43,Female,FL resident,No,NA,Yes,No,No,Yes,No,555
+Lee,70,Male,FL resident,No,NA,NA,No,NA,Yes,Yes,556
+Broward,70,Male,FL resident,Yes,Brazil; FL,NA,Yes,NA,Yes,No,557
+Broward,57,Male,FL resident,Yes,NJ,Yes,No,No,Yes,Yes,558
+Dade,33,Male,FL resident,Unknown,NA,Yes,Yes,No,Yes,No,559
+Broward,47,Female,FL resident,Yes,Ireland; Spain; United Kingdom,No,No,NA,Yes,No,560
+Broward,25,Female,FL resident,Yes,Morocco; Spain,No,No,NA,Yes,No,561
+Duval,91,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,562
+Hillsborough,33,Female,FL resident,Yes,Egypt,NA,No,NA,Yes,No,563
+Lee,73,Male,FL resident,Unknown,NA,Yes,Yes,No,Yes,No,564
+Dade,45,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,565
+Alachua,22,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,566
+Manatee,75,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,567
+Brevard,73,Male,FL resident,No,NA,No,No,NA,Yes,No,568
+Alachua,25,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,569
+Hillsborough,27,Female,FL resident,No,NA,Unknown,Unknown,NA,Yes,NA,570
+Manatee,64,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,571
+Seminole,64,Female,FL resident,Yes,CA,No,No,No,Yes,Unknown,572
+Desoto,32,Male,FL resident,No,NA,No,No,No,Yes,Unknown,573
+Lake,34,Male,FL resident,No,NA,Yes,No,No,Yes,Unknown,574
+Broward,90,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,575
+Clay,68,Female,FL resident,No,NA,Yes,Yes,NA,Yes,No,576
+Unknown,36,Male,Non-FL resident,Yes,GA,Yes,No,NA,Yes,Unknown,577
+Duval,33,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,578
+Orange,52,Female,FL resident,No,NA,NA,No,NA,Yes,No,579
+Alachua,23,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,580
+Hillsborough,38,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,581
+Dade,70,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,582
+Duval,89,Female,FL resident,No,NA,No,No,No,Yes,Yes,583
+Palm Beach,84,Male,FL resident,No,NA,Yes,Unknown,No,Yes,Yes,584
+St. Lucie,77,Male,FL resident,Yes,Caribbean,No,No,No,Yes,No,585
+Dade,84,Female,FL resident,Yes,NY,Yes,Yes,NA,Yes,Yes,586
+Putnam,82,Female,FL resident,No,NA,No,No,No,Yes,Unknown,587
+Seminole,56,Male,FL resident,Yes,AL,No,No,No,Yes,No,588
+Dade,55,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,589
+Palm Beach,64,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,590
+Dade,26,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,591
+Dade,74,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,592
+Pinellas,59,Male,FL resident,No,NA,NA,Unknown,NA,Yes,No,593
+Dade,62,Female,FL resident,Yes,Israel,Yes,No,No,Yes,Yes,594
+Pasco,44,Male,FL resident,Yes,TX,No,No,No,Yes,Unknown,595
+Orange,37,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,596
+Orange,73,Female,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,597
+Osceola,50,Male,FL resident,Yes,Europe,No,No,No,Yes,Yes,598
+Manatee,63,Female,FL resident,No,NA,NA,Yes,NA,Yes,Yes,599
+Lake,26,Male,FL resident,No,NA,No,No,No,Yes,Yes,600
+Dade,59,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,601
+Dade,37,Male,FL resident,Yes,DC; FL,Yes,No,NA,Yes,Yes,602
+Broward,79,Female,FL resident,Yes,CO; FL,No,No,No,Yes,Yes,603
+Lee,90,Female,FL resident,No,NA,NA,No,NA,Yes,Yes,604
+Broward,50,Female,FL resident,No,NA,No,No,No,Yes,Yes,605
+Orange,61,Male,FL resident,No,NA,Yes,Yes,No,Yes,NA,606
+Broward,52,Male,FL resident,Yes,Egypt,NA,No,NA,Yes,Yes,607
+Osceola,22,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,608
+Highlands,78,Female,FL resident,No,NA,Yes,Yes,No,Yes,No,609
+Palm Beach,64,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,610
+Pinellas,70,Female,FL resident,Yes,BELIZE; HONDURAS; MEXICO,NA,No,NA,Yes,Yes,611
+Leon,58,Female,FL resident,Yes,GA,Yes,Yes,No,Yes,Yes,612
+Dade,49,Male,FL resident,Yes,Europe,Yes,Yes,No,Yes,No,613
+Broward,77,Male,FL resident,Unknown,NA,Yes,Yes,Yes,Yes,Yes,614
+Broward,46,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,615
+Palm Beach,48,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,616
+Orange,20,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,617
+Broward,26,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,618
+Broward,69,Male,FL resident,No,NA,No,No,No,Yes,Yes,619
+Hillsborough,36,Male,FL resident,No,NA,Yes,No,NA,Yes,No,620
+Dade,66,Male,Non-FL resident,Yes,FL; NY,Yes,Yes,NA,Yes,No,621
+Broward,42,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,622
+Brevard,32,Female,FL resident,No,NA,No,No,No,Yes,Yes,623
+Collier,66,Male,FL resident,Yes,France; Italy; Spain,NA,No,NA,Yes,No,624
+Manatee,65,Male,FL resident,No,NA,Unknown,No,NA,Yes,Yes,625
+St. Johns,46,Male,Non-FL resident,Yes,FL; MN,Yes,Unknown,NA,Yes,No,626
+Broward,66,Male,FL resident,No,NA,No,No,No,Yes,Yes,627
+Hillsborough,60,Male,FL resident,Yes,CA,Yes,No,No,Yes,No,628
+Osceola,31,Male,FL resident,Yes,Brazil,Yes,Yes,No,Yes,No,629
+Pinellas,60,Male,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,630
+Palm Beach,56,Female,FL resident,Yes,Egypt; Germany,Yes,No,No,Yes,Yes,631
+Pinellas,63,Female,FL resident,Yes,FL; NY,No,No,No,Yes,Yes,632
+Dade,42,Male,FL resident,Yes,Spain,Yes,Yes,No,Yes,No,633
+Broward,44,Male,FL resident,Yes,NY,Yes,No,No,Yes,No,634
+Broward,58,Male,FL resident,No,NA,No,No,No,Yes,Yes,635
+Hillsborough,28,Male,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Unknown,636
+Volusia,89,Female,FL resident,No,NA,Yes,Yes,No,Yes,Yes,637
+Alachua,62,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Unknown,638
+Citrus,60,Female,FL resident,No,NA,NA,No,NA,Yes,Yes,639
+Broward,33,Unknown,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,640
+Broward,26,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,Yes,641
+Collier,17,Female,Non-FL resident,Yes,UNITED KINGDOM,Yes,No,NA,Yes,No,642
+Hillsborough,20,Female,FL resident,Yes,Venezuela,NA,No,NA,Yes,No,643
+Dade,31,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,644
+Orange,41,Female,FL resident,No,NA,Yes,Yes,No,Yes,No,645
+Palm Beach,76,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,646
+Broward,20,Male,FL resident,Yes,Brazil; Spain,No,No,No,Yes,No,647
+St. Johns,76,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,648
+Duval,57,Male,FL resident,Yes,FL; Unknown,NA,Yes,NA,Yes,Yes,649
+Dade,28,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,650
+Dade,35,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,651
+Palm Beach,71,Male,FL resident,Unknown,NA,No,No,No,Yes,No,652
+Broward,24,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,653
+Osceola,29,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,654
+Broward,58,Female,FL resident,No,NA,Yes,No,No,Yes,No,655
+Pinellas,58,Male,FL resident,Yes,FL; Israel,No,No,No,Yes,Yes,656
+Dade,75,Male,FL resident,Yes,Europe; France; Spain,Yes,No,NA,Yes,Yes,657
+Brevard,49,Male,FL resident,No,NA,Yes,No,NA,Yes,Yes,658
+Osceola,58,Male,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,659
+Palm Beach,70,Male,FL resident,Unknown,NA,Yes,No,No,Yes,Unknown,660
+Dade,43,Female,FL resident,Yes,UT,NA,No,NA,Yes,Yes,661
+Dade,49,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,662
+Clay,70,Male,FL resident,No,NA,Yes,Yes,Yes,Yes,Yes,663
+Volusia,32,Female,FL resident,No,NA,No,No,No,Yes,Unknown,664
+Seminole,47,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,665
+Dade,78,Male,FL resident,No,NA,Yes,No,NA,Yes,No,666
+Dade,77,Female,FL resident,Yes,Egypt; Iran; United Arab Emirates,Yes,No,No,Yes,No,667
+Lee,67,Male,FL resident,No,NA,No,No,No,Yes,Yes,668
+Broward,83,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,669
+Alachua,61,Male,FL resident,No,NA,Yes,Yes,NA,Yes,No,670
+Broward,54,Male,FL resident,Yes,FL; IL,No,Yes,No,Yes,Yes,671
+Citrus,77,Female,FL resident,No,NA,NA,No,NA,Yes,Yes,672
+Marion,48,Female,FL resident,Yes,FL; Ireland,No,No,No,Yes,No,673
+Dade,42,Female,FL resident,No,NA,Yes,No,No,Yes,No,674
+Collier,64,Female,FL resident,Yes,Egypt,No,No,No,Yes,Unknown,675
+Volusia,48,Female,FL resident,Yes,DC; FL,Yes,Yes,No,Yes,No,676
+Dade,39,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,677
+St. Johns,38,Female,FL resident,Yes,MN,Yes,No,No,Yes,No,678
+Dade,49,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,679
+Palm Beach,30,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,680
+Dade,47,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,681
+Dade,64,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,682
+Collier,76,Male,FL resident,Yes,NY,No,No,No,Yes,Yes,683
+Hillsborough,50,Male,FL resident,Yes,Spain,No,No,No,Yes,Unknown,684
+Lake,75,Female,FL resident,Yes,FL; NY,Yes,No,No,Yes,Yes,685
+Hillsborough,51,Male,FL resident,Unknown,NA,No,No,No,Yes,No,686
+Volusia,23,Female,FL resident,Yes,SPAIN,No,No,No,Yes,Unknown,687
+Broward,29,Male,FL resident,Unknown,NA,Yes,No,No,Yes,No,688
+Polk,60,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,689
+Volusia,62,Male,FL resident,No,NA,No,Yes,No,Yes,Unknown,690
+Dade,37,Male,FL resident,Unknown,NA,Unknown,Unknown,Unknown,Yes,NA,691
+Palm Beach,69,Female,FL resident,Unknown,NA,NA,Unknown,NA,Yes,NA,692
+Palm Beach,47,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,693
+Volusia,70,Female,FL resident,Yes,Egypt; Jordan,Unknown,Yes,No,Yes,Yes,694
+Dade,20,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,695
+Dade,25,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,696
+Polk,8,Male,FL resident,No,NA,NA,NA,NA,Yes,Yes,697
+Dade,40,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,698
+Broward,56,Female,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,699
+Collier,61,Male,FL resident,Yes,Canada,NA,No,NA,Yes,NA,700
+Broward,75,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,701
+Broward,19,Male,FL resident,Yes,NY,Yes,No,No,Yes,Yes,702
+Highlands,77,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,703
+Dade,52,Male,FL resident,Yes,Peru,Yes,No,No,Yes,No,704
+Lee,21,Female,FL resident,Yes,SPAIN,Yes,No,No,Yes,No,705
+Broward,21,Female,FL resident,Yes,Mexico,Unknown,No,NA,Yes,No,706
+Dade,52,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,707
+Dade,36,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,708
+Collier,31,Female,FL resident,Yes,Egypt,Yes,No,No,Yes,No,709
+Dade,57,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,710
+Alachua,30,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,711
+Bay,47,Male,Non-FL resident,Yes,TX,Yes,Yes,NA,Yes,Unknown,712
+Broward,72,Female,FL resident,Yes,France,No,No,No,Yes,Unknown,713
+Dade,40,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,714
+Alachua,21,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,715
+Broward,54,Male,FL resident,No,NA,Yes,No,No,Yes,No,716
+Dade,57,Female,FL resident,Unknown,NA,NA,No,NA,Yes,NA,717
+Hillsborough,23,Male,FL resident,No,NA,No,No,No,Yes,Yes,718
+Duval,78,Female,FL resident,No,NA,Yes,Yes,NA,Yes,No,719
+Dade,33,Male,FL resident,Unknown,NA,Yes,No,No,Yes,Unknown,720
+Orange,49,Male,FL resident,Unknown,NA,Yes,Yes,No,Yes,Unknown,721
+Duval,68,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,722
+Dade,43,Male,FL resident,Unknown,NA,Yes,Yes,NA,Yes,NA,723
+Sarasota,87,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,724
+Palm Beach,82,Male,FL resident,Unknown,NA,Yes,Yes,No,Yes,Unknown,725
+Escambia,51,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,726
+St. Johns,49,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,727
+Alachua,23,Female,FL resident,Yes,FL; NY,Unknown,Unknown,NA,Yes,No,728
+Monroe,54,Female,FL resident,Yes,France,No,No,NA,Yes,No,729
+Orange,56,Male,FL resident,No,NA,Unknown,Unknown,NA,Yes,NA,730
+Dade,55,Female,FL resident,No,NA,No,No,NA,Yes,Yes,731
+Sarasota,76,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,732
+Broward,36,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,733
+Broward,95,Male,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,734
+Dade,61,Female,FL resident,Yes,Spain,Yes,No,NA,Yes,Yes,735
+Alachua,68,Female,Non-FL resident,Yes,GA,No,Yes,NA,Yes,No,736
+Dade,64,Male,Non-FL resident,Unknown,NA,Yes,No,NA,Yes,Unknown,737
+Dade,72,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,738
+Dade,34,Female,FL resident,Unknown,NA,No,No,NA,Yes,NA,739
+Dade,60,Female,Non-FL resident,Unknown,NA,NA,Unknown,NA,Yes,Unknown,740
+Pinellas,67,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,741
+Broward,86,Male,FL resident,No,NA,Yes,No,No,Yes,No,742
+Orange,46,Male,FL resident,Unknown,NA,Yes,Yes,No,Yes,NA,743
+Alachua,49,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,744
+Osceola,20,Female,Non-FL resident,Yes,Spain,No,No,NA,Yes,No,745
+Dade,42,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,746
+Broward,22,Female,FL resident,No,NA,No,No,No,Yes,No,747
+Broward,42,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,748
+Duval,57,Female,FL resident,Yes,Ireland; United Kingdom,No,No,No,Yes,NA,749
+Lake,80,Male,FL resident,Yes,Belize; Caribbean; FL,No,No,No,Yes,No,750
+Alachua,50,Female,FL resident,Yes,Bahamas; FL,Yes,Yes,No,Yes,Yes,751
+Osceola,20,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,752
+Broward,53,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,753
+Dade,38,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,754
+Dade,32,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,755
+Dade,47,Female,FL resident,Unknown,NA,Unknown,No,No,Yes,Yes,756
+Broward,62,Male,FL resident,No,NA,No,No,No,Yes,Unknown,757
+Dade,75,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,758
+Palm Beach,74,Male,FL resident,Yes,Belgium; FL,Yes,Yes,No,Yes,No,759
+Broward,76,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,760
+Palm Beach,73,Male,FL resident,Yes,Egypt; Germany,Yes,Yes,No,Yes,Yes,761
+Broward,51,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,762
+Clay,57,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,763
+Broward,36,Male,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,764
+Broward,36,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,765
+Alachua,2,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,766
+Seminole,57,Female,FL resident,Yes,Egypt,Yes,No,No,Yes,Yes,767
+Duval,69,Unknown,Non-FL resident,Unknown,NA,NA,NA,NA,Yes,NA,768
+Broward,80,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,769
+Broward,96,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,770
+Broward,71,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,771
+Broward,68,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,772
+Dade,47,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,773
+Orange,21,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,774
+Orange,33,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,775
+Duval,20,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,776
+Dade,29,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,777
+Broward,51,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,778
+Dade,36,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,779
+Dade,58,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,780
+Citrus,64,Male,FL resident,No,NA,NA,No,NA,Yes,Yes,781
+Broward,49,Female,FL resident,No,NA,Yes,Yes,No,Yes,No,782
+Duval,83,Male,FL resident,No,NA,Yes,Yes,Yes,Yes,Yes,783
+Broward,19,Male,FL resident,Yes,IRELAND,No,No,No,Yes,Yes,784
+Dade,37,Male,FL resident,Yes,El Salvador; FL; Mexico; Spain,Yes,Yes,No,Yes,Unknown,785
+Manatee,72,Female,FL resident,No,NA,Yes,No,NA,Yes,Yes,786
+Broward,65,Male,FL resident,Yes,PERU,Yes,Yes,NA,Yes,Yes,787
+Lee,66,Male,FL resident,Yes,Colombia; Ecuador,No,No,No,Yes,Unknown,788
+Dade,83,Male,FL resident,Unknown,NA,Yes,Yes,NA,Yes,Yes,789
+Leon,55,Male,FL resident,Yes,GA,Yes,No,No,Yes,Yes,790
+Broward,94,Male,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,791
+Dade,57,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,792
+Broward,58,Male,FL resident,No,NA,No,No,No,Yes,Yes,793
+Dade,62,Male,FL resident,Yes,FL; NY,Yes,No,No,Yes,Unknown,794
+Pasco,73,Female,Non-FL resident,Yes,Spain,No,No,NA,Yes,No,795
+Orange,40,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,796
+Broward,82,Male,FL resident,Unknown,NA,Yes,Yes,No,Yes,Yes,797
+Broward,42,Male,FL resident,No,NA,No,No,No,Yes,Yes,798
+Pinellas,58,Male,FL resident,Yes,CO,Yes,Yes,No,Yes,No,799
+Palm Beach,66,Male,FL resident,No,NA,No,No,No,Yes,Unknown,800
+Seminole,76,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,801
+Broward,64,Male,FL resident,Yes,France; GA; NC; Spain,No,No,NA,Yes,Yes,802
+Dade,53,Female,FL resident,Yes,FL; UNKNOWN,NA,NA,NA,Yes,Unknown,803
+Orange,42,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,804
+Dade,69,Female,Non-FL resident,Unknown,NA,Yes,No,NA,Yes,Yes,805
+Indian River,54,Male,FL resident,No,NA,No,No,No,Yes,No,806
+Broward,17,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,807
+Palm Beach,45,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,808
+Broward,37,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,809
+Orange,28,Female,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Unknown,810
+Marion,59,Female,FL resident,Unknown,NA,No,No,No,Yes,No,811
+Palm Beach,19,Female,FL resident,Yes,TN,Unknown,No,No,Yes,Yes,812
+Okaloosa,25,Male,FL resident,Yes,CA,No,No,No,Yes,No,813
+Pinellas,32,Male,FL resident,No,NA,No,No,No,Yes,Yes,814
+Brevard,64,Female,FL resident,Yes,DC; FL; NY; PA,Yes,No,No,Yes,Unknown,815
+Dade,50,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,816
+Osceola,79,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,817
+Volusia,60,Female,FL resident,Yes,Egypt; Germany; Israel,No,No,No,Yes,Yes,818
+Dade,44,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,819
+Dade,38,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,820
+St. Johns,49,Male,FL resident,Yes,Europe; Hungary,Yes,No,No,Yes,No,821
+Orange,42,Male,FL resident,No,NA,No,No,No,Yes,Yes,822
+Dade,48,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,823
+Dade,33,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,824
+Broward,21,Female,FL resident,Yes,Spain,No,No,No,Yes,Unknown,825
+Alachua,27,Female,FL resident,No,NA,Unknown,No,No,Yes,No,826
+Dade,20,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,827
+Palm Beach,41,Male,FL resident,Yes,NV; UT; WY,No,No,No,Yes,No,828
+Dade,48,Female,FL resident,Yes,FRANCE,Yes,No,No,Yes,No,829
+Broward,20,Male,FL resident,No,NA,No,No,No,Yes,No,830
+Volusia,60,Female,FL resident,No,NA,No,No,No,Yes,Yes,831
+Osceola,18,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,832
+Monroe,72,Female,FL resident,Yes,FL; United Kingdom,NA,No,NA,Yes,Unknown,833
+Pinellas,54,Female,FL resident,Yes,NY,NA,NA,NA,Yes,NA,834
+Alachua,22,Male,FL resident,No,NA,No,No,NA,Yes,Yes,835
+Charlotte,55,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,836
+Broward,67,Male,FL resident,No,NA,No,No,No,Yes,Yes,837
+Dade,42,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,838
+Palm Beach,65,Male,FL resident,Yes,NY,Yes,Yes,No,Yes,Yes,839
+Orange,79,Female,FL resident,Unknown,NA,Yes,Yes,Yes,Yes,No,840
+Dade,21,Male,FL resident,Yes,SPAIN,Yes,No,No,Yes,Unknown,841
+Dade,45,Male,FL resident,Unknown,NA,Yes,Unknown,No,Yes,Yes,842
+Broward,64,Male,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,843
+Broward,33,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,Yes,844
+Sumter,78,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,845
+Osceola,64,Female,FL resident,Yes,Spain,NA,No,NA,Yes,NA,846
+Broward,50,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,847
+Broward,30,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,848
+Broward,26,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,849
+Collier,17,Male,FL resident,Unknown,NA,No,No,No,Yes,Unknown,850
+Broward,53,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,851
+Orange,82,Female,FL resident,Yes,NY,Yes,Yes,No,Yes,Unknown,852
+Okaloosa,45,Female,FL resident,Yes,GA,No,No,No,Yes,No,853
+Broward,59,Male,FL resident,No,NA,No,Yes,No,Yes,Yes,854
+Dade,33,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,855
+Dade,34,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,856
+Pinellas,21,Female,FL resident,Yes,Spain,No,No,No,Yes,No,857
+Broward,55,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,858
+Broward,30,Female,FL resident,No,NA,Unknown,Unknown,NA,Yes,NA,859
+Dade,67,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,860
+Broward,75,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,861
+Broward,40,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,862
+Duval,27,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,863
+Broward,19,Female,FL resident,Yes,Spain,No,No,No,Yes,Yes,864
+Hillsborough,33,Male,FL resident,Unknown,NA,No,No,No,Yes,Yes,865
+Dade,59,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,Yes,866
+Sarasota,73,Female,Non-FL resident,Yes,FL; NY,Unknown,Yes,NA,Yes,Yes,867
+Orange,68,Female,Not diagnosed/isolated in FL,Yes,Philippines; South Korea,NA,NA,Yes,Yes,NA,868
+Dade,42,Female,FL resident,Yes,FL; IL,Yes,No,No,Yes,Yes,869
+Pasco,64,Female,FL resident,Yes,FL; NY,Yes,Yes,No,Yes,Yes,870
+Broward,29,Male,FL resident,Yes,NJ; NY,Yes,No,NA,Yes,No,871
+Dade,38,Male,FL resident,Yes,Brazil,NA,NA,NA,Yes,NA,872
+Broward,21,Female,FL resident,Yes,Spain,Yes,No,No,Yes,Yes,873
+Broward,55,Male,FL resident,No,NA,No,No,No,Yes,No,874
+Orange,22,Female,Non-FL resident,Yes,FL; NC,Yes,No,NA,Yes,Unknown,875
+Alachua,37,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,876
+Broward,59,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,877
+Palm Beach,64,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,878
+Palm Beach,69,Female,FL resident,No,NA,Yes,No,No,Yes,Unknown,879
+Pinellas,66,Female,FL resident,Yes,FL; NV,Yes,Yes,No,Yes,No,880
+Hillsborough,28,Male,FL resident,No,NA,Unknown,No,NA,Yes,NA,881
+Sarasota,80,Male,FL resident,Yes,ISRAEL,No,No,No,Yes,Unknown,882
+Pinellas,62,Male,Non-FL resident,Yes,BAHAMAS; ECUADOR; FL,Yes,Yes,NA,Yes,Yes,883
+Palm Beach,19,Male,FL resident,Yes,NY,No,No,No,Yes,Unknown,884
+Hillsborough,60,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,885
+Dade,59,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,886
+Dade,44,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,887
+Broward,57,Female,FL resident,No,NA,No,No,No,Yes,Yes,888
+Volusia,37,Female,FL resident,No,NA,No,No,No,Yes,Yes,889
+Broward,19,Female,FL resident,Yes,IRELAND,Yes,No,No,Yes,Yes,890
+Dade,39,Female,FL resident,Yes,FL; NY,NA,Yes,NA,Yes,No,891
+Palm Beach,81,Male,FL resident,Yes,NY,Yes,Yes,No,Yes,Yes,892
+Columbia,70,Female,FL resident,No,NA,NA,NA,NA,Yes,NA,893
+Duval,84,Unknown,FL resident,Unknown,NA,Yes,Yes,NA,Yes,No,894
+Dade,68,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,895
+Palm Beach,76,Female,FL resident,Yes,France,Unknown,Yes,NA,Yes,Unknown,896
+Pasco,67,Male,FL resident,Yes,FL; NY,Yes,Yes,No,Yes,Yes,897
+Palm Beach,66,Male,FL resident,Unknown,NA,Yes,Unknown,No,Yes,Unknown,898
+Duval,83,Male,FL resident,No,NA,NA,Yes,NA,Yes,No,899
+Broward,32,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,900
+Dade,30,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,901
+Duval,84,Female,FL resident,No,NA,Yes,Yes,No,Yes,Yes,902
+Citrus,63,Male,FL resident,No,NA,Yes,Yes,NA,Yes,No,903
+Hillsborough,50,Male,FL resident,Yes,UNITED KINGDOM,No,No,No,Yes,NA,904
+Sumter,67,Female,FL resident,Yes,Belize; FL; Honduras; Mexico,No,No,No,Yes,Yes,905
+Palm Beach,28,Male,FL resident,No,NA,Yes,No,No,Yes,Unknown,906
+Palm Beach,61,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,907
+Dade,81,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,908
+Lee,59,Female,FL resident,No,NA,No,No,No,Yes,No,909
+Broward,80,Female,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,910
+Broward,84,Female,FL resident,Unknown,NA,NA,Unknown,NA,Yes,Yes,911
+Pinellas,72,Male,FL resident,No,NA,Yes,Yes,NA,Yes,No,912
+Citrus,33,Female,FL resident,No,NA,NA,No,NA,Yes,No,913
+St. Johns,42,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,914
+Dade,47,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,915
+Palm Beach,69,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,916
+Sumter,67,Male,FL resident,Yes,FL; MA,Yes,Yes,No,Yes,No,917
+Orange,38,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,918
+Dade,51,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,919
+Volusia,66,Female,FL resident,Yes,Egypt; Germany; Israel,Yes,No,No,Yes,Yes,920
+Broward,60,Male,FL resident,No,NA,No,No,No,Yes,Yes,921
+Broward,51,Male,FL resident,No,NA,Yes,No,No,Yes,No,922
+St. Johns,63,Male,Non-FL resident,Yes,NY,Yes,Yes,NA,Yes,No,923
+Collier,84,Female,FL resident,No,NA,Yes,Yes,No,Yes,No,924
+Palm Beach,56,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,925
+Dade,66,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Yes,926
+Palm Beach,20,Female,Non-FL resident,Unknown,NA,No,No,NA,Yes,Unknown,927
+Broward,70,Male,FL resident,Unknown,NA,Yes,Yes,No,Yes,Unknown,928
+Orange,48,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,929
+Broward,77,Female,FL resident,No,NA,Yes,No,No,Yes,Unknown,930
+Martin,45,Female,FL resident,Yes,Brazil; FL,No,No,No,Yes,Unknown,931
+Alachua,33,Male,FL resident,No,NA,NA,Unknown,NA,Yes,NA,932
+Clay,55,Female,FL resident,No,NA,No,No,No,Yes,Yes,933
+Broward,20,Female,FL resident,Yes,Ireland,No,No,No,Yes,Yes,934
+Dade,52,Male,FL resident,Yes,CA; NY,Yes,Yes,No,Yes,Unknown,935
+Dade,48,Male,FL resident,No,NA,Unknown,No,NA,Yes,Yes,936
+Dade,45,Male,FL resident,Yes,Ecuador,Yes,No,NA,Yes,No,937
+Palm Beach,72,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,938
+Palm Beach,88,Male,FL resident,Unknown,NA,Yes,Yes,Yes,Yes,No,939
+Duval,88,Male,FL resident,No,NA,Yes,Yes,Yes,Yes,Yes,940
+Lake,43,Female,FL resident,No,NA,No,Yes,NA,Yes,No,941
+Dade,36,Female,FL resident,Unknown,NA,Yes,No,No,Yes,Yes,942
+Orange,55,Female,FL resident,No,NA,Yes,Yes,No,Yes,No,943
+Orange,51,Male,FL resident,No,NA,Yes,No,No,Yes,No,944
+Pinellas,37,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,945
+Broward,55,Male,FL resident,Yes,NV,No,No,No,Yes,Unknown,946
+Lake,56,Male,FL resident,Yes,CO; FL,Yes,No,No,Yes,No,947
+Dade,39,Male,FL resident,Unknown,NA,Yes,No,NA,Yes,Yes,948
+Broward,20,Female,FL resident,Yes,Spain,Yes,No,No,Yes,Yes,949
+Sarasota,78,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,950
+Charlotte,59,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,951
+Hillsborough,50,Female,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,952
+Flagler,45,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,953
+Broward,65,Male,FL resident,No,NA,Yes,Unknown,No,Yes,Yes,954
+Orange,52,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,955
+Collier,61,Female,FL resident,Unknown,NA,No,No,No,Yes,No,956
+Polk,35,Male,FL resident,Yes,France; United Kingdom,Yes,Yes,No,Yes,No,957
+Broward,41,Male,Non-FL resident,Yes,Spain,Yes,Yes,NA,Yes,Unknown,958
+Broward,20,Male,FL resident,Yes,NJ,Unknown,No,NA,Yes,Unknown,959
+Indian River,81,Female,FL resident,No,NA,No,Yes,No,Yes,No,960
+Sumter,75,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Unknown,961
+Dade,28,Female,FL resident,Yes,Ireland,No,No,No,Yes,Yes,962
+Seminole,68,Female,FL resident,Yes,Egypt; Jordan,Yes,Yes,No,Yes,Yes,963
+Orange,73,Male,FL resident,Unknown,NA,Unknown,Yes,NA,Yes,NA,964
+Alachua,64,Female,Non-FL resident,Yes,FL; NY,Yes,No,NA,Yes,No,965
+Dade,35,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,966
+Manatee,67,Female,FL resident,No,NA,Yes,Yes,No,Yes,Yes,967
+Palm Beach,38,Male,FL resident,Unknown,NA,Yes,No,No,Yes,Unknown,968
+Dade,25,Male,FL resident,No,NA,Yes,No,NA,Yes,Yes,969
+Lee,57,Male,Non-FL resident,Yes,FL; France; United Kingdom,No,No,NA,Yes,Unknown,970
+Duval,41,Female,FL resident,Unknown,NA,Yes,Yes,NA,Yes,No,971
+Broward,48,Male,Non-FL resident,Yes,GA,NA,No,NA,Yes,NA,972
+Broward,60,Male,FL resident,No,NA,No,No,No,Yes,Yes,973
+Broward,43,Male,FL resident,Yes,NY,No,No,NA,Yes,Yes,974
+Orange,32,Female,FL resident,No,NA,Yes,No,No,Yes,Unknown,975
+Broward,66,Male,FL resident,No,NA,No,No,No,Yes,Yes,976
+Broward,57,Male,FL resident,No,NA,No,No,No,Yes,Yes,977
+Dade,42,Male,FL resident,Yes,Puerto Rico; SC,Yes,Yes,NA,Yes,No,978
+Pinellas,30,Male,FL resident,Yes,FL; Mexico,Yes,No,No,Yes,No,979
+Pasco,67,Male,FL resident,Yes,CA,No,No,NA,Yes,Unknown,980
+Alachua,68,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,981
+Dade,52,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,982
+Dade,64,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,983
+Broward,60,Male,FL resident,No,NA,NA,Yes,NA,Yes,Yes,984
+Hillsborough,62,Male,FL resident,Yes,FL; NY,No,No,No,Yes,Yes,985
+Osceola,76,Male,FL resident,No,NA,Yes,No,No,Yes,No,986
+St. Johns,47,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,987
+Broward,94,Male,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,988
+Duval,19,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,989
+Hillsborough,28,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,990
+Hillsborough,52,Male,FL resident,No,NA,No,No,No,Yes,No,991
+St. Johns,69,Male,FL resident,No,NA,Yes,No,No,Yes,No,992
+Pasco,69,Male,FL resident,Yes,France; Portugal; Switzerland,No,No,NA,Yes,Unknown,993
+Okaloosa,59,Female,FL resident,Yes,Europe,Yes,Yes,No,Yes,No,994
+Hillsborough,69,Female,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,995
+Dade,26,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,996
+Broward,71,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,997
+Dade,41,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,998
+Dade,36,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,999
+Osceola,39,Male,Non-FL resident,Unknown,NA,Yes,Yes,NA,Yes,No,1000
+Dade,11,Male,FL resident,Yes,NY,Yes,No,No,Yes,Yes,1001
+Broward,93,Female,FL resident,No,NA,Yes,Unknown,No,Yes,Yes,1002
+Pinellas,62,Female,FL resident,Yes,ID,Yes,No,No,Yes,No,1003
+Broward,92,Male,FL resident,No,NA,No,No,Yes,Yes,Unknown,1004
+Manatee,75,Male,FL resident,Unknown,NA,NA,Yes,NA,Yes,NA,1005
+Broward,93,Male,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,1006
+Dade,64,Female,FL resident,No,NA,No,No,No,Yes,No,1007
+Palm Beach,21,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1008
+Hillsborough,19,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1009
+Pasco,50,Male,FL resident,Yes,MEXICO,No,No,NA,Yes,Yes,1010
+Hillsborough,19,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,1011
+Polk,49,Female,FL resident,No,NA,Yes,Yes,NA,Yes,No,1012
+Hillsborough,46,Female,FL resident,Yes,Egypt,Unknown,Unknown,NA,Yes,No,1013
+Broward,77,Male,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,1014
+Seminole,21,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1015
+Broward,53,Male,FL resident,Yes,FL; Unknown,No,No,No,Yes,No,1016
+Palm Beach,50,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1017
+Alachua,22,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1018
+Hillsborough,21,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1019
+Volusia,66,Female,FL resident,Yes,IRELAND,No,No,No,Yes,Yes,1020
+Collier,64,Male,FL resident,Yes,Bahamas; Belize; FL; Honduras; Mexico,No,No,No,Yes,Yes,1021
+Collier,47,Female,FL resident,Yes,France; Italy; Spain,NA,No,NA,Yes,NA,1022
+Pinellas,29,Female,FL resident,Yes,Spain,No,No,No,Yes,Yes,1023
+Hillsborough,21,Male,FL resident,Unknown,NA,No,No,NA,Yes,NA,1024
+Duval,52,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1025
+Hillsborough,18,Male,FL resident,No,NA,No,No,No,Yes,Yes,1026
+Dade,65,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1027
+Broward,65,Male,FL resident,No,NA,No,No,No,Yes,Yes,1028
+Orange,33,Female,Non-FL resident,Yes,Peru,No,No,NA,Yes,NA,1029
+St. Johns,47,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,1030
+Broward,57,Male,FL resident,Yes,NY,Yes,No,No,Yes,Unknown,1031
+Broward,76,Male,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,1032
+Dade,22,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1033
+Broward,65,Male,FL resident,Yes,DC,No,No,No,Yes,Unknown,1034
+Osceola,47,Female,FL resident,No,NA,Yes,Yes,No,Yes,No,1035
+Broward,20,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,1036
+Collier,79,Male,FL resident,No,NA,No,No,No,Yes,No,1037
+Broward,74,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,1038
+Broward,51,Female,FL resident,Yes,Colombia,Yes,No,No,Yes,Yes,1039
+Palm Beach,29,Male,Non-FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Yes,1040
+Alachua,54,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1041
+Broward,66,Male,FL resident,Yes,NY,No,No,No,Yes,Yes,1042
+St. Johns,22,Male,FL resident,No,NA,No,No,NA,Yes,Yes,1043
+Brevard,64,Male,FL resident,Yes,HAITI,Yes,Yes,NA,Yes,No,1044
+Hillsborough,46,Male,FL resident,No,NA,NA,No,NA,Yes,Yes,1045
+Putnam,67,Male,FL resident,Yes,CA,Yes,No,No,Yes,Unknown,1046
+Alachua,68,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1047
+Hillsborough,33,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,1048
+Duval,88,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,1049
+St. Johns,67,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,1050
+Hillsborough,61,Male,Non-FL resident,Yes,GA,No,No,NA,Yes,Unknown,1051
+Duval,56,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1052
+Orange,46,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1053
+Orange,33,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1054
+Dade,51,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,1055
+Dade,56,Female,FL resident,Unknown,NA,Yes,Yes,NA,Yes,No,1056
+Broward,30,Male,FL resident,Yes,FL; NV,No,Yes,No,Yes,Unknown,1057
+Sumter,68,Male,FL resident,Yes,Egypt,Yes,Yes,No,Yes,Yes,1058
+Broward,83,Male,FL resident,Unknown,NA,No,No,No,Yes,Yes,1059
+Dade,52,Male,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,1060
+Palm Beach,72,Male,FL resident,Yes,Canada; FL,Yes,Yes,No,Yes,No,1061
+Broward,20,Female,Non-FL resident,Unknown,NA,Yes,No,NA,Yes,Yes,1062
+Lee,77,Male,FL resident,Yes,Dominican Republic,Yes,Yes,No,Yes,Yes,1063
+Dade,28,Male,FL resident,Unknown,NA,Unknown,Unknown,Unknown,Yes,NA,1064
+Indian River,30,Female,FL resident,Yes,Portugal; Spain; United Kingdom,No,No,No,Yes,No,1065
+St. Johns,53,Female,FL resident,Yes,CO,Yes,No,No,Yes,Yes,1066
+Dade,67,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1067
+Duval,22,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1068
+Broward,55,Male,FL resident,No,NA,Yes,No,No,Yes,Unknown,1069
+Hillsborough,54,Male,FL resident,No,NA,Yes,No,NA,Yes,No,1070
+Dade,70,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1071
+Hillsborough,49,Female,FL resident,Yes,FL; Ireland,Yes,Yes,No,Yes,Yes,1072
+Broward,20,Female,FL resident,Yes,Ireland,Yes,Yes,No,Yes,Yes,1073
+Dade,28,Male,FL resident,No,NA,Yes,No,No,Yes,Yes,1074
+Dade,88,Male,FL resident,Unknown,NA,Unknown,Yes,No,Yes,Unknown,1075
+Sarasota,53,Male,FL resident,No,NA,No,No,NA,Yes,Yes,1076
+Dade,32,Male,FL resident,Yes,COLOMBIA; NY; SAUDI ARABIA,Yes,No,No,Yes,No,1077
+Broward,19,Female,FL resident,Yes,IRELAND,Yes,No,No,Yes,Yes,1078
+Dade,50,Female,FL resident,Yes,Spain,Yes,Unknown,NA,Yes,No,1079
+Dade,69,Male,FL resident,Yes,IL; Israel; VA,Yes,No,No,Yes,Yes,1080
+Hillsborough,74,Female,FL resident,Unknown,NA,Unknown,Yes,NA,Yes,Yes,1081
+Hillsborough,20,Female,FL resident,No,NA,Yes,No,No,Yes,Yes,1082
+Hillsborough,38,Female,FL resident,Yes,Bosnia and Herzegovina; Germany,Unknown,No,NA,Yes,Yes,1083
+Broward,48,Female,Non-FL resident,Yes,France; IL; NY; TX,Yes,Yes,NA,Yes,Unknown,1084
+Dade,69,Female,FL resident,Unknown,NA,Yes,No,No,Yes,No,1085
+Dade,29,Male,FL resident,Yes,MA,Yes,No,No,Yes,No,1086
+Dade,50,Male,FL resident,No,NA,Yes,Yes,NA,Yes,Yes,1087
+Hillsborough,43,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,1088
+Dade,80,Female,Non-FL resident,Yes,Israel; Venezuela,Yes,No,NA,Yes,No,1089
+Orange,32,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1090
+Palm Beach,25,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1091
+Broward,39,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1092
+Hillsborough,10,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,1093
+Polk,41,Male,FL resident,Unknown,NA,Yes,No,NA,Yes,NA,1094
+Hillsborough,39,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1095
+Palm Beach,52,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1096
+Broward,43,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,1097
+Broward,17,Female,FL resident,Yes,Spain,Yes,No,No,Yes,Yes,1098
+Dade,50,Male,FL resident,No,NA,Unknown,No,No,Yes,Yes,1099
+Palm Beach,42,Female,FL resident,No,NA,Yes,Yes,No,Yes,Unknown,1100
+Hillsborough,39,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1101
+Palm Beach,29,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1102
+Duval,86,Female,FL resident,No,NA,No,No,No,Yes,Yes,1103
+Dade,27,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1104
+Clay,61,Female,FL resident,Yes,DC; FL,Yes,No,NA,Yes,Unknown,1105
+Broward,56,Male,FL resident,No,NA,No,No,No,Yes,Yes,1106
+Palm Beach,83,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1107
+Pasco,41,Female,FL resident,No,NA,No,No,NA,Yes,No,1108
+Seminole,70,Male,Non-FL resident,Yes,NY,Yes,Yes,NA,Yes,Unknown,1109
+Polk,88,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,1110
+Dade,35,Female,FL resident,Unknown,NA,Unknown,Yes,No,Yes,Unknown,1111
+Collier,75,Female,FL resident,No,NA,Yes,Yes,No,Yes,No,1112
+Dade,48,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1113
+Duval,84,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1114
+Orange,46,Male,FL resident,Yes,UNITED ARAB EMIRATES,No,No,NA,Yes,Unknown,1115
+Dade,58,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1116
+Dade,42,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1117
+Collier,77,Male,FL resident,No,NA,NA,Yes,NA,Yes,No,1118
+Broward,83,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1119
+Dade,48,Female,FL resident,Yes,Spain,Yes,No,No,Yes,Yes,1120
+Broward,35,Male,FL resident,Yes,ITALY; SPAIN,Yes,No,No,Yes,Unknown,1121
+Alachua,42,Female,FL resident,Yes,Dominican Republic; FL,No,No,No,Yes,No,1122
+Broward,33,Male,FL resident,Yes,FL; MEXICO,Yes,No,No,Yes,Unknown,1123
+Broward,65,Male,FL resident,Yes,NY,No,No,No,Yes,Yes,1124
+Pinellas,24,Male,FL resident,Yes,NY,Yes,No,No,Yes,No,1125
+Palm Beach,73,Male,Non-FL resident,Yes,NY,No,No,NA,Yes,Yes,1126
+Dade,47,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,1127
+Hernando,70,Female,FL resident,No,NA,No,No,NA,Yes,No,1128
+Dade,22,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1129
+Broward,65,Male,FL resident,No,NA,No,No,No,Yes,Yes,1130
+Broward,38,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1131
+Broward,51,Male,FL resident,No,NA,No,No,No,Yes,No,1132
+Hillsborough,60,Female,FL resident,No,NA,NA,No,NA,Yes,Yes,1133
+Duval,88,Male,FL resident,Unknown,NA,No,NA,NA,Yes,Yes,1134
+Palm Beach,43,Male,FL resident,No,NA,Yes,No,No,Yes,No,1135
+Dade,46,Male,Non-FL resident,No,NA,Yes,Yes,NA,Yes,Yes,1136
+Seminole,61,Female,FL resident,Yes,PA,NA,Yes,No,Yes,No,1137
+Lee,65,Female,FL resident,No,NA,NA,No,NA,Yes,Yes,1138
+Dade,69,Male,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,1139
+Dade,63,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1140
+Dade,49,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Yes,1141
+Broward,22,Female,FL resident,Yes,FL; NY,No,No,NA,Yes,NA,1142
+Broward,50,Male,FL resident,No,NA,No,No,No,Yes,Yes,1143
+Collier,82,Male,FL resident,No,NA,Yes,Yes,No,Yes,Yes,1144
+Dade,44,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1145
+Dade,36,Male,Non-FL resident,Yes,Spain,Yes,No,NA,Yes,No,1146
+Osceola,57,Female,FL resident,Yes,NY,No,No,NA,Yes,Unknown,1147
+Dade,53,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1148
+Broward,51,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1149
+Palm Beach,26,Male,FL resident,Yes,BAHAMAS; FL,Yes,No,No,Yes,No,1150
+Volusia,39,Male,FL resident,Yes,Trinidad and Tobago,No,No,No,Yes,Yes,1151
+Dade,64,Male,Not diagnosed/isolated in FL,Yes,Japan,NA,Unknown,No,Yes,Yes,1152
+Dade,32,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1153
+Lee,32,Male,FL resident,No,NA,Yes,Yes,No,Yes,No,1154
+Hillsborough,38,Female,FL resident,Yes,FL; NJ; NY,Yes,Yes,No,Yes,No,1155
+Pinellas,45,Male,FL resident,Yes,NY,Unknown,Unknown,NA,Yes,Unknown,1156
+Dade,11,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,Yes,1157
+Baker,76,Male,FL resident,No,NA,NA,No,NA,Yes,Yes,1158
+Broward,31,Unknown,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,1159
+Duval,82,Female,FL resident,Unknown,NA,No,No,NA,Yes,Yes,1160
+Dade,78,Unknown,FL resident,Unknown,NA,NA,NA,NA,Yes,NA,1161
+Indian River,58,Female,FL resident,Yes,IRELAND,Yes,No,No,Yes,No,1162
+Alachua,30,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1163
+Broward,22,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1164
+Broward,15,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1165
+Broward,67,Male,FL resident,Yes,CO,Yes,Yes,No,Yes,Unknown,1166
+Volusia,55,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1167
+Hillsborough,40,Female,FL resident,No,NA,Yes,Yes,No,Yes,No,1168
+Hillsborough,31,Unknown,FL resident,Yes,BAHAMAS,No,No,NA,Yes,No,1169
+Dade,18,Male,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1170
+Palm Beach,64,Female,FL resident,Unknown,NA,Unknown,Unknown,NA,Yes,NA,1171

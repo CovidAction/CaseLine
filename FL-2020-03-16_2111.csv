@@ -1,0 +1,137 @@
+county,gender,age,travel
+Alachua,Male,24,Yes - PORTUGAL
+Alachua,Female,64,Yes - FL; NY
+Broward,Male,70,Unknown
+Broward,Female,20,Yes - IRELAND
+Broward,Male,39,Yes - UNITED ARAB EMIRATES
+Broward,Female,22,Yes - IRELAND
+Broward,Female,83,No
+Broward,Female,51,Yes - COLOMBIA
+Broward,Male,74,No
+Broward,Male,63,No
+Broward,Female,19,Yes - IRELAND
+Broward,Male,60,No
+Broward,Male,66,No
+Broward,Male,58,No
+Broward,Male,65,No
+Broward,Female,68,No
+Broward,Female,19,Yes - IRELAND
+Broward,Male,36,No
+Broward,Male,83,Unknown
+Broward,Male,60,Yes - SPAIN
+Broward,Male,65,Yes - DC
+Broward,Male,76,Yes - TRINIDAD AND TOBAGO
+Broward,Male,59,No
+Broward,Female,20,Yes - IRELAND
+Broward,Female,68,No
+Broward,Male,65,Yes - CAYMAN ISLANDS
+Broward,Female,54,No
+Broward,Female,63,Unknown
+Broward,Male,64,Yes - FRANCE; GA; NC; SPAIN
+Broward,Male,61,Yes - ITALY
+Broward,Male,65,No
+Broward,Female,26,Yes - TRINIDAD AND TOBAGO
+Broward,Male,21,Yes - ITALY; SPAIN
+Broward,Female,52,Yes - FRANCE
+Broward,Male,30,Yes - FL; GA
+Broward,Female,20,Yes - IRELAND
+Broward,Female,27,No
+Broward,Female,20,Yes - IRELAND
+Broward,Male,67,No
+Broward,Female,19,Yes - IRELAND
+Broward,Male,75,No
+Charlotte,Female,54,Yes - EGYPT; ISRAEL
+Citrus,Female,60,Yes - FL; SWITZERLAND
+Clay,Female,55,No
+Clay,Male,70,No
+Clay,Male,57,No
+Collier,Male,76,Yes - NY
+Collier,Female,49,No
+Collier,Male,28,Yes - ITALY
+Collier,Female,68,Yes - EGYPT
+Collier,Male,73,Yes - EGYPT
+Collier,Female,64,Yes - EGYPT
+Miami-Dade,Female,39,Yes - FL; NY
+Miami-Dade,Male,42,Yes - SPAIN
+Miami-Dade,Male,18,Unknown
+Miami-Dade,Male,29,Unknown
+Miami-Dade,Male,51,No
+Miami-Dade,Male,56,Yes - IRAN (ISLAMIC REP. OF)
+Miami-Dade,Female,66,Unknown
+Miami-Dade,Female,30,Unknown
+Miami-Dade,Male,28,No
+Miami-Dade,Female,77,Yes - EGYPT; IRAN (ISLAMIC REP. OF); UNITED ARAB EMIRATES
+Miami-Dade,Male,37,Yes - EL SALVADOR; FL; MEXICO; SPAIN
+Miami-Dade,Male,62,No
+Miami-Dade,Male,42,Yes - FRANCE
+Miami-Dade,Female,45,No
+Miami-Dade,Female,58,Yes - ITALY; SPAIN
+Miami-Dade,Female,25,Yes - SPAIN
+Miami-Dade,Male,39,Unknown
+Miami-Dade,Male,20,Yes - SPAIN
+Miami-Dade,Male,43,Yes - UT
+Miami-Dade,Male,66,Unknown
+Miami-Dade,Female,42,Unknown
+Miami-Dade,Male,56,Unknown
+Miami-Dade,Male,73,No
+Duval,Female,91,No
+Duval,Male,57,Yes - FL; UNKNOWN
+Duval,Male,83,No
+Duval,Male,88,No
+Duval,Male,66,No
+Escambia,Male,53,Yes - France
+Hillsborough,Female,29,Yes - ITALY
+Hillsborough,Male,47,Yes - CO
+Hillsborough,Male,17,No
+Hillsborough,Female,32,Yes - CO
+Hillsborough,Female,49,Yes - FL; IRELAND
+Lake,Female,75,Yes - FL; NY
+Lee,Female,72,Unknown
+Lee,Male,77,Yes - DOMINICAN REPUBLIC
+Lee,Male,77,No
+Lee,Female,77,Yes - DOMINICAN REPUBLIC
+Manatee,Female,81,Yes - EGYPT
+Manatee,Male,63,No
+Manatee,Male,70,Unknown
+Manatee,Female,67,No
+Manatee,Female,62,No
+Nassau,Male,68,Yes - GERMANY; MA
+Okaloosa,Female,61,Yes - CA; FL; MEXICO
+Orange,Female,79,Unknown
+Orange,Female,48,No
+Orange,Male,41,No
+Osceola,Male,31,Yes - BRAZIL
+Osceola,Male,54,No
+Osceola,Female,47,Unknown
+Osceola,Male,48,Yes - SWITZERLAND
+Palm Beach,Male,65,Yes - NY
+Palm Beach,Male,66,Unknown
+Palm Beach,Male,74,Yes - BELGIUM; FL
+Palm Beach,Male,62,Yes - UNITED KINGDOM
+Palm Beach,Male,73,Yes - Egypt; Germany
+Palm Beach,Female,59,Yes - NY
+Palm Beach,Male,37,Yes - NY
+Palm Beach,Female,76,Yes - FRANCE
+Pasco,Male,67,Yes - FL; NY
+Pasco,Male,46,No
+Pinellas,Male,58,Unknown
+Pinellas,Male,58,Yes - CO
+Pinellas,Male,67,Yes - EGYPT
+Pinellas,Male,64,Yes - EGYPT
+Santa Rosa,Male,71,Yes - EGYPT; ISRAEL; JORDAN
+Sarasota,Male,87,No
+Sarasota,Female,50,Yes - NY
+Sarasota,Male,80,No
+Seminole,Female,43,Unknown
+Seminole,Female,68,Yes - EGYPT; JORDAN
+Seminole,Male,47,Unknown
+Seminole,Male,68,Yes - EGYPT; JORDAN
+St. Johns,Male,49,Yes - EUROPE
+St. Johns,Female,64,No
+Volusia,Male,39,Yes - TRINIDAD AND TOBAGO
+Volusia,Female,70,Yes - EGYPT; JORDAN
+Volusia,Female,48,Unknown
+Volusia,Male,71,Yes - EGYPT; JORDAN
+Volusia,Female,66,Yes - EGYPT; GERMANY; ISRAEL
+Volusia,Female,89,No
+Volusia,Female,60,Yes - EGYPT; GERMANY; ISRAEL

@@ -1,0 +1,1468 @@
+Travel_related,County,Case_,Contact,Hospitalized,Age,Died,Jurisdiction,ObjectId,Origin,EventDate,Gender,EDvisit
+Unknown,Orange,1584921600000,NA,Unknown,52,NA,FL resident,1,NA,1584835200000,Female,Unknown
+No,St. Lucie,1584921600000,No,No,26,NA,FL resident,2,NA,1584316800000,Female,No
+Yes,Dade,1584835200000,No,Unknown,53,NA,FL resident,3,UNITED KINGDOM,1584835200000,Male,Unknown
+Unknown,Palm Beach,1584921600000,NA,Unknown,80,NA,FL resident,4,NA,1584921600000,Female,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,61,NA,FL resident,5,NA,1584835200000,Female,Unknown
+No,Dade,1584835200000,Unknown,No,38,NA,FL resident,6,NA,1584662400000,Male,Yes
+Unknown,Dade,1584835200000,Unknown,No,31,NA,FL resident,7,NA,1584057600000,Male,Unknown
+Yes,Hillsborough,1584576000000,Yes,No,27,NA,FL resident,8,CA,1584144000000,Female,No
+No,Broward,1584921600000,Yes,No,43,NA,FL resident,9,NA,1584489600000,Male,No
+No,Hillsborough,1584835200000,Yes,No,35,NA,FL resident,10,NA,1584057600000,Male,No
+Unknown,Orange,1584921600000,NA,Unknown,21,NA,FL resident,11,NA,1584921600000,Female,Unknown
+Unknown,Dade,1584921600000,Yes,No,63,NA,FL resident,12,NA,1584662400000,Female,Yes
+Yes,Broward,1584748800000,Yes,No,72,NA,FL resident,13,FRANCE,1584057600000,Female,No
+Yes,Broward,1584921600000,Yes,No,71,NA,FL resident,14,France,1584316800000,Male,No
+Yes,Dade,1584489600000,No,No,80,NA,Non-FL resident,15,Israel; Venezuela,1583971200000,Female,Yes
+Unknown,Dade,1584835200000,NA,Unknown,26,NA,FL resident,16,NA,1584748800000,Male,Unknown
+Yes,Hernando,1585008000000,Yes,No,29,NA,FL resident,17,CO,1584489600000,Unknown,No
+Yes,Broward,1584662400000,Yes,Yes,65,NA,FL resident,18,PERU,1584316800000,Male,Yes
+Yes,Alachua,1584748800000,No,Unknown,23,NA,FL resident,19,FL; NY,1583971200000,Female,Unknown
+No,Okaloosa,1584748800000,No,Yes,66,NA,FL resident,20,NA,1583366400000,Male,Yes
+Yes,Dade,1584403200000,No,No,32,NA,FL resident,21,Colombia; NY; Saudi Arabia,1584403200000,Male,Yes
+No,Manatee,1584316800000,No,Yes,70,Yes,FL resident,22,NA,1583280000000,Male,Yes
+Yes,Pasco,1584662400000,Unknown,No,69,NA,FL resident,23,France; Portugal; Switzerland,1584057600000,Male,No
+Yes,Pasco,1585008000000,Unknown,No,68,NA,FL resident,24,FRANCE; PORTUGAL; SWITZERLAND,1583884800000,Female,No
+Unknown,Dade,1584835200000,NA,Unknown,49,NA,FL resident,25,NA,1584835200000,Male,Unknown
+No,Dade,1584576000000,Unknown,Yes,68,NA,FL resident,26,NA,1584576000000,Female,Yes
+No,Broward,1584921600000,Unknown,No,46,NA,FL resident,27,NA,1584230400000,Male,Yes
+Yes,Dade,1584576000000,Yes,No,20,NA,FL resident,28,SPAIN,1584144000000,Female,Yes
+Yes,Leon,1584748800000,Unknown,No,36,NA,Non-FL resident,29,GA,1584403200000,Male,Yes
+Yes,Broward,1584748800000,Yes,No,27,NA,FL resident,30,FL; UT,1584144000000,Male,NA
+Unknown,Broward,1584921600000,NA,Unknown,94,NA,Non-FL resident,31,NA,1584835200000,Male,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,32,NA,FL resident,32,NA,1585008000000,Male,Unknown
+No,Dade,1584835200000,Yes,NA,57,NA,FL resident,33,NA,1584835200000,Male,NA
+Yes,Broward,1584489600000,No,No,29,NA,FL resident,34,NJ; NY,1584230400000,Male,Yes
+Unknown,Dade,1584835200000,NA,Unknown,57,NA,FL resident,35,NA,1584748800000,Male,Unknown
+Yes,Highlands,1584921600000,Unknown,No,56,NA,FL resident,36,CARIBBEAN; FL,1584144000000,Female,NA
+Yes,Orange,1584662400000,Unknown,Yes,82,NA,FL resident,37,NY,1584144000000,Female,Yes
+Yes,Broward,1584748800000,Yes,Unknown,19,NA,FL resident,38,Ireland,1584662400000,Female,Unknown
+Yes,Dade,1584489600000,No,No,48,NA,FL resident,39,France,1583971200000,Female,Yes
+Unknown,Palm Beach,1585008000000,NA,Unknown,53,NA,FL resident,40,NA,1585008000000,Female,Unknown
+No,Dade,1584489600000,No,Yes,38,NA,FL resident,41,NA,1583712000000,Male,Yes
+No,Orange,1584489600000,No,Yes,56,NA,FL resident,42,NA,1584144000000,Male,Yes
+Unknown,Dade,1585008000000,NA,Unknown,56,NA,FL resident,43,NA,1584921600000,Male,Unknown
+Yes,Broward,1584662400000,Yes,No,69,NA,FL resident,44,IL,1584144000000,Male,No
+No,Seminole,1584144000000,No,Yes,47,NA,FL resident,45,NA,1583452800000,Male,Yes
+No,Hillsborough,1584662400000,Yes,No,33,NA,FL resident,46,NA,1583884800000,Male,NA
+Unknown,Duval,1584835200000,NA,Unknown,54,NA,FL resident,47,NA,1584835200000,Female,Unknown
+Yes,Hillsborough,1584662400000,Yes,No,28,NA,FL resident,48,KY,1583884800000,Male,No
+Unknown,Dade,1585008000000,NA,Unknown,36,NA,FL resident,49,NA,1585008000000,Male,Unknown
+Unknown,Dade,1584748800000,NA,Unknown,25,NA,FL resident,50,NA,1584662400000,Female,Unknown
+Yes,Seminole,1583971200000,Yes,No,68,NA,FL resident,51,Egypt; Jordan,1583625600000,Male,Yes
+Unknown,Dade,1584662400000,NA,No,25,NA,FL resident,52,NA,1584489600000,Female,Unknown
+Yes,Citrus,1584748800000,Yes,No,17,NA,FL resident,53,Canada,1584230400000,Female,No
+Unknown,Dade,1584835200000,Unknown,Unknown,33,NA,FL resident,54,NA,1584576000000,Female,Unknown
+Yes,Seminole,1584835200000,Unknown,Yes,60,NA,FL resident,55,NY,1583625600000,Female,Yes
+Unknown,Dade,1584835200000,NA,Unknown,70,NA,FL resident,56,NA,1584835200000,Male,Unknown
+No,St. Johns,1584144000000,No,Yes,64,NA,FL resident,57,NA,1584144000000,Female,Yes
+Unknown,Collier,1584921600000,NA,Unknown,50,NA,Non-FL resident,58,NA,1584921600000,Male,Unknown
+Yes,Lake,1584921600000,No,Yes,70,NA,FL resident,59,FL; NY,1584921600000,Female,NA
+Yes,Osceola,1584748800000,Unknown,No,57,NA,FL resident,60,NY,1584489600000,Female,No
+Unknown,Seminole,1584748800000,Unknown,No,44,NA,FL resident,61,NA,1584748800000,Male,NA
+Yes,Indian River,1584576000000,No,No,77,NA,FL resident,62,FL; MO,1583798400000,Female,Yes
+Unknown,Dade,1585008000000,NA,Unknown,59,NA,FL resident,63,NA,1585008000000,Female,Unknown
+No,Dade,1584662400000,Yes,No,28,NA,FL resident,64,NA,1583798400000,Female,No
+Unknown,Broward,1585008000000,NA,Unknown,64,NA,FL resident,65,NA,1584921600000,Male,Unknown
+No,Hillsborough,1584835200000,Unknown,No,46,NA,FL resident,66,NA,1583798400000,Male,No
+Unknown,Dade,1584748800000,No,Yes,56,NA,FL resident,67,NA,1583798400000,Female,Yes
+Yes,Volusia,1584230400000,Yes,Yes,48,NA,FL resident,68,DC; FL,1583366400000,Female,Yes
+No,Orange,1584576000000,Unknown,No,50,NA,FL resident,69,NA,1583625600000,Female,No
+Unknown,Duval,1584748800000,NA,Unknown,55,NA,FL resident,70,NA,1584748800000,Male,Unknown
+No,Orange,1584662400000,Unknown,Yes,82,NA,FL resident,71,NA,1584057600000,Female,Yes
+Yes,Gadsden,1583193600000,Unknown,Unknown,54,NA,Not diagnosed/isolated in FL,72,Japan,1580601600000,Male,NA
+Unknown,Dade,1584921600000,NA,NA,46,NA,FL resident,73,NA,1584921600000,Male,NA
+No,Orange,1584835200000,No,No,52,NA,FL resident,74,NA,1584489600000,Female,NA
+Yes,Broward,1584748800000,Unknown,Yes,30,NA,FL resident,75,FL; NV,1583884800000,Male,No
+Yes,Polk,1584662400000,No,Yes,35,NA,FL resident,76,France; United Kingdom,1584057600000,Male,Yes
+Unknown,Dade,1584835200000,NA,Unknown,29,NA,FL resident,77,NA,1584835200000,Male,Unknown
+Unknown,Dade,1585008000000,Unknown,Unknown,64,NA,FL resident,78,NA,1584576000000,Female,Unknown
+Yes,Pinellas,1584489600000,Yes,No,66,NA,FL resident,79,ISRAEL,1583884800000,Female,No
+Yes,Pinellas,1584662400000,Yes,No,58,NA,FL resident,80,ISRAEL,1583971200000,Male,No
+Unknown,Broward,1585008000000,NA,Unknown,61,NA,FL resident,81,NA,1584921600000,Male,Unknown
+No,Collier,1584835200000,No,Yes,75,NA,FL resident,82,NA,1584316800000,Female,Yes
+Yes,Dade,1584489600000,NA,NA,38,NA,FL resident,83,Brazil,1583971200000,Male,NA
+Yes,Escambia,1584835200000,Unknown,No,48,NA,FL resident,84,FL; LA,1584662400000,Male,NA
+Yes,Broward,1584144000000,Yes,No,19,NA,FL resident,85,Ireland,1583884800000,Male,No
+Unknown,Broward,1585008000000,NA,NA,NA,NA,Non-FL resident,86,NA,1584921600000,Unknown,NA
+Unknown,Broward,1584316800000,Yes,Yes,77,Yes,FL resident,87,NA,1584230400000,Male,Yes
+Yes,Broward,1584835200000,Unknown,Unknown,36,NA,FL resident,88,FRANCE; UNITED KINGDOM,1584403200000,Female,Yes
+No,Broward,1584835200000,Yes,No,73,NA,FL resident,89,NA,1584230400000,Male,Yes
+No,Broward,1584748800000,Unknown,No,77,NA,FL resident,90,NA,1584576000000,Female,Yes
+No,Pinellas,1584316800000,Yes,Yes,58,NA,FL resident,91,NA,1584230400000,Male,Yes
+No,Pinellas,1584489600000,Yes,No,32,NA,FL resident,92,NA,1583625600000,Male,No
+No,Dade,1584835200000,Yes,No,59,NA,FL resident,93,NA,1584144000000,Male,Yes
+Unknown,Dade,1584921600000,NA,NA,33,NA,FL resident,94,NA,1584835200000,Female,NA
+Unknown,Palm Beach,1585008000000,NA,Unknown,73,NA,FL resident,95,NA,1585008000000,Male,Unknown
+No,Broward,1583712000000,Yes,No,67,NA,FL resident,96,NA,1582675200000,Male,No
+Yes,Collier,1584489600000,No,No,64,NA,Non-FL resident,97,FL; HI,1583884800000,Male,Yes
+No,Duval,1584316800000,Yes,No,91,NA,FL resident,98,NA,1583539200000,Female,Yes
+Yes,Duval,1584921600000,NA,No,36,NA,FL resident,99,FL; GA,1584835200000,Female,Yes
+No,Broward,1584835200000,Unknown,Yes,43,NA,FL resident,100,NA,1584316800000,Female,Yes
+Yes,Sarasota,1584057600000,No,Yes,50,NA,FL resident,101,NY,1583020800000,Female,Yes
+No,Orange,1584576000000,No,Yes,55,NA,FL resident,102,NA,1583712000000,Female,Yes
+No,St. Johns,1584835200000,Yes,No,50,NA,FL resident,103,NA,1583712000000,Male,No
+Unknown,Alachua,1584748800000,NA,Unknown,23,NA,FL resident,104,NA,1584748800000,Male,Unknown
+Unknown,Dade,1584835200000,Unknown,No,36,NA,FL resident,105,NA,1584489600000,Male,Unknown
+Unknown,Dade,1584921600000,NA,Unknown,55,NA,FL resident,106,NA,1584921600000,Female,Unknown
+Yes,Leon,1585008000000,No,No,31,NA,FL resident,107,UNITED KINGDOM,1583712000000,Female,Yes
+Unknown,Broward,1584835200000,NA,Unknown,29,NA,FL resident,108,NA,1584748800000,Male,Unknown
+No,Lake,1584748800000,No,Yes,48,NA,FL resident,109,NA,1584230400000,Male,Yes
+Unknown,Dade,1584835200000,NA,Unknown,33,NA,FL resident,110,NA,1584835200000,Female,Unknown
+No,Manatee,1584748800000,Yes,No,65,NA,FL resident,111,NA,1584316800000,Male,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,26,NA,FL resident,112,NA,1584835200000,Male,Unknown
+Unknown,Broward,1584835200000,NA,Unknown,56,NA,Non-FL resident,113,NA,1584748800000,Female,Unknown
+No,Manatee,1584662400000,Yes,Yes,63,NA,FL resident,114,NA,1584144000000,Female,NA
+Unknown,Dade,1584489600000,No,Yes,67,NA,FL resident,115,NA,1583539200000,Male,Unknown
+No,Palm Beach,1584835200000,No,No,35,NA,FL resident,116,NA,1584230400000,Female,No
+Unknown,Broward,1584835200000,NA,Unknown,56,NA,FL resident,117,NA,1584748800000,Female,Unknown
+Yes,Osceola,1584835200000,No,No,28,NA,FL resident,118,NY,1584576000000,Female,No
+Unknown,Dade,1584748800000,Unknown,No,33,NA,FL resident,119,NA,1584144000000,Male,Yes
+No,Broward,1584921600000,Yes,Yes,71,NA,FL resident,120,NA,1584403200000,Male,Yes
+No,Escambia,1584921600000,No,No,76,NA,FL resident,121,NA,1584921600000,Male,No
+No,Palm Beach,1584316800000,Unknown,No,66,NA,FL resident,122,NA,1584316800000,Male,No
+Yes,Seminole,1584489600000,Yes,No,57,NA,FL resident,123,Egypt,1584230400000,Female,Yes
+Unknown,Dade,1585008000000,NA,Unknown,46,NA,FL resident,124,NA,1584921600000,Male,Unknown
+Yes,Dade,1584662400000,Unknown,Unknown,48,NA,FL resident,125,FL; TN,1584230400000,Male,Unknown
+Yes,Dade,1584144000000,Yes,No,20,NA,FL resident,126,Spain,1584144000000,Male,Yes
+Yes,Dade,1584835200000,Unknown,Unknown,32,NA,Non-FL resident,127,FL; NY; UNITED KINGDOM,1584835200000,Male,Unknown
+No,St. Johns,1584921600000,Yes,No,21,NA,FL resident,128,NA,1584576000000,Male,No
+Unknown,Hillsborough,1584921600000,No,No,56,NA,FL resident,129,NA,1584316800000,Female,Unknown
+Yes,Dade,1584144000000,Yes,No,18,NA,FL resident,130,Spain,1584144000000,Male,Unknown
+No,St. Johns,1584835200000,Yes,No,22,NA,FL resident,131,NA,1584748800000,Male,No
+Unknown,Palm Beach,1584835200000,NA,Unknown,77,NA,FL resident,132,NA,1584835200000,Female,Unknown
+Yes,Broward,1584489600000,No,No,20,NA,FL resident,133,Brazil; Spain,1584057600000,Male,No
+Yes,Alachua,1584057600000,No,No,24,NA,FL resident,134,Portugal,1583020800000,Male,No
+Yes,Broward,1584144000000,Yes,Yes,20,NA,FL resident,135,Ireland,1583798400000,Female,Yes
+Yes,Citrus,1584662400000,Unknown,Unknown,58,NA,FL resident,136,Honduras,1584489600000,Female,NA
+Unknown,Dade,1584489600000,NA,Unknown,20,NA,FL resident,137,NA,1584489600000,Female,Unknown
+Unknown,Dade,1584921600000,NA,Yes,41,NA,FL resident,138,NA,1584921600000,Female,NA
+No,Broward,1584489600000,No,Yes,65,NA,FL resident,139,NA,1584316800000,Male,Yes
+No,St. Johns,1584662400000,Yes,No,47,NA,FL resident,140,NA,1584489600000,Female,Yes
+Yes,Hillsborough,1584403200000,Yes,No,38,NA,FL resident,141,BOSNIA AND HERZEGOVINA; GERMANY,1583971200000,Female,Unknown
+No,St. Johns,1584662400000,Yes,No,47,NA,FL resident,142,NA,1584316800000,Male,Yes
+Yes,Sarasota,1584921600000,Yes,Yes,66,NA,FL resident,143,FL; FRANCE,1584662400000,Male,Yes
+No,Palm Beach,1584662400000,No,Unknown,69,NA,FL resident,144,NA,1584662400000,Male,Unknown
+No,Broward,1584057600000,Yes,No,27,NA,FL resident,145,NA,1583366400000,Female,Yes
+Unknown,Alachua,1584835200000,NA,Unknown,37,NA,FL resident,146,NA,1584835200000,Female,Unknown
+Yes,Dade,1584403200000,Yes,No,37,NA,FL resident,147,DC; FL,1584144000000,Male,Yes
+No,Volusia,1584921600000,Unknown,No,54,NA,FL resident,148,NA,1583539200000,Male,No
+Yes,Dade,1584662400000,Yes,No,51,NA,FL resident,149,Italy,1582416000000,Female,Unknown
+Yes,Sumter,1584748800000,Yes,No,67,NA,FL resident,150,Belize; FL; Honduras; Mexico,1584489600000,Female,No
+Yes,Collier,1583884800000,Unknown,No,64,NA,FL resident,151,Egypt,1582848000000,Female,No
+Unknown,Hillsborough,1584921600000,Yes,NA,6,NA,FL resident,152,NA,1584835200000,Male,NA
+No,Dade,1584403200000,No,Yes,60,NA,FL resident,153,NA,1584144000000,Male,Yes
+Yes,Sumter,1584748800000,Yes,No,71,NA,FL resident,154,Belize; FL; Honduras; Mexico,1584403200000,Male,No
+Yes,Collier,1583884800000,Unknown,No,73,NA,FL resident,155,Egypt,1583193600000,Male,No
+Yes,Broward,1584489600000,Yes,No,21,NA,FL resident,156,Spain,1584230400000,Female,Yes
+Yes,Broward,1584230400000,Yes,No,19,NA,FL resident,157,Ireland,1583884800000,Female,No
+Yes,Broward,1583539200000,No,Yes,65,NA,FL resident,158,Cayman Islands,1578096000000,Male,Yes
+No,Okaloosa,1584576000000,Unknown,No,44,NA,FL resident,159,NA,1584316800000,Female,No
+Yes,Dade,1584835200000,NA,Unknown,45,NA,FL resident,160,NY,1583798400000,Male,Yes
+Unknown,Broward,1585008000000,NA,Unknown,21,NA,FL resident,161,NA,1584835200000,Male,Unknown
+No,Lee,1584748800000,No,No,59,NA,FL resident,162,NA,1584230400000,Female,No
+Yes,Collier,1584576000000,Unknown,No,33,NA,FL resident,163,Spain,1583798400000,Male,No
+No,Dade,1584576000000,Yes,No,50,NA,FL resident,164,NA,1583366400000,Male,Unknown
+No,Sarasota,1584057600000,No,Yes,70,NA,Non-FL resident,165,NA,1583798400000,Male,Yes
+Unknown,Dade,1585008000000,NA,Unknown,44,NA,FL resident,166,NA,1585008000000,Male,Unknown
+Unknown,Dade,1584748800000,NA,Unknown,23,NA,FL resident,167,NA,1584748800000,Female,Unknown
+Yes,Palm Beach,1584403200000,Yes,No,19,NA,FL resident,168,TN,1584057600000,Female,Unknown
+Yes,Collier,1584835200000,No,No,80,NA,FL resident,169,NY,1584144000000,Male,No
+Yes,Okaloosa,1584662400000,No,No,47,NA,FL resident,170,NJ; NY,1584403200000,Female,No
+Unknown,Orange,1584921600000,NA,Unknown,30,NA,FL resident,171,NA,1584835200000,Male,Unknown
+Unknown,Dade,1584748800000,NA,Unknown,22,NA,FL resident,172,NA,1584230400000,Female,Unknown
+Yes,Dade,1584662400000,Unknown,No,21,NA,FL resident,173,Spain,1583712000000,Male,Yes
+Yes,Okaloosa,1583712000000,Yes,No,61,NA,FL resident,174,CA; Mexico,1582243200000,Female,No
+Unknown,Dade,1585008000000,NA,NA,70,NA,FL resident,175,NA,1584921600000,Male,NA
+No,Hillsborough,1584921600000,Yes,No,36,NA,FL resident,176,NA,1584835200000,Female,No
+Unknown,Dade,1585008000000,NA,Unknown,49,NA,FL resident,177,NA,1585008000000,Male,Unknown
+No,Broward,1584662400000,Unknown,Yes,77,NA,FL resident,178,NA,1583798400000,Male,Yes
+Unknown,Broward,1584835200000,NA,Unknown,50,NA,FL resident,179,NA,1584748800000,Male,Unknown
+No,Brevard,1584835200000,Yes,No,32,NA,FL resident,180,NA,1584489600000,Female,No
+Yes,Marion,1584921600000,No,No,40,NA,FL resident,181,UNITED KINGDOM,1581292800000,Female,No
+Unknown,Duval,1584662400000,NA,Unknown,68,NA,FL resident,182,NA,1584662400000,Female,Unknown
+No,Hernando,1584576000000,No,No,68,NA,FL resident,183,NA,1584144000000,Male,No
+No,Hillsborough,1585008000000,Unknown,No,32,NA,FL resident,184,NA,1584403200000,Female,Yes
+Unknown,Dade,1584748800000,NA,Unknown,75,NA,FL resident,185,NA,1584748800000,Female,Unknown
+Yes,Palm Beach,1584576000000,Yes,No,56,NA,FL resident,186,Egypt; Germany,1583366400000,Female,Yes
+Unknown,Broward,1584921600000,Yes,No,82,NA,FL resident,187,NA,1584921600000,Female,NA
+No,Dade,1584748800000,Yes,No,55,NA,FL resident,188,NA,1584576000000,Female,No
+Yes,Volusia,1584748800000,Unknown,No,23,NA,FL resident,189,Spain,1583539200000,Female,No
+No,Broward,1584144000000,Yes,Yes,59,NA,FL resident,190,NA,1583884800000,Male,No
+Yes,Alachua,1583798400000,No,Yes,68,NA,Non-FL resident,191,GA,1583366400000,Female,No
+Unknown,Hillsborough,1585008000000,NA,Unknown,57,NA,FL resident,192,NA,1585008000000,Female,Unknown
+Yes,Broward,1584576000000,No,No,47,NA,FL resident,193,Ireland; Spain; United Kingdom,1584230400000,Female,No
+No,Sarasota,1584662400000,Yes,Yes,76,NA,FL resident,194,NA,1583712000000,Male,Yes
+Yes,Dade,1584230400000,Yes,No,43,NA,FL resident,195,UT,1583539200000,Male,Yes
+No,Dade,1584748800000,No,Unknown,49,NA,FL resident,196,NA,1584230400000,Male,Unknown
+No,St. Johns,1584748800000,No,No,49,NA,FL resident,197,NA,1583366400000,Male,No
+No,Hernando,1584748800000,No,No,73,NA,FL resident,198,NA,1584748800000,Female,No
+Unknown,Osceola,1584748800000,NA,No,36,NA,FL resident,199,NA,1584316800000,Female,No
+No,Osceola,1584057600000,No,No,54,NA,FL resident,200,NA,1583971200000,Male,Yes
+Unknown,Broward,1584835200000,NA,Unknown,53,NA,FL resident,201,NA,1584748800000,Male,Unknown
+Unknown,Hillsborough,1584835200000,No,No,38,NA,FL resident,202,NA,1583798400000,Male,Yes
+Unknown,Dade,1584748800000,NA,Unknown,35,NA,FL resident,203,NA,1584748800000,Female,Unknown
+No,Dade,1584403200000,Yes,Yes,50,NA,FL resident,204,NA,1584403200000,Male,Yes
+No,Dade,1584835200000,NA,No,34,NA,FL resident,205,NA,1584748800000,Female,Unknown
+Yes,Palm Beach,1584489600000,No,No,41,NA,FL resident,206,NV; UT; WY,1583798400000,Male,No
+Yes,Duval,1584662400000,NA,No,57,NA,FL resident,207,IRELAND,1584057600000,Female,No
+Unknown,Dade,1584835200000,Yes,Yes,83,NA,FL resident,208,NA,1584230400000,Male,Yes
+No,Escambia,1584921600000,Unknown,No,32,NA,FL resident,209,NA,1584835200000,Male,NA
+Yes,Hillsborough,1583193600000,Yes,No,22,NA,Non-FL resident,210,Italy,1582588800000,Female,No
+No,Broward,1584403200000,Yes,No,57,NA,FL resident,211,NA,1584144000000,Female,No
+Unknown,Dade,1584403200000,Unknown,Yes,88,NA,FL resident,212,NA,1584316800000,Male,Unknown
+Yes,Broward,1584748800000,Yes,No,20,NA,FL resident,213,Spain,1584316800000,Female,Yes
+Unknown,St. Johns,1584835200000,NA,Unknown,33,NA,FL resident,214,NA,1584835200000,Male,Unknown
+Unknown,Dade,1584662400000,NA,NA,69,NA,FL resident,215,NA,1584662400000,Male,NA
+Unknown,Broward,1585008000000,NA,Unknown,64,NA,FL resident,216,NA,1584921600000,Female,Unknown
+Unknown,Dade,1584489600000,Yes,Unknown,36,NA,FL resident,217,NA,1584230400000,Female,Unknown
+Yes,Broward,1583971200000,Unknown,No,61,NA,FL resident,218,Italy,1583539200000,Male,Yes
+Unknown,Palm Beach,1584835200000,NA,Unknown,68,NA,FL resident,219,NA,1584835200000,Male,Unknown
+Yes,Pasco,1584835200000,Yes,No,50,NA,FL resident,220,Mexico,1583712000000,Male,No
+Yes,Dade,1584403200000,No,No,50,NA,FL resident,221,SPAIN,1583884800000,Female,Yes
+No,Escambia,1585008000000,Yes,No,49,NA,FL resident,222,NA,1584835200000,Female,No
+Unknown,Escambia,1585008000000,NA,NA,56,NA,FL resident,223,NA,1584921600000,Unknown,NA
+Yes,Lee,1584835200000,No,No,21,NA,FL resident,224,SPAIN,1584144000000,Female,Yes
+No,Manatee,1584144000000,Yes,No,62,NA,FL resident,225,NA,1583798400000,Female,No
+No,Manatee,1583107200000,Yes,Yes,63,NA,FL resident,226,NA,1582329600000,Male,Yes
+Unknown,Broward,1585008000000,NA,Unknown,59,NA,FL resident,227,NA,1584921600000,Female,Unknown
+No,Hillsborough,1584662400000,No,No,54,NA,FL resident,228,NA,1583884800000,Male,Yes
+Yes,Dade,1584835200000,Unknown,No,57,NA,FL resident,229,NY,1583884800000,Female,No
+Unknown,Duval,1584921600000,NA,Unknown,71,NA,FL resident,230,NA,1584921600000,Male,Unknown
+Unknown,Escambia,1585008000000,NA,NA,22,NA,FL resident,231,NA,1584921600000,Female,NA
+Unknown,Hillsborough,1585008000000,Yes,NA,6,NA,FL resident,232,NA,1584316800000,Unknown,NA
+Yes,Indian River,1584921600000,Yes,No,56,NA,FL resident,233,CO,1583884800000,Male,No
+Yes,Leon,1584489600000,Yes,Yes,58,NA,FL resident,234,GA,1584057600000,Female,Yes
+Unknown,Broward,1584662400000,Yes,No,70,NA,FL resident,235,NA,1584057600000,Male,Yes
+Yes,Leon,1584489600000,Yes,No,55,NA,FL resident,236,GA,1584057600000,Male,Yes
+No,Dade,1584835200000,Yes,No,34,NA,FL resident,237,NA,1584489600000,Female,Yes
+Unknown,Dade,1584576000000,NA,Unknown,64,NA,FL resident,238,NA,1584576000000,Female,Unknown
+Unknown,Dade,1584921600000,NA,Unknown,58,NA,FL resident,239,NA,1584921600000,Female,Unknown
+Yes,Broward,1585008000000,Yes,No,46,NA,Non-FL resident,240,ECUADOR; NY,1584489600000,Female,Yes
+Yes,Dade,1584576000000,Unknown,NA,51,NA,FL resident,241,SPAIN; WA,1584316800000,Male,NA
+No,Broward,1584835200000,Yes,No,24,NA,FL resident,242,NA,1584403200000,Male,No
+Yes,Dade,1584662400000,Yes,No,75,NA,FL resident,243,Europe; France; Spain,1584403200000,Male,Yes
+Yes,Dade,1584748800000,Yes,No,61,NA,FL resident,244,Spain,1584230400000,Female,Yes
+Yes,Dade,1584316800000,No,Yes,66,NA,Non-FL resident,245,FL; NY,1583971200000,Male,Yes
+Yes,Palm Beach,1584489600000,No,No,26,NA,FL resident,246,Bahamas; FL,1583712000000,Male,Yes
+Yes,Santa Rosa,1585008000000,Unknown,Yes,73,NA,FL resident,247,NY,1585008000000,Male,NA
+Unknown,Dade,1584835200000,NA,No,28,NA,FL resident,248,NA,1584230400000,Female,Yes
+Yes,Seminole,1584144000000,Yes,Yes,68,NA,FL resident,249,Egypt; Jordan,1583971200000,Female,Yes
+No,Manatee,1584489600000,Yes,No,61,NA,FL resident,250,NA,1583625600000,Male,NA
+No,Broward,1584576000000,Yes,No,60,NA,FL resident,251,NA,1583539200000,Male,No
+No,Manatee,1584144000000,Yes,Yes,67,NA,FL resident,252,NA,1582848000000,Female,Yes
+Unknown,Broward,1584835200000,NA,NA,90,NA,FL resident,253,NA,1584748800000,Female,NA
+No,Pinellas,1584748800000,No,Yes,72,NA,FL resident,254,NA,1583193600000,Male,Yes
+Yes,Lee,1583971200000,Unknown,No,57,NA,Non-FL resident,255,FL; FRANCE; UNITED KINGDOM,1583020800000,Male,No
+No,Citrus,1584748800000,No,Yes,63,NA,FL resident,256,NA,1584230400000,Male,Yes
+Yes,Palm Beach,1584316800000,Unknown,Yes,76,NA,FL resident,257,France,1584316800000,Female,Unknown
+Yes,Flagler,1584921600000,Unknown,No,68,NA,FL resident,258,EUROPE,1583971200000,Male,No
+Unknown,Palm Beach,1584748800000,Unknown,Unknown,19,NA,FL resident,259,NA,1584748800000,Female,Unknown
+Unknown,Duval,1584921600000,NA,NA,65,NA,Non-FL resident,260,NA,1584835200000,Unknown,NA
+No,Collier,1585008000000,No,No,44,NA,FL resident,261,NA,1584230400000,Male,No
+Unknown,Broward,1584230400000,Unknown,Yes,63,NA,FL resident,262,NA,1584057600000,Female,Yes
+Unknown,Dade,1585008000000,NA,Unknown,39,NA,FL resident,263,NA,1585008000000,Female,Unknown
+Unknown,Broward,1584748800000,NA,Unknown,37,NA,FL resident,264,NA,1584662400000,Male,Unknown
+Unknown,Duval,1584921600000,NA,Unknown,87,NA,FL resident,265,NA,1584835200000,Female,Unknown
+Unknown,Manatee,1584835200000,NA,NA,64,NA,FL resident,266,NA,1584835200000,Female,NA
+Yes,Broward,1584403200000,Yes,No,19,NA,FL resident,267,Spain,1584057600000,Female,No
+No,Broward,1584748800000,Yes,No,44,NA,FL resident,268,NA,1583971200000,Male,No
+Yes,Walton,1584921600000,Yes,No,79,NA,Non-FL resident,269,FL; MI,1583712000000,Male,Yes
+No,Lee,1584835200000,Yes,No,75,NA,FL resident,270,NA,1583712000000,Male,No
+Unknown,Dade,1584921600000,NA,Unknown,37,NA,FL resident,271,NA,1584921600000,Female,Unknown
+Yes,Collier,1583884800000,Yes,No,68,NA,FL resident,272,Egypt,1583280000000,Female,No
+No,Broward,1584921600000,No,No,68,NA,FL resident,273,NA,1584230400000,Male,Yes
+No,Broward,1584576000000,Yes,Unknown,93,NA,FL resident,274,NA,1584403200000,Female,Yes
+No,Hillsborough,1584921600000,NA,No,30,NA,FL resident,275,NA,1584489600000,Female,Yes
+No,Pinellas,1584835200000,No,Yes,37,NA,FL resident,276,NA,1584230400000,Male,Yes
+Unknown,Hillsborough,1584748800000,NA,Unknown,57,NA,FL resident,277,NA,1584748800000,Male,Unknown
+Unknown,Hillsborough,1584921600000,NA,Unknown,41,NA,FL resident,278,NA,1584921600000,Male,Unknown
+No,Broward,1584921600000,Yes,No,51,NA,FL resident,279,NA,1584748800000,Male,Yes
+Yes,Broward,1584144000000,Unknown,Yes,41,NA,Non-FL resident,280,Spain,1583452800000,Male,Yes
+Unknown,Dade,1585008000000,NA,NA,32,NA,FL resident,281,NA,1584835200000,Female,NA
+No,Pinellas,1584748800000,No,Yes,67,Yes,FL resident,282,NA,1584403200000,Male,Yes
+Yes,Lake,1584921600000,Yes,No,75,NA,FL resident,283,FL; PANAMA,1584921600000,Male,Yes
+Yes,Lake,1584921600000,Yes,No,75,NA,FL resident,284,FL; PANAMA,1584576000000,Female,Yes
+Yes,Osceola,1584576000000,Yes,No,50,NA,FL resident,285,Europe,1584230400000,Male,No
+No,Seminole,1585008000000,Unknown,No,27,NA,FL resident,286,NA,1584489600000,Female,Yes
+Yes,Palm Beach,1583280000000,Yes,No,71,NA,Not diagnosed/isolated in FL,287,Japan,1583193600000,Female,NA
+No,St. Johns,1584835200000,No,Yes,76,NA,FL resident,288,NA,1583971200000,Male,Yes
+Unknown,Sumter,1584835200000,No,Yes,75,NA,FL resident,289,NA,1584230400000,Male,Yes
+No,Collier,1584316800000,No,No,49,NA,FL resident,290,NA,1583884800000,Female,No
+Yes,Hillsborough,1584748800000,No,Yes,38,NA,FL resident,291,FL; NJ; NY,1584489600000,Female,Yes
+Yes,Broward,1584748800000,No,No,67,NA,FL resident,292,Dominican Republic,1583884800000,Female,Yes
+No,Broward,1584403200000,Yes,No,19,NA,FL resident,293,NA,1584144000000,Female,Yes
+Yes,Broward,1584316800000,Yes,No,51,NA,FL resident,294,Colombia,1583884800000,Female,Yes
+Yes,Pinellas,1584576000000,Yes,No,63,NA,FL resident,295,FL; NY,1584057600000,Female,No
+Unknown,Dade,1585008000000,NA,Unknown,33,NA,FL resident,296,NA,1584921600000,Male,Unknown
+Yes,Clay,1585008000000,Yes,No,30,NA,FL resident,297,BAHAMAS; FL,1584144000000,Male,No
+Yes,Broward,1584576000000,No,No,44,NA,FL resident,298,NY,1584057600000,Male,Yes
+Yes,Seminole,1584835200000,No,No,56,NA,FL resident,299,AL,1583971200000,Male,No
+Yes,Palm Beach,1584403200000,No,No,69,NA,FL resident,300,CO,1583539200000,Male,Yes
+Unknown,Dade,1584921600000,NA,Unknown,58,NA,FL resident,301,NA,1584921600000,Male,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,47,NA,FL resident,302,NA,1584835200000,Female,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,50,NA,FL resident,303,NA,1584921600000,Female,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,43,NA,FL resident,304,NA,1585008000000,Female,Unknown
+Unknown,Broward,1585008000000,NA,Unknown,51,NA,FL resident,305,NA,1584921600000,Male,Unknown
+No,Hillsborough,1584921600000,Yes,Yes,79,NA,FL resident,306,NA,1584921600000,Female,Unknown
+No,Broward,1584662400000,Yes,No,71,NA,FL resident,307,NA,1583971200000,Female,Yes
+Yes,Hillsborough,1584662400000,Unknown,No,72,NA,FL resident,308,FL; TN,1584144000000,Female,Yes
+Unknown,Collier,1584921600000,NA,Unknown,47,NA,FL resident,309,NA,1584921600000,Male,Unknown
+Yes,Pinellas,1584576000000,No,No,62,NA,FL resident,310,ID,1583884800000,Female,Yes
+Unknown,Dade,1584835200000,NA,Unknown,67,NA,FL resident,311,NA,1584748800000,Male,Unknown
+Yes,Palm Beach,1584057600000,No,Yes,74,NA,FL resident,312,Belgium; FL,1583539200000,Male,Yes
+Yes,Hillsborough,1584576000000,Yes,No,31,NA,FL resident,313,NY,1583712000000,Male,NA
+No,Hillsborough,1584662400000,Yes,No,32,NA,FL resident,314,NA,1584489600000,Female,NA
+Unknown,Palm Beach,1585008000000,NA,Unknown,29,NA,FL resident,315,NA,1585008000000,Unknown,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,31,NA,FL resident,316,NA,1585008000000,Male,Unknown
+Yes,Alachua,1584576000000,No,No,42,NA,FL resident,317,Dominican Republic; FL,1583625600000,Female,No
+No,Pasco,1583884800000,Yes,No,46,NA,FL resident,318,NA,1583107200000,Male,NA
+Unknown,Broward,1584835200000,NA,Unknown,75,NA,FL resident,319,NA,1584835200000,Female,Unknown
+Yes,Palm Beach,1584662400000,Yes,Yes,81,NA,FL resident,320,NY,1584057600000,Male,Yes
+Yes,Duval,1584403200000,Unknown,No,25,NA,Non-FL resident,321,Australia; FL; TN,1583884800000,Female,Yes
+Yes,Broward,1584662400000,Yes,No,19,NA,FL resident,322,NY,1584316800000,Male,Yes
+No,Orange,1585008000000,No,Yes,63,NA,FL resident,323,NA,1584316800000,Male,Yes
+Unknown,Hillsborough,1584835200000,Unknown,No,21,NA,FL resident,324,NA,1584835200000,Male,No
+Unknown,Dade,1584921600000,NA,Unknown,25,NA,FL resident,325,NA,1584921600000,Male,Unknown
+No,Lake,1584835200000,No,Yes,43,NA,FL resident,326,NA,1584144000000,Female,NA
+Unknown,Broward,1584921600000,NA,Unknown,56,NA,FL resident,327,NA,1584835200000,Male,Unknown
+Yes,Alachua,1584403200000,No,No,22,NA,FL resident,328,Canada; NY; PA,1583625600000,Male,No
+Yes,Dade,1584576000000,Yes,No,62,NA,FL resident,329,Israel,1584144000000,Female,Yes
+Yes,Pinellas,1584748800000,Yes,No,29,NA,FL resident,330,SPAIN,1583971200000,Female,No
+Unknown,Broward,1584921600000,NA,Unknown,22,NA,FL resident,331,NA,1584835200000,Female,Unknown
+Yes,Pasco,1584489600000,Yes,Yes,64,NA,FL resident,332,FL; NY,1584403200000,Female,Yes
+Yes,Pasco,1584144000000,Yes,Yes,67,NA,FL resident,333,FL; NY,1583625600000,Male,Yes
+No,Broward,1584835200000,Yes,No,42,NA,FL resident,334,NA,1584316800000,Female,Yes
+No,Broward,1584835200000,Yes,No,51,NA,FL resident,335,NA,1584316800000,Female,No
+Unknown,Dade,1584921600000,NA,Unknown,55,NA,FL resident,336,NA,1584921600000,Male,Unknown
+No,Hillsborough,1584576000000,No,No,36,NA,FL resident,337,NA,1584316800000,Male,Yes
+No,Osceola,1584748800000,Yes,No,20,NA,FL resident,338,NA,1584057600000,Female,Yes
+Unknown,Dade,1584489600000,No,Yes,33,NA,FL resident,339,NA,1583712000000,Male,Yes
+Yes,Santa Rosa,1584489600000,No,No,48,NA,FL resident,340,United Kingdom,1584489600000,Male,No
+No,Broward,1584835200000,Yes,No,55,NA,FL resident,341,NA,1584662400000,Male,No
+No,Sarasota,1584835200000,No,Yes,75,NA,FL resident,342,NA,1584230400000,Female,Yes
+Yes,Orange,1584057600000,NA,NA,68,Yes,Not diagnosed/isolated in FL,343,Philippines; South Korea,1583884800000,Female,NA
+Unknown,Broward,1583971200000,Unknown,Yes,70,NA,FL resident,344,NA,1583712000000,Male,Yes
+Yes,Hernando,1584576000000,No,No,19,NA,FL resident,345,SPAIN,1584144000000,Female,No
+No,Pasco,1584576000000,Yes,No,67,NA,FL resident,346,NA,1584230400000,Female,No
+Unknown,Alachua,1584835200000,NA,Unknown,25,NA,FL resident,347,NA,1584835200000,Female,Unknown
+No,Baker,1584835200000,Yes,No,76,NA,FL resident,348,NA,1584489600000,Male,NA
+No,Pinellas,1584921600000,NA,Yes,58,NA,FL resident,349,NA,1584489600000,Male,Yes
+Yes,Brevard,1584835200000,No,Yes,64,NA,FL resident,350,HAITI,1582243200000,Male,Yes
+Yes,Lake,1584921600000,No,Yes,68,NA,FL resident,351,FL; OH,1584576000000,Male,Yes
+Unknown,Dade,1584748800000,NA,Unknown,54,NA,FL resident,352,NA,1584748800000,Female,Unknown
+No,Broward,1584835200000,Unknown,No,32,NA,FL resident,353,NA,1584403200000,Male,Yes
+Yes,Broward,1584921600000,Yes,Yes,73,NA,FL resident,354,NY,1584489600000,Female,Yes
+Unknown,Dade,1584576000000,Unknown,No,64,NA,Non-FL resident,355,NA,1584403200000,Male,Yes
+Unknown,Dade,1584576000000,Unknown,Unknown,60,NA,Non-FL resident,356,NA,1583884800000,Female,NA
+Yes,Pinellas,1584576000000,No,No,24,NA,FL resident,357,NY,1584144000000,Male,Yes
+No,Orange,1585008000000,No,Yes,42,NA,FL resident,358,NA,1583971200000,Female,NA
+No,Clay,1584057600000,Yes,Yes,57,NA,FL resident,359,NA,1583193600000,Male,Yes
+No,Clay,1584144000000,Yes,No,55,NA,FL resident,360,NA,1584057600000,Female,No
+Unknown,Dade,1585008000000,NA,Unknown,33,NA,FL resident,361,NA,1585008000000,Male,Unknown
+No,Lee,1584403200000,Yes,Yes,79,NA,FL resident,362,NA,1583366400000,Male,Yes
+Unknown,Dade,1585008000000,NA,Unknown,56,NA,FL resident,363,NA,1585008000000,Male,Unknown
+No,Dade,1584662400000,Yes,Yes,46,NA,Non-FL resident,364,NA,1583884800000,Male,Yes
+Unknown,Indian River,1585008000000,NA,NA,61,NA,FL resident,365,NA,1584921600000,Female,NA
+No,Duval,1584489600000,No,Yes,83,NA,FL resident,366,NA,1583971200000,Male,NA
+Yes,Broward,1584230400000,Yes,No,20,NA,FL resident,367,Ireland,1582761600000,Female,No
+No,Broward,1584835200000,Yes,No,50,NA,FL resident,368,NA,1584576000000,Female,No
+Unknown,Dade,1585008000000,NA,Unknown,21,NA,FL resident,369,NA,1584921600000,Male,Unknown
+Yes,Dade,1584748800000,Yes,No,27,NA,FL resident,370,FL; NY,1584230400000,Female,Yes
+Unknown,Dade,1584835200000,NA,Unknown,76,NA,FL resident,371,NA,1584748800000,Female,Unknown
+Unknown,Dade,1584748800000,NA,Unknown,81,NA,FL resident,372,NA,1584748800000,Male,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,78,NA,FL resident,373,NA,1584921600000,Male,Unknown
+No,Lee,1584835200000,Yes,No,90,NA,FL resident,374,NA,1584230400000,Female,NA
+Yes,Broward,1584748800000,Yes,No,59,NA,FL resident,375,Spain,1584403200000,Male,No
+Yes,Broward,1584489600000,Yes,No,21,NA,FL resident,376,Spain,1583798400000,Male,No
+Unknown,Palm Beach,1585008000000,NA,Unknown,32,NA,FL resident,377,NA,1585008000000,Male,Unknown
+Yes,Sumter,1584835200000,No,Yes,78,NA,FL resident,378,OR,1584835200000,Male,Yes
+Unknown,Palm Beach,1585008000000,NA,Unknown,69,NA,FL resident,379,NA,1585008000000,Female,Unknown
+No,Broward,1584835200000,Yes,Yes,43,NA,FL resident,380,NA,1584144000000,Female,Yes
+Unknown,Broward,1584576000000,No,No,29,NA,FL resident,381,NA,1584403200000,Male,Yes
+Yes,Pinellas,1584662400000,Yes,Yes,59,NA,Non-FL resident,382,Bahamas; Ecuador; FL,1584316800000,Female,Yes
+Yes,Pinellas,1584921600000,Yes,Yes,62,NA,Non-FL resident,383,BAHAMAS; ECUADOR; FL,1584576000000,Male,Yes
+No,Polk,1584662400000,No,Yes,49,NA,FL resident,384,NA,1584316800000,Female,Yes
+No,Sarasota,1584576000000,Yes,No,53,NA,FL resident,385,NA,1583884800000,Male,No
+Unknown,Dade,1584835200000,NA,Unknown,58,NA,FL resident,386,NA,1584835200000,Male,Unknown
+No,Hillsborough,1584662400000,Yes,No,60,NA,FL resident,387,NA,1584489600000,Female,NA
+Unknown,Lee,1584835200000,No,No,75,NA,FL resident,388,NA,1583712000000,Female,No
+Unknown,Dade,1584835200000,NA,Unknown,46,NA,FL resident,389,NA,1584835200000,Male,Unknown
+Yes,Seminole,1584403200000,Unknown,Yes,70,NA,Non-FL resident,390,NY,1583280000000,Male,Yes
+Yes,Broward,1584921600000,Yes,Yes,76,NA,FL resident,391,PUERTO RICO,1584662400000,Female,Yes
+Yes,Broward,1584748800000,Yes,No,52,NA,FL resident,392,Egypt,1583884800000,Male,NA
+Unknown,Dade,1585008000000,NA,Unknown,68,NA,FL resident,393,NA,1584921600000,Female,Unknown
+Unknown,Hillsborough,1584921600000,No,NA,16,NA,FL resident,394,NA,1584316800000,Male,NA
+Yes,Seminole,1584921600000,Unknown,No,22,NA,FL resident,395,EUROPE,1584230400000,Female,No
+No,Broward,1584662400000,Yes,No,35,NA,FL resident,396,NA,1584489600000,Female,Yes
+No,Flagler,1584835200000,Unknown,No,45,NA,FL resident,397,NA,1584576000000,Male,No
+Unknown,Broward,1584835200000,NA,Unknown,67,NA,FL resident,398,NA,1584748800000,Male,Unknown
+No,Collier,1584662400000,Yes,No,54,NA,FL resident,399,NA,1584230400000,Female,No
+No,Martin,1584921600000,No,No,69,NA,FL resident,400,NA,1584403200000,Female,No
+Yes,Dade,1584144000000,No,No,29,NA,FL resident,401,MA,1583971200000,Male,Yes
+Unknown,Dade,1584835200000,NA,Unknown,52,NA,FL resident,402,NA,1584835200000,Male,Unknown
+Unknown,Dade,1585008000000,NA,NA,52,NA,FL resident,403,NA,1584835200000,Male,NA
+No,Hillsborough,1584748800000,Yes,No,21,NA,FL resident,404,NA,1584144000000,Female,Yes
+Unknown,Dade,1584576000000,NA,Unknown,30,NA,FL resident,405,NA,1584576000000,Male,Unknown
+Unknown,Orange,1584748800000,No,No,37,NA,FL resident,406,NA,1584748800000,Male,Unknown
+Unknown,Palm Beach,1584921600000,NA,Unknown,55,NA,FL resident,407,NA,1584921600000,Male,Unknown
+Unknown,Broward,1584835200000,NA,Unknown,84,NA,Non-FL resident,408,NA,1584748800000,Female,Unknown
+Unknown,Dade,1584835200000,Unknown,No,23,NA,FL resident,409,NA,1584835200000,Male,Yes
+Unknown,Broward,1584662400000,Yes,No,20,NA,Non-FL resident,410,NA,1583625600000,Female,Yes
+Unknown,Dade,1584662400000,Unknown,Yes,35,NA,FL resident,411,NA,1584057600000,Female,Unknown
+No,Pasco,1584835200000,No,No,41,NA,FL resident,412,NA,1584489600000,Female,No
+Unknown,Palm Beach,1585008000000,NA,Unknown,26,NA,FL resident,413,NA,1585008000000,Female,Unknown
+No,Citrus,1584835200000,Yes,No,60,NA,FL resident,414,NA,1583971200000,Female,NA
+No,Orange,1584057600000,Yes,No,48,NA,FL resident,415,NA,1583712000000,Female,Yes
+Unknown,Duval,1584921600000,NA,NA,69,NA,Non-FL resident,416,NA,1584835200000,Unknown,NA
+No,Broward,1584835200000,Yes,No,57,NA,FL resident,417,NA,1584835200000,Male,No
+Yes,Broward,1584921600000,Yes,No,66,NA,FL resident,418,NY,1584489600000,Male,No
+No,Broward,1583539200000,Yes,No,75,NA,FL resident,419,NA,1583020800000,Male,Yes
+Unknown,Broward,1584835200000,NA,Unknown,32,NA,FL resident,420,NA,1584748800000,Male,Unknown
+Yes,Osceola,1584576000000,Yes,No,48,NA,FL resident,421,Europe,1584230400000,Female,No
+Unknown,Broward,1584921600000,NA,Unknown,34,NA,FL resident,422,NA,1584921600000,Female,Unknown
+Yes,Broward,1584230400000,Yes,No,30,NA,FL resident,423,FL; GA,1582588800000,Male,No
+Unknown,Dade,1584921600000,NA,Unknown,43,NA,FL resident,424,NA,1584921600000,Male,Unknown
+Yes,Broward,1584489600000,Unknown,Yes,67,NA,FL resident,425,CO,1583971200000,Male,Yes
+Unknown,Dade,1584662400000,NA,Unknown,27,NA,FL resident,426,NA,1584576000000,Male,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,23,NA,FL resident,427,NA,1584835200000,Female,Unknown
+Yes,Dade,1585008000000,Yes,No,20,NA,FL resident,428,IRELAND,1584144000000,Female,No
+No,Broward,1584576000000,Yes,No,26,NA,FL resident,429,NA,1583884800000,Female,No
+No,Dade,1584835200000,No,Unknown,50,NA,FL resident,430,NA,1584403200000,Female,Yes
+Yes,Lee,1583539200000,Yes,Yes,77,Yes,FL resident,431,Dominican Republic,1581897600000,Female,Yes
+Yes,Lee,1583539200000,Yes,Yes,77,NA,FL resident,432,Dominican Republic,1582416000000,Male,Yes
+Unknown,Dade,1585008000000,NA,Unknown,49,NA,FL resident,433,NA,1585008000000,Male,Unknown
+No,Alachua,1584576000000,No,No,27,NA,FL resident,434,NA,1584576000000,Female,Unknown
+Yes,Palm Beach,1584144000000,Yes,No,37,NA,FL resident,435,NY,1583107200000,Male,Yes
+Unknown,Broward,1584748800000,NA,Yes,88,NA,FL resident,436,NA,1584576000000,Male,Unknown
+Yes,Orange,1584748800000,NA,No,33,NA,Non-FL resident,437,Peru,1584748800000,Female,No
+Unknown,Dade,1584835200000,NA,Unknown,44,NA,FL resident,438,NA,1584835200000,Male,Unknown
+Unknown,Palm Beach,1584835200000,NA,Unknown,56,NA,FL resident,439,NA,1584835200000,Male,Unknown
+No,Pasco,1584662400000,Yes,No,46,NA,FL resident,440,NA,1584403200000,Male,No
+No,Manatee,1584403200000,No,No,75,NA,FL resident,441,NA,1583366400000,Male,Unknown
+Yes,Broward,1584576000000,Unknown,Unknown,33,NA,Non-FL resident,442,NY,1584576000000,Male,Yes
+Yes,Broward,1584403200000,Yes,No,79,NA,FL resident,443,CO; FL,1583884800000,Female,No
+Unknown,Broward,1584835200000,Yes,Yes,82,NA,FL resident,444,NA,1584662400000,Male,Yes
+Unknown,Dade,1584403200000,Yes,No,73,NA,FL resident,445,NA,1584144000000,Male,Yes
+Yes,Hillsborough,1584748800000,No,No,26,NA,FL resident,446,FL; NY,1584489600000,Female,NA
+No,Alachua,1584662400000,Yes,No,47,NA,FL resident,447,NA,1584576000000,Female,NA
+Unknown,Broward,1584921600000,NA,Unknown,18,NA,Non-FL resident,448,NA,1584921600000,Male,Unknown
+No,Duval,1584662400000,No,Yes,84,NA,FL resident,449,NA,1584230400000,Male,Yes
+Yes,Osceola,1584748800000,Unknown,NA,64,NA,FL resident,450,SPAIN,1584403200000,Female,No
+Unknown,Dade,1584835200000,NA,Unknown,34,NA,FL resident,451,NA,1584835200000,Male,Unknown
+No,Dade,1584835200000,NA,Unknown,33,NA,FL resident,452,NA,1584835200000,Male,Unknown
+No,Desoto,1584835200000,Unknown,No,32,NA,FL resident,453,NA,1584403200000,Male,No
+Unknown,Dade,1585008000000,NA,Unknown,70,NA,FL resident,454,NA,1585008000000,Female,Unknown
+Unknown,Seminole,1584748800000,NA,Unknown,41,NA,FL resident,455,NA,1584748800000,Female,Unknown
+Unknown,Broward,1584835200000,NA,Unknown,56,NA,FL resident,456,NA,1584748800000,Female,Unknown
+Unknown,Broward,1584835200000,Yes,NA,26,NA,FL resident,457,NA,1584403200000,Female,NA
+Unknown,Dade,1585008000000,NA,Unknown,49,NA,FL resident,458,NA,1584921600000,Male,Unknown
+No,Broward,1584576000000,Unknown,Yes,94,NA,FL resident,459,NA,1583625600000,Male,Yes
+No,Alachua,1584921600000,No,No,2,NA,FL resident,460,NA,1583020800000,Female,No
+No,Broward,1584748800000,Yes,No,35,NA,FL resident,461,NA,1584576000000,Male,Yes
+No,Walton,1584921600000,Yes,No,78,NA,Non-FL resident,462,NA,1583798400000,Male,No
+Unknown,Dade,1584835200000,NA,Unknown,55,NA,FL resident,463,NA,1584835200000,Male,Unknown
+No,Indian River,1585008000000,No,No,68,NA,FL resident,464,NA,1584057600000,Female,Yes
+Unknown,Dade,1584748800000,NA,Unknown,60,NA,FL resident,465,NA,1584748800000,Male,Unknown
+No,Alachua,1584748800000,No,No,20,NA,FL resident,466,NA,1582675200000,Female,No
+No,Broward,1584662400000,Yes,No,38,NA,FL resident,467,NA,1583884800000,Male,No
+Unknown,St. Johns,1585008000000,Unknown,No,63,NA,FL resident,468,NA,1584489600000,Unknown,No
+Yes,Hillsborough,1584748800000,No,No,33,NA,FL resident,469,Egypt,1584403200000,Female,NA
+Unknown,Palm Beach,1584748800000,Unknown,Unknown,78,NA,FL resident,470,NA,1584748800000,Male,Unknown
+Yes,Broward,1584057600000,Yes,Yes,20,NA,FL resident,471,Ireland,1583798400000,Female,Yes
+No,St. Johns,1584835200000,No,No,69,NA,FL resident,472,NA,1584403200000,Male,Yes
+Yes,Pinellas,1584921600000,No,No,69,NA,FL resident,473,MEXICO,1584230400000,Female,No
+Yes,Broward,1584662400000,Yes,No,21,NA,FL resident,474,Mexico,1584316800000,Female,Unknown
+No,Broward,1584921600000,Yes,No,52,NA,FL resident,475,NA,1584921600000,Female,No
+Yes,Sarasota,1584748800000,Unknown,No,61,NA,FL resident,476,CO; FL,1584316800000,Male,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,65,NA,FL resident,477,NA,1584748800000,Female,Unknown
+Yes,Palm Beach,1584748800000,Unknown,Yes,60,NA,FL resident,478,NY,1584748800000,Male,Yes
+Unknown,Duval,1584921600000,NA,Unknown,19,NA,FL resident,479,NA,1584921600000,Female,Unknown
+No,Hillsborough,1584403200000,Yes,No,74,NA,FL resident,480,NA,1584403200000,Female,Yes
+Yes,Hillsborough,1584144000000,Yes,No,32,NA,FL resident,481,CO,1583884800000,Female,No
+Unknown,Osceola,1584748800000,No,No,80,NA,FL resident,482,NA,1584230400000,Male,No
+Yes,Broward,1584230400000,Yes,No,19,NA,FL resident,483,Ireland,1583712000000,Female,Yes
+No,Citrus,1584748800000,Yes,No,77,NA,FL resident,484,NA,1584316800000,Female,NA
+Yes,Citrus,1584489600000,Yes,Yes,80,NA,FL resident,485,DE,1584403200000,Male,Yes
+Unknown,Alachua,1584748800000,NA,Unknown,21,NA,FL resident,486,NA,1584662400000,Female,Unknown
+Yes,Volusia,1584144000000,Yes,Yes,71,NA,FL resident,487,Egypt; Jordan,1583625600000,Male,Yes
+Yes,Volusia,1584057600000,Yes,Yes,70,NA,FL resident,488,Egypt; Jordan,1583452800000,Female,Unknown
+No,Orange,1584316800000,No,No,51,NA,FL resident,489,NA,1583798400000,Male,Yes
+No,Broward,1584489600000,No,No,55,NA,FL resident,490,NA,1584057600000,Male,No
+Unknown,Dade,1585008000000,NA,Unknown,49,NA,FL resident,491,NA,1585008000000,Female,Unknown
+No,Broward,1584403200000,Yes,No,70,NA,FL resident,492,NA,1584057600000,Male,No
+Unknown,Dade,1585008000000,NA,Unknown,77,NA,FL resident,493,NA,1585008000000,Male,Unknown
+No,Indian River,1584921600000,No,No,49,NA,FL resident,494,NA,1583884800000,Male,No
+Yes,St. Johns,1583971200000,No,Yes,63,NA,Non-FL resident,495,NY,1582848000000,Male,Yes
+Yes,Dade,1584576000000,Yes,No,69,NA,FL resident,496,IL; Israel; VA,1583625600000,Male,Yes
+Unknown,Palm Beach,1584662400000,Unknown,No,48,NA,FL resident,497,NA,1584662400000,Male,Yes
+Unknown,Dade,1584921600000,NA,Unknown,44,NA,FL resident,498,NA,1584921600000,Female,Unknown
+Yes,Pinellas,1583884800000,Yes,No,55,NA,FL resident,499,Egypt,1583625600000,Male,No
+Yes,Osceola,1584489600000,No,Yes,68,NA,FL resident,500,India,1584403200000,Male,Yes
+No,Dade,1584576000000,Yes,Yes,47,NA,FL resident,501,NA,1584576000000,Male,Yes
+Unknown,Hillsborough,1584835200000,No,No,60,NA,FL resident,502,NA,1584835200000,Male,No
+Unknown,Palm Beach,1584662400000,Unknown,No,20,NA,Non-FL resident,503,NA,1584403200000,Female,No
+Unknown,Palm Beach,1584835200000,NA,Unknown,69,NA,FL resident,504,NA,1584835200000,Female,NA
+No,Walton,1584662400000,No,No,49,NA,FL resident,505,NA,1583452800000,Male,No
+No,Santa Rosa,1584921600000,No,Yes,2,NA,FL resident,506,NA,1584403200000,Male,Yes
+No,Martin,1584921600000,No,No,57,NA,FL resident,507,NA,1584057600000,Male,Yes
+No,St. Johns,1584835200000,No,No,40,NA,FL resident,508,NA,1583712000000,Male,Yes
+Yes,Pinellas,1584835200000,Yes,No,52,NA,FL resident,509,Israel,1583625600000,Male,No
+No,Baker,1584835200000,Unknown,Yes,66,NA,FL resident,510,NA,1584662400000,Male,No
+Yes,Okaloosa,1584489600000,No,No,24,NA,FL resident,511,CO; FL,1584057600000,Female,No
+Unknown,Hillsborough,1585008000000,No,No,52,NA,FL resident,512,NA,1584835200000,Male,Unknown
+No,Lake,1584921600000,No,No,63,NA,FL resident,513,NA,1584921600000,Female,Yes
+Yes,Dade,1584576000000,No,No,36,NA,Non-FL resident,514,Spain,1583884800000,Male,Yes
+Unknown,Broward,1584835200000,NA,Unknown,26,NA,FL resident,515,NA,1584748800000,Female,Unknown
+No,Broward,1584489600000,No,No,43,NA,FL resident,516,NA,1583971200000,Female,Yes
+No,Dade,1584748800000,Yes,No,47,NA,FL resident,517,NA,1584057600000,Female,Unknown
+Yes,Alachua,1584489600000,Yes,Yes,50,NA,FL resident,518,Bahamas; FL,1584403200000,Female,Yes
+Yes,Hillsborough,1584748800000,No,No,62,NA,FL resident,519,FL; NY,1584403200000,Male,NA
+Yes,Dade,1584403200000,Unknown,Yes,51,NA,Non-FL resident,520,Bahamas; CA; IL,1583798400000,Male,Yes
+No,Lake,1584576000000,Yes,No,26,NA,FL resident,521,NA,1583712000000,Male,No
+Unknown,Dade,1584835200000,NA,Unknown,67,NA,FL resident,522,NA,1584835200000,Male,Unknown
+Yes,Walton,1584489600000,Yes,Yes,77,NA,Non-FL resident,523,FL; MI,1583712000000,Female,No
+Unknown,Palm Beach,1584835200000,NA,Unknown,67,NA,FL resident,524,NA,1584835200000,Male,Unknown
+No,Pinellas,1584662400000,Yes,No,29,NA,FL resident,525,NA,1584230400000,Male,Yes
+Yes,Alachua,1584489600000,Yes,No,51,NA,FL resident,526,BAHAMAS; FL,1584230400000,Male,No
+Yes,Collier,1584403200000,Yes,Yes,76,NA,FL resident,527,ST. MARTIN,1583884800000,Male,NA
+Yes,Broward,1584748800000,Unknown,No,35,NA,FL resident,528,ITALY; SPAIN,1584316800000,Male,Yes
+Yes,St. Lucie,1584835200000,No,No,77,NA,FL resident,529,Caribbean,1583712000000,Male,No
+Yes,Orange,1584748800000,NA,No,34,NA,Non-FL resident,530,Peru,1584748800000,Male,No
+No,Alachua,1584662400000,Yes,No,22,NA,FL resident,531,NA,1584576000000,Male,No
+Yes,Broward,1584835200000,NA,No,22,NA,FL resident,532,FL; NY,1584057600000,Female,No
+Unknown,Duval,1584748800000,NA,Unknown,57,NA,FL resident,533,NA,1584748800000,Female,Unknown
+No,Broward,1584748800000,Unknown,No,55,NA,FL resident,534,NA,1584403200000,Male,Yes
+No,Duval,1584230400000,Yes,Yes,88,Yes,FL resident,535,NA,1583971200000,Male,Yes
+No,Dade,1584835200000,Unknown,Yes,83,NA,FL resident,536,NA,1584403200000,Male,Yes
+Unknown,Flagler,1584835200000,Unknown,No,59,NA,FL resident,537,NA,1584835200000,Female,No
+No,Broward,1584489600000,Yes,No,58,NA,FL resident,538,NA,1583020800000,Male,No
+Unknown,Broward,1585008000000,NA,Unknown,33,NA,FL resident,539,NA,1584921600000,Male,Unknown
+No,Duval,1584403200000,Yes,Yes,84,NA,FL resident,540,NA,1584230400000,Male,Yes
+Unknown,Dade,1584921600000,Unknown,Yes,52,NA,FL resident,541,NA,1583971200000,Female,Yes
+No,Dade,1584835200000,Yes,No,32,NA,FL resident,542,NA,1584316800000,Male,No
+No,Sarasota,1584748800000,Unknown,Yes,87,NA,FL resident,543,NA,1584230400000,Male,Yes
+Yes,Dade,1585008000000,NA,Unknown,19,NA,FL resident,544,Spain,1584230400000,Male,Yes
+Yes,Pasco,1584835200000,Unknown,Yes,71,NA,FL resident,545,VA,1584748800000,Female,NA
+Yes,Lake,1584748800000,No,No,80,NA,FL resident,546,BELIZE; CARIBBEAN; FL,1584748800000,Male,No
+No,Hillsborough,1584921600000,No,No,36,NA,FL resident,547,NA,1584489600000,Male,NA
+Yes,Pinellas,1584835200000,No,No,26,NA,FL resident,548,Bahamas; FL,1584316800000,Male,No
+No,Hillsborough,1584662400000,Unknown,No,30,NA,FL resident,549,NA,1584057600000,Female,Yes
+No,Sarasota,1585008000000,Unknown,Unknown,49,NA,FL resident,550,NA,1585008000000,Male,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,56,NA,FL resident,551,NA,1585008000000,Male,Unknown
+Unknown,Hillsborough,1584835200000,NA,Unknown,51,NA,FL resident,552,NA,1584748800000,Female,Unknown
+Unknown,Dade,1584748800000,NA,Unknown,27,NA,FL resident,553,NA,1584748800000,Female,Unknown
+No,Dade,1584403200000,Yes,No,19,NA,FL resident,554,NA,1583884800000,Female,Yes
+No,Osceola,1584403200000,Yes,Yes,29,NA,FL resident,555,NA,1583971200000,Male,Yes
+No,Osceola,1584316800000,Yes,Yes,47,NA,FL resident,556,NA,1583798400000,Female,Yes
+No,Duval,1584748800000,Yes,No,86,NA,FL resident,557,NA,1584144000000,Female,No
+Yes,Hillsborough,1584144000000,Unknown,Yes,47,NA,FL resident,558,CO,1582934400000,Male,Yes
+Unknown,Manatee,1584921600000,NA,NA,14,NA,FL resident,559,NA,1584921600000,Male,NA
+Yes,Dade,1584403200000,NA,NA,37,NA,FL resident,560,AZ; Spain,1582848000000,Female,Yes
+Yes,Dade,1584230400000,No,No,25,NA,FL resident,561,SPAIN,1583884800000,Female,Yes
+No,Broward,1584748800000,Unknown,Yes,95,NA,FL resident,562,NA,1584576000000,Male,Yes
+Unknown,Escambia,1585008000000,NA,NA,58,NA,FL resident,563,NA,1584921600000,Male,NA
+Yes,Broward,1584835200000,No,No,57,NA,FL resident,564,France,1584748800000,Male,Yes
+Unknown,Broward,1584230400000,Yes,No,83,NA,FL resident,565,NA,1583712000000,Male,No
+Unknown,Duval,1584835200000,NA,Unknown,39,NA,FL resident,566,NA,1584835200000,Male,Unknown
+No,Dade,1584403200000,No,Yes,80,NA,FL resident,567,NA,1584316800000,Female,Yes
+Unknown,Palm Beach,1584835200000,NA,Unknown,61,NA,FL resident,568,NA,1584835200000,Female,Unknown
+Yes,Hillsborough,1584662400000,No,Unknown,46,NA,FL resident,569,Egypt,1583884800000,Female,Unknown
+No,Dade,1584057600000,Yes,No,45,NA,FL resident,570,NA,1583798400000,Male,No
+Yes,Broward,1584662400000,Yes,No,65,NA,FL resident,571,NY,1584316800000,Male,No
+Yes,Dade,1584748800000,Unknown,Yes,52,NA,FL resident,572,CA; NY,1584230400000,Male,Yes
+Yes,Broward,1584576000000,Unknown,No,49,NA,FL resident,573,Colombia; FL,1583884800000,Male,Yes
+Unknown,Palm Beach,1584835200000,NA,Unknown,47,NA,FL resident,574,NA,1584835200000,Male,Unknown
+Unknown,Collier,1584835200000,No,No,61,NA,FL resident,575,NA,1584835200000,Female,No
+Yes,Palm Beach,1584489600000,Yes,No,73,NA,Non-FL resident,576,NY,1583884800000,Male,No
+Unknown,Dade,1584921600000,NA,Unknown,35,NA,FL resident,577,NA,1584921600000,Female,Unknown
+No,Broward,1584921600000,Yes,Yes,83,NA,FL resident,578,NA,1584835200000,Female,Yes
+No,Broward,1584921600000,Yes,No,20,NA,FL resident,579,NA,1584489600000,Male,No
+No,Lee,1584057600000,Yes,Yes,77,Yes,FL resident,580,NA,1584057600000,Male,Yes
+Yes,Lee,1584144000000,Yes,No,72,NA,FL resident,581,MA; NH,1583193600000,Female,No
+Yes,Monroe,1585008000000,Unknown,No,48,NA,FL resident,582,FL; LA,1584316800000,Male,No
+Unknown,Palm Beach,1584835200000,NA,Unknown,64,NA,FL resident,583,NA,1584835200000,Female,Unknown
+Unknown,Orange,1584835200000,NA,Unknown,32,NA,FL resident,584,NA,1584835200000,Male,Unknown
+Unknown,Dade,1584748800000,Yes,Unknown,33,NA,FL resident,585,NA,1584748800000,Male,Unknown
+Unknown,Dade,1584748800000,No,No,44,NA,FL resident,586,NA,1583971200000,Female,Yes
+Unknown,Dade,1585008000000,NA,Unknown,62,NA,FL resident,587,NA,1584921600000,Male,Unknown
+No,St. Johns,1584662400000,No,Yes,68,NA,FL resident,588,NA,1583366400000,Male,Yes
+Yes,Marion,1584748800000,Unknown,No,68,NA,FL resident,589,WI,1583884800000,Male,Yes
+Unknown,Palm Beach,1585008000000,NA,No,24,NA,FL resident,590,NA,1584835200000,Female,No
+Yes,Broward,1584489600000,Yes,No,57,NA,FL resident,591,NJ,1584144000000,Male,Yes
+Unknown,Dade,1584662400000,NA,Unknown,34,NA,FL resident,592,NA,1584662400000,Male,Unknown
+No,Dade,1584489600000,Yes,No,25,NA,FL resident,593,NA,1583971200000,Male,Yes
+Yes,Collier,1584144000000,No,Yes,79,NA,Non-FL resident,594,CT,1583539200000,Female,Yes
+Yes,Manatee,1583712000000,Yes,No,81,NA,FL resident,595,Egypt,1581984000000,Female,NA
+Yes,Pinellas,1583884800000,Yes,No,67,NA,FL resident,596,Egypt,1583193600000,Male,No
+Unknown,Palm Beach,1584835200000,NA,Unknown,21,NA,FL resident,597,NA,1584835200000,Female,Unknown
+No,Hillsborough,1584748800000,Yes,No,19,NA,FL resident,598,NA,1584403200000,Female,Yes
+No,Collier,1584489600000,Yes,Yes,82,NA,FL resident,599,NA,1581638400000,Male,Yes
+Yes,Palm Beach,1584662400000,No,Yes,72,NA,FL resident,600,Canada; FL,1583971200000,Male,Yes
+Unknown,Alachua,1584748800000,NA,Unknown,25,NA,FL resident,601,NA,1584748800000,Female,Unknown
+Unknown,Dade,1584748800000,Yes,Unknown,50,NA,FL resident,602,NA,1584748800000,Male,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,21,NA,FL resident,603,NA,1585008000000,Female,Unknown
+Unknown,Orange,1584921600000,NA,Unknown,70,NA,FL resident,604,NA,1584921600000,Male,Unknown
+Unknown,Dade,1584835200000,Yes,Unknown,20,NA,FL resident,605,NA,1583971200000,Female,Yes
+Unknown,Dade,1584403200000,Unknown,Unknown,33,NA,Non-FL resident,606,NA,1584403200000,Male,Unknown
+Unknown,Dade,1584748800000,Yes,Unknown,11,NA,FL resident,607,NA,1584748800000,Female,Unknown
+Unknown,Palm Beach,1584921600000,NA,Unknown,29,NA,FL resident,608,NA,1584921600000,Male,Unknown
+No,Palm Beach,1584662400000,Yes,No,68,NA,FL resident,609,NA,1583625600000,Female,Yes
+No,Palm Beach,1584662400000,Yes,No,69,NA,FL resident,610,NA,1584230400000,Male,Yes
+Unknown,Dade,1584921600000,NA,Unknown,70,NA,FL resident,611,NA,1584921600000,Female,Unknown
+Unknown,Duval,1584835200000,Yes,No,82,NA,FL resident,612,NA,1584748800000,Female,No
+No,Duval,1584748800000,Yes,Yes,84,Yes,FL resident,613,NA,1583884800000,Male,Yes
+No,Orange,1584748800000,No,Yes,73,NA,Non-FL resident,614,NA,1583884800000,Female,Unknown
+Unknown,Alachua,1584748800000,Unknown,Unknown,62,NA,FL resident,615,NA,1584662400000,Female,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,66,NA,FL resident,616,NA,1585008000000,Male,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,70,NA,FL resident,617,NA,1585008000000,Female,Unknown
+Yes,Palm Beach,1584835200000,No,No,69,NA,FL resident,618,BAHAMAS; FL; NY; TX,1584057600000,Male,No
+Yes,Escambia,1584316800000,No,No,53,NA,FL resident,619,FRANCE,1584230400000,Male,No
+Unknown,Broward,1584835200000,NA,Unknown,31,NA,FL resident,620,NA,1584748800000,Male,Unknown
+Yes,Okaloosa,1584835200000,No,No,47,NA,FL resident,621,FL; GA; MS; NJ,1583798400000,Male,No
+No,Broward,1584835200000,Yes,No,55,NA,FL resident,622,NA,1584403200000,Male,Yes
+No,Polk,1584748800000,Unknown,Yes,60,NA,FL resident,623,NA,1584316800000,Male,Yes
+Unknown,Dade,1584748800000,NA,Unknown,58,NA,FL resident,624,NA,1584662400000,Male,Unknown
+Yes,Clay,1584662400000,No,Yes,82,Yes,FL resident,625,FL; UNKNOWN,1584316800000,Male,Yes
+Yes,Putnam,1584662400000,Unknown,No,67,NA,FL resident,626,CA,1584230400000,Male,Yes
+No,Pinellas,1584748800000,Unknown,Yes,60,NA,FL resident,627,NA,1584662400000,Male,Yes
+Unknown,Broward,1584835200000,NA,Unknown,59,NA,FL resident,628,NA,1584835200000,Male,Unknown
+Yes,Walton,1584921600000,Yes,No,61,NA,FL resident,629,COSTA RICA,1584057600000,Female,Yes
+Yes,Bay,1584748800000,Unknown,Yes,47,NA,Non-FL resident,630,TX,1584144000000,Male,Yes
+Unknown,Marion,1584748800000,No,No,59,NA,FL resident,631,NA,1584316800000,Female,No
+No,Highlands,1584835200000,No,No,77,NA,FL resident,632,NA,1584316800000,Female,No
+Unknown,Dade,1585008000000,NA,Unknown,54,NA,FL resident,633,NA,1585008000000,Male,Unknown
+Yes,Nassau,1583798400000,Yes,No,68,NA,FL resident,634,Germany; MA,1583193600000,Male,No
+Yes,Dade,1584662400000,Yes,No,68,NA,FL resident,635,France; Spain,1584230400000,Female,Yes
+Unknown,St. Johns,1584835200000,NA,Unknown,53,NA,FL resident,636,NA,1584835200000,Male,Unknown
+No,Hillsborough,1584144000000,No,No,17,NA,FL resident,637,NA,1584057600000,Male,Yes
+Unknown,Dade,1584921600000,NA,Unknown,21,NA,FL resident,638,NA,1584921600000,Male,Unknown
+Yes,Sumter,1584921600000,Yes,No,74,NA,FL resident,639,TX,1584921600000,Male,Yes
+Yes,Leon,1585008000000,Unknown,No,34,NA,FL resident,640,NC,1584489600000,Male,No
+Yes,Dade,1584748800000,Yes,No,13,NA,FL resident,641,NY,1583884800000,Female,Yes
+Yes,Sarasota,1584748800000,No,No,76,NA,FL resident,642,FL; NY,1584403200000,Male,No
+No,Lee,1585008000000,No,Yes,67,NA,FL resident,643,NA,1583884800000,Male,Yes
+Yes,Dade,1584835200000,Yes,No,13,NA,FL resident,644,NY,1583884800000,Male,Yes
+No,Broward,1584489600000,No,Yes,49,NA,FL resident,645,NA,1583625600000,Female,Yes
+Unknown,Broward,1585008000000,NA,Unknown,2,NA,FL resident,646,NA,1584921600000,Female,Unknown
+Unknown,Broward,1585008000000,NA,Unknown,62,NA,FL resident,647,NA,1584921600000,Male,Unknown
+Yes,Pinellas,1584835200000,No,No,53,NA,FL resident,648,MA,1584316800000,Female,Yes
+Unknown,Dade,1584748800000,NA,Unknown,63,NA,FL resident,649,NA,1584662400000,Male,Unknown
+No,Broward,1584748800000,Yes,No,20,NA,FL resident,650,NA,1584403200000,Female,Yes
+Yes,Dade,1584489600000,Unknown,No,48,NA,FL resident,651,CO,1583366400000,Male,NA
+No,Broward,1584748800000,Yes,No,17,NA,FL resident,652,NA,1584316800000,Female,Yes
+Yes,Broward,1584748800000,Yes,No,17,NA,FL resident,653,Spain,1584057600000,Female,Yes
+Unknown,Palm Beach,1585008000000,NA,Unknown,25,NA,FL resident,654,NA,1585008000000,Female,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,88,NA,FL resident,655,NA,1584921600000,Male,Unknown
+No,Dade,1584835200000,No,No,42,NA,FL resident,656,NA,1584230400000,Male,Yes
+Unknown,Dade,1585008000000,NA,Unknown,48,NA,FL resident,657,NA,1585008000000,Male,Unknown
+No,Orange,1584662400000,No,Yes,61,NA,FL resident,658,NA,1580947200000,Male,Yes
+No,Broward,1584921600000,Yes,Yes,96,NA,FL resident,659,NA,1584835200000,Female,Yes
+No,Broward,1584835200000,Yes,Yes,61,NA,FL resident,660,NA,1584748800000,Female,Yes
+No,Collier,1584835200000,No,No,17,NA,FL resident,661,NA,1584316800000,Male,No
+Unknown,Dade,1584576000000,NA,Unknown,31,NA,FL resident,662,NA,1584576000000,Male,Unknown
+Unknown,Duval,1584748800000,NA,Unknown,52,NA,FL resident,663,NA,1584748800000,Female,Unknown
+Unknown,Orange,1584489600000,Unknown,Yes,49,NA,FL resident,664,NA,1584230400000,Male,Yes
+Unknown,Dade,1585008000000,NA,Unknown,51,NA,FL resident,665,NA,1585008000000,Male,Unknown
+Unknown,Orange,1584921600000,NA,Unknown,46,NA,FL resident,666,NA,1584835200000,Female,Unknown
+Unknown,Palm Beach,1584662400000,Unknown,Unknown,66,NA,FL resident,667,NA,1583625600000,Male,Yes
+No,Dade,1584576000000,No,No,64,NA,FL resident,668,NA,1584316800000,Female,No
+No,Broward,1584662400000,Yes,Unknown,65,NA,FL resident,669,NA,1584316800000,Male,Yes
+Unknown,Alachua,1584748800000,NA,Unknown,55,NA,FL resident,670,NA,1584748800000,Male,Unknown
+Yes,Dade,1584230400000,Unknown,No,62,NA,FL resident,671,FL; NY,1583798400000,Male,Yes
+Unknown,Dade,1584835200000,NA,Unknown,67,NA,FL resident,672,NA,1584835200000,Male,Unknown
+Unknown,Dade,1584748800000,NA,Unknown,30,NA,FL resident,673,NA,1584748800000,Male,Unknown
+Unknown,St. Johns,1584835200000,No,No,44,NA,FL resident,674,NA,1584230400000,Male,No
+Unknown,Broward,1584835200000,NA,Unknown,39,NA,FL resident,675,NA,1584748800000,Female,Unknown
+No,Broward,1584057600000,Yes,No,68,NA,FL resident,676,NA,1583798400000,Female,No
+Unknown,Dade,1584403200000,NA,No,57,NA,FL resident,677,NA,1584316800000,Female,NA
+No,Dade,1584144000000,Yes,Yes,73,NA,FL resident,678,NA,1583452800000,Male,Yes
+Unknown,Dade,1584748800000,No,No,35,NA,FL resident,679,NA,1584489600000,Female,Yes
+Yes,Broward,1584489600000,Yes,Yes,54,NA,FL resident,680,FL; IL,1583712000000,Male,No
+Yes,Pinellas,1584835200000,No,Yes,66,NA,FL resident,681,FL; NV,1583971200000,Female,Yes
+Yes,Indian River,1584835200000,No,No,58,NA,FL resident,682,Ireland,1584403200000,Female,Yes
+Yes,Dade,1584835200000,Yes,No,44,NA,FL resident,683,NY,1583884800000,Female,Yes
+Yes,Dade,1584748800000,Yes,No,11,NA,FL resident,684,NY,1583884800000,Male,Yes
+Yes,Pinellas,1584835200000,Yes,No,70,NA,FL resident,685,Israel,1583452800000,Male,No
+Yes,Pinellas,1584489600000,No,No,54,NA,FL resident,686,NY,1584057600000,Female,No
+Yes,Pinellas,1584489600000,No,No,61,NA,FL resident,687,NY,1583539200000,Female,No
+Unknown,Dade,1584748800000,NA,Unknown,68,NA,FL resident,688,NA,1584748800000,Female,Unknown
+Unknown,Palm Beach,1584748800000,No,Yes,88,Yes,FL resident,689,NA,1583798400000,Male,Yes
+No,Broward,1584835200000,Unknown,Yes,44,NA,FL resident,690,NA,1584489600000,Male,Yes
+No,Hernando,1584576000000,No,No,70,NA,FL resident,691,NA,1584316800000,Female,No
+Yes,Hillsborough,1584057600000,Yes,Yes,49,NA,FL resident,692,FL; Ireland,1583798400000,Female,Yes
+Unknown,Broward,1584662400000,Unknown,No,46,NA,FL resident,693,NA,1584057600000,Male,Yes
+Unknown,Dade,1585008000000,NA,Unknown,48,NA,FL resident,694,NA,1585008000000,Male,Unknown
+No,Santa Rosa,1584662400000,No,Yes,17,NA,FL resident,695,NA,1583452800000,Male,Yes
+Yes,Sarasota,1584748800000,No,No,64,NA,FL resident,696,SPAIN,1584403200000,Male,No
+Unknown,Orange,1584921600000,NA,Unknown,42,NA,FL resident,697,NA,1584835200000,Male,Unknown
+No,Orange,1584316800000,Yes,No,40,NA,FL resident,698,NA,1584057600000,Female,Yes
+Unknown,Broward,1584835200000,NA,Unknown,33,NA,FL resident,699,NA,1584835200000,Female,Unknown
+No,Lee,1584576000000,Yes,Yes,67,Yes,FL resident,700,NA,1581724800000,Male,Yes
+Unknown,Polk,1584921600000,NA,NA,73,NA,FL resident,701,NA,1584835200000,Female,NA
+Unknown,Dade,1584403200000,Yes,Unknown,63,NA,FL resident,702,NA,1584403200000,Male,Unknown
+No,Palm Beach,1584748800000,No,No,43,NA,FL resident,703,NA,1584230400000,Male,Yes
+Unknown,Lee,1585008000000,NA,Unknown,56,NA,FL resident,704,NA,1585008000000,Male,Unknown
+No,Dade,1584489600000,Yes,No,27,NA,FL resident,705,NA,1584057600000,Male,Yes
+No,Columbia,1584921600000,Yes,No,46,NA,FL resident,706,NA,1584662400000,Male,NA
+Yes,Orange,1584835200000,Unknown,Yes,46,NA,FL resident,707,NY,1583625600000,Male,Yes
+No,Sarasota,1584316800000,Yes,Yes,87,NA,FL resident,708,NA,1584057600000,Male,Yes
+No,Sarasota,1584835200000,Yes,No,86,NA,FL resident,709,NA,1584489600000,Female,No
+Unknown,Dade,1584921600000,NA,Unknown,47,NA,FL resident,710,NA,1584835200000,Female,Unknown
+Yes,Pinellas,1584316800000,No,Yes,58,NA,FL resident,711,CO,1583452800000,Male,Yes
+Yes,Alachua,1584403200000,No,No,21,NA,FL resident,712,NY,1583366400000,Female,No
+Unknown,Dade,1584835200000,NA,Unknown,46,NA,FL resident,713,NA,1584835200000,Male,Unknown
+Unknown,Dade,1584489600000,Unknown,No,34,NA,FL resident,714,NA,1583798400000,Male,No
+Unknown,Duval,1584921600000,NA,Unknown,58,NA,FL resident,715,NA,1584921600000,Male,Unknown
+Yes,Hillsborough,1584662400000,No,No,60,NA,FL resident,716,CA,1583712000000,Male,Yes
+No,Duval,1584748800000,Yes,Yes,84,NA,FL resident,717,NA,1584489600000,Female,Yes
+Yes,Leon,1584489600000,Unknown,Yes,48,NA,Non-FL resident,718,GA,1584489600000,Female,Yes
+Unknown,Collier,1584921600000,No,No,76,NA,Non-FL resident,719,NA,1584489600000,Female,NA
+No,Broward,1584662400000,Yes,No,53,NA,FL resident,720,NA,1584403200000,Female,Yes
+Yes,Indian River,1584662400000,No,No,69,NA,FL resident,721,Egypt; Germany,1583884800000,Male,No
+Yes,Pasco,1584576000000,Unknown,No,67,NA,FL resident,722,CA,1583884800000,Male,No
+Unknown,Dade,1584921600000,NA,Yes,53,NA,FL resident,723,NA,1584921600000,Female,NA
+Unknown,Duval,1584748800000,NA,NA,45,NA,FL resident,724,NA,1584576000000,Female,NA
+No,Dade,1584057600000,Yes,Yes,51,NA,FL resident,725,NA,1583280000000,Male,Yes
+No,Collier,1584662400000,No,No,80,NA,FL resident,726,NA,1584316800000,Male,No
+No,Lee,1584921600000,No,Yes,83,NA,Non-FL resident,727,NA,1584662400000,Male,Yes
+Unknown,Dade,1584835200000,Yes,Unknown,66,NA,FL resident,728,NA,1584748800000,Male,Unknown
+No,Palm Beach,1584662400000,Unknown,Yes,42,NA,FL resident,729,NA,1583366400000,Female,Yes
+Yes,Alachua,1584144000000,No,No,69,NA,Non-FL resident,730,Sweden,1583712000000,Male,Yes
+No,Walton,1584921600000,Unknown,No,22,NA,FL resident,731,NA,1584316800000,Female,No
+No,Escambia,1584835200000,No,No,33,NA,FL resident,732,NA,1584403200000,Female,NA
+Yes,Hillsborough,1584921600000,Unknown,No,38,NA,Non-FL resident,733,IL,1584576000000,Female,Yes
+No,Dade,1584403200000,Yes,No,52,NA,FL resident,734,NA,1583712000000,Female,Yes
+Unknown,Orange,1584403200000,Unknown,Unknown,28,NA,Non-FL resident,735,NA,1584403200000,Female,Unknown
+Yes,Palm Beach,1584144000000,Yes,Yes,59,NA,FL resident,736,NY,1583539200000,Female,Yes
+Yes,Palm Beach,1584144000000,Yes,Yes,65,NA,FL resident,737,NY,1583539200000,Male,Yes
+Unknown,Broward,1584835200000,NA,Unknown,50,NA,FL resident,738,NA,1584748800000,Male,Unknown
+Yes,Palm Beach,1584576000000,Unknown,Unknown,73,NA,Non-FL resident,739,NJ,1584576000000,Male,Unknown
+No,Highlands,1584748800000,No,Yes,78,NA,FL resident,740,NA,1584230400000,Female,Yes
+Unknown,Dade,1584748800000,NA,Unknown,39,NA,FL resident,741,NA,1584662400000,Male,Unknown
+Unknown,Orange,1584489600000,NA,Yes,46,NA,FL resident,742,NA,1584489600000,Male,Yes
+Unknown,Broward,1584835200000,NA,Unknown,71,NA,FL resident,743,NA,1584835200000,Male,Unknown
+Yes,Walton,1585008000000,Unknown,No,38,NA,Non-FL resident,744,CA,1583712000000,Female,No
+Yes,Dade,1584403200000,No,No,45,NA,FL resident,745,NY,1583884800000,Female,Yes
+Unknown,Dade,1585008000000,NA,Unknown,50,NA,FL resident,746,NA,1585008000000,Female,Unknown
+Unknown,Dade,1584316800000,NA,Unknown,30,NA,FL resident,747,NA,1584316800000,Female,Unknown
+Yes,Dade,1584748800000,Yes,No,48,NA,Non-FL resident,748,NY,1584748800000,Male,No
+No,Broward,1584662400000,Yes,No,59,NA,FL resident,749,NA,1584230400000,Male,Yes
+No,Broward,1584921600000,Yes,No,30,NA,FL resident,750,NA,1584921600000,Male,No
+No,Broward,1584489600000,No,Yes,57,NA,FL resident,751,NA,1583625600000,Male,Yes
+Unknown,Broward,1584835200000,NA,Unknown,18,NA,FL resident,752,NA,1584748800000,Male,Unknown
+Yes,Collier,1584921600000,No,No,77,NA,Non-FL resident,753,NJ,1584489600000,Male,Yes
+Yes,Okaloosa,1584662400000,No,No,45,NA,FL resident,754,GA,1584057600000,Female,No
+Yes,Pinellas,1584403200000,No,No,30,NA,FL resident,755,FL; Mexico,1583971200000,Male,Yes
+Yes,Hillsborough,1584489600000,Yes,No,33,NA,FL resident,756,KY,1583884800000,Male,No
+No,Broward,1584921600000,Unknown,No,51,NA,FL resident,757,NA,1584662400000,Male,Yes
+No,Broward,1584748800000,No,No,20,NA,FL resident,758,NA,1584230400000,Male,No
+No,Walton,1584921600000,Yes,Yes,58,NA,FL resident,759,NA,1584576000000,Male,Yes
+No,Palm Beach,1584921600000,No,No,71,NA,FL resident,760,NA,1584835200000,Male,No
+Unknown,Dade,1584921600000,NA,Unknown,30,NA,FL resident,761,NA,1584921600000,Female,Unknown
+Unknown,Dade,1584921600000,NA,Unknown,28,NA,FL resident,762,NA,1584921600000,Male,Unknown
+No,Hillsborough,1584835200000,Yes,No,36,NA,FL resident,763,NA,1583971200000,Female,Yes
+Unknown,Hillsborough,1585008000000,Yes,NA,3,NA,FL resident,764,NA,1584316800000,Male,NA
+No,Hillsborough,1584489600000,Yes,Yes,43,NA,FL resident,765,NA,1584316800000,Male,Yes
+Yes,Seminole,1584748800000,No,No,25,NA,FL resident,766,FL; United Kingdom,1584489600000,Female,Yes
+No,Lee,1584835200000,Yes,No,70,NA,FL resident,767,NA,1583539200000,Male,NA
+No,Hillsborough,1584662400000,No,No,52,NA,FL resident,768,NA,1584489600000,Male,No
+Unknown,Hillsborough,1584921600000,Yes,NA,47,NA,FL resident,769,NA,1584835200000,Female,NA
+Yes,Seminole,1584921600000,Unknown,No,76,NA,FL resident,770,EGYPT; ISRAEL; JORDAN,1584230400000,Female,No
+No,Alachua,1584662400000,No,Yes,61,NA,FL resident,771,NA,1584662400000,Male,Yes
+Yes,Lee,1584748800000,No,Yes,89,NA,FL resident,772,FL; NY,1584403200000,Female,Yes
+No,Walton,1584921600000,Unknown,Yes,45,NA,Non-FL resident,773,NA,1584576000000,Male,Yes
+No,Broward,1584835200000,Unknown,Yes,80,NA,FL resident,774,NA,1584576000000,Female,Yes
+Unknown,Dade,1585008000000,NA,NA,30,NA,FL resident,775,NA,1584489600000,Female,NA
+Yes,Escambia,1584921600000,Unknown,No,60,NA,FL resident,776,FL; IL,1584316800000,Female,NA
+Unknown,Broward,1585008000000,NA,NA,60,NA,FL resident,777,NA,1584921600000,Unknown,NA
+No,Hillsborough,1584921600000,NA,No,30,NA,FL resident,778,NA,1584403200000,Female,Unknown
+Unknown,Broward,1585008000000,NA,Unknown,40,NA,FL resident,779,NA,1584921600000,Female,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,46,NA,FL resident,780,NA,1584748800000,Female,Unknown
+Yes,St. Johns,1584662400000,Yes,No,38,NA,FL resident,781,FL; MN,1583539200000,Female,Yes
+Yes,St. Johns,1584921600000,Yes,Yes,52,Yes,FL resident,782,FL; MN,1583539200000,Male,Yes
+Yes,Pasco,1584662400000,No,No,73,NA,Non-FL resident,783,Spain,1584230400000,Female,No
+No,Pinellas,1584748800000,Yes,No,62,NA,FL resident,784,NA,1584489600000,Male,No
+Unknown,Palm Beach,1584835200000,NA,Unknown,22,NA,FL resident,785,NA,1584835200000,Male,Unknown
+No,Broward,1584230400000,Yes,No,60,NA,FL resident,786,NA,1583798400000,Male,No
+Yes,Collier,1584576000000,NA,No,47,NA,FL resident,787,France; Italy; Spain,1584489600000,Female,NA
+Yes,Dade,1584316800000,No,Yes,42,NA,FL resident,788,Puerto Rico; SC,1583539200000,Male,Yes
+No,Volusia,1584403200000,Yes,No,60,NA,FL resident,789,NA,1583884800000,Female,No
+Unknown,Palm Beach,1584489600000,Yes,Unknown,26,NA,Non-FL resident,790,NA,1584489600000,Female,Unknown
+Unknown,Hillsborough,1584921600000,No,Unknown,39,NA,FL resident,791,NA,1584489600000,Female,Unknown
+No,Alachua,1584662400000,No,Unknown,29,NA,FL resident,792,NA,1583712000000,Female,Yes
+Unknown,Duval,1584403200000,NA,Unknown,27,NA,FL resident,793,NA,1584403200000,Male,Unknown
+No,Duval,1584230400000,Yes,No,66,NA,FL resident,794,NA,1583798400000,Male,Yes
+Unknown,Dade,1584835200000,NA,Unknown,38,NA,FL resident,795,NA,1584835200000,Male,Unknown
+No,Dade,1584921600000,No,Unknown,40,NA,FL resident,796,NA,1583971200000,Male,Yes
+No,Manatee,1584748800000,NA,Yes,56,NA,FL resident,797,NA,1584748800000,Female,Yes
+Yes,Broward,1584921600000,Yes,No,66,NA,FL resident,798,CO; ID,1583712000000,Female,No
+No,Broward,1584489600000,Unknown,Yes,93,NA,FL resident,799,NA,1584316800000,Male,Yes
+No,Dade,1584576000000,Unknown,Yes,75,NA,FL resident,800,NA,1584057600000,Male,Yes
+Yes,Sumter,1584835200000,No,Yes,67,NA,FL resident,801,FL; MA; RI,1584057600000,Male,Yes
+Unknown,Alachua,1584835200000,NA,Unknown,30,NA,FL resident,802,NA,1584835200000,Female,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,73,NA,FL resident,803,NA,1585008000000,Male,Unknown
+Unknown,Orange,1584662400000,Unknown,No,31,NA,FL resident,804,NA,1584144000000,Male,Unknown
+No,Broward,1584489600000,Yes,No,42,NA,FL resident,805,NA,1584489600000,Male,No
+Unknown,Broward,1585008000000,Unknown,Yes,38,NA,FL resident,806,NA,1585008000000,Female,Yes
+No,St. Lucie,1584835200000,No,No,45,NA,FL resident,807,NA,1584144000000,Female,Yes
+No,Duval,1584057600000,Yes,Yes,83,Yes,FL resident,808,NA,1583712000000,Male,Yes
+Yes,Collier,1584489600000,No,No,31,NA,FL resident,809,Egypt,1584057600000,Female,Yes
+No,Broward,1584662400000,Yes,No,53,NA,FL resident,810,NA,1583625600000,Female,Yes
+No,Broward,1584662400000,Yes,Yes,31,NA,FL resident,811,NA,1583625600000,Male,Yes
+Unknown,Hillsborough,1584835200000,No,Unknown,39,NA,FL resident,812,NA,1584835200000,Male,Unknown
+Unknown,Dade,1584489600000,NA,Unknown,21,NA,FL resident,813,NA,1584403200000,Female,Unknown
+Yes,Dade,1584230400000,No,No,42,NA,Non-FL resident,814,Brazil; FL; TX,1583539200000,Male,Yes
+Yes,Dade,1584835200000,No,Yes,49,NA,FL resident,815,SPAIN,1584230400000,Male,NA
+Yes,Orange,1584748800000,Unknown,No,46,NA,FL resident,816,United Arab Emirates,1584144000000,Male,No
+Yes,Broward,1584144000000,No,No,21,NA,FL resident,817,Italy; Spain,1583280000000,Male,Yes
+No,Broward,1584662400000,No,No,58,NA,FL resident,818,NA,1583884800000,Female,Yes
+No,Sarasota,1584921600000,No,No,53,NA,FL resident,819,NA,1584576000000,Male,No
+Unknown,Dade,1584921600000,NA,Unknown,68,NA,FL resident,820,NA,1584835200000,Female,Unknown
+Unknown,Palm Beach,1584835200000,NA,Unknown,45,NA,FL resident,821,NA,1584835200000,Female,Unknown
+Yes,Brevard,1585008000000,Unknown,No,52,NA,FL resident,822,CANADA,1584403200000,Female,No
+Yes,Palm Beach,1584576000000,Unknown,No,19,NA,FL resident,823,NY,1584057600000,Male,No
+Unknown,Broward,1585008000000,NA,Unknown,61,NA,FL resident,824,NA,1584921600000,Male,Unknown
+Yes,Broward,1585008000000,Unknown,No,31,NA,FL resident,825,FL; NY,1584576000000,Male,Yes
+Unknown,Duval,1584403200000,NA,Unknown,74,NA,FL resident,826,NA,1584403200000,Male,Unknown
+Unknown,Dade,1584748800000,Yes,NA,59,NA,FL resident,827,NA,1583884800000,Female,NA
+Unknown,Dade,1585008000000,NA,Unknown,26,NA,FL resident,828,NA,1585008000000,Male,Unknown
+Yes,Dade,1584576000000,No,No,54,NA,FL resident,829,SPAIN,1583452800000,Male,Yes
+Unknown,Broward,1584835200000,Yes,Unknown,53,NA,FL resident,830,NA,1584748800000,Female,Unknown
+Unknown,Pasco,1585008000000,Unknown,No,32,NA,FL resident,831,NA,1584316800000,Female,Yes
+Unknown,Broward,1584748800000,Yes,Yes,94,NA,FL resident,832,NA,1584489600000,Male,Yes
+No,Dade,1584835200000,Unknown,No,32,NA,FL resident,833,NA,1584057600000,Male,Unknown
+Yes,Pinellas,1584748800000,Unknown,No,45,NA,FL resident,834,NY,1584748800000,Male,No
+Unknown,Dade,1585008000000,NA,Unknown,27,NA,FL resident,835,NA,1585008000000,Male,Unknown
+Unknown,Dade,1584489600000,NA,NA,50,NA,FL resident,836,NA,1583971200000,Female,NA
+Unknown,Brevard,1585008000000,NA,Unknown,38,NA,FL resident,837,NA,1585008000000,Male,Unknown
+No,Hillsborough,1584835200000,Unknown,Unknown,21,NA,FL resident,838,NA,1584835200000,Female,Unknown
+Unknown,Orange,1584921600000,NA,Unknown,33,NA,FL resident,839,NA,1584921600000,Male,Unknown
+Yes,Osceola,1584835200000,No,No,33,NA,FL resident,840,NY,1583798400000,Female,No
+Unknown,Dade,1584748800000,NA,Unknown,28,NA,FL resident,841,NA,1584748800000,Male,Unknown
+Yes,Lee,1584662400000,Yes,No,23,NA,FL resident,842,TN,1584316800000,Male,No
+Unknown,Dade,1585008000000,NA,Unknown,37,NA,FL resident,843,NA,1584921600000,Male,Unknown
+Unknown,Dade,1584748800000,NA,Unknown,47,NA,FL resident,844,NA,1584662400000,Male,Unknown
+Unknown,Broward,1585008000000,NA,Unknown,38,NA,FL resident,845,NA,1584921600000,Male,Unknown
+Yes,Polk,1584921600000,No,No,41,NA,FL resident,846,UNITED KINGDOM,1584403200000,Male,Yes
+No,Dade,1585008000000,Unknown,No,49,NA,FL resident,847,NA,1584576000000,Male,Yes
+Unknown,Broward,1584835200000,NA,Unknown,38,NA,FL resident,848,NA,1584835200000,Male,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,43,NA,FL resident,849,NA,1584144000000,Female,Unknown
+No,Indian River,1584662400000,No,No,84,NA,FL resident,850,NA,1583280000000,Female,No
+Unknown,Dade,1585008000000,NA,Unknown,57,NA,FL resident,851,NA,1585008000000,Male,Unknown
+Unknown,Dade,1584662400000,NA,Unknown,25,NA,FL resident,852,NA,1584662400000,Male,Unknown
+No,Duval,1584662400000,Yes,Yes,90,NA,FL resident,853,NA,1583971200000,Male,Yes
+Yes,Lee,1584230400000,Yes,Yes,65,NA,FL resident,854,FL; JAMAICA,1583280000000,Female,Yes
+Yes,Dade,1584403200000,No,No,45,NA,FL resident,855,France; United Kingdom,1583539200000,Male,Yes
+No,Pinellas,1584921600000,No,Yes,83,NA,FL resident,856,NA,1582588800000,Female,Yes
+No,Duval,1584748800000,Yes,No,89,NA,FL resident,857,NA,1584489600000,Female,No
+Unknown,Palm Beach,1584835200000,NA,Unknown,56,NA,FL resident,858,NA,1584835200000,Female,Unknown
+Yes,Broward,1584662400000,No,No,53,NA,FL resident,859,FL; GA; HI; MA,1584144000000,Female,NA
+Unknown,Broward,1585008000000,NA,Unknown,84,NA,FL resident,860,NA,1584921600000,Female,Unknown
+Unknown,Dade,1584835200000,Yes,NA,44,NA,FL resident,861,NA,1584835200000,Female,NA
+Unknown,Dade,1584576000000,Unknown,Yes,43,NA,FL resident,862,NA,1584576000000,Male,Yes
+Yes,Broward,1584921600000,Yes,No,28,NA,FL resident,863,Australia; CA; FL,1583971200000,Male,No
+Unknown,Dade,1584835200000,NA,Unknown,18,NA,FL resident,864,NA,1584835200000,Male,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,42,NA,FL resident,865,NA,1584835200000,Male,Unknown
+Unknown,Dade,1585008000000,NA,No,40,NA,FL resident,866,NA,1584921600000,Female,Yes
+Unknown,Broward,1584835200000,NA,Unknown,75,NA,FL resident,867,NA,1584748800000,Male,Unknown
+Yes,Broward,1584230400000,Yes,No,20,NA,FL resident,868,Ireland,1583884800000,Female,No
+Unknown,Dade,1584921600000,NA,Unknown,26,NA,FL resident,869,NA,1584921600000,Female,Unknown
+Unknown,Dade,1584921600000,NA,Unknown,64,NA,FL resident,870,NA,1584921600000,Male,Unknown
+Yes,Charlotte,1583712000000,Yes,Yes,54,NA,FL resident,871,Egypt; Israel,1581120000000,Female,NA
+Yes,Collier,1584576000000,No,No,30,NA,FL resident,872,Spain,1583798400000,Female,No
+Yes,Broward,1584230400000,Yes,No,19,NA,FL resident,873,Ireland,1584057600000,Female,No
+No,Charlotte,1584662400000,Yes,No,55,NA,FL resident,874,NA,1584576000000,Male,NA
+Unknown,Dade,1584921600000,NA,Unknown,64,NA,FL resident,875,NA,1584835200000,Male,Unknown
+Unknown,Dade,1584921600000,NA,Unknown,50,NA,FL resident,876,NA,1584921600000,Female,Unknown
+Unknown,Broward,1585008000000,NA,Unknown,42,NA,FL resident,877,NA,1584921600000,Female,Unknown
+Yes,Broward,1584489600000,No,No,30,NA,FL resident,878,CT; FL; Italy,1584057600000,Male,Yes
+No,Broward,1584662400000,Yes,Yes,75,NA,FL resident,879,NA,1584403200000,Male,Yes
+Unknown,Dade,1584748800000,NA,Unknown,59,NA,FL resident,880,NA,1584662400000,Male,Unknown
+Unknown,Broward,1585008000000,NA,Unknown,74,NA,FL resident,881,NA,1584921600000,Male,Unknown
+Yes,Dade,1584489600000,No,No,53,NA,FL resident,882,Qatar; Spain,1584057600000,Male,Unknown
+Yes,Alachua,1584316800000,No,No,64,NA,Non-FL resident,883,FL; NY,1583971200000,Female,Yes
+Unknown,Hillsborough,1585008000000,NA,NA,65,NA,FL resident,884,NA,1584921600000,Male,NA
+No,Clay,1584835200000,No,Yes,68,NA,FL resident,885,NA,1583884800000,Female,Yes
+Yes,Santa Rosa,1583366400000,No,Yes,71,Yes,FL resident,886,EGYPT; ISRAEL; JORDAN,1583280000000,Male,Yes
+Yes,Dade,1584230400000,No,No,58,NA,FL resident,887,ITALY; SPAIN,1583539200000,Female,Yes
+Unknown,Dade,1585008000000,NA,Unknown,57,NA,FL resident,888,NA,1584921600000,Female,Unknown
+Unknown,Lee,1584748800000,No,Yes,73,NA,FL resident,889,NA,1583452800000,Male,Yes
+Yes,Okaloosa,1584403200000,No,No,78,NA,FL resident,890,Italy,1583366400000,Female,Yes
+Yes,Sumter,1584489600000,Yes,Yes,68,NA,FL resident,891,Egypt,1584403200000,Male,Yes
+Unknown,Alachua,1585008000000,NA,Unknown,26,NA,FL resident,892,NA,1585008000000,Male,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,49,NA,FL resident,893,NA,1585008000000,Male,Unknown
+Unknown,Broward,1584835200000,NA,NA,64,NA,FL resident,894,NA,1584748800000,Male,NA
+No,Broward,1584835200000,Yes,No,32,NA,FL resident,895,NA,1583971200000,Male,No
+Unknown,Dade,1584921600000,NA,Unknown,38,NA,FL resident,896,NA,1584921600000,Male,Unknown
+Unknown,Dade,1584576000000,NA,Unknown,48,NA,FL resident,897,NA,1584576000000,Male,Unknown
+Yes,Seminole,1585008000000,Unknown,No,55,NA,FL resident,898,SPAIN,1584662400000,Male,Yes
+No,Hillsborough,1584835200000,NA,No,28,NA,FL resident,899,NA,1584230400000,Female,Unknown
+Unknown,Seminole,1584921600000,Unknown,Yes,30,NA,FL resident,900,NA,1584921600000,Male,Yes
+Unknown,Broward,1584748800000,NA,Unknown,57,NA,FL resident,901,NA,1584748800000,Male,Unknown
+Yes,Okaloosa,1583280000000,Yes,Unknown,66,NA,Not diagnosed/isolated in FL,902,Japan,1579478400000,Female,Unknown
+Unknown,Palm Beach,1584403200000,Unknown,No,38,NA,FL resident,903,NA,1584057600000,Male,Yes
+Unknown,Osceola,1584921600000,No,No,70,NA,FL resident,904,NA,1583971200000,Male,No
+No,Pinellas,1584489600000,No,Yes,59,NA,FL resident,905,NA,1583366400000,Male,Yes
+No,Lee,1584835200000,Yes,No,67,NA,FL resident,906,NA,1584576000000,Male,No
+Yes,Seminole,1584662400000,No,Yes,61,NA,FL resident,907,PA,1584489600000,Female,NA
+No,Osceola,1584748800000,Unknown,Yes,58,NA,FL resident,908,NA,1584748800000,Male,Yes
+Unknown,Dade,1584835200000,NA,Unknown,41,NA,FL resident,909,NA,1584748800000,Female,Unknown
+Unknown,Broward,1584748800000,NA,No,87,NA,FL resident,910,NA,1584662400000,Male,NA
+Unknown,Dade,1584835200000,NA,Unknown,42,NA,FL resident,911,NA,1584748800000,Female,Unknown
+Yes,Polk,1584489600000,Unknown,No,22,NA,FL resident,912,GA,1583280000000,Female,No
+Unknown,Dade,1584230400000,Yes,No,39,NA,FL resident,913,NA,1583884800000,Male,Yes
+Unknown,Dade,1585008000000,NA,Unknown,40,NA,FL resident,914,NA,1585008000000,Male,Unknown
+Unknown,Dade,1584921600000,NA,Unknown,26,NA,FL resident,915,NA,1584921600000,Female,Unknown
+Yes,Palm Beach,1584835200000,No,No,48,NA,FL resident,916,CO; FL,1584230400000,Male,Unknown
+Unknown,Broward,1584921600000,NA,Unknown,22,NA,FL resident,917,NA,1584835200000,Female,Unknown
+Yes,Brevard,1584489600000,No,No,32,NA,FL resident,918,PA; UT,1583712000000,Male,Yes
+Unknown,Dade,1584835200000,NA,Unknown,29,NA,FL resident,919,NA,1584748800000,Male,Unknown
+Yes,Broward,1584489600000,No,No,69,NA,FL resident,920,NY,1583884800000,Male,No
+Unknown,Broward,1584748800000,NA,NA,23,NA,FL resident,921,NA,1584662400000,Female,NA
+Unknown,Polk,1584662400000,NA,Yes,77,NA,FL resident,922,NA,1584489600000,Female,Yes
+No,Escambia,1584835200000,No,No,25,NA,FL resident,923,NA,1584748800000,Female,NA
+Unknown,Broward,1584835200000,NA,Unknown,46,NA,FL resident,924,NA,1584748800000,Female,Unknown
+Unknown,Duval,1584403200000,NA,Unknown,44,NA,FL resident,925,NA,1584403200000,Male,Unknown
+No,Palm Beach,1584489600000,No,Yes,72,NA,FL resident,926,NA,1583971200000,Male,Yes
+Yes,Dade,1584489600000,Yes,No,45,NA,FL resident,927,ECUADOR,1584057600000,Male,Yes
+Unknown,Dade,1584921600000,NA,Unknown,30,NA,FL resident,928,NA,1584921600000,Male,Unknown
+No,Hillsborough,1584403200000,Yes,No,23,NA,FL resident,929,NA,1584057600000,Male,No
+Yes,Collier,1584662400000,No,No,59,NA,FL resident,930,CANADA,1584057600000,Male,NA
+No,Broward,1584576000000,Yes,Yes,60,NA,FL resident,931,NA,1583625600000,Male,NA
+Yes,Broward,1584489600000,Unknown,No,48,NA,FL resident,932,PA,1583884800000,Male,No
+Yes,Dade,1584489600000,No,No,35,NA,FL resident,933,Spain,1583971200000,Male,No
+Yes,Manatee,1584748800000,No,Yes,75,NA,FL resident,934,NJ; NY,1584662400000,Male,Yes
+No,Broward,1584835200000,Yes,No,43,NA,FL resident,935,NA,1583971200000,Female,No
+Yes,Volusia,1583712000000,Yes,No,60,NA,FL resident,936,Egypt; Germany; Israel,1582502400000,Female,No
+Unknown,Duval,1584921600000,NA,Unknown,49,NA,FL resident,937,NA,1584921600000,Female,Unknown
+Yes,Indian River,1584748800000,No,No,25,NA,Non-FL resident,938,NY,1584316800000,Female,No
+No,Dade,1584403200000,Unknown,Yes,52,NA,FL resident,939,NA,1584057600000,Male,Yes
+Unknown,Duval,1584489600000,NA,Unknown,22,NA,FL resident,940,NA,1584489600000,Male,Unknown
+Unknown,Hillsborough,1584921600000,Unknown,NA,64,NA,FL resident,941,NA,1584748800000,Male,NA
+Unknown,Collier,1585008000000,NA,Unknown,59,NA,FL resident,942,NA,1585008000000,Male,Unknown
+Unknown,Orange,1584921600000,NA,Unknown,58,NA,FL resident,943,NA,1584921600000,Male,Unknown
+Yes,Duval,1584835200000,Yes,No,53,NA,FL resident,944,FL; NV,1582329600000,Female,NA
+Yes,Clay,1584748800000,Unknown,No,61,NA,FL resident,945,DC; FL,1584057600000,Female,Yes
+No,Citrus,1584662400000,No,No,33,NA,FL resident,946,NA,1584403200000,Female,NA
+Unknown,Broward,1585008000000,NA,Unknown,59,NA,FL resident,947,NA,1585008000000,Male,Unknown
+Yes,Sarasota,1584921600000,No,Yes,81,NA,FL resident,948,NY,1584576000000,Male,Yes
+Unknown,Santa Rosa,1585008000000,Unknown,No,60,NA,FL resident,949,NA,1585008000000,Female,NA
+Yes,Pinellas,1584835200000,Yes,No,28,NA,Non-FL resident,950,NY,1583798400000,Female,No
+Unknown,Dade,1584921600000,NA,Unknown,31,NA,FL resident,951,NA,1584921600000,Male,Unknown
+No,Broward,1584748800000,Yes,No,25,NA,FL resident,952,NA,1583884800000,Male,Yes
+Yes,St. Johns,1584489600000,Yes,Unknown,46,NA,Non-FL resident,953,FL; MN,1584144000000,Male,Yes
+Unknown,Palm Beach,1584576000000,Unknown,Unknown,78,NA,Non-FL resident,954,NA,1584576000000,Female,Unknown
+No,Brevard,1584662400000,Yes,No,49,NA,FL resident,955,NA,1584144000000,Male,Yes
+Yes,Indian River,1584748800000,No,No,30,NA,FL resident,956,Portugal; Spain; United Kingdom,1583798400000,Female,No
+Unknown,Broward,1585008000000,NA,Unknown,58,NA,FL resident,957,NA,1584921600000,Male,Unknown
+Yes,Okaloosa,1584662400000,No,No,25,NA,FL resident,958,CA,1584403200000,Male,No
+Unknown,Hillsborough,1585008000000,NA,Unknown,46,NA,FL resident,959,NA,1585008000000,Female,Unknown
+No,Indian River,1584835200000,No,Yes,81,NA,FL resident,960,NA,1584144000000,Female,No
+No,Broward,1584921600000,Yes,No,29,NA,FL resident,961,NA,1583971200000,Male,No
+Yes,Dade,1584748800000,Yes,No,46,NA,FL resident,962,NY,1583884800000,Male,Yes
+No,Broward,1584316800000,No,No,54,NA,FL resident,963,NA,1583884800000,Female,Yes
+No,Dade,1584489600000,Yes,No,36,NA,FL resident,964,NA,1584057600000,Unknown,No
+Yes,Broward,1584144000000,Yes,Yes,19,NA,Non-FL resident,965,Ireland,1583884800000,Female,Yes
+Unknown,Broward,1584835200000,NA,NA,33,NA,FL resident,966,NA,1584748800000,Unknown,NA
+Unknown,Dade,1584835200000,Yes,Unknown,10,NA,FL resident,967,NA,1584748800000,Female,Unknown
+No,Dade,1584748800000,Yes,No,48,NA,FL resident,968,NA,1584316800000,Male,Unknown
+No,Duval,1584576000000,No,Yes,78,NA,FL resident,969,NA,1584057600000,Female,Yes
+No,Lee,1584835200000,No,Yes,32,NA,FL resident,970,NA,1584144000000,Male,Yes
+Unknown,Orange,1584576000000,Yes,Yes,62,NA,FL resident,971,NA,1584489600000,Male,Yes
+No,Sarasota,1584835200000,No,No,78,NA,FL resident,972,NA,1584403200000,Female,No
+Yes,Dade,1584835200000,No,No,50,NA,FL resident,973,IL,1583798400000,Male,No
+No,Broward,1584316800000,Yes,No,65,NA,FL resident,974,NA,1583539200000,Male,No
+Unknown,Broward,1584921600000,NA,Unknown,29,NA,FL resident,975,NA,1584835200000,Female,Unknown
+Unknown,Duval,1584748800000,Yes,No,57,NA,FL resident,976,NA,1584662400000,Female,No
+No,Broward,1584662400000,No,No,32,NA,FL resident,977,NA,1584403200000,Male,Yes
+Unknown,Broward,1584835200000,NA,Unknown,30,NA,FL resident,978,NA,1584748800000,Male,Unknown
+No,Duval,1584489600000,Yes,No,91,NA,FL resident,979,NA,1584403200000,Male,No
+Yes,Lake,1584057600000,Yes,No,75,NA,FL resident,980,FL; NY,1583798400000,Female,Yes
+No,Collier,1584489600000,No,Yes,77,NA,FL resident,981,NA,1583366400000,Male,NA
+Yes,Dade,1584403200000,Yes,No,28,NA,FL resident,982,Ireland,1584057600000,Female,No
+No,Broward,1584662400000,Yes,No,73,NA,FL resident,983,NA,1584230400000,Male,Yes
+Unknown,Duval,1584748800000,NA,NA,88,NA,FL resident,984,NA,1584576000000,Male,NA
+No,Broward,1584230400000,Yes,Yes,74,NA,FL resident,985,NA,1583798400000,Male,Yes
+Yes,Broward,1584835200000,Unknown,No,47,NA,Non-FL resident,986,FL; MA,1584230400000,Male,Yes
+Yes,Orange,1584921600000,Unknown,Unknown,62,NA,FL resident,987,FL; SPAIN,1584835200000,Male,NA
+Yes,Pinellas,1584489600000,No,Yes,52,NA,FL resident,988,BULGARIA; GERMANY; UT,1583625600000,Male,Yes
+Yes,Dade,1584316800000,Yes,No,67,NA,FL resident,989,Egypt,1584230400000,Female,NA
+Yes,Dade,1584403200000,Yes,No,35,NA,FL resident,990,Egypt,1584403200000,Male,NA
+Unknown,Palm Beach,1584921600000,NA,Unknown,43,NA,FL resident,991,NA,1584921600000,Male,Unknown
+No,Lee,1584576000000,Unknown,Yes,72,NA,FL resident,992,NA,1583020800000,Female,Yes
+Yes,Dade,1584489600000,No,Yes,49,NA,FL resident,993,EUROPE,1583625600000,Male,Yes
+No,Sarasota,1585008000000,No,Yes,82,NA,FL resident,994,NA,1585008000000,Male,NA
+Yes,Osceola,1584144000000,Yes,No,48,NA,FL resident,995,Switzerland,1583625600000,Male,Yes
+No,Osceola,1584489600000,Yes,No,22,NA,FL resident,996,NA,1583712000000,Male,Yes
+No,Osceola,1584403200000,Yes,No,18,NA,FL resident,997,NA,1583452800000,Male,Yes
+Unknown,Orange,1584921600000,NA,Unknown,61,NA,FL resident,998,NA,1584921600000,Male,Unknown
+Yes,Hillsborough,1584576000000,Yes,No,50,NA,FL resident,999,UNITED KINGDOM,1584230400000,Male,No
+Unknown,Orange,1584921600000,NA,Unknown,57,NA,FL resident,1000,NA,1584921600000,Female,Unknown
+No,Volusia,1584144000000,Yes,Yes,89,NA,FL resident,1001,NA,1584144000000,Female,Yes
+No,Hillsborough,1584748800000,Yes,No,18,NA,FL resident,1002,NA,1583884800000,Male,No
+Unknown,Broward,1584921600000,NA,NA,76,NA,FL resident,1003,NA,1584921600000,Male,NA
+No,Collier,1584748800000,No,No,79,NA,FL resident,1004,NA,1584748800000,Male,No
+No,Palm Beach,1584662400000,Unknown,No,29,NA,FL resident,1005,NA,1584662400000,Male,Yes
+Yes,Broward,1584835200000,Unknown,No,58,NA,FL resident,1006,Brazil; NY; Spain,1584489600000,Male,Yes
+Unknown,Dade,1585008000000,NA,Unknown,31,NA,FL resident,1007,NA,1585008000000,Male,Unknown
+Unknown,Dade,1584921600000,NA,Unknown,70,NA,FL resident,1008,NA,1584403200000,Female,Yes
+Yes,Palm Beach,1584748800000,No,Yes,53,NA,FL resident,1009,EL SALVADOR,1584748800000,Male,Yes
+Yes,Broward,1585008000000,Unknown,Yes,49,NA,FL resident,1010,FL; GA,1584489600000,Female,Yes
+Unknown,Dade,1584835200000,NA,No,32,NA,FL resident,1011,NA,1584489600000,Female,Yes
+Unknown,Palm Beach,1584835200000,NA,Unknown,59,NA,FL resident,1012,NA,1584835200000,Male,Unknown
+No,Dade,1584662400000,Yes,Unknown,60,NA,FL resident,1013,NA,1584489600000,Female,Yes
+Unknown,Dade,1585008000000,NA,Unknown,31,NA,FL resident,1014,NA,1584921600000,Male,Unknown
+Unknown,Broward,1584835200000,NA,NA,42,NA,FL resident,1015,NA,1584835200000,Male,NA
+Yes,Collier,1584662400000,NA,No,19,NA,FL resident,1016,Italy,1584316800000,Male,NA
+Unknown,Dade,1584835200000,NA,Unknown,52,NA,FL resident,1017,NA,1584835200000,Male,Unknown
+Unknown,Orange,1584835200000,NA,Unknown,33,NA,FL resident,1018,NA,1584835200000,Male,Unknown
+Yes,Collier,1584576000000,NA,No,26,NA,FL resident,1019,France; Italy; Spain,1584489600000,Male,NA
+Yes,Collier,1584576000000,No,No,66,NA,FL resident,1020,France; Italy; Spain,1584489600000,Male,NA
+Unknown,Dade,1584662400000,Unknown,Unknown,56,NA,FL resident,1021,NA,1583884800000,Female,Unknown
+No,Dade,1585008000000,No,Yes,78,NA,FL resident,1022,NA,1584403200000,Male,Yes
+No,Orange,1584835200000,Yes,No,48,NA,FL resident,1023,NA,1583971200000,Male,Unknown
+No,Hillsborough,1584748800000,NA,Unknown,27,NA,FL resident,1024,NA,1584230400000,Female,Unknown
+Unknown,Orange,1584835200000,Yes,Unknown,50,NA,FL resident,1025,NA,1584835200000,Female,Unknown
+No,Broward,1584748800000,No,Yes,53,NA,FL resident,1026,NA,1583971200000,Female,Yes
+No,Broward,1584835200000,Unknown,Yes,64,NA,FL resident,1027,NA,1584489600000,Male,Yes
+No,Osceola,1584748800000,Yes,No,21,NA,FL resident,1028,NA,1584316800000,Female,No
+No,Seminole,1584403200000,Unknown,Yes,45,NA,FL resident,1029,NA,1583884800000,Female,Yes
+No,Seminole,1584662400000,No,Yes,61,NA,FL resident,1030,NA,1584316800000,Male,Yes
+No,Pinellas,1584921600000,No,No,69,NA,FL resident,1031,NA,1584403200000,Female,No
+Unknown,Palm Beach,1584835200000,NA,Unknown,52,NA,FL resident,1032,NA,1584748800000,Female,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,56,NA,FL resident,1033,NA,1584921600000,Female,Unknown
+Yes,Pinellas,1584835200000,No,No,53,NA,FL resident,1034,GA,1584230400000,Male,No
+Yes,Volusia,1583625600000,Yes,No,66,NA,FL resident,1035,Egypt; Germany; Israel,1583107200000,Female,Yes
+Yes,Collier,1584489600000,Unknown,NA,59,NA,FL resident,1036,Japan,1583971200000,Male,NA
+Yes,Broward,1584057600000,Yes,Yes,26,NA,FL resident,1037,Trinidad and Tobago,1583107200000,Female,NA
+No,Broward,1584835200000,Yes,No,50,NA,FL resident,1038,NA,1584403200000,Male,No
+Yes,Jackson,1584576000000,Unknown,No,33,NA,Non-FL resident,1039,AL; FL; GA; LA; Mexico; TX,1582934400000,Male,No
+Yes,St. Lucie,1585008000000,No,No,19,NA,Non-FL resident,1040,NY,1584316800000,Female,No
+Yes,Broward,1584748800000,No,No,45,NA,FL resident,1041,SPAIN,1584230400000,Female,Yes
+Yes,Dade,1584316800000,Yes,No,43,NA,FL resident,1042,UT,1583625600000,Female,NA
+Yes,Dade,1584748800000,Yes,No,84,NA,FL resident,1043,NY,1584489600000,Female,Yes
+Unknown,Dade,1584748800000,NA,No,72,NA,FL resident,1044,NA,1584144000000,Male,Unknown
+Unknown,Hillsborough,1585008000000,NA,Unknown,48,NA,FL resident,1045,NA,1584921600000,Female,Unknown
+Unknown,Broward,1585008000000,NA,Unknown,52,NA,FL resident,1046,NA,1584921600000,Female,Unknown
+Unknown,Broward,1585008000000,NA,Unknown,58,NA,FL resident,1047,NA,1585008000000,Female,Unknown
+Yes,Dade,1584403200000,No,No,44,NA,FL resident,1048,FRANCE,1583971200000,Male,Yes
+No,St. Lucie,1584921600000,No,No,77,NA,FL resident,1049,NA,1584057600000,Female,No
+Yes,Pinellas,1584748800000,No,No,67,NA,FL resident,1050,FL; VA; WA,1583539200000,Male,No
+Unknown,Dade,1584835200000,Unknown,Unknown,40,NA,FL resident,1051,NA,1584835200000,Male,Unknown
+Yes,Dade,1584144000000,No,Yes,42,NA,FL resident,1052,Spain,1582934400000,Male,Yes
+Yes,Broward,1584144000000,Yes,No,20,NA,FL resident,1053,Ireland,1583798400000,Female,Yes
+Yes,Dade,1584748800000,No,No,52,NA,FL resident,1054,Peru,1584230400000,Male,Yes
+Unknown,Dade,1585008000000,NA,Unknown,32,NA,FL resident,1055,NA,1584921600000,Male,Unknown
+Yes,Broward,1584489600000,No,No,53,NA,FL resident,1056,FL; Unknown,1584403200000,Male,No
+Yes,Orange,1584576000000,Unknown,No,22,NA,Non-FL resident,1057,FL; NC,1584576000000,Female,Yes
+Unknown,Dade,1584403200000,No,No,69,NA,FL resident,1058,NA,1584057600000,Female,Yes
+Yes,Collier,1584230400000,Unknown,No,28,NA,FL resident,1059,Italy,1583798400000,Male,NA
+Yes,Hillsborough,1584662400000,Unknown,No,50,NA,FL resident,1060,SPAIN,1583798400000,Male,No
+Yes,Broward,1584835200000,No,Yes,70,NA,FL resident,1061,Brazil; FL,1584230400000,Male,NA
+Unknown,Palm Beach,1585008000000,NA,Unknown,68,NA,FL resident,1062,NA,1585008000000,Male,Unknown
+Yes,Broward,1584403200000,No,No,53,NA,FL resident,1063,NC,1584230400000,Male,Yes
+No,Orange,1584489600000,NA,No,33,NA,FL resident,1064,NA,1584489600000,Female,No
+No,Orange,1584057600000,Yes,No,41,NA,FL resident,1065,NA,1583884800000,Male,No
+Unknown,Duval,1584748800000,NA,Unknown,20,NA,FL resident,1066,NA,1584748800000,Female,Unknown
+Yes,Broward,1584921600000,Yes,No,52,NA,FL resident,1067,CO,1584316800000,Male,No
+Yes,Palm Beach,1584576000000,No,Yes,60,NA,FL resident,1068,Russia; Spain,1584057600000,Female,Yes
+Unknown,Broward,1584748800000,Yes,No,43,NA,FL resident,1069,NA,1583884800000,Male,Yes
+No,Hillsborough,1584748800000,Yes,No,20,NA,FL resident,1070,NA,1584230400000,Female,Yes
+No,Sumter,1584921600000,No,Yes,73,NA,FL resident,1071,NA,1584921600000,Male,Yes
+Unknown,Broward,1585008000000,NA,Unknown,20,NA,FL resident,1072,NA,1584921600000,Female,Unknown
+No,Orange,1584576000000,Unknown,No,32,NA,FL resident,1073,NA,1583366400000,Female,Yes
+Yes,Collier,1584835200000,No,No,17,NA,Non-FL resident,1074,United Kingdom,1584230400000,Female,Yes
+Yes,Dade,1584489600000,Unknown,NA,53,NA,FL resident,1075,FL; Unknown,1584144000000,Female,NA
+Yes,Broward,1584921600000,Yes,No,36,NA,Non-FL resident,1076,NY,1584748800000,Male,Yes
+Unknown,Dade,1584835200000,NA,Unknown,44,NA,FL resident,1077,NA,1584835200000,Male,Unknown
+Yes,Palm Beach,1584057600000,Yes,Yes,73,NA,FL resident,1078,Egypt; Germany,1584057600000,Male,Yes
+Unknown,Dade,1584835200000,NA,Unknown,50,NA,FL resident,1079,NA,1584835200000,Male,Unknown
+Yes,Seminole,1584662400000,No,Yes,62,NA,FL resident,1080,CT; FL; OK,1584144000000,Female,Yes
+Unknown,Alachua,1584835200000,NA,Unknown,22,NA,FL resident,1081,NA,1584835200000,Male,Unknown
+Unknown,Broward,1585008000000,Yes,Unknown,60,NA,FL resident,1082,NA,1585008000000,Male,Unknown
+Yes,Broward,1584921600000,Yes,No,28,NA,FL resident,1083,Ecuador,1584662400000,Male,No
+Unknown,Osceola,1584921600000,NA,Unknown,36,NA,FL resident,1084,NA,1584921600000,Male,Unknown
+Unknown,Dade,1584748800000,NA,Unknown,71,NA,FL resident,1085,NA,1584748800000,Male,Unknown
+Unknown,Dade,1584662400000,NA,Unknown,42,NA,FL resident,1086,NA,1584662400000,Female,Unknown
+Unknown,Broward,1584921600000,NA,Unknown,28,NA,FL resident,1087,NA,1584921600000,Male,Unknown
+Yes,Osceola,1584748800000,No,NA,79,NA,FL resident,1088,SPAIN; UNITED KINGDOM,1584230400000,Male,NA
+Unknown,Dade,1584662400000,NA,Unknown,32,NA,FL resident,1089,NA,1584576000000,Male,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,56,NA,FL resident,1090,NA,1585008000000,Male,Unknown
+Unknown,Dade,1584748800000,NA,Unknown,78,NA,FL resident,1091,NA,1584748800000,Male,Unknown
+Yes,St. Johns,1585008000000,No,No,59,NA,FL resident,1092,Burkina Faso,1583971200000,Male,No
+No,Palm Beach,1584662400000,No,Yes,53,NA,FL resident,1093,NA,1583280000000,Male,Yes
+No,Volusia,1585008000000,Unknown,No,78,NA,FL resident,1094,NA,1584489600000,Female,Yes
+No,Baker,1585008000000,NA,No,64,NA,FL resident,1095,NA,1584835200000,Female,NA
+Yes,Hernando,1584576000000,Unknown,No,20,NA,FL resident,1096,SPAIN,1584144000000,Male,No
+No,Hillsborough,1584576000000,Yes,No,28,NA,FL resident,1097,NA,1584403200000,Male,No
+Unknown,Dade,1585008000000,NA,Unknown,53,NA,FL resident,1098,NA,1585008000000,Male,Unknown
+Yes,Marion,1584835200000,No,No,48,NA,FL resident,1099,FL; Ireland,1584748800000,Female,No
+Unknown,Dade,1584835200000,NA,Unknown,67,NA,FL resident,1100,NA,1584748800000,Male,Unknown
+No,Dade,1584576000000,Yes,Yes,47,NA,FL resident,1101,NA,1584057600000,Male,Yes
+Unknown,Broward,1584835200000,NA,Unknown,60,NA,FL resident,1102,NA,1584835200000,Female,Unknown
+No,Palm Beach,1584835200000,Unknown,No,28,NA,FL resident,1103,NA,1584316800000,Male,Yes
+No,Dade,1584835200000,Yes,No,58,NA,FL resident,1104,NA,1583798400000,Male,No
+Yes,Dade,1583280000000,Yes,Unknown,64,NA,Not diagnosed/isolated in FL,1105,Japan,1583280000000,Male,NA
+Unknown,Dade,1584921600000,NA,Unknown,74,NA,FL resident,1106,NA,1584921600000,Female,Unknown
+No,Broward,1584748800000,No,No,57,NA,FL resident,1107,NA,1584316800000,Female,No
+Yes,Pinellas,1584576000000,Yes,Yes,24,NA,FL resident,1108,Spain,1584144000000,Female,Yes
+No,Dade,1584835200000,Yes,No,37,NA,FL resident,1109,NA,1584316800000,Male,No
+No,Broward,1584489600000,Yes,No,75,NA,FL resident,1110,NA,1584144000000,Male,No
+No,Indian River,1584748800000,No,No,54,NA,FL resident,1111,NA,1583798400000,Male,No
+Unknown,Alachua,1584748800000,NA,Unknown,54,NA,FL resident,1112,NA,1584748800000,Male,Unknown
+Unknown,Palm Beach,1585008000000,NA,Unknown,18,NA,FL resident,1113,NA,1585008000000,Female,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,50,NA,FL resident,1114,NA,1584921600000,Male,Unknown
+No,Broward,1584316800000,Unknown,Yes,76,NA,FL resident,1115,NA,1583971200000,Male,Yes
+Unknown,Broward,1585008000000,NA,Unknown,0,NA,FL resident,1116,NA,1584921600000,Male,Unknown
+No,Broward,1584748800000,No,No,56,NA,FL resident,1117,NA,1584316800000,Female,No
+No,Broward,1584921600000,NA,No,59,NA,FL resident,1118,NA,1584316800000,Male,No
+No,Broward,1584662400000,Unknown,No,92,Yes,FL resident,1119,NA,1584403200000,Male,No
+Yes,Martin,1584576000000,Unknown,No,45,NA,FL resident,1120,Brazil; FL,1583971200000,Female,No
+Unknown,Broward,1584835200000,NA,Unknown,71,NA,FL resident,1121,NA,1584748800000,Male,Unknown
+No,Sarasota,1584662400000,No,No,74,NA,FL resident,1122,NA,1584057600000,Male,No
+Unknown,Dade,1584921600000,NA,Unknown,41,NA,FL resident,1123,NA,1584921600000,Female,Unknown
+Unknown,Lee,1584748800000,No,No,60,NA,FL resident,1124,NA,1584316800000,Male,No
+Yes,Palm Beach,1584662400000,No,No,23,NA,Non-FL resident,1125,FL; Jamaica,1583452800000,Female,Yes
+No,Hillsborough,1584748800000,Yes,No,38,NA,FL resident,1126,NA,1584489600000,Female,No
+Unknown,Palm Beach,1585008000000,Unknown,No,46,NA,FL resident,1127,NA,1584835200000,Female,No
+Yes,Broward,1584489600000,Yes,No,42,NA,FL resident,1128,Australia,1583712000000,Male,No
+No,Broward,1584403200000,Unknown,No,46,NA,FL resident,1129,NA,1584144000000,Female,Yes
+Unknown,Palm Beach,1584921600000,NA,Unknown,44,NA,FL resident,1130,NA,1584921600000,Male,Unknown
+Yes,Dade,1584662400000,Yes,No,42,NA,FL resident,1131,FL; IL,1583971200000,Female,Yes
+Unknown,Palm Beach,1584835200000,NA,Unknown,50,NA,FL resident,1132,NA,1584835200000,Female,Unknown
+Yes,Lake,1584403200000,No,No,56,NA,FL resident,1133,CO; FL,1583798400000,Male,Yes
+Unknown,Alachua,1584748800000,NA,Unknown,22,NA,FL resident,1134,NA,1584748800000,Male,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,40,NA,FL resident,1135,NA,1584835200000,Female,Unknown
+Yes,Dade,1584576000000,Yes,No,48,NA,FL resident,1136,Spain,1584316800000,Female,Yes
+Unknown,Dade,1584835200000,NA,Unknown,55,NA,FL resident,1137,NA,1584835200000,Male,Unknown
+Unknown,Broward,1584921600000,NA,Unknown,72,NA,FL resident,1138,NA,1584835200000,Male,Unknown
+Yes,Broward,1584835200000,Unknown,No,33,NA,FL resident,1139,FL; Mexico,1584835200000,Male,Yes
+Unknown,Dade,1585008000000,NA,Unknown,74,NA,FL resident,1140,NA,1584576000000,Female,NA
+Unknown,Dade,1584835200000,NA,Unknown,74,NA,FL resident,1141,NA,1584748800000,Female,Unknown
+Yes,Clay,1585008000000,Yes,No,25,NA,FL resident,1142,BAHAMAS; FL,1584057600000,Male,No
+Yes,Dade,1584835200000,Unknown,No,38,NA,FL resident,1143,CUBA; FL,1584403200000,Male,No
+Unknown,Dade,1584662400000,No,Unknown,36,NA,FL resident,1144,NA,1584662400000,Male,Unknown
+Unknown,Broward,1584489600000,Yes,NA,33,NA,FL resident,1145,NA,1584403200000,Male,NA
+No,Polk,1584662400000,Yes,NA,8,NA,FL resident,1146,NA,1584489600000,Male,NA
+Yes,Broward,1584230400000,Yes,No,52,NA,FL resident,1147,France,1584057600000,Female,No
+No,Dade,1584144000000,No,No,42,NA,FL resident,1148,NA,1583884800000,Female,Yes
+Yes,Broward,1584144000000,Yes,No,64,NA,FL resident,1149,France; GA; NC; Spain,1583452800000,Male,No
+Yes,Broward,1584921600000,Yes,No,64,NA,FL resident,1150,PERU,1584230400000,Female,No
+Unknown,Broward,1584921600000,NA,Unknown,74,NA,FL resident,1151,NA,1584835200000,Male,Unknown
+Unknown,Dade,1584748800000,NA,No,51,NA,FL resident,1152,NA,1584316800000,Female,Yes
+No,Broward,1584748800000,No,Yes,43,NA,FL resident,1153,NA,1584662400000,Male,Yes
+Unknown,Dade,1584489600000,NA,NA,59,NA,FL resident,1154,NA,1584403200000,Male,NA
+No,Hillsborough,1584921600000,Yes,No,39,NA,FL resident,1155,NA,1584316800000,Male,No
+No,Broward,1584057600000,Yes,No,36,NA,FL resident,1156,NA,1583539200000,Male,Yes
+Unknown,Dade,1585008000000,Yes,NA,44,NA,FL resident,1157,NA,1583884800000,Female,NA
+Yes,Dade,1584403200000,Yes,No,47,NA,FL resident,1158,Spain,1583971200000,Female,Yes
+Yes,Pinellas,1585008000000,No,No,42,NA,FL resident,1159,BAHAMAS; CARIBBEAN; ST. KITTS AND NEVIS,1584057600000,Male,Yes
+Yes,Brevard,1584403200000,Yes,No,76,NA,FL resident,1160,NY,1583452800000,Female,No
+Yes,Collier,1584230400000,Yes,No,76,NA,FL resident,1161,NY,1584230400000,Male,No
+Unknown,Broward,1584921600000,NA,NA,67,NA,FL resident,1162,NA,1584489600000,Male,NA
+Yes,Broward,1584489600000,Unknown,No,21,NA,FL resident,1163,SPAIN,1583971200000,Female,No
+Yes,Broward,1584921600000,Yes,No,65,NA,FL resident,1164,NJ,1584057600000,Male,No
+Unknown,Palm Beach,1584489600000,Unknown,No,43,NA,FL resident,1165,NA,1583798400000,Male,No
+Unknown,Palm Beach,1584489600000,Yes,No,6,NA,FL resident,1166,NA,1584489600000,Female,No
+Yes,Palm Beach,1584835200000,No,No,21,NA,FL resident,1167,PORTUGAL; UNITED KINGDOM,1583884800000,Female,Yes
+No,Sarasota,1584576000000,Yes,No,78,NA,Non-FL resident,1168,NA,1581811200000,Female,No
+No,Sarasota,1584316800000,Yes,Yes,80,NA,Non-FL resident,1169,NA,1583280000000,Male,Yes
+Yes,Osceola,1584057600000,No,Yes,65,NA,Non-FL resident,1170,Canada,1583366400000,Male,Yes
+Unknown,Dade,1584921600000,NA,Unknown,52,NA,FL resident,1171,NA,1584921600000,Female,Unknown
+No,Dade,1584489600000,Yes,No,25,NA,FL resident,1172,NA,1583452800000,Female,Yes
+Unknown,Broward,1584835200000,NA,Unknown,51,NA,FL resident,1173,NA,1584748800000,Female,Unknown
+Yes,Dade,1584576000000,Yes,No,49,NA,FL resident,1174,SPAIN,1584316800000,Male,Yes
+No,Lee,1584489600000,Yes,Yes,80,NA,FL resident,1175,NA,1583366400000,Male,Yes
+No,Dade,1584403200000,Yes,Unknown,61,NA,FL resident,1176,NA,1584403200000,Female,Unknown
+Unknown,Dade,1584748800000,NA,Unknown,28,NA,FL resident,1177,NA,1584662400000,Male,Unknown
+Yes,Hillsborough,1584403200000,No,Unknown,30,NA,FL resident,1178,FL; NY,1583884800000,Male,Unknown
+Unknown,Dade,1584748800000,NA,Unknown,47,NA,FL resident,1179,NA,1584662400000,Female,Unknown
+Yes,Broward,1584662400000,Yes,No,68,NA,FL resident,1180,Dominican Republic,1584316800000,Male,Yes
+Unknown,Lee,1585008000000,No,No,82,NA,FL resident,1181,NA,1584403200000,Male,No
+No,Palm Beach,1584662400000,Yes,Unknown,84,NA,FL resident,1182,NA,1584662400000,Male,Yes
+No,Broward,1584662400000,Unknown,No,62,NA,FL resident,1183,NA,1583712000000,Male,No
+No,Lake,1584835200000,Unknown,No,34,NA,FL resident,1184,NA,1584576000000,Male,Yes
+Yes,Lee,1584316800000,Unknown,No,66,NA,FL resident,1185,Colombia; Ecuador,1583712000000,Male,No
+No,Broward,1584662400000,No,No,51,NA,FL resident,1186,NA,1583884800000,Male,No
+Unknown,Alachua,1584748800000,NA,Unknown,23,NA,FL resident,1187,NA,1584748800000,Female,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,30,NA,FL resident,1188,NA,1584748800000,Female,Unknown
+Unknown,Osceola,1584576000000,No,Yes,39,NA,Non-FL resident,1189,NA,1584316800000,Male,Yes
+Unknown,Palm Beach,1584835200000,NA,Unknown,64,NA,FL resident,1190,NA,1584835200000,Male,Unknown
+No,Polk,1584403200000,No,No,44,NA,FL resident,1191,NA,1583539200000,Female,No
+No,Palm Beach,1584835200000,No,No,83,NA,FL resident,1192,NA,1584489600000,Male,Yes
+Unknown,Palm Beach,1584748800000,NA,Unknown,72,NA,FL resident,1193,NA,1584748800000,Male,Unknown
+Yes,Broward,1584489600000,No,No,56,NA,FL resident,1194,VA,1583884800000,Female,No
+Unknown,Orange,1584748800000,NA,Unknown,63,NA,FL resident,1195,NA,1584748800000,Male,Unknown
+Unknown,Pasco,1584921600000,NA,NA,32,NA,FL resident,1196,NA,1583971200000,Female,NA
+Yes,Hillsborough,1584748800000,No,No,20,NA,FL resident,1197,Venezuela,1584230400000,Female,NA
+Unknown,Dade,1585008000000,NA,Unknown,38,NA,FL resident,1198,NA,1585008000000,Male,Unknown
+Unknown,Broward,1584748800000,NA,Unknown,21,NA,FL resident,1199,NA,1584662400000,Male,Unknown
+No,Dade,1584835200000,Unknown,No,34,NA,FL resident,1200,NA,1584316800000,Female,No
+Yes,Pasco,1584835200000,Unknown,No,44,NA,FL resident,1201,TX,1584835200000,Male,No
+No,Collier,1584662400000,No,Yes,75,NA,Non-FL resident,1202,NA,1584662400000,Male,Yes
+No,Bradford,1584835200000,No,Yes,69,NA,FL resident,1203,NA,1584662400000,Male,NA
+Unknown,Dade,1584662400000,Yes,Unknown,45,NA,FL resident,1204,NA,1584057600000,Male,Yes
+Unknown,Palm Beach,1584921600000,NA,Unknown,24,NA,FL resident,1205,NA,1584921600000,Female,Unknown
+Yes,Broward,1584144000000,Yes,No,22,NA,FL resident,1206,Ireland,1583884800000,Female,Yes
+No,Dade,1584576000000,No,No,78,NA,FL resident,1207,NA,1584576000000,Male,Yes
+Yes,Monroe,1584835200000,No,No,54,NA,FL resident,1208,France,1584835200000,Female,No
+Yes,Pinellas,1584489600000,No,No,23,NA,FL resident,1209,LA,1584057600000,Male,No
+Unknown,Duval,1584921600000,NA,NA,83,NA,Non-FL resident,1210,NA,1584835200000,Unknown,NA
+No,Okaloosa,1584835200000,No,No,25,NA,FL resident,1211,NA,1584403200000,Female,No
+Unknown,Duval,1584835200000,NA,NA,79,NA,FL resident,1212,NA,1584748800000,Unknown,NA
+No,Broward,1584144000000,Yes,No,63,NA,FL resident,1213,NA,1583452800000,Male,No
+Yes,Okaloosa,1584662400000,No,Yes,59,NA,FL resident,1214,EUROPE,1584403200000,Female,Yes
+No,Broward,1584835200000,NA,Unknown,30,NA,FL resident,1215,NA,1584748800000,Female,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,23,NA,FL resident,1216,NA,1585008000000,Female,Unknown
+No,Orange,1584489600000,Yes,No,42,NA,FL resident,1217,NA,1584489600000,Male,No
+No,Brevard,1584748800000,No,No,73,NA,FL resident,1218,NA,1584230400000,Male,No
+Yes,Broward,1584316800000,NA,Unknown,60,NA,FL resident,1219,Spain,1584230400000,Male,Unknown
+Unknown,Duval,1584921600000,Yes,Yes,38,NA,FL resident,1220,NA,1584144000000,Male,No
+Unknown,Dade,1584489600000,NA,No,34,NA,FL resident,1221,NA,1584144000000,Female,No
+No,Broward,1584921600000,Yes,No,50,NA,FL resident,1222,NA,1584576000000,Female,No
+Yes,Dade,1584835200000,No,No,21,NA,FL resident,1223,ROMANIA,1584316800000,Male,Unknown
+No,Broward,1584748800000,Yes,No,51,NA,FL resident,1224,NA,1584403200000,Male,Yes
+No,Dade,1584921600000,NA,Yes,73,NA,FL resident,1225,NA,1584921600000,Male,Yes
+Yes,Citrus,1584230400000,No,No,60,NA,FL resident,1226,FL; Switzerland,1583971200000,Female,NA
+Yes,Broward,1584144000000,NA,No,48,NA,Non-FL resident,1227,GA,1584057600000,Male,NA
+Yes,Broward,1584489600000,Yes,No,43,NA,FL resident,1228,NY,1584144000000,Male,No
+No,Sumter,1584576000000,Yes,No,66,NA,FL resident,1229,NA,1583971200000,Male,No
+Unknown,Seminole,1584748800000,NA,Unknown,21,NA,FL resident,1230,NA,1584662400000,Male,Unknown
+No,Hillsborough,1584748800000,Yes,No,20,NA,Non-FL resident,1231,NA,1584748800000,Female,Yes
+Yes,Seminole,1584748800000,Unknown,No,64,NA,FL resident,1232,CA,1584316800000,Female,No
+Yes,Dade,1583971200000,Yes,No,56,NA,FL resident,1233,Iran,1583452800000,Male,Yes
+Yes,Broward,1584230400000,Yes,No,39,NA,FL resident,1234,United Arab Emirates,1584057600000,Male,Yes
+Yes,Broward,1584230400000,Unknown,Yes,48,NA,Non-FL resident,1235,France; IL; NY; TX,1583971200000,Female,Yes
+No,Alachua,1584662400000,No,No,68,NA,FL resident,1236,NA,1584576000000,Female,Unknown
+Unknown,Dade,1584403200000,NA,Unknown,57,NA,FL resident,1237,NA,1584316800000,Male,Unknown
+Unknown,Hillsborough,1584403200000,Unknown,Unknown,28,NA,Non-FL resident,1238,NA,1584316800000,Male,Unknown
+Unknown,Broward,1585008000000,NA,Unknown,39,NA,FL resident,1239,NA,1584921600000,Female,Unknown
+Unknown,Broward,1584835200000,NA,Unknown,41,NA,FL resident,1240,NA,1584748800000,Male,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,40,NA,FL resident,1241,NA,1584835200000,Male,Unknown
+Yes,Broward,1584403200000,Unknown,No,20,NA,FL resident,1242,NJ,1584057600000,Male,Unknown
+Yes,Dade,1584576000000,Unknown,Yes,56,NA,FL resident,1243,Costa Rica,1583712000000,Male,Yes
+Unknown,Dade,1584403200000,NA,Unknown,37,NA,FL resident,1244,NA,1584403200000,Male,Unknown
+Yes,Sarasota,1584835200000,Unknown,No,80,NA,FL resident,1245,ISRAEL,1583971200000,Male,No
+No,Hillsborough,1584835200000,Yes,No,43,NA,FL resident,1246,NA,1584489600000,Female,NA
+Yes,Hillsborough,1584748800000,Yes,No,42,NA,FL resident,1247,CO; FL,1583884800000,Male,Yes
+Yes,St. Johns,1584316800000,No,No,49,NA,FL resident,1248,Europe; Hungary,1583971200000,Male,Yes
+Unknown,Palm Beach,1584748800000,NA,Yes,83,Yes,FL resident,1249,NA,1584748800000,Male,Unknown
+Yes,Dade,1584144000000,Unknown,Yes,37,NA,FL resident,1250,El Salvador; FL; Mexico; Spain,1583712000000,Male,Yes
+Yes,Duval,1584230400000,Yes,Yes,57,NA,FL resident,1251,FL; Unknown,1583712000000,Male,NA
+Unknown,Palm Beach,1584748800000,Unknown,Unknown,41,NA,FL resident,1252,NA,1584662400000,Male,Unknown
+Unknown,Highlands,1585008000000,NA,NA,39,NA,FL resident,1253,NA,1584921600000,Male,NA
+Unknown,Broward,1584835200000,Unknown,No,24,NA,FL resident,1254,NA,1584576000000,Male,No
+No,Pasco,1584835200000,Unknown,Yes,48,NA,FL resident,1255,NA,1583539200000,Male,NA
+No,Seminole,1584921600000,Yes,NA,29,NA,FL resident,1256,NA,1584144000000,Female,NA
+Unknown,Dade,1585008000000,NA,Unknown,41,NA,FL resident,1257,NA,1585008000000,Female,Unknown
+No,Clay,1584835200000,Unknown,No,53,NA,FL resident,1258,NA,1584835200000,Male,No
+Yes,Palm Beach,1584748800000,No,Yes,83,NA,FL resident,1259,FL; NY,1583452800000,Male,Yes
+No,Broward,1584748800000,Yes,Yes,86,NA,FL resident,1260,NA,1584316800000,Male,Yes
+No,Broward,1583971200000,Yes,No,65,NA,FL resident,1261,NA,1583280000000,Male,No
+Yes,Monroe,1584662400000,Unknown,No,72,NA,FL resident,1262,FL; United Kingdom,1584057600000,Female,NA
+No,Columbia,1584748800000,No,No,46,NA,FL resident,1263,NA,1583884800000,Female,NA
+Unknown,Duval,1584748800000,NA,Unknown,84,NA,FL resident,1264,NA,1584748800000,Male,Unknown
+Yes,Sarasota,1584748800000,Yes,Unknown,75,NA,Non-FL resident,1265,FL; NY,1584748800000,Male,Unknown
+Unknown,Lake,1584921600000,Unknown,Unknown,21,NA,FL resident,1266,NA,1584921600000,Female,Unknown
+Unknown,Broward,1584576000000,Unknown,Yes,87,NA,FL resident,1267,NA,1584230400000,Female,Yes
+No,Broward,1584662400000,No,No,28,NA,FL resident,1268,NA,1584403200000,Female,Yes
+Yes,Sarasota,1584748800000,Yes,Yes,73,NA,Non-FL resident,1269,FL; NY,1584748800000,Female,Unknown
+Unknown,Broward,1585008000000,NA,Unknown,64,NA,FL resident,1270,NA,1584921600000,Male,Unknown
+Yes,Collier,1584662400000,Yes,No,62,NA,FL resident,1271,Bahamas; FL; Honduras; Mexico,1583625600000,Female,No
+Yes,Dade,1584921600000,NA,Yes,65,NA,FL resident,1272,Spain,1584748800000,Male,Yes
+Yes,Broward,1584835200000,Unknown,No,20,NA,FL resident,1273,Spain,1583798400000,Male,No
+No,Polk,1584576000000,No,Yes,88,NA,FL resident,1274,NA,1583798400000,Male,Yes
+Yes,Collier,1584662400000,Yes,No,64,NA,FL resident,1275,Bahamas; Belize; FL; Honduras; Mexico,1583625600000,Male,No
+Unknown,Dade,1584835200000,NA,Unknown,65,NA,FL resident,1276,NA,1584748800000,Male,Unknown
+Yes,Dade,1584144000000,No,No,77,NA,FL resident,1277,EGYPT; IRAN; UNITED ARAB EMIRATES,1583539200000,Female,Yes
+Unknown,Broward,1585008000000,NA,Unknown,57,NA,FL resident,1278,NA,1584921600000,Female,Unknown
+No,Broward,1584230400000,Yes,No,66,NA,FL resident,1279,NA,1583798400000,Male,No
+Yes,Polk,1584662400000,Yes,Yes,77,NA,FL resident,1280,FL; NY,1584144000000,Female,Yes
+No,Dade,1584921600000,NA,No,52,NA,FL resident,1281,NA,1584144000000,Female,Yes
+No,Sarasota,1584835200000,Unknown,No,71,NA,FL resident,1282,NA,1583712000000,Female,No
+Unknown,Duval,1584748800000,NA,NA,59,NA,FL resident,1283,NA,1584576000000,Male,NA
+No,Polk,1584662400000,Yes,Yes,74,NA,FL resident,1284,NA,1583971200000,Male,Yes
+No,Broward,1584144000000,Yes,No,83,NA,FL resident,1285,NA,1582934400000,Female,Yes
+Yes,Osceola,1584057600000,No,Yes,31,NA,FL resident,1286,Brazil,1583539200000,Male,Yes
+Unknown,Dade,1584230400000,NA,Unknown,66,NA,FL resident,1287,NA,1584144000000,Female,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,57,NA,FL resident,1288,NA,1584835200000,Male,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,39,NA,FL resident,1289,NA,1584748800000,Female,Unknown
+Yes,Pinellas,1584662400000,Yes,No,68,NA,FL resident,1290,Belize; Honduras; Mexico,1583193600000,Male,NA
+Yes,Pinellas,1584662400000,Yes,No,70,NA,FL resident,1291,Belize; Honduras; Mexico,1584230400000,Female,NA
+No,Alachua,1584748800000,NA,Unknown,33,NA,FL resident,1292,NA,1584748800000,Male,NA
+Unknown,Broward,1584921600000,NA,Unknown,26,NA,FL resident,1293,NA,1584921600000,Female,Unknown
+Unknown,Dade,1584662400000,Unknown,Yes,71,NA,FL resident,1294,NA,1583971200000,Female,Yes
+No,Broward,1583798400000,Yes,No,68,NA,FL resident,1295,NA,1583107200000,Female,Yes
+Unknown,Alachua,1584921600000,NA,Unknown,49,NA,FL resident,1296,NA,1584921600000,Male,Unknown
+Unknown,Hillsborough,1584403200000,No,Unknown,60,NA,FL resident,1297,NA,1584403200000,Male,Unknown
+No,Broward,1584748800000,Yes,No,66,NA,FL resident,1298,NA,1583712000000,Male,No
+Yes,Seminole,1584489600000,No,Yes,55,NA,FL resident,1299,FL; NY,1583625600000,Male,Yes
+No,Broward,1584835200000,Yes,No,56,NA,FL resident,1300,NA,1583452800000,Male,No
+No,Lee,1584835200000,Yes,No,75,NA,FL resident,1301,NA,1583971200000,Female,No
+Unknown,Dade,1585008000000,NA,Unknown,31,NA,FL resident,1302,NA,1585008000000,Female,Unknown
+No,Okaloosa,1584748800000,Yes,No,83,NA,FL resident,1303,NA,1583020800000,Male,No
+No,Okaloosa,1584748800000,Yes,No,82,NA,FL resident,1304,NA,1584748800000,Female,No
+Unknown,Dade,1584835200000,NA,No,22,NA,FL resident,1305,NA,1584835200000,Female,NA
+Yes,Pinellas,1584489600000,No,No,21,NA,Non-FL resident,1306,SPAIN,1583712000000,Female,No
+No,Broward,1584144000000,Yes,No,58,NA,FL resident,1307,NA,1583798400000,Male,No
+Unknown,Broward,1585008000000,NA,Unknown,36,NA,FL resident,1308,NA,1584921600000,Male,Unknown
+Yes,Walton,1584662400000,Unknown,No,20,NA,FL resident,1309,FL; Spain,1584230400000,Female,No
+Unknown,Broward,1584835200000,NA,NA,31,NA,FL resident,1310,NA,1584748800000,Unknown,NA
+No,Osceola,1584576000000,No,No,76,NA,FL resident,1311,NA,1583798400000,Male,Yes
+Yes,Alachua,1584489600000,Yes,No,39,NA,FL resident,1312,GA,1584489600000,Female,Yes
+Yes,Palm Beach,1584748800000,No,No,30,NA,FL resident,1313,CO,1583625600000,Female,No
+No,Palm Beach,1584835200000,No,No,85,Yes,FL resident,1314,NA,1584144000000,Female,No
+No,Alachua,1584748800000,No,Yes,68,NA,FL resident,1315,NA,1584662400000,Male,Yes
+No,Broward,1584662400000,No,No,54,NA,FL resident,1316,NA,1584576000000,Male,Yes
+Unknown,Hillsborough,1584921600000,NA,Unknown,69,NA,FL resident,1317,NA,1584921600000,Male,Unknown
+Yes,Broward,1584230400000,Unknown,No,65,NA,FL resident,1318,DC,1583971200000,Male,No
+Yes,Dade,1584144000000,No,Yes,39,NA,FL resident,1319,FL; NY,1583539200000,Female,NA
+Yes,Lee,1584921600000,Unknown,Yes,74,NA,Non-FL resident,1320,NY,1584921600000,Female,No
+No,Collier,1584662400000,Yes,No,77,NA,FL resident,1321,NA,1583625600000,Male,NA
+Unknown,Broward,1585008000000,NA,Unknown,45,NA,FL resident,1322,NA,1585008000000,Male,Unknown
+Unknown,Hillsborough,1585008000000,NA,NA,73,NA,FL resident,1323,NA,1584921600000,Male,NA
+Yes,Broward,1584662400000,Unknown,No,55,NA,FL resident,1324,NV,1584144000000,Male,No
+Yes,Broward,1584489600000,Yes,No,21,NA,FL resident,1325,Ireland,1583193600000,Female,No
+Unknown,Dade,1584748800000,Yes,Unknown,33,NA,FL resident,1326,NA,1584230400000,Male,Unknown
+No,Duval,1584748800000,Yes,No,68,NA,FL resident,1327,NA,1584403200000,Female,No
+Unknown,Hillsborough,1584835200000,Yes,NA,69,NA,FL resident,1328,NA,1584835200000,Female,NA
+No,Hillsborough,1584835200000,No,No,29,NA,FL resident,1329,NA,1584403200000,Male,NA
+Unknown,Dade,1584835200000,NA,Unknown,44,NA,FL resident,1330,NA,1584835200000,Male,Unknown
+No,Hillsborough,1584921600000,No,No,79,NA,FL resident,1331,NA,1584230400000,Female,Yes
+No,Hillsborough,1584921600000,No,No,49,NA,FL resident,1332,NA,1584230400000,Female,Unknown
+Yes,Brevard,1584576000000,Unknown,No,64,NA,FL resident,1333,DC; FL; NY; PA,1584057600000,Female,Yes
+No,Dade,1584662400000,No,Yes,61,NA,FL resident,1334,NA,1583366400000,Male,Yes
+Unknown,Alachua,1584835200000,NA,Unknown,30,NA,FL resident,1335,NA,1584835200000,Female,Unknown
+Unknown,Escambia,1584835200000,NA,Unknown,51,NA,FL resident,1336,NA,1584835200000,Male,Unknown
+Unknown,Broward,1584835200000,Yes,Unknown,84,NA,FL resident,1337,NA,1584489600000,Female,NA
+Unknown,Charlotte,1584835200000,NA,Unknown,59,NA,FL resident,1338,NA,1584835200000,Male,Unknown
+Unknown,Volusia,1585008000000,NA,No,78,NA,FL resident,1339,NA,1585008000000,Male,No
+Yes,Osceola,1584403200000,No,No,20,NA,Non-FL resident,1340,Spain,1583798400000,Female,No
+No,St. Lucie,1584748800000,No,No,56,NA,FL resident,1341,NA,1584316800000,Male,No
+Yes,Dade,1584316800000,Yes,Yes,56,NA,FL resident,1342,NY,1584316800000,Male,Yes
+No,Citrus,1584403200000,Yes,No,64,NA,FL resident,1343,NA,1583625600000,Male,NA
+Unknown,Broward,1584921600000,NA,Unknown,67,NA,FL resident,1344,NA,1584921600000,Female,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,29,NA,FL resident,1345,NA,1584921600000,Female,Unknown
+Unknown,Dade,1584748800000,Yes,Unknown,45,NA,FL resident,1346,NA,1584748800000,Female,Unknown
+Yes,Dade,1584489600000,No,No,73,NA,FL resident,1347,NY,1584230400000,Male,No
+Yes,Polk,1584576000000,No,No,55,NA,FL resident,1348,FL; SPAIN; UNITED KINGDOM,1583971200000,Male,Yes
+No,Martin,1584835200000,No,No,75,NA,FL resident,1349,NA,1584144000000,Male,Yes
+Yes,Orange,1584835200000,Unknown,No,20,NA,FL resident,1350,SPAIN,1584316800000,Female,No
+Yes,Hillsborough,1584662400000,No,No,31,NA,FL resident,1351,Bahamas,1584057600000,Unknown,No
+Unknown,Dade,1585008000000,NA,NA,52,NA,FL resident,1352,NA,1584921600000,Female,NA
+Unknown,Hillsborough,1584662400000,No,No,51,NA,FL resident,1353,NA,1583971200000,Male,No
+No,Volusia,1584316800000,Yes,No,37,NA,FL resident,1354,NA,1583625600000,Female,No
+Yes,Volusia,1584144000000,Yes,No,39,NA,FL resident,1355,Trinidad and Tobago,1582761600000,Male,No
+Yes,Hillsborough,1584748800000,Unknown,No,61,NA,Non-FL resident,1356,GA,1584057600000,Male,No
+No,Volusia,1584921600000,Yes,No,17,NA,FL resident,1357,NA,1584403200000,Male,No
+No,Broward,1584748800000,No,No,62,NA,FL resident,1358,NA,1584057600000,Female,Unknown
+Unknown,Dade,1584835200000,NA,Unknown,36,NA,FL resident,1359,NA,1584835200000,Female,Unknown
+Unknown,Broward,1584576000000,Unknown,Yes,96,Yes,FL resident,1360,NA,1584230400000,Female,NA
+No,Collier,1584921600000,No,No,60,NA,FL resident,1361,NA,1583884800000,Female,No
+Unknown,Broward,1584835200000,NA,Unknown,63,NA,FL resident,1362,NA,1584748800000,Female,Unknown
+No,Volusia,1584662400000,Unknown,Yes,62,NA,FL resident,1363,NA,1583798400000,Male,No
+Unknown,Alachua,1584748800000,No,Yes,56,NA,FL resident,1364,NA,1583971200000,Male,Unknown
+No,Broward,1584835200000,Unknown,No,26,NA,FL resident,1365,NA,1584576000000,Female,No
+Yes,Broward,1584835200000,Unknown,No,57,NA,FL resident,1366,NY,1584489600000,Male,Yes
+Unknown,Duval,1584835200000,No,Yes,41,NA,FL resident,1367,NA,1584662400000,Female,Yes
+No,Hillsborough,1584662400000,Yes,Yes,40,NA,FL resident,1368,NA,1584403200000,Female,Yes
+Unknown,Hillsborough,1584921600000,Yes,NA,10,NA,FL resident,1369,NA,1584835200000,Male,NA
+Yes,Leon,1583280000000,Unknown,No,59,NA,Not diagnosed/isolated in FL,1370,JAPAN,1583193600000,Female,No
+No,Broward,1584576000000,No,No,22,NA,FL resident,1371,NA,1583798400000,Female,No
+Unknown,Dade,1584316800000,Yes,No,69,NA,Non-FL resident,1372,NA,1583712000000,Female,Yes
+No,Baker,1584662400000,Unknown,Yes,87,NA,FL resident,1373,NA,1584576000000,Female,Yes
+Yes,Volusia,1584835200000,Yes,No,65,NA,FL resident,1374,Ireland,1584057600000,Male,No
+Yes,Volusia,1584835200000,Yes,No,66,NA,FL resident,1375,Ireland,1584230400000,Female,No
+No,Sarasota,1584921600000,Unknown,Yes,81,NA,FL resident,1376,NA,1584144000000,Female,Yes
+Unknown,Hillsborough,1585008000000,Yes,NA,14,NA,FL resident,1377,NA,1584316800000,Unknown,NA
+Yes,Leon,1584835200000,Yes,No,40,NA,FL resident,1378,FL; GA,1584057600000,Female,No
+Yes,Broward,1584230400000,Yes,No,19,NA,FL resident,1379,Ireland,1583884800000,Female,Yes
+Yes,Palm Beach,1584316800000,Yes,Yes,62,NA,FL resident,1380,United Kingdom,1583366400000,Male,Unknown
+No,Broward,1585008000000,Unknown,No,38,NA,FL resident,1381,NA,1584662400000,Male,Yes
+Yes,Hillsborough,1584748800000,Yes,No,62,NA,FL resident,1382,FL; NY,1584403200000,Male,No
+Unknown,Hillsborough,1585008000000,Yes,NA,15,NA,FL resident,1383,NA,1584316800000,Unknown,NA
+Yes,Hillsborough,1584748800000,Yes,No,54,NA,FL resident,1384,FL; NY,1584316800000,Female,No
+Unknown,Hillsborough,1584921600000,Yes,NA,33,NA,FL resident,1385,NA,1584316800000,Female,NA
+No,Columbia,1584835200000,No,No,70,NA,FL resident,1386,NA,1584489600000,Female,NA
+No,Broward,1584748800000,Yes,No,65,NA,FL resident,1387,NA,1583798400000,Male,No
+Unknown,Dade,1584835200000,NA,Unknown,40,NA,FL resident,1388,NA,1584835200000,Female,Unknown
+No,Sumter,1584835200000,Yes,No,68,NA,FL resident,1389,NA,1584489600000,Female,No
+Unknown,Volusia,1584921600000,NA,No,71,No,FL resident,1390,NA,1584921600000,Female,No
+Yes,Broward,1584662400000,Unknown,No,57,NA,FL resident,1391,CO,1583625600000,Male,Yes
+No,Broward,1584748800000,Unknown,No,59,NA,FL resident,1392,NA,1584489600000,Male,Yes
+No,Sarasota,1584748800000,No,Yes,70,NA,FL resident,1393,NA,1584662400000,Female,Yes
+Unknown,Broward,1584835200000,NA,Unknown,40,NA,FL resident,1394,NA,1584748800000,Male,Unknown
+Unknown,St. Johns,1584921600000,NA,NA,72,NA,FL resident,1395,NA,1584921600000,Male,NA
+Unknown,Palm Beach,1584576000000,NA,Unknown,78,NA,FL resident,1396,NA,1584489600000,Male,Unknown
+Unknown,Palm Beach,1584662400000,Unknown,Yes,82,NA,FL resident,1397,NA,1583280000000,Male,Yes
+No,Broward,1584662400000,No,No,86,NA,FL resident,1398,NA,1584403200000,Male,Yes
+Yes,Hernando,1585008000000,Yes,No,29,NA,FL resident,1399,CO,1584921600000,Male,No
+Unknown,Dade,1584921600000,NA,Yes,64,NA,FL resident,1400,NA,1584921600000,Female,NA
+Unknown,Palm Beach,1584662400000,Yes,Unknown,29,NA,Non-FL resident,1401,NA,1584662400000,Male,Unknown
+Yes,Broward,1584489600000,No,No,25,NA,FL resident,1402,Morocco; Spain,1584230400000,Female,No
+Unknown,Dade,1584662400000,NA,Unknown,23,NA,FL resident,1403,NA,1584662400000,Male,Unknown
+Yes,Hillsborough,1583107200000,Yes,No,29,NA,FL resident,1404,Italy,1582329600000,Female,No
+Unknown,Manatee,1584921600000,NA,NA,68,NA,FL resident,1405,NA,1584921600000,Male,NA
+No,Putnam,1584835200000,Unknown,No,82,NA,FL resident,1406,NA,1584316800000,Female,No
+Unknown,Dade,1584748800000,NA,Unknown,51,NA,FL resident,1407,NA,1584748800000,Female,Unknown
+No,Palm Beach,1584835200000,No,Yes,76,NA,FL resident,1408,NA,1583971200000,Male,Yes
+Unknown,Palm Beach,1584316800000,NA,Unknown,25,NA,FL resident,1409,NA,1584316800000,Male,Unknown
+Unknown,Dade,1585008000000,NA,Unknown,28,NA,FL resident,1410,NA,1585008000000,Female,Unknown
+No,St. Johns,1584748800000,No,Yes,67,NA,FL resident,1411,NA,1584662400000,Male,Yes
+No,Palm Beach,1584748800000,Yes,Unknown,83,NA,FL resident,1412,NA,1584662400000,Female,Unknown
+Unknown,Broward,1584921600000,NA,Unknown,15,NA,FL resident,1413,NA,1584835200000,Female,Unknown
+No,Lee,1584403200000,No,Yes,67,NA,FL resident,1414,NA,1584057600000,Male,NA
+No,Seminole,1584144000000,No,No,43,NA,FL resident,1415,NA,1583971200000,Female,Yes
+No,Palm Beach,1584489600000,Yes,No,69,NA,FL resident,1416,NA,1584057600000,Female,Yes
+Unknown,Palm Beach,1584748800000,Yes,No,70,NA,FL resident,1417,NA,1584057600000,Male,Yes
+Yes,Collier,1584662400000,No,No,61,NA,FL resident,1418,CANADA,1583971200000,Male,NA
+No,Volusia,1584748800000,Unknown,No,32,NA,FL resident,1419,NA,1583798400000,Female,No
+Unknown,Dade,1584748800000,NA,Unknown,36,NA,FL resident,1420,NA,1584748800000,Male,Unknown
+Unknown,Broward,1584835200000,NA,Unknown,22,NA,FL resident,1421,NA,1584748800000,Female,Unknown
+No,Clay,1584403200000,Yes,Yes,66,NA,FL resident,1422,NA,1583539200000,Female,No
+No,Clay,1584144000000,Yes,Yes,70,Yes,FL resident,1423,NA,1583452800000,Male,Yes
+Unknown,Dade,1584748800000,NA,Unknown,56,NA,FL resident,1424,NA,1584748800000,Male,Unknown
+Yes,Seminole,1584835200000,No,No,64,NA,FL resident,1425,FL; NC; NY,1584230400000,Female,Unknown
+Unknown,Duval,1584835200000,NA,Unknown,56,NA,FL resident,1426,NA,1584835200000,Male,Unknown
+No,Collier,1584835200000,No,Yes,84,NA,FL resident,1427,NA,1583107200000,Female,Yes
+Unknown,Orange,1584921600000,NA,Unknown,38,NA,FL resident,1428,NA,1584835200000,Male,Unknown
+Yes,Escambia,1584921600000,Unknown,Unknown,56,NA,FL resident,1429,CO; FL,1584576000000,Male,NA
+No,Broward,1584748800000,Yes,No,69,NA,FL resident,1430,NA,1583712000000,Male,No
+Unknown,Orange,1584835200000,Unknown,No,39,NA,FL resident,1431,NA,1584835200000,Male,Yes
+No,Lee,1584921600000,No,No,35,NA,FL resident,1432,NA,1584316800000,Male,No
+Unknown,Dade,1584748800000,NA,Unknown,49,NA,FL resident,1433,NA,1584662400000,Female,Unknown
+Unknown,Dade,1584921600000,NA,NA,51,NA,FL resident,1434,NA,1584921600000,Male,NA
+No,Palm Beach,1584489600000,No,No,55,NA,FL resident,1435,NA,1583798400000,Male,No
+Unknown,Dade,1584835200000,NA,Unknown,31,NA,FL resident,1436,NA,1584835200000,Male,Unknown
+Unknown,Orange,1584403200000,NA,Yes,73,NA,FL resident,1437,NA,1584403200000,Male,Unknown
+No,Hillsborough,1584835200000,No,No,19,NA,FL resident,1438,NA,1584835200000,Female,No
+Unknown,Palm Beach,1584748800000,NA,Unknown,67,NA,FL resident,1439,NA,1584748800000,Male,Unknown
+Yes,St. Johns,1584489600000,Yes,No,53,NA,FL resident,1440,CO,1583625600000,Female,Yes
+Unknown,Palm Beach,1584835200000,Unknown,Unknown,65,NA,FL resident,1441,NA,1584748800000,Female,Unknown
+Yes,Pinellas,1584835200000,Yes,No,71,NA,FL resident,1442,ISRAEL; OH,1583884800000,Female,No
+Yes,Pinellas,1584835200000,Yes,No,75,NA,FL resident,1443,ISRAEL; OH,1583884800000,Male,No
+Unknown,Hillsborough,1584835200000,No,Unknown,50,NA,Non-FL resident,1444,NA,1584835200000,Female,Unknown
+Unknown,Palm Beach,1584835200000,NA,Unknown,64,NA,FL resident,1445,NA,1584835200000,Female,Unknown
+Unknown,Palm Beach,1584835200000,NA,Unknown,64,NA,FL resident,1446,NA,1584835200000,Male,Unknown
+Unknown,Lake,1584835200000,Unknown,Unknown,75,NA,FL resident,1447,NA,1584835200000,Male,Unknown
+No,Broward,1585008000000,Yes,No,77,NA,FL resident,1448,NA,1583712000000,Male,No
+Unknown,Orange,1584230400000,No,Yes,79,Yes,FL resident,1449,NA,1583539200000,Female,Yes
+Unknown,Broward,1584921600000,NA,Unknown,80,NA,FL resident,1450,NA,1584835200000,Female,Unknown
+No,Dade,1584230400000,Yes,No,28,NA,FL resident,1451,NA,1583798400000,Male,Yes
+No,Manatee,1584576000000,Yes,No,72,NA,FL resident,1452,NA,1584316800000,Female,Yes
+No,Manatee,1584403200000,Yes,Yes,71,NA,FL resident,1453,NA,1584403200000,Male,Yes
+No,Lee,1584835200000,Yes,No,65,NA,FL resident,1454,NA,1583366400000,Female,NA
+No,Broward,1584921600000,No,No,41,NA,FL resident,1455,NA,1584144000000,Male,Yes
+Unknown,Dade,1584835200000,NA,Unknown,53,NA,FL resident,1456,NA,1584748800000,Male,Unknown
+No,Lee,1584489600000,Unknown,Yes,69,NA,FL resident,1457,NA,1584489600000,Male,Yes
+No,Palm Beach,1584662400000,Yes,No,69,NA,FL resident,1458,NA,1583712000000,Male,Yes
+No,Palm Beach,1584489600000,Yes,No,69,NA,FL resident,1459,NA,1583712000000,Female,Yes
+Unknown,Duval,1584748800000,Yes,NA,88,NA,FL resident,1460,NA,1584057600000,Male,No
+Unknown,Dade,1584835200000,NA,Unknown,34,NA,FL resident,1461,NA,1584835200000,Male,Unknown
+No,Orange,1584662400000,No,Yes,41,NA,FL resident,1462,NA,1584144000000,Female,Yes
+Unknown,Flagler,1584835200000,Unknown,Yes,72,NA,FL resident,1463,NA,1584576000000,Female,Yes
+No,Orange,1584835200000,No,No,35,NA,FL resident,1464,NA,1583971200000,Male,No
+Yes,Dade,1584144000000,Yes,No,42,NA,FL resident,1465,FL; France,1584057600000,Male,No
+Unknown,Dade,1584835200000,NA,Unknown,38,NA,FL resident,1466,NA,1584748800000,Female,Unknown
+No,Lee,1584835200000,Yes,No,57,NA,FL resident,1467,NA,1584316800000,Female,No

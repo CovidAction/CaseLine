@@ -1,0 +1,1413 @@
+Travel_related,Gender,County,Jurisdiction,EDvisit,Age,Hospitalized,Contact,Origin,ObjectId,Case_,Died
+No,Female,Manatee,FL resident,NA,63,Yes,Yes,NA,1,03/20/20,NA
+Unknown,Female,Broward,FL resident,Unknown,56,Unknown,NA,NA,2,03/22/20,NA
+Unknown,Female,Orange,FL resident,Unknown,52,Unknown,NA,NA,3,03/23/20,NA
+Unknown,Unknown,Palm Beach,FL resident,Unknown,29,Unknown,NA,NA,4,03/24/20,NA
+No,Male,Broward,FL resident,Yes,71,Yes,Yes,NA,5,03/23/20,No
+No,Female,St. Lucie,FL resident,No,26,No,No,NA,6,03/23/20,No
+Yes,Female,Broward,FL resident,No,19,No,Yes,Ireland,7,03/15/20,No
+Unknown,Male,Broward,FL resident,Unknown,64,Unknown,NA,NA,8,03/24/20,NA
+Unknown,Male,Dade,FL resident,Unknown,46,Unknown,NA,NA,9,03/24/20,NA
+Yes,Female,Broward,FL resident,Yes,73,Yes,Yes,NY,10,03/23/20,No
+Yes,Female,Alachua,FL resident,No,42,No,No,Dominican Republic; FL,11,03/19/20,No
+Yes,Female,Broward,FL resident,Yes,20,Yes,Yes,Ireland,12,03/14/20,No
+Yes,Male,Dade,FL resident,Yes,45,Unknown,NA,NY,13,03/22/20,NA
+No,Male,Hillsborough,FL resident,No,46,No,Unknown,NA,14,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,53,Unknown,NA,NA,15,03/22/20,NA
+No,Male,St. Johns,FL resident,No,21,No,Yes,NA,16,03/23/20,No
+No,Male,Pasco,FL resident,NA,46,No,Yes,NA,17,03/11/20,NA
+Yes,Female,Citrus,FL resident,NA,58,Unknown,Unknown,Honduras,18,03/20/20,NA
+Unknown,Male,Dade,Non-FL resident,Yes,64,No,Unknown,NA,19,03/19/20,NA
+Yes,Male,Collier,FL resident,No,33,No,Unknown,Spain,20,03/19/20,No
+Unknown,Female,Dade,FL resident,Yes,56,Yes,No,NA,21,03/21/20,NA
+No,Male,St. Johns,FL resident,No,22,No,Yes,NA,22,03/22/20,No
+Unknown,Female,Palm Beach,FL resident,Unknown,80,Unknown,NA,NA,23,03/23/20,NA
+Unknown,Female,Broward,FL resident,Unknown,75,Unknown,NA,NA,24,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,20,Unknown,NA,NA,25,03/18/20,NA
+Unknown,Female,Dade,Non-FL resident,NA,60,Unknown,Unknown,NA,26,03/19/20,NA
+Unknown,Female,Dade,FL resident,NA,41,Yes,NA,NA,27,03/23/20,NA
+Yes,Male,Collier,FL resident,No,80,No,No,NY,28,03/22/20,No
+Yes,Female,Volusia,FL resident,Yes,48,Yes,Yes,DC; FL,29,03/15/20,No
+No,Female,St. Johns,FL resident,Yes,47,No,Yes,NA,30,03/20/20,No
+Unknown,Female,Dade,FL resident,Unknown,61,Unknown,NA,NA,31,03/22/20,NA
+Yes,Male,Palm Beach,FL resident,Yes,81,Yes,Yes,NY,32,03/20/20,No
+Yes,Male,Pinellas,FL resident,Yes,24,No,No,NY,33,03/19/20,No
+No,Female,Orange,FL resident,No,50,No,Unknown,NA,34,03/19/20,No
+Unknown,Female,Dade,FL resident,Unknown,22,Unknown,NA,NA,35,03/21/20,NA
+No,Male,Broward,FL resident,Yes,65,Yes,No,NA,36,03/18/20,NA
+No,Male,St. Johns,FL resident,Yes,47,No,Yes,NA,37,03/20/20,No
+Unknown,Male,Dade,FL resident,Unknown,38,No,Unknown,NA,38,03/22/20,NA
+No,Male,Palm Beach,FL resident,Unknown,69,Unknown,No,NA,39,03/20/20,No
+No,Male,Clay,FL resident,Yes,57,Yes,Yes,NA,40,03/13/20,No
+Unknown,Male,Duval,FL resident,Unknown,55,Unknown,NA,NA,41,03/21/20,NA
+Yes,Female,Duval,Non-FL resident,Yes,25,No,Unknown,Australia; FL; TN,42,03/17/20,NA
+No,Female,Hillsborough,FL resident,No,36,No,Yes,NA,43,03/23/20,NA
+Yes,Female,Hillsborough,FL resident,Unknown,38,No,Yes,BOSNIA AND HERZEGOVINA; GERMANY,44,03/17/20,NA
+No,Female,Clay,FL resident,No,55,No,Yes,NA,45,03/14/20,No
+Unknown,Male,Dade,FL resident,Unknown,31,Unknown,NA,NA,46,03/22/20,NA
+No,Female,Orange,FL resident,Yes,82,Yes,Unknown,NA,47,03/20/20,No
+Unknown,Female,Alachua,FL resident,Unknown,37,Unknown,NA,NA,48,03/22/20,NA
+No,Female,Brevard,FL resident,No,32,No,Yes,NA,49,03/22/20,No
+Yes,Male,Broward,FL resident,Yes,19,No,Yes,NY,50,03/20/20,No
+Yes,Female,Marion,FL resident,No,40,No,No,UNITED KINGDOM,51,03/23/20,No
+Yes,Female,Hillsborough,FL resident,No,27,No,Yes,CA,52,03/19/20,No
+Yes,Male,Gadsden,Not diagnosed/isolated in FL,NA,54,Unknown,Unknown,Japan,53,03/03/20,NA
+Unknown,Male,Sarasota,FL resident,NA,66,NA,NA,NA,54,03/23/20,NA
+No,Male,Volusia,FL resident,No,54,No,Unknown,NA,55,03/23/20,No
+Unknown,Male,Dade,FL resident,Unknown,33,Unknown,NA,NA,56,03/24/20,NA
+No,Male,Broward,FL resident,No,43,No,Yes,NA,57,03/23/20,No
+Unknown,Male,Hillsborough,FL resident,No,21,No,NA,NA,58,03/22/20,NA
+No,Female,Broward,FL resident,Yes,27,No,Yes,NA,59,03/13/20,No
+Unknown,Male,Dade,FL resident,NA,46,NA,NA,NA,60,03/23/20,NA
+Unknown,Female,Duval,FL resident,Unknown,68,Unknown,NA,NA,61,03/20/20,NA
+Unknown,Male,Hillsborough,FL resident,NA,6,NA,Yes,NA,62,03/23/20,NA
+Unknown,Male,Hillsborough,FL resident,NA,35,NA,NA,NA,63,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,25,Unknown,NA,NA,64,03/23/20,NA
+No,Female,Orange,FL resident,NA,52,No,No,NA,65,03/22/20,NA
+Yes,Male,Dade,FL resident,Yes,37,No,Yes,DC; FL,66,03/17/20,NA
+No,Male,Lee,FL resident,Yes,79,Yes,Yes,NA,67,03/17/20,No
+Yes,Female,Okaloosa,FL resident,No,61,No,Yes,CA; Mexico,68,03/09/20,No
+Yes,Male,Broward,FL resident,No,30,Yes,Unknown,FL; NV,69,03/21/20,No
+Yes,Female,Dade,FL resident,Unknown,51,No,Yes,Italy,70,03/20/20,No
+Unknown,Female,Orange,FL resident,Unknown,21,Unknown,NA,NA,71,03/23/20,NA
+Unknown,Male,Dade,FL resident,Unknown,56,Unknown,NA,NA,72,03/24/20,NA
+No,Female,Lake,FL resident,NA,43,Yes,No,NA,73,03/22/20,NA
+No,Male,Broward,FL resident,Yes,77,Yes,Unknown,NA,74,03/20/20,No
+No,Male,Hernando,FL resident,No,68,No,No,NA,75,03/19/20,No
+Yes,Male,Polk,FL resident,Yes,35,Yes,No,France; United Kingdom,76,03/20/20,No
+Yes,Female,Collier,FL resident,No,64,No,Unknown,Egypt,77,03/11/20,No
+Unknown,Female,Dade,FL resident,Unknown,63,Unknown,NA,NA,78,03/23/20,Unknown
+No,Male,Dade,Non-FL resident,Yes,46,Yes,Yes,NA,79,03/20/20,NA
+Unknown,Male,Broward,FL resident,Unknown,56,Unknown,NA,NA,80,03/23/20,NA
+Unknown,Male,Duval,FL resident,Unknown,71,Unknown,NA,NA,81,03/23/20,NA
+Unknown,Female,Dade,FL resident,Unknown,75,Unknown,NA,NA,82,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,29,Unknown,NA,NA,83,03/22/20,NA
+Yes,Male,Collier,FL resident,No,73,No,Unknown,Egypt,84,03/11/20,No
+Yes,Female,Broward,FL resident,No,72,No,Yes,FRANCE,85,03/21/20,No
+No,Male,Duval,FL resident,NA,83,Yes,No,NA,86,03/18/20,NA
+Yes,Male,Alachua,FL resident,No,22,No,No,Canada; NY; PA,87,03/17/20,No
+Unknown,Unknown,Hillsborough,FL resident,NA,6,NA,NA,NA,88,03/24/20,NA
+Yes,Female,Palm Beach,FL resident,Yes,56,No,Yes,Egypt; Germany,89,03/19/20,No
+Yes,Female,Pinellas,FL resident,No,66,No,Yes,ISRAEL,90,03/18/20,NA
+Yes,Male,Broward,FL resident,Yes,65,Yes,No,Cayman Islands,91,03/07/20,No
+Yes,Male,Broward,FL resident,No,71,No,Yes,France,92,03/23/20,No
+Yes,Female,Broward,FL resident,No,20,No,Yes,Ireland,93,03/15/20,No
+Yes,Female,Dade,FL resident,Yes,62,No,Yes,Israel,94,03/19/20,No
+Yes,Female,Leon,FL resident,Yes,58,Yes,Yes,GA,95,03/18/20,No
+Unknown,Female,Broward,FL resident,NA,82,No,Yes,NA,96,03/23/20,NA
+Yes,Male,Pinellas,FL resident,No,58,No,Yes,FL; ISRAEL,97,03/20/20,No
+Unknown,Male,Broward,FL resident,Unknown,21,Unknown,NA,NA,98,03/24/20,NA
+Yes,Female,Dade,Non-FL resident,Yes,80,No,No,Israel; Venezuela,99,03/18/20,NA
+No,Female,Broward,FL resident,No,50,No,Yes,NA,100,03/22/20,No
+Yes,Female,Pinellas,FL resident,No,29,No,Yes,SPAIN,101,03/21/20,No
+Yes,Male,Leon,FL resident,Yes,55,No,Yes,GA,102,03/18/20,No
+No,Female,Dade,FL resident,No,55,No,Yes,NA,103,03/21/20,NA
+Unknown,Male,Broward,FL resident,Unknown,61,Unknown,NA,NA,104,03/24/20,NA
+No,Male,Dade,FL resident,Unknown,50,No,Yes,NA,105,03/19/20,No
+Unknown,Male,Dade,FL resident,Unknown,21,Unknown,NA,NA,106,03/24/20,NA
+Unknown,Male,Dade,FL resident,Unknown,26,Unknown,NA,NA,107,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,27,Unknown,NA,NA,108,03/21/20,NA
+Unknown,Female,Dade,FL resident,Unknown,64,Unknown,NA,NA,109,03/19/20,NA
+No,Female,Collier,FL resident,Yes,75,Yes,No,NA,110,03/22/20,No
+Yes,Female,Volusia,FL resident,No,23,No,Unknown,Spain,111,03/21/20,No
+Unknown,Female,Dade,FL resident,Unknown,76,Unknown,NA,NA,112,03/22/20,Unknown
+Yes,Male,Dade,FL resident,NA,38,NA,NA,Brazil,113,03/18/20,NA
+Yes,Male,Broward,FL resident,Yes,65,Yes,Yes,PERU,114,03/20/20,NA
+Unknown,Female,Broward,FL resident,Unknown,46,Unknown,NA,NA,115,03/24/20,NA
+Unknown,Female,Dade,FL resident,Unknown,23,Unknown,NA,NA,116,03/21/20,NA
+Unknown,Female,Broward,FL resident,Unknown,22,Unknown,NA,NA,117,03/23/20,NA
+No,Male,Escambia,FL resident,NA,48,No,Unknown,NA,118,03/22/20,NA
+No,Male,Broward,FL resident,No,59,Yes,Yes,NA,119,03/14/20,No
+No,Male,Broward,FL resident,No,24,No,Yes,NA,120,03/22/20,No
+Yes,Female,Okaloosa,FL resident,No,47,No,No,NJ; NY,121,03/20/20,No
+Yes,Female,Alachua,FL resident,Unknown,23,Unknown,No,FL; NY,122,03/21/20,NA
+Yes,Female,Pasco,FL resident,Yes,64,Yes,Yes,FL; NY,123,03/18/20,No
+Unknown,Male,Dade,FL resident,Unknown,81,Unknown,NA,NA,124,03/21/20,NA
+Unknown,Unknown,Broward,Non-FL resident,NA,NA,NA,NA,NA,125,03/24/20,NA
+Yes,Female,Alachua,Non-FL resident,No,68,Yes,No,GA,126,03/10/20,NA
+Yes,Female,Dade,FL resident,Yes,61,No,Yes,Spain,127,03/21/20,NA
+Yes,Male,Dade,FL resident,Yes,21,No,Unknown,Spain,128,03/20/20,No
+No,Male,Okaloosa,FL resident,Yes,66,Yes,No,NA,129,03/21/20,No
+Yes,Male,Pasco,FL resident,Yes,67,Yes,Yes,FL; NY,130,03/14/20,No
+Unknown,Male,Broward,FL resident,Unknown,78,Unknown,NA,NA,131,03/24/20,NA
+Yes,Male,Broward,FL resident,No,19,No,Yes,Ireland,132,03/14/20,No
+Yes,Female,Broward,FL resident,No,47,No,No,Ireland; Spain; United Kingdom,133,03/19/20,NA
+Yes,Male,Palm Beach,FL resident,Yes,26,No,No,Bahamas; FL,134,03/18/20,No
+Unknown,Male,Dade,FL resident,Unknown,49,Unknown,NA,NA,135,03/24/20,NA
+No,Female,Orange,FL resident,Yes,55,Yes,No,NA,136,03/19/20,No
+Yes,Male,Dade,FL resident,Yes,32,No,No,Colombia; NY; Saudi Arabia,137,03/17/20,No
+No,Female,Broward,FL resident,Yes,42,No,Yes,NA,138,03/22/20,No
+No,Female,Lee,FL resident,NA,90,No,Yes,NA,139,03/22/20,NA
+Unknown,Male,Broward,FL resident,Yes,77,Yes,Yes,NA,140,03/16/20,Yes
+No,Male,Sarasota,FL resident,Yes,76,Yes,Yes,NA,141,03/20/20,No
+Unknown,Female,Dade,FL resident,Unknown,28,Unknown,NA,NA,142,03/22/20,NA
+Yes,Male,Broward,FL resident,Yes,61,No,Unknown,Italy,143,03/12/20,No
+Unknown,Male,Alachua,FL resident,Unknown,23,Unknown,NA,NA,144,03/21/20,NA
+No,Male,Manatee,FL resident,Yes,70,Yes,No,NA,145,03/16/20,Yes
+Unknown,Female,Broward,FL resident,Unknown,51,Unknown,NA,NA,146,03/22/20,NA
+Yes,Male,Broward,FL resident,No,59,No,Yes,Spain,147,03/21/20,NA
+Unknown,Female,Broward,FL resident,Unknown,36,Unknown,NA,NA,148,03/22/20,NA
+Yes,Male,Dade,FL resident,Yes,43,No,Yes,UT,149,03/15/20,NA
+No,Male,Manatee,FL resident,NA,61,No,Yes,NA,150,03/18/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,68,Unknown,NA,NA,151,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,55,Unknown,NA,NA,152,03/23/20,NA
+Yes,Male,Pasco,FL resident,No,69,No,Unknown,France; Portugal; Switzerland,153,03/20/20,NA
+Unknown,Male,Dade,FL resident,Unknown,55,Unknown,NA,NA,154,03/23/20,NA
+Yes,Male,Broward,FL resident,No,21,No,Yes,Spain,155,03/18/20,No
+No,Male,Broward,FL resident,Yes,73,No,Yes,NA,156,03/22/20,No
+No,Female,Broward,FL resident,Yes,77,No,Unknown,NA,157,03/21/20,No
+No,Male,Pinellas,FL resident,Yes,58,Yes,Yes,NA,158,03/16/20,NA
+No,Male,Pinellas,FL resident,No,32,No,Yes,NA,159,03/18/20,No
+No,Male,Dade,FL resident,Yes,59,No,Yes,NA,160,03/22/20,No
+Unknown,Female,Dade,FL resident,NA,33,NA,NA,NA,161,03/23/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,73,Unknown,NA,NA,162,03/24/20,NA
+No,Male,Broward,FL resident,No,67,No,Yes,NA,163,03/09/20,No
+Yes,Male,Collier,Non-FL resident,Yes,64,No,No,FL; HI,164,03/18/20,NA
+No,Female,Duval,FL resident,Yes,91,No,Yes,NA,165,03/16/20,No
+Yes,Female,Duval,FL resident,Yes,36,No,NA,FL; GA,166,03/23/20,NA
+Unknown,Female,Broward,FL resident,Unknown,43,Unknown,NA,NA,167,03/22/20,NA
+Yes,Female,Sarasota,FL resident,Yes,50,Yes,No,NY,168,03/13/20,No
+Unknown,Male,Dade,FL resident,Unknown,58,Unknown,NA,NA,169,03/23/20,NA
+Unknown,Female,Dade,FL resident,Unknown,47,Unknown,NA,NA,170,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,50,Unknown,NA,NA,171,03/24/20,NA
+Unknown,Female,Dade,FL resident,Unknown,43,Unknown,NA,NA,172,03/24/20,Unknown
+Unknown,Male,Broward,FL resident,Unknown,51,Unknown,NA,NA,173,03/24/20,NA
+No,Female,Hillsborough,FL resident,Unknown,79,Yes,Yes,NA,174,03/23/20,NA
+No,Female,Broward,FL resident,Yes,71,No,Yes,NA,175,03/20/20,No
+Yes,Female,Hillsborough,FL resident,Yes,72,No,Unknown,FL; TN,176,03/20/20,No
+Unknown,Male,Collier,FL resident,Unknown,47,Unknown,NA,NA,177,03/23/20,NA
+Yes,Female,Pinellas,FL resident,Yes,62,No,No,ID,178,03/19/20,No
+Unknown,Male,Dade,FL resident,Unknown,67,Unknown,NA,NA,179,03/22/20,Unknown
+Yes,Male,Palm Beach,FL resident,Yes,74,Yes,No,Belgium; FL,180,03/13/20,No
+Yes,Male,Hillsborough,FL resident,NA,31,No,Yes,NY,181,03/19/20,NA
+No,Female,Hillsborough,FL resident,NA,32,No,Yes,NA,182,03/20/20,NA
+No,Female,Manatee,FL resident,Yes,67,Yes,Yes,NA,183,03/14/20,No
+Yes,Female,Pasco,FL resident,No,68,No,Unknown,France; Portugal; Switzerland,184,03/24/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,32,Unknown,NA,NA,185,03/24/20,NA
+Yes,Male,Pasco,FL resident,No,50,No,Yes,Mexico,186,03/22/20,NA
+No,Male,Hillsborough,FL resident,Yes,36,No,No,NA,187,03/19/20,NA
+Unknown,Female,Broward,FL resident,NA,90,NA,NA,NA,188,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,49,Unknown,NA,NA,189,03/22/20,NA
+Yes,Male,Sumter,FL resident,Yes,78,Yes,No,OR,190,03/22/20,NA
+Unknown,Male,Broward,FL resident,Unknown,29,Unknown,NA,NA,191,03/22/20,NA
+No,Male,Dade,FL resident,Unknown,49,Unknown,No,NA,192,03/21/20,No
+Yes,Female,Dade,FL resident,Yes,50,No,No,SPAIN,193,03/17/20,NA
+No,Female,Osceola,FL resident,Yes,20,No,Yes,NA,194,03/21/20,No
+No,Male,Pinellas,FL resident,Yes,72,Yes,No,NA,195,03/21/20,NA
+Unknown,Female,Dade,FL resident,Yes,68,Yes,NA,NA,196,03/19/20,No
+Unknown,Female,Palm Beach,FL resident,Unknown,69,Unknown,NA,NA,197,03/24/20,NA
+Unknown,Female,Dade,FL resident,Unknown,33,Unknown,NA,NA,198,03/22/20,NA
+Unknown,Male,St. Johns,FL resident,No,49,No,No,NA,199,03/21/20,NA
+Yes,Female,Lee,FL resident,Yes,21,No,No,SPAIN,200,03/22/20,No
+Unknown,Male,Dade,FL resident,Yes,33,Yes,No,NA,201,03/18/20,No
+Yes,Male,Lee,Non-FL resident,No,57,No,Unknown,FL; FRANCE; UNITED KINGDOM,202,03/12/20,NA
+No,Male,Broward,FL resident,Yes,46,No,Unknown,NA,203,03/23/20,No
+No,Female,Broward,FL resident,Yes,43,Yes,Yes,NA,204,03/22/20,No
+Unknown,Male,Dade,FL resident,Unknown,26,Unknown,NA,NA,205,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,67,Yes,No,NA,206,03/18/20,NA
+Yes,Female,Osceola,FL resident,No,28,No,No,NY,207,03/22/20,No
+No,Male,Palm Beach,FL resident,No,66,No,Unknown,NA,208,03/16/20,No
+Yes,Male,Dade,FL resident,Yes,20,No,Yes,Spain,209,03/14/20,No
+Yes,Male,Dade,FL resident,Unknown,18,No,Yes,Spain,210,03/14/20,No
+No,Male,Dade,FL resident,Yes,60,Yes,No,NA,211,03/17/20,No
+Yes,Female,Broward,FL resident,Yes,21,No,Yes,Spain,212,03/18/20,No
+No,Female,Okaloosa,FL resident,No,44,No,Unknown,NA,213,03/19/20,No
+No,Female,Lee,FL resident,No,59,No,No,NA,214,03/21/20,No
+No,Male,Sarasota,Non-FL resident,Yes,70,Yes,No,NA,215,03/13/20,NA
+Yes,Female,Palm Beach,FL resident,Unknown,19,No,Yes,TN,216,03/17/20,No
+Unknown,Male,Orange,FL resident,Unknown,30,Unknown,NA,NA,217,03/23/20,NA
+Unknown,Male,Dade,FL resident,NA,70,NA,NA,NA,218,03/24/20,NA
+Unknown,Male,Broward,FL resident,Unknown,50,Unknown,NA,NA,219,03/22/20,NA
+Yes,Female,Collier,FL resident,No,68,No,Yes,Egypt,220,03/11/20,NA
+No,Male,Broward,FL resident,Yes,68,No,No,NA,221,03/23/20,No
+No,Female,Broward,FL resident,Yes,93,Unknown,Yes,NA,222,03/19/20,No
+No,Female,Hillsborough,FL resident,Yes,30,No,NA,NA,223,03/23/20,NA
+No,Male,Pinellas,FL resident,Yes,37,Yes,No,NA,224,03/22/20,No
+Unknown,Male,Hillsborough,FL resident,Unknown,57,Unknown,NA,NA,225,03/21/20,NA
+Unknown,Male,Hillsborough,FL resident,Unknown,41,Unknown,NA,NA,226,03/23/20,NA
+No,Male,Broward,FL resident,Yes,51,No,Yes,NA,227,03/23/20,NA
+Yes,Male,Broward,Non-FL resident,Yes,41,Yes,Unknown,Spain,228,03/14/20,NA
+No,Male,Pinellas,FL resident,Yes,67,Yes,No,NA,229,03/21/20,No
+Yes,Male,Lake,FL resident,Yes,75,No,Yes,FL; PANAMA,230,03/23/20,No
+Yes,Female,Lake,FL resident,Yes,75,No,Yes,FL; PANAMA,231,03/23/20,NA
+Yes,Male,Osceola,FL resident,No,50,No,Yes,Europe,232,03/19/20,No
+Yes,Female,Palm Beach,Not diagnosed/isolated in FL,NA,71,No,Yes,Japan,233,03/04/20,No
+Unknown,Male,St. Johns,FL resident,Yes,76,Yes,No,NA,234,03/22/20,NA
+Unknown,Male,Sumter,FL resident,Yes,75,Yes,No,NA,235,03/22/20,NA
+No,Female,Collier,FL resident,No,49,No,No,NA,236,03/16/20,No
+Yes,Female,Hillsborough,FL resident,Yes,38,Yes,No,FL; NJ; NY,237,03/21/20,No
+Yes,Female,Broward,FL resident,Yes,67,No,No,Dominican Republic,238,03/21/20,No
+No,Female,Broward,FL resident,Yes,19,No,Yes,NA,239,03/17/20,No
+Yes,Female,Broward,FL resident,Yes,51,No,Yes,Colombia,240,03/16/20,No
+Yes,Female,Pinellas,FL resident,No,63,No,Yes,FL; NY,241,03/19/20,No
+Unknown,Male,Dade,FL resident,Unknown,33,Unknown,NA,NA,242,03/24/20,NA
+Unknown,Male,Clay,FL resident,Unknown,30,Unknown,NA,NA,243,03/24/20,NA
+Yes,Male,Broward,FL resident,Yes,44,No,No,NY,244,03/19/20,No
+Yes,Male,Seminole,FL resident,No,56,No,No,AL,245,03/22/20,No
+Yes,Male,Palm Beach,FL resident,Yes,69,No,No,CO,246,03/17/20,No
+Yes,Male,Lake,FL resident,Yes,68,Yes,No,FL; OH,247,03/23/20,No
+Unknown,Female,Dade,FL resident,Unknown,54,Unknown,NA,NA,248,03/21/20,NA
+No,Male,Broward,FL resident,Yes,32,No,Unknown,NA,249,03/22/20,No
+Yes,Male,Santa Rosa,FL resident,No,48,No,No,United Kingdom,250,03/18/20,No
+No,Male,Citrus,FL resident,Yes,63,Yes,No,NA,251,03/21/20,NA
+Yes,Female,Dade,FL resident,Yes,20,No,Yes,SPAIN,252,03/19/20,NA
+No,Female,Manatee,FL resident,No,62,No,Yes,NA,253,03/14/20,No
+No,Male,Broward,FL resident,No,55,No,Yes,NA,254,03/22/20,No
+Unknown,Male,Broward,FL resident,Yes,29,No,No,NA,255,03/19/20,No
+Yes,Female,Palm Beach,FL resident,Unknown,76,Yes,Unknown,France,256,03/16/20,NA
+No,Female,Hernando,FL resident,No,73,No,No,NA,257,03/21/20,No
+Yes,Male,Leon,Non-FL resident,Yes,36,No,Unknown,GA,258,03/21/20,NA
+No,Male,Manatee,FL resident,Yes,63,Yes,Yes,NA,259,03/02/20,No
+Yes,Female,Pinellas,Non-FL resident,Yes,59,Yes,Yes,Bahamas; Ecuador; FL,260,03/20/20,NA
+Yes,Male,Flagler,FL resident,No,68,No,Unknown,EUROPE,261,03/23/20,No
+Unknown,Female,Osceola,FL resident,No,36,No,NA,NA,262,03/21/20,NA
+Yes,Male,Broward,FL resident,NA,27,No,Yes,FL; UT,263,03/21/20,NA
+No,Female,Sarasota,FL resident,Yes,75,Yes,Yes,NA,264,03/22/20,NA
+Unknown,Female,Palm Beach,FL resident,Unknown,19,Unknown,Unknown,NA,265,03/21/20,NA
+No,Male,Osceola,FL resident,Yes,54,No,No,NA,266,03/13/20,No
+Unknown,Male,Broward,Non-FL resident,Unknown,94,Unknown,NA,NA,267,03/23/20,NA
+Unknown,Female,Broward,FL resident,Unknown,59,Unknown,NA,NA,268,03/24/20,NA
+Yes,Female,Orange,Not diagnosed/isolated in FL,NA,68,NA,NA,Philippines; South Korea,269,03/13/20,Yes
+Yes,Male,Pinellas,Non-FL resident,Yes,62,Yes,Yes,BAHAMAS; ECUADOR; FL,270,03/23/20,NA
+Unknown,Unknown,Duval,Non-FL resident,NA,65,NA,NA,NA,271,03/23/20,NA
+Unknown,Male,Broward,FL resident,Unknown,53,Unknown,NA,NA,272,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,32,Unknown,NA,NA,273,03/24/20,NA
+No,Male,Hillsborough,FL resident,Yes,54,No,No,NA,274,03/20/20,NA
+Unknown,Male,Broward,FL resident,Yes,70,Yes,Unknown,NA,275,03/12/20,No
+No,Female,Polk,FL resident,Yes,49,Yes,No,NA,276,03/20/20,NA
+Unknown,Male,Collier,FL resident,Unknown,44,Unknown,NA,NA,277,03/24/20,NA
+Unknown,Male,Hillsborough,FL resident,Yes,38,No,No,NA,278,03/22/20,NA
+No,Male,Dade,FL resident,NA,57,NA,Yes,NA,279,03/22/20,NA
+Yes,Female,Dade,FL resident,No,57,No,Unknown,NY,280,03/22/20,No
+Yes,Female,Hernando,FL resident,No,19,No,No,Spain,281,03/19/20,No
+No,Female,Pasco,FL resident,No,67,No,Yes,NA,282,03/19/20,No
+Unknown,Female,Alachua,FL resident,Unknown,25,Unknown,NA,NA,283,03/22/20,NA
+No,Male,Baker,FL resident,NA,76,No,Yes,NA,284,03/22/20,NA
+Unknown,Male,Pinellas,FL resident,Unknown,58,Unknown,NA,NA,285,03/23/20,NA
+Yes,Male,Brevard,FL resident,Yes,64,Yes,No,HAITI,286,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,70,Unknown,NA,NA,287,03/24/20,NA
+Unknown,Female,Broward,FL resident,NA,26,NA,Yes,NA,288,03/22/20,NA
+No,Male,Walton,FL resident,No,78,No,Yes,NA,289,03/23/20,No
+Yes,Female,Walton,Non-FL resident,No,77,Yes,Yes,FL; MI,290,03/18/20,NA
+Yes,Male,Collier,FL resident,NA,76,Yes,Unknown,St. Martin,291,03/17/20,NA
+Yes,Female,Broward,FL resident,No,22,No,NA,FL; NY,292,03/22/20,NA
+Unknown,Female,Flagler,FL resident,No,59,No,Unknown,NA,293,03/22/20,No
+No,Male,Dade,FL resident,No,32,No,Unknown,NA,294,03/22/20,No
+Unknown,Male,Dade,FL resident,Unknown,33,Unknown,NA,NA,295,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,62,Unknown,NA,NA,296,03/24/20,NA
+No,Male,Dade,FL resident,Yes,25,No,Yes,NA,297,03/18/20,NA
+Unknown,Male,St. Johns,FL resident,Unknown,53,Unknown,NA,NA,298,03/22/20,NA
+Yes,Male,Sumter,FL resident,Yes,74,No,Yes,TX,299,03/23/20,NA
+Yes,Male,Sarasota,FL resident,No,76,No,No,FL; NY,300,03/21/20,No
+No,Female,Broward,FL resident,Yes,49,Yes,No,NA,301,03/18/20,No
+Yes,Female,Leon,Non-FL resident,Yes,48,Yes,Unknown,GA,302,03/18/20,NA
+Yes,Male,Broward,FL resident,Yes,29,No,No,NJ; NY,303,03/18/20,NA
+Unknown,Female,Broward,FL resident,Yes,63,Yes,Unknown,NA,304,03/15/20,No
+Unknown,Female,Dade,FL resident,Unknown,35,Unknown,NA,NA,305,03/21/20,Unknown
+Unknown,Male,Dade,FL resident,Unknown,57,Unknown,NA,NA,306,03/22/20,NA
+Yes,Male,Indian River,FL resident,No,56,No,Yes,CO,307,03/23/20,No
+Unknown,Female,Dade,FL resident,Unknown,39,Unknown,NA,NA,308,03/24/20,NA
+Yes,Female,Highlands,FL resident,NA,56,No,Unknown,CARIBBEAN; FL,309,03/23/20,NA
+No,Male,Dade,FL resident,Yes,50,Yes,Yes,NA,310,03/17/20,NA
+Unknown,Male,Broward,FL resident,Yes,70,No,Yes,NA,311,03/20/20,No
+Unknown,Male,Broward,FL resident,Unknown,37,Unknown,NA,NA,312,03/21/20,NA
+No,Male,Sarasota,FL resident,No,53,No,Yes,NA,313,03/19/20,NA
+Yes,Female,Orange,FL resident,Yes,82,Yes,Unknown,NY,314,03/20/20,No
+No,Female,Dade,FL resident,Unknown,34,No,NA,NA,315,03/22/20,NA
+No,Female,Dade,FL resident,Yes,34,No,Yes,NA,316,03/22/20,NA
+Unknown,Female,Duval,FL resident,Unknown,87,Unknown,NA,NA,317,03/23/20,NA
+Unknown,Male,Dade,FL resident,Unknown,58,Unknown,NA,NA,318,03/22/20,NA
+Yes,Female,Broward,FL resident,Unknown,19,Unknown,Yes,Ireland,319,03/21/20,NA
+Yes,Male,Palm Beach,FL resident,No,41,No,No,NV; UT; WY,320,03/18/20,No
+Unknown,Female,Dade,FL resident,Unknown,58,Unknown,NA,NA,321,03/23/20,NA
+Unknown,Female,Manatee,FL resident,NA,64,NA,NA,NA,322,03/22/20,NA
+No,Female,Hillsborough,FL resident,NA,60,No,Yes,NA,323,03/20/20,NA
+Yes,Female,Dade,FL resident,Yes,48,No,No,France,324,03/18/20,No
+Yes,Female,Duval,FL resident,No,57,No,NA,Ireland; United Kingdom,325,03/20/20,No
+Yes,Male,Dade,FL resident,NA,51,NA,Unknown,SPAIN; WA,326,03/19/20,No
+Yes,Female,Broward,FL resident,No,19,No,Yes,Spain,327,03/17/20,No
+Unknown,Female,Lee,FL resident,No,75,No,No,NA,328,03/22/20,No
+Unknown,Male,Dade,FL resident,Yes,83,Yes,Yes,NA,329,03/22/20,Unknown
+Unknown,Female,Palm Beach,FL resident,Unknown,53,Unknown,NA,NA,330,03/24/20,NA
+Yes,Male,Dade,FL resident,Yes,75,No,Yes,Europe; France; Spain,331,03/20/20,NA
+No,Male,Broward,FL resident,No,44,No,Yes,NA,332,03/21/20,No
+Unknown,Male,Dade,FL resident,Unknown,46,Unknown,NA,NA,333,03/22/20,NA
+Yes,Male,Dade,Non-FL resident,Yes,66,Yes,No,FL; NY,334,03/16/20,NA
+No,Male,Dade,FL resident,Yes,38,Yes,No,NA,335,03/18/20,No
+Unknown,Male,Escambia,FL resident,NA,32,NA,NA,NA,336,03/23/20,NA
+Yes,Male,Walton,Non-FL resident,Yes,79,No,Yes,FL; MI,337,03/23/20,NA
+Yes,Male,Seminole,Non-FL resident,Yes,70,Yes,Unknown,NY,338,03/17/20,NA
+No,Male,Orange,FL resident,Unknown,56,Unknown,NA,NA,339,03/18/20,NA
+Yes,Female,Seminole,FL resident,Yes,68,Yes,Yes,Egypt; Jordan,340,03/14/20,No
+Yes,Female,Hillsborough,Non-FL resident,No,22,No,Yes,Italy,341,03/03/20,NA
+No,Male,Lee,FL resident,No,75,No,Yes,NA,342,03/22/20,No
+Yes,Female,Broward,FL resident,Yes,76,Yes,Yes,PUERTO RICO,343,03/23/20,No
+Unknown,Male,Dade,FL resident,Unknown,56,Unknown,NA,NA,344,03/24/20,NA
+No,Male,Broward,FL resident,No,60,No,Yes,NA,345,03/19/20,No
+No,Female,Broward,FL resident,No,57,No,Yes,NA,346,03/17/20,No
+Unknown,Female,Dade,FL resident,Unknown,37,Unknown,NA,NA,347,03/23/20,NA
+Yes,Male,Broward,FL resident,NA,52,No,Yes,Egypt,348,03/21/20,NA
+Yes,Male,Broward,FL resident,No,69,No,Yes,IL,349,03/20/20,No
+Yes,Male,Seminole,FL resident,Yes,68,No,Yes,Egypt; Jordan,350,03/12/20,No
+Unknown,Male,Dade,FL resident,Unknown,88,Yes,Unknown,NA,351,03/17/20,No
+No,Male,Escambia,FL resident,No,76,No,No,NA,352,03/23/20,No
+Unknown,Female,Dade,FL resident,Unknown,68,Unknown,NA,NA,353,03/24/20,NA
+No,Male,Seminole,FL resident,Yes,47,Yes,No,NA,354,03/14/20,No
+Yes,Female,Citrus,FL resident,No,17,No,Yes,Canada,355,03/21/20,No
+Yes,Female,Broward,FL resident,Yes,20,No,Yes,Spain,356,03/21/20,No
+Unknown,Male,St. Johns,FL resident,Unknown,33,Unknown,NA,NA,357,03/22/20,NA
+Unknown,Male,Dade,FL resident,NA,69,NA,NA,NA,358,03/20/20,NA
+Unknown,Female,Broward,FL resident,Unknown,64,Unknown,NA,NA,359,03/24/20,NA
+Unknown,Female,Dade,FL resident,Unknown,36,Unknown,Yes,NA,360,03/18/20,Unknown
+Unknown,Female,Broward,Non-FL resident,Unknown,56,Unknown,NA,NA,361,03/22/20,NA
+No,Female,Palm Beach,FL resident,No,35,No,No,NA,362,03/22/20,No
+Unknown,Male,Dade,FL resident,Yes,33,No,Unknown,NA,363,03/21/20,No
+Yes,Female,Seminole,FL resident,Yes,57,No,Yes,Egypt,364,03/18/20,No
+Yes,Male,Dade,Non-FL resident,Unknown,32,Unknown,Unknown,FL; NY; UNITED KINGDOM,365,03/22/20,NA
+Unknown,Female,Palm Beach,FL resident,Unknown,77,Unknown,NA,NA,366,03/22/20,NA
+Yes,Male,Broward,FL resident,No,20,No,No,Brazil; Spain,367,03/18/20,No
+Yes,Male,Alachua,FL resident,No,24,No,No,Portugal,368,03/13/20,No
+No,Male,Hillsborough,FL resident,NA,33,No,Yes,NA,369,03/20/20,NA
+Yes,Male,Dade,FL resident,Unknown,48,Unknown,Unknown,FL; TN,370,03/20/20,No
+Unknown,Female,Duval,FL resident,Unknown,54,Unknown,NA,NA,371,03/22/20,NA
+Unknown,Male,Hillsborough,FL resident,NA,16,NA,NA,NA,372,03/23/20,NA
+Unknown,Female,Dade,FL resident,Unknown,33,Unknown,Unknown,NA,373,03/22/20,NA
+Unknown,Female,Hillsborough,FL resident,Unknown,56,No,No,NA,374,03/23/20,NA
+Unknown,Male,Hillsborough,FL resident,NA,28,NA,NA,NA,375,03/20/20,NA
+Yes,Female,Seminole,FL resident,No,22,No,Unknown,EUROPE,376,03/23/20,No
+Yes,Female,Seminole,FL resident,Yes,60,Yes,Unknown,NY,377,03/22/20,No
+Yes,Female,Sumter,FL resident,No,67,No,Yes,Belize; FL; Honduras; Mexico,378,03/21/20,No
+Unknown,Male,Dade,FL resident,Unknown,36,Unknown,NA,NA,379,03/24/20,NA
+No,Female,Broward,FL resident,Yes,35,No,Yes,NA,380,03/20/20,NA
+Unknown,Male,Dade,FL resident,Unknown,70,Unknown,NA,NA,381,03/22/20,NA
+Yes,Male,Sumter,FL resident,No,71,No,Yes,Belize; FL; Honduras; Mexico,382,03/21/20,No
+Unknown,Female,Dade,FL resident,Unknown,25,Unknown,NA,NA,383,03/21/20,Unknown
+No,Male,Flagler,FL resident,No,45,No,Unknown,NA,384,03/22/20,No
+No,Female,St. Johns,FL resident,Yes,64,Yes,No,NA,385,03/14/20,NA
+Unknown,Female,Dade,FL resident,Unknown,25,No,NA,NA,386,03/20/20,NA
+Unknown,Male,Broward,FL resident,Unknown,67,Unknown,NA,NA,387,03/22/20,NA
+Unknown,Male,Collier,Non-FL resident,Unknown,50,Unknown,NA,NA,388,03/23/20,NA
+No,Female,Collier,FL resident,No,54,No,Yes,NA,389,03/20/20,No
+Yes,Female,Lake,FL resident,NA,70,Yes,No,FL; NY,390,03/23/20,NA
+Yes,Female,Osceola,FL resident,No,57,No,Unknown,NY,391,03/21/20,NA
+No,Female,Martin,FL resident,No,69,No,No,NA,392,03/23/20,No
+Unknown,Male,Seminole,FL resident,NA,44,No,Unknown,NA,393,03/21/20,NA
+No,Male,St. Johns,FL resident,No,50,No,Yes,NA,394,03/22/20,No
+Yes,Female,Indian River,FL resident,Yes,77,No,No,FL; MO,395,03/19/20,No
+Unknown,Male,Dade,FL resident,Unknown,36,No,Unknown,NA,396,03/22/20,No
+No,Female,Dade,FL resident,No,28,No,Yes,NA,397,03/20/20,No
+Yes,Female,Leon,FL resident,Yes,31,No,No,UNITED KINGDOM,398,03/24/20,No
+No,Male,Lake,FL resident,NA,48,Yes,No,NA,399,03/21/20,No
+No,Male,Manatee,FL resident,Unknown,65,No,Yes,NA,400,03/21/20,NA
+No,Male,Broward,FL resident,Yes,44,Yes,Unknown,NA,401,03/22/20,No
+No,Female,Hernando,FL resident,No,70,No,No,NA,402,03/19/20,No
+Yes,Female,Hillsborough,FL resident,Yes,49,Yes,Yes,FL; Ireland,403,03/13/20,No
+Unknown,Male,Broward,FL resident,Yes,46,No,Unknown,NA,404,03/20/20,No
+Unknown,Male,Dade,FL resident,Unknown,48,Unknown,NA,NA,405,03/24/20,NA
+No,Male,Santa Rosa,FL resident,Yes,17,Yes,No,NA,406,03/20/20,No
+Yes,Male,Sarasota,FL resident,No,64,No,No,SPAIN,407,03/21/20,No
+Unknown,Male,Orange,FL resident,Unknown,42,Unknown,NA,NA,408,03/23/20,NA
+Unknown,Male,Collier,FL resident,No,17,No,Unknown,NA,409,03/22/20,No
+No,Female,Orange,FL resident,Yes,40,No,Yes,NA,410,03/16/20,No
+Unknown,Female,Broward,FL resident,Unknown,33,Unknown,NA,NA,411,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,31,Unknown,NA,NA,412,03/19/20,NA
+No,Male,Lee,FL resident,Yes,67,Yes,Yes,NA,413,03/19/20,NA
+Yes,Female,Osceola,FL resident,No,48,No,Yes,Europe,414,03/19/20,No
+Unknown,Female,Duval,FL resident,Unknown,52,Unknown,NA,NA,415,03/21/20,NA
+No,Male,Broward,FL resident,No,55,No,No,NA,416,03/18/20,No
+Unknown,Female,Polk,FL resident,NA,73,NA,NA,NA,417,03/23/20,NA
+Unknown,Male,Orange,FL resident,Yes,49,Yes,Unknown,NA,418,03/18/20,No
+Unknown,Male,Dade,FL resident,Unknown,63,Unknown,Yes,NA,419,03/17/20,NA
+Unknown,Female,Broward,FL resident,Unknown,34,Unknown,NA,NA,420,03/23/20,NA
+No,Male,Broward,FL resident,No,70,No,Yes,NA,421,03/17/20,No
+Unknown,Unknown,Broward,FL resident,NA,60,NA,NA,NA,422,03/24/20,NA
+Unknown,Female,Orange,FL resident,Unknown,46,Unknown,NA,NA,423,03/23/20,NA
+No,Male,Palm Beach,FL resident,Yes,43,No,No,NA,424,03/21/20,No
+Unknown,Male,Dade,Non-FL resident,Unknown,33,Unknown,Unknown,NA,425,03/17/20,NA
+Yes,Male,Broward,FL resident,No,30,No,Yes,FL; GA,426,03/15/20,No
+No,Male,Indian River,FL resident,No,49,No,No,NA,427,03/23/20,No
+No,Female,Hillsborough,FL resident,Unknown,30,No,NA,NA,428,03/23/20,NA
+No,Female,Osceola,FL resident,Yes,47,Yes,Yes,NA,429,03/16/20,No
+Unknown,Male,Palm Beach,FL resident,Yes,66,Unknown,Unknown,NA,430,03/20/20,No
+Unknown,Male,Lee,FL resident,Unknown,56,Unknown,NA,NA,431,03/24/20,NA
+Unknown,Female,Dade,FL resident,Unknown,11,Unknown,Yes,NA,432,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,43,Unknown,NA,NA,433,03/23/20,NA
+Yes,Male,St. Johns,Non-FL resident,Yes,63,Yes,No,NY,434,03/12/20,NA
+Unknown,Female,Broward,FL resident,Unknown,40,Unknown,NA,NA,435,03/24/20,NA
+No,Female,Duval,FL resident,No,86,No,Yes,NA,436,03/21/20,No
+No,Female,Dade,FL resident,No,64,No,No,NA,437,03/19/20,No
+No,Male,Dade,FL resident,Yes,27,No,Yes,NA,438,03/18/20,No
+Unknown,Male,Palm Beach,FL resident,Unknown,29,Unknown,NA,NA,439,03/23/20,NA
+Yes,Male,Broward,FL resident,Yes,67,Yes,Unknown,CO,440,03/18/20,No
+Yes,Male,Dade,FL resident,Yes,69,No,Yes,IL; Israel; VA,441,03/19/20,No
+Unknown,Female,Dade,FL resident,Unknown,46,Unknown,NA,NA,442,03/22/20,NA
+Yes,Male,Hillsborough,FL resident,Yes,47,Yes,Unknown,CO,443,03/14/20,No
+No,Male,Broward,FL resident,Yes,65,Unknown,Yes,NA,444,03/20/20,No
+Unknown,Male,Columbia,FL resident,NA,46,NA,NA,NA,445,03/23/20,NA
+No,Female,Palm Beach,FL resident,Yes,68,No,Yes,NA,446,03/20/20,No
+Unknown,Male,Dade,FL resident,Unknown,27,Unknown,NA,NA,447,03/20/20,NA
+Unknown,Male,Palm Beach,FL resident,Yes,48,No,Unknown,NA,448,03/20/20,No
+Yes,Female,St. Johns,FL resident,Yes,38,No,Yes,FL; MN,449,03/20/20,No
+Unknown,Male,Manatee,FL resident,NA,14,NA,NA,NA,450,03/23/20,NA
+Unknown,Male,Alachua,FL resident,Unknown,55,Unknown,NA,NA,451,03/21/20,NA
+Yes,Male,Orange,FL resident,Yes,46,Yes,Unknown,NY,452,03/22/20,No
+No,Male,Palm Beach,FL resident,Yes,69,No,Yes,NA,453,03/20/20,No
+Unknown,Female,Dade,FL resident,Unknown,23,Unknown,NA,NA,454,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,44,Unknown,NA,NA,455,03/23/20,NA
+Yes,Male,St. Johns,FL resident,Yes,52,Yes,Yes,FL; MN,456,03/23/20,Yes
+Yes,Female,Dade,FL resident,Yes,37,NA,NA,AZ; Spain,457,03/17/20,No
+Yes,Female,Dade,FL resident,Yes,25,No,No,SPAIN,458,03/15/20,No
+No,Male,Broward,FL resident,Yes,95,Yes,Unknown,NA,459,03/21/20,No
+Unknown,Male,Escambia,FL resident,NA,58,NA,NA,NA,460,03/24/20,NA
+Yes,Male,Broward,FL resident,Yes,57,No,No,France,461,03/22/20,No
+Unknown,Male,Broward,FL resident,No,83,No,Yes,NA,462,03/15/20,No
+Unknown,Male,Duval,FL resident,Unknown,39,Unknown,NA,NA,463,03/22/20,NA
+No,Female,Dade,FL resident,Yes,80,Yes,No,NA,464,03/17/20,NA
+Unknown,Female,Palm Beach,FL resident,Unknown,61,Unknown,NA,NA,465,03/22/20,NA
+Yes,Female,Hillsborough,FL resident,Unknown,46,Unknown,No,Egypt,466,03/20/20,NA
+No,Male,Dade,FL resident,No,45,No,Yes,NA,467,03/13/20,No
+Yes,Male,Broward,FL resident,No,65,No,Yes,NY,468,03/20/20,No
+Yes,Male,Dade,FL resident,Yes,52,Yes,Unknown,CA; NY,469,03/21/20,No
+Yes,Male,Broward,FL resident,Yes,49,No,Unknown,Colombia; FL,470,03/19/20,No
+Unknown,Male,Palm Beach,FL resident,Unknown,47,Unknown,NA,NA,471,03/22/20,NA
+Unknown,Female,Collier,FL resident,No,61,No,No,NA,472,03/22/20,No
+Yes,Male,Palm Beach,Non-FL resident,No,73,No,Yes,NY,473,03/18/20,NA
+Unknown,Female,Dade,FL resident,Unknown,35,Unknown,NA,NA,474,03/23/20,NA
+No,Female,Broward,FL resident,Yes,83,Yes,Yes,NA,475,03/23/20,No
+No,Male,Broward,FL resident,No,20,No,Yes,NA,476,03/23/20,No
+No,Male,Lee,FL resident,Yes,77,Yes,Yes,NA,477,03/13/20,Yes
+Yes,Female,Lee,FL resident,No,72,No,Yes,MA; NH,478,03/14/20,NA
+Unknown,Female,Palm Beach,FL resident,Unknown,64,Unknown,NA,NA,479,03/22/20,NA
+Unknown,Male,Orange,FL resident,Unknown,32,Unknown,NA,NA,480,03/22/20,NA
+Unknown,Female,Seminole,FL resident,Unknown,41,Unknown,NA,NA,481,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,49,Unknown,NA,NA,482,03/24/20,NA
+Unknown,Male,Dade,FL resident,Unknown,55,Unknown,NA,NA,483,03/22/20,NA
+Yes,Male,Dade,Non-FL resident,Yes,36,No,No,Spain,484,03/19/20,NA
+No,Female,Dade,FL resident,Unknown,47,No,Yes,NA,485,03/21/20,No
+Unknown,Male,Dade,FL resident,Unknown,67,Unknown,NA,NA,486,03/22/20,NA
+Yes,Male,Broward,FL resident,Yes,35,No,Unknown,Italy; Spain,487,03/21/20,No
+Unknown,Female,Duval,FL resident,Unknown,57,Unknown,NA,NA,488,03/21/20,NA
+No,Male,Broward,FL resident,No,58,No,Yes,NA,489,03/18/20,No
+Unknown,Male,Sarasota,FL resident,NA,87,NA,NA,NA,490,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,54,Unknown,NA,NA,491,03/24/20,NA
+Yes,Female,Dade,FL resident,Yes,68,No,Yes,France; Spain,492,03/20/20,NA
+Unknown,Male,Dade,FL resident,Unknown,21,Unknown,NA,NA,493,03/23/20,NA
+Yes,Female,Dade,FL resident,Yes,13,No,Yes,NY,494,03/21/20,No
+Yes,Male,Dade,FL resident,Yes,13,No,Yes,NY,495,03/22/20,No
+Yes,Female,Dade,FL resident,Yes,44,No,Yes,NY,496,03/22/20,No
+Yes,Male,Dade,FL resident,Yes,11,No,Yes,NY,497,03/21/20,No
+Yes,Male,Pinellas,FL resident,No,70,No,Yes,Israel,498,03/22/20,No
+Yes,Female,Pinellas,FL resident,No,54,No,No,NY,499,03/18/20,No
+Yes,Female,Pinellas,FL resident,No,61,No,No,NY,500,03/18/20,No
+Unknown,Female,Dade,FL resident,Unknown,68,Unknown,NA,NA,501,03/21/20,NA
+Unknown,Male,Palm Beach,FL resident,Yes,88,Yes,No,NA,502,03/21/20,Yes
+No,Female,Broward,FL resident,Yes,53,No,Yes,NA,503,03/20/20,No
+Yes,Male,Pinellas,FL resident,No,55,No,Yes,Egypt,504,03/11/20,No
+No,Male,Sarasota,FL resident,Yes,87,Yes,Yes,NA,505,03/16/20,NA
+Yes,Male,Indian River,FL resident,No,69,No,No,Egypt; Germany,506,03/20/20,No
+Yes,Male,Osceola,FL resident,Yes,68,Yes,No,India,507,03/18/20,No
+Yes,Female,Pasco,Non-FL resident,No,73,No,No,Spain,508,03/20/20,NA
+No,Female,Dade,FL resident,Yes,50,Unknown,No,NA,509,03/22/20,NA
+Yes,Male,Pasco,FL resident,No,67,No,Unknown,CA,510,03/19/20,NA
+No,Female,Sarasota,FL resident,No,86,No,Yes,NA,511,03/22/20,NA
+Yes,Female,Lee,FL resident,Yes,77,Yes,Yes,Dominican Republic,512,03/07/20,Yes
+No,Male,Pinellas,FL resident,No,62,No,Yes,NA,513,03/21/20,No
+No,Male,Dade,FL resident,Yes,47,Yes,Yes,NA,514,03/19/20,NA
+Unknown,Female,Dade,FL resident,Unknown,70,Unknown,NA,NA,515,03/23/20,NA
+Yes,Male,Dade,FL resident,Yes,62,No,Unknown,FL; NY,516,03/15/20,No
+Yes,Male,Lee,FL resident,Yes,77,Yes,Yes,Dominican Republic,517,03/07/20,No
+Unknown,Male,Hillsborough,FL resident,Unknown,60,No,No,NA,518,03/22/20,NA
+Unknown,Female,Dade,FL resident,NA,53,Yes,NA,NA,519,03/23/20,NA
+Unknown,Female,Dade,FL resident,Unknown,47,Unknown,NA,NA,520,03/23/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,22,Unknown,NA,NA,521,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,67,Unknown,NA,NA,522,03/22/20,NA
+Unknown,Female,Duval,FL resident,No,82,No,Yes,NA,523,03/22/20,NA
+No,Female,Alachua,FL resident,Unknown,27,No,No,NA,524,03/19/20,No
+Unknown,Female,Palm Beach,Non-FL resident,No,20,No,Unknown,NA,525,03/20/20,NA
+Yes,Male,Pinellas,FL resident,Yes,58,Yes,No,CO,526,03/16/20,No
+Unknown,Female,Duval,FL resident,NA,45,NA,NA,NA,527,03/21/20,NA
+No,Male,Broward,FL resident,No,60,No,Yes,NA,528,03/15/20,No
+Unknown,Male,Dade,FL resident,Unknown,30,Unknown,NA,NA,529,03/21/20,NA
+No,Male,Duval,FL resident,Yes,84,Yes,Yes,NA,530,03/21/20,Yes
+Yes,Male,Palm Beach,FL resident,Yes,37,No,Yes,NY,531,03/14/20,No
+Yes,Female,Alachua,FL resident,No,21,No,No,NY,532,03/17/20,No
+Unknown,Female,Palm Beach,FL resident,NA,69,Unknown,NA,NA,533,03/22/20,NA
+No,Male,Dade,FL resident,Yes,51,Yes,Yes,NA,534,03/13/20,No
+Yes,Female,Collier,FL resident,NA,47,No,NA,France; Italy; Spain,535,03/19/20,NA
+Unknown,Male,St. Johns,FL resident,Unknown,42,Unknown,NA,NA,536,03/22/20,NA
+No,Female,Orange,Non-FL resident,Unknown,73,Yes,No,NA,537,03/21/20,NA
+Unknown,Female,Alachua,FL resident,Unknown,62,Unknown,Unknown,NA,538,03/21/20,NA
+Yes,Male,Palm Beach,FL resident,No,69,No,No,BAHAMAS; FL; NY; TX,539,03/22/20,No
+Yes,Male,Escambia,FL resident,No,53,No,No,FRANCE,540,03/16/20,No
+Unknown,Male,Broward,FL resident,Unknown,31,Unknown,NA,NA,541,03/22/20,NA
+Yes,Male,Okaloosa,FL resident,No,47,No,No,FL; GA; MS; NJ,542,03/22/20,No
+No,Male,Broward,FL resident,Yes,55,No,Yes,NA,543,03/22/20,No
+No,Male,Polk,FL resident,Yes,60,Yes,Unknown,NA,544,03/21/20,No
+Unknown,Male,Dade,FL resident,Unknown,58,Unknown,NA,NA,545,03/21/20,Unknown
+Yes,Male,Clay,FL resident,Yes,82,Yes,No,FL; UNKNOWN,546,03/20/20,Yes
+Yes,Male,Putnam,FL resident,Yes,67,No,Unknown,CA,547,03/20/20,No
+No,Male,Pinellas,FL resident,Yes,60,Yes,Unknown,NA,548,03/21/20,No
+Unknown,Male,Broward,FL resident,Unknown,59,Unknown,NA,NA,549,03/22/20,NA
+Yes,Female,Walton,FL resident,Yes,61,No,Yes,COSTA RICA,550,03/23/20,No
+Yes,Male,Bay,Non-FL resident,Yes,47,Yes,Unknown,TX,551,03/21/20,NA
+Unknown,Female,Marion,FL resident,No,59,No,No,NA,552,03/21/20,No
+No,Female,Highlands,FL resident,No,77,No,No,NA,553,03/22/20,NA
+Yes,Female,Indian River,FL resident,Yes,58,No,No,Ireland,554,03/22/20,No
+Unknown,Female,Collier,Non-FL resident,Unknown,76,Unknown,NA,NA,555,03/23/20,NA
+Unknown,Male,Collier,Non-FL resident,Unknown,77,Unknown,NA,NA,556,03/23/20,NA
+Yes,Female,Okaloosa,FL resident,No,45,No,No,GA,557,03/20/20,No
+Yes,Male,Pinellas,FL resident,Yes,30,No,No,FL; Mexico,558,03/17/20,No
+Unknown,Male,Hillsborough,FL resident,No,33,No,Yes,NA,559,03/18/20,No
+No,Male,Broward,FL resident,Yes,51,No,Unknown,NA,560,03/23/20,No
+No,Male,Broward,FL resident,No,20,No,No,NA,561,03/21/20,No
+No,Male,Walton,FL resident,Yes,58,Yes,Yes,NA,562,03/23/20,No
+No,Male,Palm Beach,FL resident,No,71,No,No,NA,563,03/23/20,No
+Unknown,Female,Dade,FL resident,Unknown,30,Unknown,NA,NA,564,03/23/20,NA
+Unknown,Male,Dade,FL resident,Unknown,28,Unknown,NA,NA,565,03/23/20,NA
+No,Female,Hillsborough,FL resident,Yes,36,No,Yes,NA,566,03/22/20,No
+Unknown,Male,Hillsborough,FL resident,NA,3,NA,NA,NA,567,03/24/20,NA
+No,Male,Hillsborough,FL resident,Yes,43,Yes,Yes,NA,568,03/18/20,No
+Yes,Female,Seminole,FL resident,Yes,25,No,No,FL; United Kingdom,569,03/21/20,No
+No,Male,Lee,FL resident,NA,70,No,Yes,NA,570,03/22/20,NA
+No,Male,Hillsborough,FL resident,No,52,No,No,NA,571,03/20/20,No
+Unknown,Female,Hillsborough,FL resident,NA,47,NA,Yes,NA,572,03/23/20,NA
+Yes,Female,Seminole,FL resident,No,76,No,Unknown,EGYPT; ISRAEL; JORDAN,573,03/23/20,No
+No,Male,Alachua,FL resident,Yes,61,Yes,No,NA,574,03/20/20,NA
+Yes,Female,Lee,FL resident,Yes,89,Yes,No,FL; NY,575,03/21/20,No
+No,Male,Walton,Non-FL resident,Yes,45,Yes,Unknown,NA,576,03/23/20,NA
+No,Female,Broward,FL resident,Yes,80,Yes,Unknown,NA,577,03/22/20,No
+Unknown,Female,Escambia,FL resident,NA,60,NA,NA,NA,578,03/23/20,NA
+Unknown,Male,Dade,FL resident,Unknown,46,Unknown,NA,NA,579,03/22/20,NA
+Yes,Male,Dade,FL resident,Yes,42,Yes,No,Puerto Rico; SC,580,03/16/20,NA
+Unknown,Male,Broward,FL resident,Unknown,88,Yes,NA,NA,581,03/21/20,NA
+No,Male,Walton,FL resident,No,49,No,No,NA,582,03/20/20,No
+No,Male,Collier,FL resident,No,80,No,No,NA,583,03/20/20,No
+Unknown,Male,Dade,FL resident,No,34,No,Unknown,NA,584,03/18/20,No
+No,Female,Volusia,FL resident,No,60,No,Yes,NA,585,03/17/20,No
+Yes,Female,Orange,Non-FL resident,No,33,No,NA,Peru,586,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,44,Unknown,NA,NA,587,03/22/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,56,Unknown,NA,NA,588,03/22/20,NA
+No,Male,Pasco,FL resident,No,46,No,Yes,NA,589,03/20/20,No
+No,Male,Manatee,FL resident,Unknown,75,No,No,NA,590,03/17/20,NA
+Yes,Male,Broward,Non-FL resident,Yes,33,Unknown,Unknown,NY,591,03/19/20,NA
+Yes,Female,Broward,FL resident,No,79,No,Yes,CO; FL,592,03/17/20,No
+Unknown,Male,Broward,FL resident,Yes,82,Yes,Yes,NA,593,03/22/20,No
+Unknown,Male,Dade,FL resident,Yes,73,No,Yes,NA,594,03/17/20,No
+Yes,Female,Hillsborough,FL resident,NA,26,No,No,FL; NY,595,03/21/20,NA
+No,Female,Alachua,FL resident,NA,47,No,Yes,NA,596,03/20/20,NA
+Unknown,Male,Broward,Non-FL resident,Unknown,18,Unknown,NA,NA,597,03/23/20,NA
+No,Male,Duval,FL resident,Yes,84,Yes,No,NA,598,03/20/20,No
+Yes,Female,Osceola,FL resident,No,64,NA,Unknown,SPAIN,599,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,34,Unknown,NA,NA,600,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,33,Unknown,NA,NA,601,03/22/20,NA
+No,Male,Desoto,FL resident,No,32,No,Unknown,NA,602,03/22/20,No
+Unknown,Female,Broward,FL resident,Unknown,56,Unknown,NA,NA,603,03/22/20,NA
+No,Male,Broward,FL resident,Yes,35,No,Yes,NA,604,03/21/20,NA
+No,Female,Broward,FL resident,Yes,43,No,No,NA,605,03/18/20,No
+Yes,Male,Hillsborough,FL resident,NA,62,No,No,FL; NY,606,03/21/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,67,Unknown,NA,NA,607,03/22/20,NA
+Yes,Male,St. Lucie,FL resident,No,77,No,No,Caribbean,608,03/22/20,No
+No,Male,Broward,FL resident,Yes,55,No,Unknown,NA,609,03/21/20,No
+Unknown,Male,Broward,FL resident,Unknown,33,Unknown,NA,NA,610,03/24/20,NA
+Unknown,Male,Dade,FL resident,Unknown,19,Unknown,NA,NA,611,03/24/20,NA
+No,Female,Pasco,FL resident,NA,71,Yes,Unknown,NA,612,03/22/20,NA
+Yes,Male,Lake,FL resident,No,80,No,No,BELIZE; CARIBBEAN; FL,613,03/21/20,No
+No,Male,Hillsborough,FL resident,NA,36,No,No,NA,614,03/23/20,NA
+Yes,Male,Pinellas,FL resident,No,26,No,No,Bahamas; FL,615,03/22/20,No
+No,Female,Hillsborough,FL resident,Yes,30,No,Unknown,NA,616,03/20/20,No
+No,Male,Sarasota,FL resident,Unknown,49,Unknown,Unknown,NA,617,03/24/20,NA
+Unknown,Male,Dade,FL resident,Unknown,56,Unknown,NA,NA,618,03/24/20,NA
+Unknown,Female,Hillsborough,FL resident,Unknown,51,Unknown,NA,NA,619,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,27,Unknown,NA,NA,620,03/21/20,NA
+No,Female,Dade,FL resident,Yes,19,No,Yes,NA,621,03/17/20,No
+No,Male,Osceola,FL resident,Yes,29,Yes,Yes,NA,622,03/17/20,No
+Unknown,Female,Broward,FL resident,Unknown,39,Unknown,NA,NA,623,03/22/20,NA
+No,Male,Santa Rosa,FL resident,Yes,2,Yes,No,NA,624,03/23/20,No
+No,Male,Lee,FL resident,NA,83,Yes,Unknown,NA,625,03/23/20,NA
+No,Male,Martin,FL resident,Yes,57,No,No,NA,626,03/23/20,No
+Unknown,Male,Duval,FL resident,Unknown,58,Unknown,NA,NA,627,03/23/20,NA
+Unknown,Female,Palm Beach,Non-FL resident,Unknown,26,Unknown,Yes,NA,628,03/18/20,NA
+No,Male,St. Johns,FL resident,Yes,40,No,No,NA,629,03/22/20,No
+Unknown,Male,Dade,FL resident,Unknown,66,Unknown,Yes,NA,630,03/22/20,NA
+Unknown,Female,Hillsborough,FL resident,Unknown,39,Unknown,No,NA,631,03/23/20,NA
+Yes,Male,Hillsborough,FL resident,Yes,60,No,No,CA,632,03/20/20,No
+Yes,Male,Pinellas,FL resident,No,52,No,Yes,Israel,633,03/22/20,No
+No,Female,Broward,FL resident,No,68,No,Yes,NA,634,03/13/20,NA
+No,Female,Palm Beach,FL resident,Yes,42,Yes,Unknown,NA,635,03/20/20,No
+No,Female,Duval,FL resident,Yes,84,Yes,Yes,NA,636,03/21/20,No
+No,Female,Alachua,FL resident,Yes,29,Unknown,No,NA,637,03/20/20,No
+Yes,Male,Alachua,Non-FL resident,Yes,69,No,No,Sweden,638,03/14/20,NA
+Unknown,Female,Broward,Non-FL resident,Yes,20,No,Yes,NA,639,03/20/20,NA
+Unknown,Male,Duval,FL resident,Unknown,27,Unknown,NA,NA,640,03/17/20,NA
+No,Male,Baker,FL resident,No,66,Yes,Unknown,NA,641,03/22/20,No
+No,Female,Walton,FL resident,No,22,No,Unknown,NA,642,03/23/20,No
+No,Male,Broward,FL resident,Yes,94,Yes,Unknown,NA,643,03/19/20,No
+No,Male,Duval,FL resident,Yes,66,No,Yes,NA,644,03/15/20,No
+Unknown,Female,Dade,FL resident,NA,57,No,NA,NA,645,03/17/20,NA
+Unknown,Female,Indian River,FL resident,NA,68,NA,NA,NA,646,03/24/20,NA
+Unknown,Female,Escambia,FL resident,NA,33,No,No,NA,647,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,38,Unknown,NA,NA,648,03/22/20,NA
+Yes,Female,Okaloosa,FL resident,No,24,No,No,CO; FL,649,03/18/20,No
+No,Male,Dade,FL resident,Yes,73,Yes,Yes,NA,650,03/14/20,No
+Unknown,Female,Broward,FL resident,Unknown,26,Unknown,NA,NA,651,03/22/20,NA
+Unknown,Female,Hillsborough,Non-FL resident,Unknown,38,Unknown,NA,NA,652,03/23/20,NA
+Unknown,Male,Dade,FL resident,NA,40,NA,NA,NA,653,03/23/20,NA
+Unknown,Male,Hillsborough,FL resident,Unknown,52,Unknown,NA,NA,654,03/24/20,NA
+Unknown,Female,Dade,FL resident,Yes,35,No,No,NA,655,03/21/20,No
+Yes,Male,Dade,Non-FL resident,Yes,51,Yes,Unknown,Bahamas; CA; IL,656,03/17/20,NA
+No,Female,Dade,FL resident,Yes,52,No,Yes,NA,657,03/17/20,No
+No,Female,Manatee,FL resident,Yes,56,Yes,NA,NA,658,03/21/20,No
+No,Female,Lake,FL resident,Yes,63,No,No,NA,659,03/23/20,NA
+Yes,Male,Broward,FL resident,No,54,Yes,Yes,FL; IL,660,03/18/20,No
+No,Male,Pinellas,FL resident,Yes,29,No,Yes,NA,661,03/20/20,No
+Unknown,Female,Orange,Non-FL resident,Unknown,28,Unknown,Unknown,NA,662,03/17/20,NA
+Yes,Female,Broward,FL resident,No,66,No,Yes,CO,663,03/23/20,No
+Unknown,Male,Dade,FL resident,Unknown,77,Unknown,NA,NA,664,03/24/20,NA
+Yes,Female,Pinellas,FL resident,Yes,66,Yes,No,FL; NV,665,03/22/20,No
+Yes,Male,Orange,Non-FL resident,No,34,No,NA,Peru,666,03/21/20,NA
+Yes,Female,Palm Beach,FL resident,Yes,59,Yes,Yes,NY,667,03/14/20,No
+No,Male,Broward,FL resident,Yes,93,Yes,Unknown,NA,668,03/18/20,No
+Yes,Female,Alachua,FL resident,Yes,50,Yes,Yes,Bahamas; FL,669,03/18/20,No
+Unknown,Male,Broward,FL resident,Unknown,74,Unknown,NA,NA,670,03/24/20,NA
+No,Male,Duval,FL resident,Yes,88,Yes,Yes,NA,671,03/15/20,Yes
+Yes,Male,Palm Beach,FL resident,Yes,65,Yes,Yes,NY,672,03/14/20,No
+No,Male,Dade,FL resident,Yes,75,Yes,Unknown,NA,673,03/19/20,No
+No,Male,Lake,FL resident,No,26,No,Yes,NA,674,03/19/20,No
+Unknown,Female,Polk,FL resident,Yes,77,Yes,NA,NA,675,03/20/20,NA
+No,Male,Duval,FL resident,Yes,84,Yes,Yes,NA,676,03/17/20,No
+Unknown,Male,Broward,FL resident,Unknown,50,Unknown,NA,NA,677,03/22/20,NA
+No,Female,Broward,FL resident,No,26,No,Yes,NA,678,03/19/20,No
+Yes,Male,Alachua,FL resident,NA,51,No,NA,Bahamas; FL,679,03/18/20,NA
+Unknown,Female,Broward,FL resident,Unknown,46,Unknown,NA,NA,680,03/22/20,NA
+Unknown,Female,Dade,FL resident,Yes,44,No,No,NA,681,03/21/20,No
+Yes,Male,Palm Beach,Non-FL resident,Unknown,73,Unknown,Unknown,NJ,682,03/19/20,NA
+No,Female,Alachua,FL resident,No,2,No,No,NA,683,03/23/20,No
+No,Male,Alachua,FL resident,No,22,No,Yes,NA,684,03/20/20,NA
+No,Male,Hillsborough,FL resident,No,23,No,Yes,NA,685,03/17/20,No
+Yes,Male,Marion,FL resident,Yes,68,No,Unknown,WI,686,03/21/20,No
+Unknown,Male,Dade,FL resident,Unknown,34,Unknown,NA,NA,687,03/20/20,NA
+Yes,Female,Manatee,FL resident,NA,81,No,Yes,Egypt,688,03/09/20,NA
+Yes,Male,Pinellas,FL resident,No,67,No,Yes,Egypt,689,03/11/20,NA
+Unknown,Female,Palm Beach,FL resident,Unknown,21,Unknown,NA,NA,690,03/22/20,NA
+No,Female,Hillsborough,FL resident,Yes,19,No,Yes,NA,691,03/21/20,No
+No,Male,Collier,FL resident,Yes,82,Yes,Yes,NA,692,03/18/20,No
+Yes,Male,Palm Beach,FL resident,Yes,72,Yes,No,Canada; FL,693,03/20/20,No
+Unknown,Female,Alachua,FL resident,Unknown,25,Unknown,NA,NA,694,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,50,Unknown,Yes,NA,695,03/21/20,NA
+Unknown,Male,Orange,FL resident,Unknown,70,Unknown,NA,NA,696,03/23/20,NA
+Unknown,Female,Dade,FL resident,Yes,20,Unknown,Yes,NA,697,03/22/20,No
+Unknown,Male,Dade,FL resident,NA,83,Yes,NA,NA,698,03/22/20,NA
+No,Female,Osceola,FL resident,No,21,No,Yes,NA,699,03/21/20,NA
+No,Female,Highlands,FL resident,Yes,78,Yes,No,NA,700,03/21/20,No
+Unknown,Female,Monroe,FL resident,Yes,52,Yes,Unknown,NA,701,03/23/20,NA
+Unknown,Male,Dade,FL resident,Unknown,60,Unknown,NA,NA,702,03/21/20,NA
+No,Male,Seminole,FL resident,Yes,61,Yes,No,NA,703,03/20/20,No
+Unknown,Male,Dade,FL resident,Unknown,39,Unknown,NA,NA,704,03/21/20,NA
+No,Male,St. Johns,FL resident,Yes,68,Yes,No,NA,705,03/20/20,No
+No,Female,Alachua,FL resident,No,20,No,No,NA,706,03/21/20,No
+Unknown,Female,Dade,FL resident,Unknown,56,Unknown,NA,NA,707,03/24/20,NA
+Unknown,Male,Orange,FL resident,Yes,46,Yes,NA,NA,708,03/18/20,No
+Yes,Male,Broward,FL resident,Yes,57,No,Yes,NJ,709,03/18/20,No
+No,Male,Broward,FL resident,No,38,No,Yes,NA,710,03/20/20,No
+No,Male,Dade,FL resident,No,37,No,Yes,NA,711,03/22/20,No
+Yes,Female,Collier,Non-FL resident,Yes,79,Yes,No,CT,712,03/14/20,NA
+Unknown,Male,Broward,FL resident,Unknown,71,Unknown,NA,NA,713,03/22/20,NA
+Yes,Female,Hillsborough,FL resident,NA,33,No,No,Egypt,714,03/21/20,NA
+No,Male,Broward,FL resident,No,75,No,Yes,NA,715,03/18/20,No
+Yes,Male,Nassau,FL resident,No,68,No,Yes,Germany; MA,716,03/10/20,No
+Yes,Female,Walton,FL resident,No,38,No,Unknown,CA,717,03/24/20,No
+Unknown,Male,Palm Beach,FL resident,Unknown,78,Unknown,Unknown,NA,718,03/21/20,NA
+No,Male,Indian River,FL resident,No,54,No,No,NA,719,03/21/20,No
+No,Male,Hillsborough,FL resident,Yes,17,No,No,NA,720,03/14/20,No
+Yes,Female,Dade,FL resident,Yes,45,No,No,NY,721,03/17/20,No
+Yes,Female,Broward,FL resident,Yes,20,Yes,Yes,Ireland,722,03/13/20,No
+Unknown,Male,Alachua,FL resident,Unknown,54,Unknown,NA,NA,723,03/21/20,NA
+Yes,Male,Leon,FL resident,No,34,No,Unknown,NC,724,03/24/20,No
+Unknown,Female,Dade,FL resident,Unknown,30,Unknown,NA,NA,725,03/16/20,No
+No,Male,St. Johns,FL resident,Yes,69,No,No,NA,726,03/22/20,No
+Unknown,Female,Palm Beach,FL resident,Unknown,18,Unknown,NA,NA,727,03/24/20,NA
+Unknown,Female,Broward,FL resident,Unknown,2,Unknown,NA,NA,728,03/24/20,NA
+Yes,Male,Dade,Non-FL resident,No,48,No,Yes,NY,729,03/21/20,NA
+Yes,Female,Pinellas,FL resident,No,69,No,No,MEXICO,730,03/23/20,No
+Unknown,Male,Dade,FL resident,Unknown,50,Unknown,NA,NA,731,03/24/20,NA
+Unknown,Male,Broward,FL resident,Unknown,62,Unknown,NA,NA,732,03/24/20,NA
+No,Male,Broward,FL resident,Yes,59,No,Yes,NA,733,03/20/20,No
+No,Male,Broward,FL resident,Yes,76,Yes,Unknown,NA,734,03/16/20,No
+Yes,Female,Broward,FL resident,Unknown,21,No,Yes,Mexico,735,03/20/20,NA
+Yes,Female,Pinellas,FL resident,Yes,53,No,No,MA,736,03/22/20,No
+Unknown,Male,Dade,FL resident,Unknown,63,Unknown,NA,NA,737,03/21/20,NA
+No,Female,Broward,FL resident,Yes,20,No,Yes,NA,738,03/21/20,No
+Yes,Male,Dade,FL resident,NA,48,No,Unknown,CO,739,03/18/20,NA
+No,Female,Broward,FL resident,Yes,17,No,Yes,NA,740,03/21/20,No
+Yes,Female,Broward,FL resident,Yes,17,No,Yes,Spain,741,03/21/20,No
+Unknown,Female,Palm Beach,FL resident,Unknown,25,Unknown,NA,NA,742,03/24/20,NA
+Unknown,Male,Dade,FL resident,Unknown,88,Unknown,NA,NA,743,03/24/20,NA
+No,Male,Dade,FL resident,Yes,42,No,No,NA,744,03/22/20,No
+Unknown,Male,Dade,FL resident,Unknown,48,Unknown,NA,NA,745,03/24/20,NA
+No,Male,Orange,FL resident,Yes,61,Yes,No,NA,746,03/20/20,No
+Unknown,Female,Broward,FL resident,Unknown,96,Unknown,NA,NA,747,03/23/20,NA
+No,Female,Broward,FL resident,Yes,61,Yes,Yes,NA,748,03/22/20,No
+No,Male,Broward,FL resident,No,30,No,Yes,NA,749,03/23/20,No
+Unknown,Male,Broward,FL resident,Unknown,0,Unknown,NA,NA,750,03/24/20,NA
+No,Male,Broward,FL resident,Yes,57,Yes,No,NA,751,03/18/20,NA
+No,Female,Broward,FL resident,No,56,No,No,NA,752,03/21/20,No
+Unknown,Male,Broward,FL resident,Unknown,18,Unknown,NA,NA,753,03/22/20,NA
+Yes,Male,Dade,FL resident,Yes,29,No,No,MA,754,03/14/20,No
+No,Male,Broward,FL resident,No,59,No,NA,NA,755,03/23/20,No
+Unknown,Male,Dade,FL resident,Unknown,52,Unknown,NA,NA,756,03/22/20,NA
+No,Male,Broward,FL resident,No,92,No,Unknown,NA,757,03/20/20,Yes
+No,Female,Hillsborough,FL resident,Yes,21,No,Yes,NA,758,03/21/20,No
+Yes,Female,Martin,FL resident,No,45,No,Unknown,Brazil; FL,759,03/19/20,No
+Unknown,Male,Dade,FL resident,Unknown,30,Unknown,NA,NA,760,03/19/20,NA
+Unknown,Male,Broward,FL resident,Unknown,71,Unknown,NA,NA,761,03/22/20,NA
+Unknown,Male,Orange,FL resident,Unknown,37,No,No,NA,762,03/21/20,NA
+No,Male,Sarasota,FL resident,No,74,No,No,NA,763,03/20/20,No
+Unknown,Male,Palm Beach,FL resident,Unknown,55,Unknown,NA,NA,764,03/23/20,NA
+Unknown,Female,Dade,FL resident,Unknown,41,Unknown,NA,NA,765,03/23/20,NA
+Unknown,Female,Broward,Non-FL resident,Unknown,84,Unknown,NA,NA,766,03/22/20,NA
+No,Female,Broward,FL resident,No,52,No,Yes,NA,767,03/23/20,NA
+Unknown,Male,Lee,FL resident,No,60,No,No,NA,768,03/21/20,No
+Unknown,Male,Dade,FL resident,Unknown,23,Unknown,NA,NA,769,03/22/20,NA
+Unknown,Male,Sarasota,FL resident,Unknown,61,Unknown,NA,NA,770,03/21/20,NA
+Yes,Female,Palm Beach,Non-FL resident,Yes,23,No,No,FL; Jamaica,771,03/20/20,NA
+Unknown,Female,Dade,FL resident,Unknown,35,Yes,Unknown,NA,772,03/20/20,No
+Unknown,Female,Dade,FL resident,Unknown,65,Unknown,NA,NA,773,03/22/20,NA
+No,Female,Hillsborough,FL resident,No,38,No,Yes,NA,774,03/21/20,No
+No,Female,Pasco,FL resident,No,41,No,No,NA,775,03/22/20,NA
+Yes,Male,Palm Beach,FL resident,Yes,60,Yes,Unknown,NY,776,03/21/20,No
+Yes,Male,Broward,FL resident,No,42,No,Yes,Australia,777,03/18/20,No
+Unknown,Female,Palm Beach,FL resident,Unknown,26,Unknown,NA,NA,778,03/24/20,NA
+Unknown,Female,Duval,FL resident,Unknown,19,Unknown,NA,NA,779,03/23/20,NA
+No,Female,Broward,FL resident,Yes,46,No,Unknown,NA,780,03/17/20,No
+No,Female,Citrus,FL resident,NA,60,No,Yes,NA,781,03/22/20,NA
+Unknown,Female,Hillsborough,FL resident,Unknown,74,Yes,Yes,NA,782,03/17/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,44,Unknown,NA,NA,783,03/23/20,NA
+No,Female,Orange,FL resident,Yes,48,No,Yes,NA,784,03/13/20,No
+Yes,Female,Hillsborough,FL resident,No,32,No,Yes,CO,785,03/14/20,No
+Yes,Female,Dade,FL resident,Yes,42,No,Yes,FL; IL,786,03/20/20,No
+Unknown,Female,Palm Beach,FL resident,Unknown,50,Unknown,NA,NA,787,03/22/20,NA
+Unknown,Male,Osceola,FL resident,No,80,No,No,NA,788,03/21/20,NA
+Yes,Female,Broward,FL resident,Yes,19,No,Yes,Ireland,789,03/15/20,No
+No,Female,Citrus,FL resident,NA,77,No,Yes,NA,790,03/21/20,NA
+Yes,Male,Citrus,FL resident,Yes,80,Yes,Yes,DE,791,03/18/20,NA
+Unknown,Female,Alachua,FL resident,Unknown,21,Unknown,NA,NA,792,03/21/20,NA
+Unknown,Unknown,Duval,Non-FL resident,NA,69,NA,NA,NA,793,03/23/20,NA
+Yes,Male,Volusia,FL resident,Yes,71,Yes,Yes,Egypt; Jordan,794,03/14/20,No
+No,Male,Broward,FL resident,No,57,No,Yes,NA,795,03/22/20,No
+Yes,Female,Volusia,FL resident,Unknown,70,Yes,Yes,Egypt; Jordan,796,03/13/20,No
+Yes,Male,Broward,FL resident,No,66,No,Yes,NY,797,03/23/20,No
+No,Male,Orange,FL resident,Yes,51,No,No,NA,798,03/16/20,No
+No,Male,Broward,FL resident,Yes,75,No,Yes,NA,799,03/07/20,No
+Unknown,Male,Broward,FL resident,Unknown,32,Unknown,NA,NA,800,03/22/20,NA
+Yes,Male,St. Johns,Non-FL resident,Yes,46,Unknown,Yes,FL; MN,801,03/18/20,NA
+Unknown,Female,Palm Beach,Non-FL resident,Unknown,78,Unknown,Unknown,NA,802,03/19/20,NA
+No,Male,Brevard,FL resident,Yes,49,No,Yes,NA,803,03/20/20,NA
+Yes,Female,Indian River,FL resident,No,30,No,No,Portugal; Spain; United Kingdom,804,03/21/20,No
+Unknown,Male,Broward,FL resident,Unknown,58,Unknown,NA,NA,805,03/24/20,NA
+Yes,Male,Okaloosa,FL resident,No,25,No,No,CA,806,03/20/20,No
+Unknown,Female,Hillsborough,FL resident,Unknown,46,Unknown,NA,NA,807,03/24/20,NA
+No,Female,Indian River,FL resident,No,81,Yes,No,NA,808,03/22/20,No
+No,Male,Broward,FL resident,No,29,No,Yes,NA,809,03/23/20,No
+Yes,Male,Dade,FL resident,Yes,46,No,Yes,NY,810,03/21/20,No
+No,Female,Broward,FL resident,Yes,54,No,No,NA,811,03/16/20,No
+No,Unknown,Dade,FL resident,No,36,No,Yes,NA,812,03/18/20,NA
+Yes,Female,Broward,Non-FL resident,Yes,19,Yes,Yes,Ireland,813,03/14/20,NA
+Unknown,Unknown,Broward,FL resident,NA,33,NA,NA,NA,814,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,10,Unknown,Yes,NA,815,03/22/20,NA
+No,Male,Dade,FL resident,Unknown,48,No,Yes,NA,816,03/21/20,NA
+No,Female,Duval,FL resident,Yes,78,Yes,No,NA,817,03/19/20,NA
+No,Male,Lee,FL resident,Yes,32,Yes,No,NA,818,03/22/20,No
+Unknown,Male,Dade,FL resident,Unknown,59,Unknown,NA,NA,819,03/21/20,NA
+No,Male,Palm Beach,FL resident,Yes,72,Yes,No,NA,820,03/18/20,No
+No,Male,Broward,FL resident,NA,60,Yes,Yes,NA,821,03/19/20,NA
+No,Female,Sarasota,FL resident,No,78,No,No,NA,822,03/22/20,No
+Unknown,Female,Broward,FL resident,Unknown,29,Unknown,NA,NA,823,03/23/20,NA
+Unknown,Male,Broward,FL resident,Unknown,30,Unknown,NA,NA,824,03/22/20,NA
+No,Male,Collier,FL resident,NA,77,Yes,No,NA,825,03/18/20,NA
+No,Female,Pinellas,FL resident,No,69,No,No,NA,826,03/23/20,NA
+Yes,Female,Volusia,FL resident,Yes,66,No,Yes,Egypt; Germany; Israel,827,03/08/20,No
+Yes,Male,Collier,FL resident,NA,59,NA,Unknown,Japan,828,03/18/20,NA
+No,Male,Hillsborough,FL resident,No,28,No,Yes,NA,829,03/19/20,No
+Yes,Female,Broward,FL resident,NA,26,Yes,Yes,Trinidad and Tobago,830,03/13/20,NA
+No,Male,Broward,FL resident,No,50,No,Yes,NA,831,03/22/20,No
+Yes,Female,Marion,FL resident,No,48,No,No,FL; Ireland,832,03/22/20,No
+Yes,Male,Jackson,Non-FL resident,No,33,No,Unknown,AL; FL; GA; LA; Mexico; TX,833,03/19/20,NA
+Unknown,Male,Dade,FL resident,Unknown,67,Unknown,NA,NA,834,03/22/20,NA
+Yes,Male,Hillsborough,FL resident,No,50,No,Unknown,SPAIN,835,03/20/20,No
+Unknown,Male,Orange,FL resident,Unknown,33,Unknown,NA,NA,836,03/22/20,NA
+Unknown,Female,St. Lucie,FL resident,Unknown,19,Unknown,NA,NA,837,03/24/20,NA
+Unknown,Female,Broward,FL resident,Unknown,45,Unknown,NA,NA,838,03/21/20,NA
+Yes,Female,Dade,FL resident,NA,43,No,Yes,UT,839,03/16/20,NA
+Yes,Female,Dade,FL resident,Yes,84,No,Yes,NY,840,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,72,Unknown,NA,NA,841,03/21/20,NA
+Unknown,Female,Broward,FL resident,Unknown,52,Unknown,NA,NA,842,03/24/20,NA
+Unknown,Female,Broward,FL resident,Unknown,58,Unknown,NA,NA,843,03/24/20,NA
+Yes,Male,Dade,FL resident,Yes,44,No,No,FRANCE,844,03/17/20,No
+No,Female,St. Lucie,FL resident,No,77,No,No,NA,845,03/23/20,No
+Yes,Male,Pinellas,FL resident,No,67,No,No,FL; VA; WA,846,03/21/20,No
+Unknown,Male,Dade,FL resident,Unknown,40,Unknown,NA,NA,847,03/22/20,NA
+Yes,Male,Dade,FL resident,Yes,42,Yes,No,Spain,848,03/14/20,No
+Yes,Female,Broward,FL resident,Yes,20,No,Yes,Ireland,849,03/14/20,No
+Yes,Male,Dade,FL resident,Yes,52,No,No,Peru,850,03/21/20,No
+Unknown,Male,Dade,FL resident,Unknown,32,Unknown,NA,NA,851,03/24/20,NA
+Yes,Male,Broward,FL resident,No,53,No,No,FL; Unknown,852,03/18/20,No
+Yes,Female,Orange,Non-FL resident,Yes,22,No,Unknown,FL; NC,853,03/19/20,NA
+Unknown,Female,Dade,FL resident,Yes,69,No,No,NA,854,03/17/20,No
+Yes,Male,Collier,FL resident,NA,28,No,Unknown,Italy,855,03/15/20,NA
+Unknown,Male,Broward,FL resident,Unknown,38,Unknown,NA,NA,856,03/24/20,NA
+Unknown,Male,Broward,FL resident,Unknown,21,Unknown,NA,NA,857,03/21/20,NA
+Yes,Male,Brevard,FL resident,Yes,32,No,No,PA; UT,858,03/18/20,NA
+Yes,Male,Lake,FL resident,Yes,56,No,No,CO; FL,859,03/17/20,No
+No,Female,Dade,FL resident,No,34,No,Unknown,NA,860,03/22/20,No
+Unknown,Male,Broward,FL resident,Unknown,24,Unknown,NA,NA,861,03/22/20,NA
+No,Female,Seminole,FL resident,NA,29,NA,Yes,NA,862,03/23/20,NA
+Yes,Male,Polk,FL resident,Yes,41,No,No,UNITED KINGDOM,863,03/23/20,No
+No,Male,Dade,FL resident,Yes,47,Yes,Yes,NA,864,03/19/20,No
+No,Male,Broward,FL resident,Yes,86,Yes,Yes,NA,865,03/21/20,No
+Unknown,Male,Dade,FL resident,NA,49,NA,NA,NA,866,03/24/20,NA
+Yes,Male,Collier,FL resident,NA,26,No,NA,France; Italy; Spain,867,03/19/20,NA
+Unknown,Male,Alachua,FL resident,Unknown,22,Unknown,NA,NA,868,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,29,Unknown,NA,NA,869,03/22/20,NA
+Unknown,Female,Broward,FL resident,Unknown,60,Unknown,NA,NA,870,03/22/20,NA
+Unknown,Male,Duval,FL resident,Unknown,84,Unknown,NA,NA,871,03/21/20,NA
+Unknown,Male,Broward,FL resident,Unknown,38,Unknown,NA,NA,872,03/22/20,NA
+Yes,Male,Collier,FL resident,NA,66,No,No,France; Italy; Spain,873,03/19/20,NA
+Yes,Female,Dade,FL resident,Yes,48,No,Yes,Spain,874,03/19/20,No
+Yes,Male,Broward,FL resident,No,69,No,No,NY,875,03/18/20,NA
+No,Male,Palm Beach,FL resident,Yes,28,No,Unknown,NA,876,03/22/20,No
+No,Female,Broward,FL resident,Yes,28,No,No,NA,877,03/20/20,No
+Unknown,Female,Dade,FL resident,Unknown,43,Unknown,NA,NA,878,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,56,Unknown,Unknown,NA,879,03/20/20,NA
+Unknown,Male,Dade,FL resident,Unknown,55,Unknown,NA,NA,880,03/22/20,NA
+Unknown,Female,Broward,FL resident,NA,23,NA,NA,NA,881,03/21/20,NA
+No,Male,Dade,FL resident,No,58,No,Yes,NA,882,03/22/20,NA
+Yes,Male,Dade,FL resident,Yes,65,Yes,NA,Spain,883,03/23/20,NA
+No,Female,Indian River,FL resident,No,84,No,No,NA,884,03/20/20,No
+Unknown,Unknown,Dade,FL resident,NA,78,NA,NA,NA,885,03/22/20,NA
+Unknown,Male,Broward,FL resident,Unknown,72,Unknown,NA,NA,886,03/23/20,NA
+Yes,Male,Pinellas,FL resident,No,53,No,No,GA,887,03/22/20,NA
+Yes,Male,Dade,Not diagnosed/isolated in FL,NA,64,Unknown,Yes,Japan,888,03/04/20,No
+Unknown,Male,Dade,FL resident,Unknown,65,Unknown,NA,NA,889,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,25,Unknown,NA,NA,890,03/20/20,NA
+Yes,Male,Lee,FL resident,No,23,No,Yes,TN,891,03/20/20,No
+Yes,Female,Lee,FL resident,Yes,65,Yes,Yes,FL; JAMAICA,892,03/15/20,No
+No,Female,Pinellas,FL resident,Yes,83,Yes,No,NA,893,03/23/20,No
+Unknown,Female,Palm Beach,FL resident,Unknown,56,Unknown,NA,NA,894,03/22/20,NA
+Unknown,Female,Dade,FL resident,NA,44,NA,Yes,NA,895,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,18,Unknown,NA,NA,896,03/22/20,NA
+Unknown,Male,Broward,FL resident,Unknown,75,Unknown,NA,NA,897,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,64,Unknown,NA,NA,898,03/23/20,NA
+Yes,Female,Broward,FL resident,No,19,No,Yes,Ireland,899,03/15/20,No
+Unknown,Female,Dade,FL resident,Unknown,50,Unknown,NA,NA,900,03/23/20,NA
+Yes,Male,Dade,FL resident,Unknown,53,No,No,Qatar; Spain,901,03/18/20,NA
+Yes,Female,Alachua,Non-FL resident,Yes,64,No,No,FL; NY,902,03/16/20,NA
+Unknown,Male,Hillsborough,FL resident,NA,65,NA,NA,NA,903,03/24/20,NA
+No,Female,Clay,FL resident,Yes,68,Yes,No,NA,904,03/22/20,NA
+Yes,Male,Santa Rosa,FL resident,Yes,71,Yes,No,EGYPT; ISRAEL; JORDAN,905,03/05/20,Yes
+Yes,Female,Dade,FL resident,NA,58,Unknown,No,Italy; Spain,906,03/15/20,NA
+Unknown,Female,Dade,FL resident,Unknown,57,Unknown,NA,NA,907,03/24/20,NA
+Unknown,Male,Lee,FL resident,Yes,73,Yes,No,NA,908,03/21/20,No
+Yes,Female,Okaloosa,FL resident,Yes,78,No,No,Italy,909,03/17/20,No
+Yes,Male,Sumter,FL resident,Yes,68,Yes,Yes,Egypt,910,03/18/20,No
+Unknown,Male,Alachua,FL resident,Unknown,26,Unknown,NA,NA,911,03/24/20,NA
+Unknown,Male,Broward,FL resident,NA,64,NA,NA,NA,912,03/22/20,NA
+No,Male,Broward,FL resident,No,32,No,Yes,NA,913,03/22/20,No
+Unknown,Male,Dade,FL resident,Unknown,38,Unknown,NA,NA,914,03/23/20,NA
+Unknown,Male,Dade,FL resident,Unknown,48,Unknown,NA,NA,915,03/19/20,NA
+No,Female,Hillsborough,FL resident,Unknown,28,No,NA,NA,916,03/22/20,NA
+Unknown,Male,Seminole,FL resident,Yes,30,Yes,Unknown,NA,917,03/23/20,No
+Unknown,Male,Broward,FL resident,Unknown,57,Unknown,NA,NA,918,03/21/20,NA
+Yes,Female,Okaloosa,Not diagnosed/isolated in FL,Unknown,66,Unknown,Yes,Japan,919,03/04/20,No
+Unknown,Male,Palm Beach,FL resident,Yes,38,No,Unknown,NA,920,03/17/20,No
+Unknown,Male,Osceola,FL resident,Unknown,70,Unknown,NA,NA,921,03/23/20,NA
+No,Male,Pinellas,FL resident,Yes,59,Yes,No,NA,922,03/18/20,No
+No,Male,Lee,FL resident,No,67,No,Yes,NA,923,03/22/20,No
+Yes,Female,Seminole,FL resident,NA,61,Yes,No,PA,924,03/20/20,No
+No,Male,Osceola,FL resident,Yes,58,Yes,Unknown,NA,925,03/21/20,No
+Unknown,Female,Dade,FL resident,Unknown,41,Unknown,NA,NA,926,03/22/20,NA
+Unknown,Male,Broward,FL resident,NA,87,No,NA,NA,927,03/21/20,NA
+Unknown,Female,Dade,FL resident,Unknown,42,Unknown,NA,NA,928,03/22/20,NA
+Yes,Female,Polk,FL resident,No,22,No,Unknown,GA,929,03/18/20,No
+Unknown,Male,Dade,FL resident,Yes,39,No,Yes,NA,930,03/15/20,NA
+Unknown,Female,Dade,FL resident,Unknown,26,Unknown,NA,NA,931,03/23/20,NA
+Yes,Male,Palm Beach,FL resident,Unknown,48,No,No,CO; FL,932,03/22/20,No
+Unknown,Female,Broward,FL resident,Unknown,22,Unknown,NA,NA,933,03/23/20,NA
+Yes,Male,Broward,FL resident,NA,70,Yes,No,Brazil; FL,934,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,74,Unknown,NA,NA,935,03/23/20,NA
+Unknown,Female,Dade,FL resident,Unknown,40,Unknown,NA,NA,936,03/22/20,NA
+Yes,Male,Broward,FL resident,Yes,53,No,No,NC,937,03/17/20,NA
+Yes,Male,Broward,FL resident,Yes,33,No,Unknown,FL; Mexico,938,03/22/20,No
+No,Female,Broward,FL resident,No,57,No,No,NA,939,03/21/20,NA
+Yes,Female,Polk,FL resident,Yes,77,Yes,Yes,FL; NY,940,03/20/20,NA
+No,Male,Orange,FL resident,Unknown,48,No,Yes,NA,941,03/22/20,NA
+No,Male,Broward,FL resident,Yes,43,Yes,No,NA,942,03/21/20,No
+Unknown,Female,Dade,FL resident,NA,74,Unknown,NA,NA,943,03/24/20,NA
+No,Female,Orange,FL resident,No,33,No,NA,NA,944,03/18/20,No
+No,Male,Polk,FL resident,Yes,74,Yes,No,NA,945,03/20/20,No
+No,Female,Hillsborough,FL resident,Unknown,27,Unknown,NA,NA,946,03/21/20,NA
+Unknown,Male,Dade,FL resident,NA,59,NA,NA,NA,947,03/18/20,NA
+Yes,Female,Pinellas,FL resident,Yes,24,Yes,Yes,Spain,948,03/19/20,No
+No,Male,Orange,FL resident,No,41,No,Yes,NA,949,03/13/20,No
+Unknown,Female,Orange,FL resident,Unknown,50,Unknown,Yes,NA,950,03/22/20,NA
+No,Male,Hillsborough,FL resident,No,39,No,Yes,NA,951,03/23/20,No
+Unknown,Female,Dade,FL resident,Unknown,74,Unknown,NA,NA,952,03/22/20,NA
+No,Male,Broward,FL resident,Yes,75,Yes,Yes,NA,953,03/20/20,No
+Unknown,Male,Dade,FL resident,Unknown,57,Unknown,NA,NA,954,03/22/20,NA
+Unknown,Female,Duval,FL resident,Unknown,20,Unknown,NA,NA,955,03/21/20,NA
+No,Female,Broward,FL resident,Yes,53,Yes,No,NA,956,03/21/20,NA
+No,Male,Broward,FL resident,Yes,36,No,Yes,NA,957,03/13/20,No
+Unknown,Male,Clay,FL resident,Unknown,25,Unknown,NA,NA,958,03/24/20,NA
+Unknown,Male,Dade,FL resident,Unknown,30,Unknown,NA,NA,959,03/23/20,NA
+Unknown,Female,Alachua,FL resident,Unknown,30,Unknown,NA,NA,960,03/22/20,NA
+Yes,Male,Broward,FL resident,No,52,No,Yes,CO,961,03/23/20,NA
+No,Male,Broward,FL resident,Yes,64,Yes,Unknown,NA,962,03/22/20,No
+Unknown,Female,Dade,FL resident,NA,44,NA,Yes,NA,963,03/24/20,NA
+Yes,Male,Dade,FL resident,No,38,No,Unknown,CUBA; FL,964,03/22/20,No
+Yes,Male,Dade,FL resident,No,50,No,No,IL,965,03/22/20,No
+Yes,Female,Broward,FL resident,Yes,19,No,Yes,Ireland,966,03/15/20,No
+Yes,Female,Palm Beach,FL resident,Yes,60,Yes,No,Russia; Spain,967,03/19/20,No
+Unknown,Male,Broward,FL resident,Yes,43,No,Yes,NA,968,03/21/20,No
+No,Female,Hillsborough,FL resident,Yes,20,No,Yes,NA,969,03/21/20,No
+Unknown,Male,Sumter,FL resident,Unknown,73,Unknown,Unknown,NA,970,03/23/20,NA
+Unknown,Female,Broward,FL resident,Unknown,20,Unknown,NA,NA,971,03/24/20,NA
+No,Female,Orange,FL resident,Yes,32,No,Unknown,NA,972,03/19/20,No
+Yes,Female,Collier,Non-FL resident,Yes,17,No,No,United Kingdom,973,03/22/20,NA
+Yes,Female,Dade,FL resident,NA,53,NA,Unknown,FL; Unknown,974,03/18/20,NA
+Yes,Male,Broward,Non-FL resident,Yes,36,No,Yes,NY,975,03/23/20,NA
+No,Male,Duval,FL resident,Yes,90,Yes,Yes,NA,976,03/20/20,NA
+No,Female,Duval,FL resident,No,89,No,Yes,NA,977,03/21/20,No
+Unknown,Female,Broward,FL resident,Unknown,84,Unknown,NA,NA,978,03/24/20,NA
+Yes,Male,Broward,FL resident,No,28,No,Yes,Australia; CA; FL,979,03/23/20,No
+Unknown,Female,Dade,FL resident,Unknown,26,Unknown,NA,NA,980,03/23/20,NA
+Yes,Female,Collier,FL resident,No,30,No,No,Spain,981,03/19/20,No
+Unknown,Male,Dade,FL resident,Unknown,64,Unknown,NA,NA,982,03/23/20,NA
+Yes,Male,Broward,FL resident,Yes,30,No,No,CT; FL; Italy,983,03/18/20,No
+Unknown,Male,Duval,FL resident,Unknown,44,Unknown,NA,NA,984,03/17/20,NA
+Yes,Male,Collier,FL resident,NA,59,No,NA,Canada,985,03/20/20,NA
+Unknown,Male,Orange,FL resident,Yes,62,Yes,Yes,NA,986,03/19/20,NA
+No,Male,Broward,FL resident,No,65,No,Yes,NA,987,03/16/20,No
+Unknown,Female,Duval,FL resident,No,57,No,Yes,NA,988,03/21/20,No
+No,Male,Duval,FL resident,No,91,No,Yes,NA,989,03/18/20,No
+Yes,Female,Dade,FL resident,No,28,No,Yes,Ireland,990,03/17/20,No
+No,Female,Seminole,FL resident,Yes,45,Yes,Unknown,NA,991,03/17/20,NA
+Unknown,Female,Palm Beach,FL resident,Unknown,52,Unknown,NA,NA,992,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,44,Unknown,NA,NA,993,03/22/20,NA
+Yes,Male,Palm Beach,FL resident,Yes,73,Yes,Yes,Egypt; Germany,994,03/13/20,No
+Unknown,Male,Dade,FL resident,Unknown,50,Unknown,NA,NA,995,03/22/20,NA
+Yes,Female,Seminole,FL resident,Yes,62,Yes,No,CT; FL; OK,996,03/20/20,No
+Unknown,Male,Alachua,FL resident,Unknown,22,Unknown,NA,NA,997,03/22/20,NA
+Unknown,Male,Broward,FL resident,Unknown,28,Unknown,NA,NA,998,03/23/20,NA
+Unknown,Male,Osceola,FL resident,Unknown,36,Unknown,NA,NA,999,03/23/20,NA
+Unknown,Male,Dade,FL resident,Unknown,71,Unknown,NA,NA,1000,03/21/20,NA
+Unknown,Female,Dade,FL resident,Unknown,42,Unknown,NA,NA,1001,03/20/20,NA
+Unknown,Male,Broward,FL resident,Unknown,28,Unknown,NA,NA,1002,03/23/20,NA
+Yes,Male,Osceola,FL resident,NA,79,NA,No,SPAIN; UNITED KINGDOM,1003,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,32,Unknown,NA,NA,1004,03/20/20,NA
+Unknown,Male,Dade,FL resident,Unknown,78,Unknown,NA,NA,1005,03/21/20,NA
+No,Male,Palm Beach,FL resident,Yes,53,Yes,No,NA,1006,03/20/20,No
+No,Female,Volusia,FL resident,Yes,78,No,Unknown,NA,1007,03/24/20,No
+No,Female,Baker,FL resident,NA,64,No,NA,NA,1008,03/24/20,NA
+Yes,Male,Hernando,FL resident,No,20,No,Unknown,Spain,1009,03/19/20,No
+No,Male,Broward,FL resident,Yes,32,No,No,NA,1010,03/20/20,NA
+Yes,Male,Sumter,FL resident,Yes,67,Yes,No,FL; MA; RI,1011,03/22/20,No
+Unknown,Male,Dade,FL resident,Unknown,36,Unknown,No,NA,1012,03/20/20,NA
+Yes,Female,Dade,FL resident,Yes,47,No,Yes,Spain,1013,03/17/20,No
+Yes,Female,Lake,FL resident,Yes,75,No,Yes,FL; NY,1014,03/13/20,No
+Yes,Male,Palm Beach,FL resident,Unknown,62,Yes,Yes,United Kingdom,1015,03/16/20,NA
+Unknown,Male,Dade,FL resident,Unknown,73,Unknown,NA,NA,1016,03/24/20,NA
+Unknown,Male,Broward,FL resident,Unknown,38,Unknown,NA,NA,1017,03/24/20,NA
+Unknown,Male,Broward,FL resident,NA,33,NA,Yes,NA,1018,03/18/20,NA
+Yes,Male,Pinellas,FL resident,Yes,42,No,No,BAHAMAS; CARIBBEAN; ST. KITTS AND NEVIS,1019,03/24/20,No
+Yes,Female,Brevard,FL resident,No,76,No,Yes,NY,1020,03/17/20,No
+No,Male,Broward,FL resident,Yes,73,No,Yes,NA,1021,03/20/20,No
+Yes,Male,Collier,FL resident,No,76,No,Yes,NY,1022,03/15/20,No
+Unknown,Male,Duval,FL resident,NA,88,NA,NA,NA,1023,03/21/20,NA
+Unknown,Male,Broward,FL resident,NA,67,NA,NA,NA,1024,03/23/20,NA
+No,Male,Broward,FL resident,Yes,74,Yes,Yes,NA,1025,03/15/20,No
+Yes,Female,Broward,FL resident,No,21,No,Unknown,SPAIN,1026,03/18/20,No
+Yes,Male,Broward,Non-FL resident,Yes,47,No,Unknown,FL; MA,1027,03/22/20,NA
+Yes,Male,Broward,FL resident,No,65,No,Yes,NJ,1028,03/23/20,No
+Yes,Male,Orange,FL resident,NA,62,Unknown,Unknown,FL; SPAIN,1029,03/23/20,NA
+Unknown,Male,Palm Beach,FL resident,No,43,No,Unknown,NA,1030,03/18/20,No
+Yes,Male,Pinellas,FL resident,Yes,52,Yes,No,BULGARIA; GERMANY; UT,1031,03/18/20,No
+Unknown,Female,Palm Beach,FL resident,No,6,No,Yes,NA,1032,03/18/20,No
+Yes,Female,Dade,FL resident,NA,67,No,Yes,Egypt,1033,03/16/20,NA
+Yes,Female,Palm Beach,FL resident,Yes,21,No,No,PORTUGAL; UNITED KINGDOM,1034,03/22/20,No
+Yes,Male,Dade,FL resident,NA,35,No,Yes,Egypt,1035,03/17/20,NA
+No,Female,Sarasota,Non-FL resident,No,78,No,Yes,NA,1036,03/19/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,43,Unknown,NA,NA,1037,03/23/20,NA
+No,Male,Sarasota,Non-FL resident,Yes,80,Yes,Yes,NA,1038,03/16/20,NA
+No,Female,Lee,FL resident,Yes,72,Yes,Unknown,NA,1039,03/19/20,No
+Yes,Male,Osceola,Non-FL resident,Yes,65,Yes,No,Canada,1040,03/13/20,NA
+Yes,Male,Dade,FL resident,Yes,49,Yes,No,EUROPE,1041,03/18/20,No
+No,Male,Sarasota,FL resident,NA,82,Yes,No,NA,1042,03/24/20,NA
+Yes,Male,Osceola,FL resident,Yes,48,No,Yes,Switzerland,1043,03/14/20,No
+No,Male,Osceola,FL resident,Yes,22,No,Yes,NA,1044,03/18/20,No
+No,Male,Osceola,FL resident,Yes,18,No,Yes,NA,1045,03/17/20,No
+Unknown,Male,Orange,FL resident,Unknown,61,Unknown,NA,NA,1046,03/23/20,NA
+Yes,Male,Hillsborough,FL resident,No,50,No,Yes,UNITED KINGDOM,1047,03/19/20,No
+Unknown,Female,Orange,FL resident,Unknown,57,Unknown,NA,NA,1048,03/23/20,NA
+No,Female,Volusia,FL resident,Yes,89,Yes,Yes,NA,1049,03/14/20,No
+No,Male,Hillsborough,FL resident,No,18,No,Yes,NA,1050,03/21/20,No
+Unknown,Male,Broward,FL resident,NA,76,NA,NA,NA,1051,03/23/20,NA
+No,Male,Collier,FL resident,No,79,No,No,NA,1052,03/21/20,No
+No,Male,Palm Beach,FL resident,Yes,29,No,Unknown,NA,1053,03/20/20,No
+Yes,Male,Broward,FL resident,Yes,58,No,Unknown,Brazil; NY; Spain,1054,03/22/20,No
+Unknown,Female,Dade,FL resident,Unknown,70,Unknown,NA,NA,1055,03/23/20,NA
+Yes,Male,Palm Beach,FL resident,Yes,53,Yes,No,EL SALVADOR,1056,03/21/20,No
+Unknown,Female,Broward,FL resident,Unknown,49,Unknown,NA,NA,1057,03/24/20,NA
+Unknown,Female,Dade,FL resident,Unknown,32,Unknown,NA,NA,1058,03/22/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,59,Unknown,NA,NA,1059,03/22/20,NA
+No,Female,Dade,FL resident,Yes,60,Unknown,Yes,NA,1060,03/20/20,NA
+Unknown,Male,Dade,FL resident,Unknown,31,Unknown,NA,NA,1061,03/24/20,NA
+Unknown,Male,Broward,FL resident,NA,42,NA,NA,NA,1062,03/22/20,NA
+Yes,Male,Collier,FL resident,NA,19,No,NA,Italy,1063,03/20/20,NA
+Unknown,Male,Dade,FL resident,Unknown,52,Unknown,NA,NA,1064,03/22/20,NA
+No,Male,Polk,FL resident,NA,8,NA,Yes,NA,1065,03/20/20,NA
+Unknown,Male,Orange,FL resident,Unknown,31,Unknown,NA,NA,1066,03/20/20,NA
+Yes,Male,Hillsborough,FL resident,No,62,No,Yes,FL; NY,1067,03/21/20,No
+Yes,Female,Broward,FL resident,No,52,No,Yes,France,1068,03/15/20,No
+No,Female,Dade,FL resident,Yes,42,No,No,NA,1069,03/14/20,No
+No,Male,Broward,FL resident,No,42,No,Yes,NA,1070,03/18/20,No
+Yes,Male,Broward,FL resident,No,64,No,Yes,France; GA; NC; Spain,1071,03/14/20,NA
+Unknown,Female,Dade,FL resident,Unknown,52,Unknown,NA,NA,1072,03/23/20,NA
+Yes,Female,Hillsborough,FL resident,No,54,No,Yes,FL; NY,1073,03/21/20,No
+Unknown,Female,Broward,FL resident,Unknown,38,Unknown,NA,NA,1074,03/24/20,NA
+Yes,Female,Broward,FL resident,No,64,No,Yes,PERU,1075,03/23/20,NA
+No,Female,Dade,FL resident,Yes,25,No,Yes,NA,1076,03/18/20,No
+No,Female,Columbia,FL resident,NA,70,NA,NA,NA,1077,03/22/20,NA
+No,Female,St. Lucie,FL resident,Yes,45,No,No,NA,1078,03/22/20,No
+Unknown,Male,Broward,FL resident,Unknown,74,Unknown,NA,NA,1079,03/23/20,NA
+Unknown,Female,Broward,FL resident,Unknown,51,Unknown,NA,NA,1080,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,40,Unknown,NA,NA,1081,03/22/20,NA
+No,Male,Duval,FL resident,Yes,83,Yes,Yes,NA,1082,03/13/20,Yes
+Unknown,Female,Dade,FL resident,Unknown,51,Unknown,NA,NA,1083,03/21/20,NA
+Yes,Male,Dade,FL resident,Yes,49,No,Yes,SPAIN,1084,03/19/20,NA
+Unknown,Female,Volusia,FL resident,Unknown,71,Unknown,NA,NA,1085,03/23/20,NA
+Yes,Female,Collier,FL resident,Yes,31,No,No,Egypt,1086,03/18/20,No
+Unknown,Female,Alachua,FL resident,Unknown,30,Unknown,NA,NA,1087,03/22/20,NA
+No,Male,Lee,FL resident,Yes,80,Yes,Yes,NA,1088,03/18/20,No
+Yes,Male,Broward,FL resident,Yes,57,No,Unknown,CO,1089,03/20/20,No
+No,Female,Broward,FL resident,Yes,53,No,Yes,NA,1090,03/20/20,No
+Yes,Male,Dade,FL resident,Yes,45,No,No,France; United Kingdom,1091,03/17/20,No
+No,Female,Dade,FL resident,Unknown,61,Unknown,Yes,NA,1092,03/17/20,NA
+No,Male,Broward,FL resident,Yes,59,No,Unknown,NA,1093,03/21/20,No
+No,Male,Broward,FL resident,Yes,31,Yes,Yes,NA,1094,03/20/20,No
+Unknown,Male,Hillsborough,FL resident,Unknown,39,Unknown,NA,NA,1095,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,21,Unknown,NA,NA,1096,03/18/20,NA
+Yes,Male,Dade,Non-FL resident,Yes,42,No,No,Brazil; FL; TX,1097,03/15/20,NA
+Yes,Male,Dade,FL resident,NA,49,Yes,No,SPAIN,1098,03/22/20,NA
+Yes,Male,Orange,FL resident,No,46,No,Unknown,United Arab Emirates,1099,03/21/20,NA
+Yes,Male,Broward,FL resident,Yes,21,No,No,Italy; Spain,1100,03/14/20,No
+No,Female,Broward,FL resident,Yes,58,No,No,NA,1101,03/20/20,No
+No,Male,Sarasota,FL resident,No,53,No,No,NA,1102,03/23/20,No
+Unknown,Female,Dade,FL resident,Unknown,68,Unknown,NA,NA,1103,03/23/20,NA
+Unknown,Female,Palm Beach,FL resident,Unknown,45,Unknown,NA,NA,1104,03/22/20,NA
+Yes,Female,Brevard,FL resident,No,52,No,Unknown,CANADA,1105,03/24/20,No
+Yes,Male,Palm Beach,FL resident,No,19,No,Unknown,NY,1106,03/19/20,No
+Unknown,Male,Broward,FL resident,Unknown,61,Unknown,NA,NA,1107,03/24/20,NA
+Unknown,Male,Broward,FL resident,Unknown,31,Unknown,NA,NA,1108,03/24/20,NA
+Unknown,Male,Duval,FL resident,Unknown,74,Unknown,NA,NA,1109,03/17/20,NA
+Unknown,Female,Dade,FL resident,NA,59,NA,Yes,NA,1110,03/21/20,NA
+Yes,Male,Dade,FL resident,Yes,54,No,No,SPAIN,1111,03/19/20,No
+Unknown,Female,Broward,FL resident,Unknown,53,Unknown,Yes,NA,1112,03/22/20,NA
+Unknown,Male,Broward,FL resident,Yes,94,Yes,Yes,NA,1113,03/21/20,No
+No,Male,Dade,FL resident,Unknown,32,No,Yes,NA,1114,03/22/20,NA
+Yes,Male,Pinellas,FL resident,No,45,No,Unknown,NY,1115,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,27,Unknown,NA,NA,1116,03/24/20,NA
+Unknown,Female,Dade,FL resident,NA,50,NA,NA,NA,1117,03/18/20,NA
+Unknown,Male,Brevard,FL resident,Unknown,38,Unknown,NA,NA,1118,03/24/20,NA
+Unknown,Female,Hillsborough,FL resident,Unknown,21,Unknown,NA,NA,1119,03/22/20,NA
+Unknown,Male,Orange,FL resident,Unknown,33,Unknown,NA,NA,1120,03/23/20,NA
+Yes,Female,Osceola,FL resident,No,33,No,No,NY,1121,03/22/20,No
+Unknown,Male,Dade,FL resident,Unknown,28,Unknown,NA,NA,1122,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,37,Unknown,NA,NA,1123,03/24/20,NA
+Unknown,Male,Dade,FL resident,Unknown,47,Unknown,NA,NA,1124,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,28,Unknown,NA,NA,1125,03/21/20,Unknown
+Unknown,Female,Sarasota,FL resident,NA,70,NA,NA,NA,1126,03/21/20,NA
+Yes,Male,Hillsborough,FL resident,Unknown,30,Unknown,No,FL; NY,1127,03/17/20,NA
+Unknown,Male,Broward,FL resident,Unknown,40,Unknown,NA,NA,1128,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,47,Unknown,NA,NA,1129,03/21/20,NA
+Unknown,Male,St. Johns,FL resident,NA,72,NA,NA,NA,1130,03/23/20,NA
+Yes,Male,Broward,FL resident,Yes,68,No,Yes,Dominican Republic,1131,03/20/20,No
+Yes,Female,Broward,FL resident,NA,53,No,No,FL; GA; HI; MA,1132,03/20/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,78,Unknown,NA,NA,1133,03/19/20,NA
+No,Male,Palm Beach,FL resident,Yes,84,Unknown,Yes,NA,1134,03/20/20,No
+Unknown,Male,Dade,FL resident,Yes,43,Yes,Unknown,NA,1135,03/19/20,NA
+Unknown,Male,Palm Beach,FL resident,Yes,82,Yes,Unknown,NA,1136,03/20/20,No
+No,Male,Broward,FL resident,No,62,No,Unknown,NA,1137,03/20/20,No
+Unknown,Male,Dade,FL resident,Unknown,42,Unknown,NA,NA,1138,03/22/20,NA
+No,Male,Broward,FL resident,Yes,86,No,No,NA,1139,03/20/20,No
+No,Male,Lake,FL resident,Yes,34,No,Unknown,NA,1140,03/22/20,No
+Yes,Female,Broward,FL resident,No,20,No,Yes,Ireland,1141,03/15/20,No
+Unknown,Female,Dade,FL resident,NA,64,Yes,NA,NA,1142,03/23/20,NA
+Unknown,Male,Palm Beach,Non-FL resident,Unknown,29,Unknown,Yes,NA,1143,03/20/20,NA
+Yes,Female,Broward,FL resident,No,25,No,No,Morocco; Spain,1144,03/18/20,NA
+Unknown,Male,Dade,FL resident,Unknown,23,Unknown,NA,NA,1145,03/20/20,NA
+Yes,Female,Hillsborough,FL resident,No,29,No,Yes,Italy,1146,03/02/20,No
+Unknown,Male,Manatee,FL resident,NA,68,NA,NA,NA,1147,03/23/20,NA
+No,Female,Putnam,FL resident,No,82,No,Unknown,NA,1148,03/22/20,No
+Unknown,Female,Dade,FL resident,Unknown,51,Unknown,NA,NA,1149,03/21/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,76,Unknown,NA,NA,1150,03/22/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,25,Unknown,NA,NA,1151,03/16/20,NA
+No,Male,St. Johns,FL resident,Yes,67,Yes,No,NA,1152,03/21/20,NA
+No,Female,Palm Beach,FL resident,Unknown,83,Unknown,Yes,NA,1153,03/21/20,No
+Unknown,Female,Broward,FL resident,Unknown,15,Unknown,NA,NA,1154,03/23/20,NA
+No,Male,Lee,FL resident,NA,67,Yes,No,NA,1155,03/17/20,No
+No,Female,Seminole,FL resident,Yes,43,No,No,NA,1156,03/14/20,No
+No,Female,Palm Beach,FL resident,Yes,69,No,Yes,NA,1157,03/18/20,No
+Unknown,Male,Palm Beach,FL resident,Yes,70,No,Yes,NA,1158,03/21/20,No
+Yes,Male,Collier,FL resident,NA,61,No,NA,Canada,1159,03/20/20,NA
+No,Female,Volusia,FL resident,No,32,No,Unknown,NA,1160,03/21/20,No
+Unknown,Male,Dade,FL resident,Unknown,36,Unknown,NA,NA,1161,03/21/20,NA
+Unknown,Female,Broward,FL resident,Unknown,22,Unknown,NA,NA,1162,03/22/20,NA
+Yes,Male,Lee,FL resident,No,66,No,Unknown,Colombia; Ecuador,1163,03/16/20,No
+No,Male,Broward,FL resident,No,51,No,No,NA,1164,03/20/20,No
+Unknown,Female,Alachua,FL resident,Unknown,23,Unknown,NA,NA,1165,03/21/20,NA
+Unknown,Female,Dade,FL resident,Unknown,30,Unknown,NA,NA,1166,03/22/20,NA
+Unknown,Male,Osceola,Non-FL resident,Yes,39,Yes,No,NA,1167,03/19/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,64,Unknown,NA,NA,1168,03/22/20,NA
+No,Female,Polk,FL resident,No,44,No,No,NA,1169,03/17/20,NA
+No,Male,Palm Beach,FL resident,Yes,83,No,No,NA,1170,03/22/20,No
+Unknown,Male,Palm Beach,FL resident,Unknown,72,Unknown,NA,NA,1171,03/21/20,NA
+Yes,Female,Broward,FL resident,No,56,No,No,VA,1172,03/18/20,No
+Unknown,Male,Orange,FL resident,Unknown,63,Unknown,NA,NA,1173,03/21/20,NA
+Unknown,Female,Pasco,FL resident,NA,32,NA,NA,NA,1174,03/23/20,NA
+Yes,Female,Hillsborough,FL resident,NA,20,No,No,Venezuela,1175,03/21/20,NA
+Yes,Female,Charlotte,FL resident,NA,54,Yes,Yes,Egypt; Israel,1176,03/09/20,No
+No,Male,Charlotte,FL resident,NA,55,No,Yes,NA,1177,03/20/20,No
+Unknown,Female,Broward,FL resident,Unknown,42,Unknown,NA,NA,1178,03/24/20,NA
+No,Female,Escambia,FL resident,NA,25,No,No,NA,1179,03/22/20,NA
+Yes,Male,Dade,FL resident,Yes,45,No,Yes,ECUADOR,1180,03/18/20,NA
+Yes,Male,Broward,FL resident,No,48,No,Unknown,PA,1181,03/18/20,No
+Yes,Male,Dade,FL resident,No,35,No,No,Spain,1182,03/18/20,No
+Yes,Male,Manatee,FL resident,Yes,75,Yes,No,NJ; NY,1183,03/21/20,NA
+No,Female,Broward,FL resident,No,43,No,Yes,NA,1184,03/22/20,No
+Yes,Female,Volusia,FL resident,No,60,No,Yes,Egypt; Germany; Israel,1185,03/09/20,No
+Unknown,Female,Duval,FL resident,Unknown,49,Unknown,NA,NA,1186,03/23/20,NA
+Yes,Female,Indian River,Non-FL resident,No,25,No,No,NY,1187,03/21/20,NA
+No,Male,Dade,FL resident,Yes,52,Yes,Unknown,NA,1188,03/17/20,No
+Unknown,Male,Duval,FL resident,Unknown,22,Unknown,NA,NA,1189,03/18/20,NA
+Unknown,Male,Hillsborough,FL resident,NA,64,NA,Unknown,NA,1190,03/23/20,NA
+Unknown,Male,Collier,FL resident,Unknown,59,Unknown,NA,NA,1191,03/24/20,NA
+Unknown,Male,Orange,FL resident,Unknown,58,Unknown,NA,NA,1192,03/23/20,NA
+Yes,Female,Duval,FL resident,NA,53,No,Yes,FL; NV,1193,03/22/20,No
+Yes,Female,Clay,FL resident,Yes,61,No,Unknown,DC; FL,1194,03/21/20,NA
+No,Female,Citrus,FL resident,NA,33,No,No,NA,1195,03/20/20,NA
+Unknown,Male,Broward,FL resident,Unknown,59,Unknown,NA,NA,1196,03/24/20,NA
+Unknown,Male,Sarasota,FL resident,NA,81,NA,NA,NA,1197,03/23/20,NA
+Yes,Female,Pinellas,Non-FL resident,No,28,No,Yes,NY,1198,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,31,Unknown,NA,NA,1199,03/23/20,NA
+No,Male,Broward,FL resident,Yes,25,No,Yes,NA,1200,03/21/20,No
+No,Female,Clay,FL resident,No,66,Yes,Yes,NA,1201,03/17/20,No
+No,Female,Sumter,FL resident,No,68,No,Yes,NA,1202,03/22/20,No
+Yes,Female,Brevard,FL resident,Yes,64,No,Unknown,DC; FL; NY; PA,1203,03/19/20,No
+No,Female,Collier,FL resident,Yes,84,Yes,No,NA,1204,03/22/20,No
+No,Male,Clay,FL resident,Yes,70,Yes,Yes,NA,1205,03/14/20,Yes
+No,Male,Dade,FL resident,Yes,61,Yes,No,NA,1206,03/20/20,No
+No,Male,Orange,FL resident,No,35,No,No,NA,1207,03/22/20,NA
+Yes,Male,Pasco,FL resident,No,44,No,Unknown,TX,1208,03/22/20,No
+Unknown,Male,Dade,FL resident,Unknown,56,Unknown,NA,NA,1209,03/21/20,NA
+No,Male,Pasco,FL resident,NA,48,Yes,Unknown,NA,1210,03/22/20,NA
+Yes,Male,Dade,FL resident,No,42,No,Yes,FL; France,1211,03/14/20,NA
+No,Male,Collier,Non-FL resident,Yes,75,Yes,No,NA,1212,03/20/20,NA
+Yes,Female,Seminole,FL resident,Unknown,64,No,No,FL; NC; NY,1213,03/22/20,No
+Unknown,Female,Dade,FL resident,Unknown,41,Unknown,NA,NA,1214,03/24/20,NA
+Unknown,Female,Dade,FL resident,Unknown,38,Unknown,NA,NA,1215,03/22/20,NA
+No,Male,Bradford,FL resident,NA,69,Yes,No,NA,1216,03/22/20,NA
+Unknown,Male,Hillsborough,Non-FL resident,Unknown,28,Unknown,Unknown,NA,1217,03/17/20,NA
+No,Male,Broward,FL resident,No,65,No,Yes,NA,1218,03/12/20,No
+No,Female,Lee,FL resident,No,57,No,Yes,NA,1219,03/22/20,No
+Yes,Male,Palm Beach,FL resident,Unknown,83,Unknown,No,FL; NY,1220,03/21/20,No
+Unknown,Male,Dade,FL resident,Yes,45,Unknown,Yes,NA,1221,03/20/20,No
+Yes,Male,Sarasota,Non-FL resident,Unknown,75,Unknown,Yes,FL; NY,1222,03/21/20,NA
+Unknown,Male,Highlands,FL resident,NA,39,NA,NA,NA,1223,03/24/20,NA
+No,Female,Columbia,FL resident,NA,46,NA,NA,NA,1224,03/21/20,NA
+Unknown,Female,Palm Beach,FL resident,Unknown,24,Unknown,NA,NA,1225,03/23/20,NA
+Yes,Female,Sarasota,Non-FL resident,Unknown,73,Yes,Yes,FL; NY,1226,03/21/20,NA
+No,Male,Clay,FL resident,No,53,No,Unknown,NA,1227,03/22/20,No
+Unknown,Female,Broward,FL resident,Yes,87,Yes,Unknown,NA,1228,03/19/20,No
+Yes,Female,Broward,FL resident,Yes,22,No,Yes,Ireland,1229,03/14/20,No
+Yes,Male,Broward,FL resident,No,20,No,Unknown,Spain,1230,03/22/20,No
+Yes,Female,Monroe,FL resident,NA,72,No,Unknown,FL; United Kingdom,1231,03/20/20,NA
+Yes,Female,Collier,FL resident,No,62,No,Yes,Bahamas; FL; Honduras; Mexico,1232,03/20/20,No
+No,Male,Dade,FL resident,Yes,78,No,No,NA,1233,03/19/20,NA
+Yes,Female,Dade,FL resident,Yes,77,No,No,EGYPT; IRAN; UNITED ARAB EMIRATES,1234,03/14/20,No
+Unknown,Female,Lake,FL resident,Unknown,21,Unknown,Unknown,NA,1235,03/23/20,NA
+Yes,Male,Collier,FL resident,No,64,No,Yes,Bahamas; Belize; FL; Honduras; Mexico,1236,03/20/20,No
+Yes,Female,Monroe,FL resident,No,54,No,No,France,1237,03/22/20,NA
+No,Female,Dade,FL resident,Yes,52,No,NA,NA,1238,03/23/20,NA
+Unknown,Male,Broward,FL resident,Unknown,64,Unknown,NA,NA,1239,03/24/20,NA
+No,Male,Broward,FL resident,No,66,No,Yes,NA,1240,03/15/20,No
+Yes,Male,Pinellas,FL resident,No,23,No,No,LA,1241,03/18/20,No
+No,Female,Broward,FL resident,Yes,83,No,Yes,NA,1242,03/14/20,No
+No,Male,Polk,FL resident,Yes,88,Yes,No,NA,1243,03/19/20,No
+Unknown,Female,Broward,FL resident,Unknown,57,Unknown,NA,NA,1244,03/24/20,NA
+No,Female,Sarasota,FL resident,No,71,No,Unknown,NA,1245,03/22/20,No
+Yes,Male,Osceola,FL resident,Yes,31,Yes,No,Brazil,1246,03/13/20,No
+Yes,Male,Pinellas,FL resident,NA,68,No,Yes,Belize; Honduras; Mexico,1247,03/20/20,NA
+Yes,Female,Pinellas,FL resident,NA,70,No,Yes,Belize; Honduras; Mexico,1248,03/20/20,NA
+No,Male,Alachua,FL resident,NA,33,Unknown,NA,NA,1249,03/21/20,NA
+Unknown,Female,Broward,FL resident,Unknown,26,Unknown,NA,NA,1250,03/23/20,NA
+Unknown,Female,Dade,FL resident,Yes,71,Yes,Unknown,NA,1251,03/20/20,No
+No,Female,Broward,FL resident,Yes,68,No,Yes,NA,1252,03/10/20,No
+Unknown,Male,Alachua,FL resident,Unknown,49,Unknown,NA,NA,1253,03/23/20,NA
+Unknown,Male,Hillsborough,FL resident,Unknown,60,Unknown,NA,NA,1254,03/17/20,NA
+No,Male,Broward,FL resident,No,66,No,Yes,NA,1255,03/21/20,No
+Yes,Male,Seminole,FL resident,Yes,55,Yes,No,FL; NY,1256,03/18/20,No
+No,Male,Broward,FL resident,No,56,No,Yes,NA,1257,03/22/20,No
+No,Female,Lee,FL resident,No,75,No,Yes,NA,1258,03/22/20,No
+No,Male,Okaloosa,FL resident,No,83,No,Yes,NA,1259,03/21/20,No
+No,Female,Okaloosa,FL resident,No,82,No,Yes,NA,1260,03/21/20,No
+Unknown,Female,Dade,FL resident,Unknown,22,Unknown,NA,NA,1261,03/22/20,NA
+Yes,Female,Pinellas,Non-FL resident,No,21,No,No,SPAIN,1262,03/18/20,NA
+No,Male,Broward,FL resident,No,58,No,Yes,NA,1263,03/14/20,No
+Unknown,Male,Broward,FL resident,Unknown,36,Unknown,NA,NA,1264,03/24/20,NA
+Yes,Female,Walton,FL resident,No,20,No,Unknown,FL; Spain,1265,03/20/20,No
+Unknown,Unknown,Broward,FL resident,NA,31,NA,NA,NA,1266,03/22/20,NA
+No,Male,Osceola,FL resident,Yes,76,No,No,NA,1267,03/19/20,No
+Yes,Female,Alachua,FL resident,NA,39,Unknown,Unknown,GA,1268,03/18/20,NA
+Yes,Female,Palm Beach,FL resident,No,30,No,No,CO,1269,03/21/20,No
+Unknown,Female,Palm Beach,FL resident,NA,85,Unknown,Unknown,NA,1270,03/22/20,Yes
+No,Male,Alachua,FL resident,Yes,68,Yes,No,NA,1271,03/21/20,No
+No,Male,Broward,FL resident,Yes,54,No,No,NA,1272,03/20/20,No
+Unknown,Male,Hillsborough,FL resident,Unknown,69,Unknown,NA,NA,1273,03/23/20,NA
+Yes,Male,Broward,FL resident,No,65,No,Unknown,DC,1274,03/15/20,No
+Yes,Female,Dade,FL resident,NA,39,Yes,No,FL; NY,1275,03/14/20,NA
+Unknown,Female,Lee,FL resident,Unknown,74,Unknown,NA,NA,1276,03/23/20,NA
+No,Male,Collier,FL resident,NA,77,No,Yes,NA,1277,03/20/20,NA
+Yes,Male,Broward,FL resident,No,55,No,Unknown,NV,1278,03/20/20,No
+Yes,Female,Broward,FL resident,No,21,No,Yes,Ireland,1279,03/18/20,No
+Unknown,Male,Dade,FL resident,Unknown,33,Unknown,Yes,NA,1280,03/21/20,NA
+No,Female,Duval,FL resident,No,68,No,Yes,NA,1281,03/21/20,No
+Unknown,Female,Hillsborough,FL resident,NA,69,NA,Yes,NA,1282,03/22/20,NA
+Unknown,Male,Hillsborough,FL resident,NA,29,Unknown,No,NA,1283,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,44,Unknown,NA,NA,1284,03/22/20,NA
+No,Female,Hillsborough,FL resident,Yes,79,No,No,NA,1285,03/23/20,No
+No,Female,Hillsborough,FL resident,Unknown,49,Unknown,No,NA,1286,03/23/20,No
+Unknown,Female,Dade,FL resident,Unknown,39,Unknown,NA,NA,1287,03/22/20,NA
+Unknown,Female,Broward,FL resident,NA,84,Unknown,Yes,NA,1288,03/22/20,NA
+Yes,Female,Osceola,Non-FL resident,No,20,No,No,Spain,1289,03/17/20,NA
+Unknown,Unknown,Duval,Non-FL resident,NA,83,NA,NA,NA,1290,03/23/20,NA
+No,Male,St. Lucie,FL resident,No,56,No,No,NA,1291,03/21/20,No
+No,Female,Okaloosa,FL resident,No,25,No,No,NA,1292,03/22/20,No
+Unknown,Unknown,Duval,FL resident,NA,79,NA,NA,NA,1293,03/22/20,NA
+Unknown,Male,Duval,FL resident,NA,59,NA,NA,NA,1294,03/21/20,NA
+No,Male,Broward,FL resident,No,63,No,Yes,NA,1295,03/14/20,No
+Yes,Female,Okaloosa,FL resident,Yes,59,Yes,No,EUROPE,1296,03/20/20,No
+No,Female,Broward,FL resident,Unknown,30,Unknown,NA,NA,1297,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,23,Unknown,NA,NA,1298,03/24/20,NA
+No,Male,Orange,FL resident,No,42,No,Yes,NA,1299,03/18/20,No
+No,Male,Brevard,FL resident,No,73,No,No,NA,1300,03/21/20,NA
+Yes,Male,Broward,FL resident,Unknown,60,Unknown,NA,Spain,1301,03/16/20,NA
+Unknown,Male,Duval,FL resident,No,38,Yes,Yes,NA,1302,03/23/20,No
+Unknown,Female,Dade,FL resident,No,34,No,NA,NA,1303,03/18/20,NA
+No,Female,Broward,FL resident,No,50,No,Yes,NA,1304,03/23/20,No
+Yes,Male,Dade,FL resident,Unknown,21,No,No,ROMANIA,1305,03/22/20,NA
+No,Male,Broward,FL resident,Yes,51,No,Yes,NA,1306,03/21/20,No
+No,Male,Dade,FL resident,Yes,73,Yes,NA,NA,1307,03/23/20,NA
+Yes,Female,Citrus,FL resident,NA,60,No,No,FL; Switzerland,1308,03/15/20,NA
+Yes,Male,Broward,Non-FL resident,NA,48,No,NA,GA,1309,03/14/20,NA
+Yes,Male,Broward,FL resident,No,43,No,Yes,NY,1310,03/18/20,NA
+No,Male,Sumter,FL resident,No,66,No,Yes,NA,1311,03/19/20,No
+Unknown,Male,Seminole,FL resident,Unknown,21,Unknown,NA,NA,1312,03/21/20,NA
+No,Female,Hillsborough,Non-FL resident,Unknown,20,No,Yes,NA,1313,03/21/20,NA
+Yes,Female,Seminole,FL resident,No,64,No,Unknown,CA,1314,03/21/20,No
+Yes,Male,Dade,FL resident,Yes,56,No,Yes,Iran,1315,03/12/20,No
+Yes,Male,Broward,FL resident,Yes,39,No,Yes,United Arab Emirates,1316,03/15/20,No
+Yes,Female,Broward,Non-FL resident,Yes,48,Yes,Unknown,France; IL; NY; TX,1317,03/15/20,NA
+Unknown,Female,Alachua,FL resident,Unknown,68,Unknown,NA,NA,1318,03/20/20,NA
+Unknown,Male,Dade,FL resident,Unknown,57,Unknown,NA,NA,1319,03/17/20,NA
+Unknown,Female,Broward,FL resident,Unknown,39,Unknown,NA,NA,1320,03/24/20,NA
+Unknown,Male,Broward,FL resident,Unknown,41,Unknown,NA,NA,1321,03/22/20,NA
+Unknown,Male,Dade,FL resident,Unknown,40,Unknown,NA,NA,1322,03/22/20,NA
+Yes,Male,Broward,FL resident,Unknown,20,No,Unknown,NJ,1323,03/17/20,NA
+Yes,Male,Dade,FL resident,Yes,56,Yes,Unknown,Costa Rica,1324,03/19/20,No
+Unknown,Male,Dade,FL resident,Unknown,37,Unknown,NA,NA,1325,03/17/20,Unknown
+Yes,Male,Sarasota,FL resident,No,80,No,Unknown,ISRAEL,1326,03/22/20,No
+No,Female,Hillsborough,FL resident,NA,43,No,Yes,NA,1327,03/22/20,NA
+Yes,Male,Hillsborough,FL resident,Yes,42,No,Yes,CO; FL,1328,03/21/20,NA
+Yes,Male,St. Johns,FL resident,Yes,49,No,No,Europe; Hungary,1329,03/16/20,No
+Unknown,Male,Palm Beach,FL resident,Unknown,83,Yes,NA,NA,1330,03/21/20,Yes
+Yes,Male,Dade,FL resident,Yes,37,Yes,Unknown,El Salvador; FL; Mexico; Spain,1331,03/14/20,No
+Yes,Male,Duval,FL resident,NA,57,Yes,Yes,FL; Unknown,1332,03/15/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,41,Unknown,Unknown,NA,1333,03/21/20,NA
+Yes,Male,Dade,FL resident,Yes,56,Yes,Yes,NY,1334,03/16/20,NA
+Unknown,Female,Dade,FL resident,Unknown,66,Unknown,NA,NA,1335,03/15/20,NA
+No,Male,Citrus,FL resident,NA,64,No,Yes,NA,1336,03/17/20,NA
+Unknown,Female,Broward,FL resident,Unknown,67,Unknown,NA,NA,1337,03/23/20,NA
+Unknown,Female,Dade,FL resident,Unknown,29,Unknown,NA,NA,1338,03/24/20,NA
+Unknown,Male,Escambia,FL resident,Unknown,51,Unknown,NA,NA,1339,03/22/20,NA
+Unknown,Female,Dade,FL resident,Unknown,45,Unknown,Yes,NA,1340,03/21/20,NA
+Unknown,Male,Charlotte,FL resident,Unknown,59,Unknown,NA,NA,1341,03/22/20,NA
+Yes,Male,Dade,FL resident,No,73,No,No,NY,1342,03/18/20,No
+Yes,Male,Polk,FL resident,No,55,No,No,FL; SPAIN; UNITED KINGDOM,1343,03/19/20,No
+No,Male,Martin,FL resident,Yes,75,No,No,NA,1344,03/22/20,No
+Yes,Female,Orange,FL resident,No,20,No,Unknown,SPAIN,1345,03/22/20,No
+Yes,Unknown,Hillsborough,FL resident,No,31,No,No,Bahamas,1346,03/20/20,NA
+Unknown,Male,Hillsborough,FL resident,No,51,No,No,NA,1347,03/20/20,No
+No,Female,Volusia,FL resident,No,37,No,Yes,NA,1348,03/16/20,No
+Yes,Male,Volusia,FL resident,No,39,No,Yes,Trinidad and Tobago,1349,03/14/20,No
+Yes,Male,Hillsborough,Non-FL resident,No,61,No,Unknown,GA,1350,03/21/20,NA
+No,Male,Volusia,FL resident,No,17,No,Yes,NA,1351,03/23/20,No
+No,Female,Broward,FL resident,Unknown,62,No,No,NA,1352,03/21/20,NA
+Unknown,Female,Dade,FL resident,Unknown,36,Unknown,NA,NA,1353,03/22/20,NA
+Unknown,Female,Broward,FL resident,NA,96,Yes,Unknown,NA,1354,03/19/20,Yes
+No,Female,Collier,FL resident,No,60,No,No,NA,1355,03/23/20,No
+Unknown,Female,Broward,FL resident,Unknown,63,Unknown,NA,NA,1356,03/22/20,NA
+No,Male,Volusia,FL resident,No,62,Yes,Unknown,NA,1357,03/20/20,No
+Unknown,Male,Alachua,FL resident,Unknown,56,Yes,No,NA,1358,03/21/20,No
+Unknown,Female,Broward,FL resident,Unknown,26,Unknown,NA,NA,1359,03/22/20,NA
+Yes,Male,Broward,FL resident,Yes,57,No,Unknown,NY,1360,03/22/20,No
+Unknown,Female,Duval,FL resident,Yes,41,Yes,No,NA,1361,03/22/20,NA
+No,Female,Hillsborough,FL resident,Yes,40,Yes,Yes,NA,1362,03/20/20,No
+Unknown,Male,Hillsborough,FL resident,NA,10,NA,Yes,NA,1363,03/23/20,NA
+Yes,Female,Leon,Not diagnosed/isolated in FL,No,59,No,Unknown,JAPAN,1364,03/04/20,No
+No,Female,Broward,FL resident,No,22,No,No,NA,1365,03/19/20,No
+Unknown,Female,Dade,Non-FL resident,Yes,69,No,Yes,NA,1366,03/16/20,NA
+No,Female,Baker,FL resident,Yes,87,Yes,Unknown,NA,1367,03/20/20,NA
+Yes,Male,Volusia,FL resident,No,65,No,Yes,Ireland,1368,03/22/20,No
+Yes,Female,Volusia,FL resident,No,66,No,Yes,Ireland,1369,03/22/20,No
+Unknown,Female,Sarasota,FL resident,NA,81,NA,NA,NA,1370,03/23/20,NA
+Unknown,Unknown,Hillsborough,FL resident,NA,14,NA,NA,NA,1371,03/24/20,NA
+Unknown,Unknown,Hillsborough,FL resident,NA,15,NA,NA,NA,1372,03/24/20,NA
+Unknown,Female,Hillsborough,FL resident,NA,33,NA,NA,NA,1373,03/23/20,NA
+No,Male,Broward,FL resident,No,65,No,Yes,NA,1374,03/21/20,No
+Yes,Female,Leon,FL resident,No,40,No,Yes,FL; GA,1375,03/22/20,No
+Unknown,Male,Duval,FL resident,Unknown,56,Unknown,NA,NA,1376,03/22/20,NA
+Unknown,Male,Orange,FL resident,Unknown,38,Unknown,NA,NA,1377,03/23/20,NA
+Unknown,Male,Escambia,FL resident,NA,56,Unknown,Unknown,NA,1378,03/23/20,NA
+No,Male,Broward,FL resident,No,69,No,Yes,NA,1379,03/21/20,No
+Unknown,Male,Orange,FL resident,Yes,39,No,Unknown,NA,1380,03/22/20,NA
+Unknown,Male,Lee,FL resident,No,35,No,No,NA,1381,03/23/20,No
+Unknown,Female,Dade,FL resident,Unknown,49,Unknown,NA,NA,1382,03/21/20,NA
+Unknown,Male,Dade,FL resident,NA,51,NA,NA,NA,1383,03/23/20,NA
+No,Male,Palm Beach,FL resident,No,55,No,No,NA,1384,03/18/20,No
+Unknown,Male,Dade,FL resident,Unknown,31,Unknown,NA,NA,1385,03/22/20,NA
+Unknown,Male,Orange,FL resident,Unknown,73,Yes,NA,NA,1386,03/17/20,NA
+No,Female,Hillsborough,FL resident,No,19,No,No,NA,1387,03/22/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,67,Unknown,NA,NA,1388,03/21/20,NA
+Yes,Female,St. Johns,FL resident,Yes,53,No,Yes,CO,1389,03/18/20,No
+Unknown,Female,Palm Beach,FL resident,Unknown,65,Unknown,Unknown,NA,1390,03/22/20,NA
+Yes,Female,Pinellas,FL resident,No,71,No,Yes,ISRAEL; OH,1391,03/22/20,No
+Yes,Male,Pinellas,FL resident,No,75,No,Yes,ISRAEL; OH,1392,03/22/20,No
+Unknown,Female,Hillsborough,Non-FL resident,Unknown,50,Unknown,NA,NA,1393,03/22/20,NA
+Unknown,Female,Palm Beach,FL resident,Unknown,64,Unknown,NA,NA,1394,03/22/20,NA
+Unknown,Male,Palm Beach,FL resident,Unknown,64,Unknown,NA,NA,1395,03/22/20,NA
+Unknown,Male,Lake,FL resident,Unknown,75,Unknown,Unknown,NA,1396,03/22/20,NA
+No,Male,Broward,FL resident,No,77,No,Yes,NA,1397,03/24/20,No
+Unknown,Female,Orange,FL resident,Yes,79,Yes,No,NA,1398,03/15/20,Yes
+Unknown,Female,Broward,FL resident,Unknown,80,Unknown,NA,NA,1399,03/23/20,NA
+No,Male,Dade,FL resident,Yes,28,No,Yes,NA,1400,03/15/20,No
+No,Female,Manatee,FL resident,Yes,72,No,Yes,NA,1401,03/19/20,NA
+No,Male,Manatee,FL resident,Yes,71,Yes,Yes,NA,1402,03/17/20,No
+No,Female,Lee,FL resident,NA,65,No,Yes,NA,1403,03/22/20,NA
+No,Male,Broward,FL resident,Yes,41,No,No,NA,1404,03/23/20,NA
+Unknown,Male,Dade,FL resident,Unknown,53,Unknown,NA,NA,1405,03/22/20,NA
+No,Male,Lee,FL resident,Yes,69,Yes,Unknown,NA,1406,03/18/20,No
+No,Male,Palm Beach,FL resident,Yes,69,No,Yes,NA,1407,03/20/20,No
+No,Female,Palm Beach,FL resident,Yes,69,No,Yes,NA,1408,03/18/20,No
+Unknown,Male,Duval,FL resident,No,88,NA,Yes,NA,1409,03/21/20,NA
+Unknown,Male,Dade,FL resident,Unknown,34,Unknown,NA,NA,1410,03/22/20,NA
+No,Female,Orange,FL resident,Yes,41,Yes,No,NA,1411,03/20/20,No
+Unknown,Female,Flagler,FL resident,Yes,72,Yes,Unknown,NA,1412,03/22/20,No
